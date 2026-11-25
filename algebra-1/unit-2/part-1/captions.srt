@@ -1,0 +1,624 @@
+1
+00:00:00,000 --> 00:00:04,651
+Welcome to Unit Two of Algebra One, where
+we start solving equations.
+
+2
+00:00:05,101 --> 00:00:09,837
+In this lesson, we'll solve one-step
+equations, and learn the one rule that
+
+3
+00:00:09,837 --> 00:00:11,479
+makes every equation work.
+
+4
+00:00:12,600 --> 00:00:17,528
+An equation says two things are equal. You
+can picture it as a balanced scale.
+
+5
+00:00:17,978 --> 00:00:21,626
+Here, x plus three on the left balances
+seven on the right.
+
+6
+00:00:22,076 --> 00:00:27,553
+If you take three away from the left side
+only, the scale tips. To keep it balanced,
+
+7
+00:00:27,553 --> 00:00:30,161
+take three away from the right side too.
+
+8
+00:00:30,611 --> 00:00:35,374
+That's the golden rule of equations:
+whatever you do to one side, do to the
+
+9
+00:00:35,374 --> 00:00:36,073
+other side.
+
+10
+00:00:37,200 --> 00:00:43,240
+To solve, we want x alone on one side. We
+undo whatever is being done to x, using
+
+11
+00:00:43,240 --> 00:00:44,880
+the inverse operation.
+
+12
+00:00:45,330 --> 00:00:50,961
+Addition and subtraction undo each other.
+Multiplication and division undo each
+
+13
+00:00:50,961 --> 00:00:51,389
+other.
+
+14
+00:00:51,839 --> 00:00:57,936
+In x plus three equals seven, three is
+added to x. So we subtract three from both
+
+15
+00:00:57,936 --> 00:00:58,388
+sides.
+
+16
+00:00:58,838 --> 00:01:04,812
+x plus three minus three is just x, and
+seven minus three is four. So x equals
+
+17
+00:01:04,812 --> 00:01:05,195
+four.
+
+18
+00:01:06,333 --> 00:01:10,643
+Always check your answer by putting it
+back into the original equation.
+
+19
+00:01:11,093 --> 00:01:16,383
+Four plus three is seven. Seven equals
+seven, so x equals four is correct.
+
+20
+00:01:17,533 --> 00:01:23,793
+Now x minus five equals two. Five is
+subtracted from x, so we add five to both
+
+21
+00:01:23,793 --> 00:01:24,275
+sides.
+
+22
+00:01:24,725 --> 00:01:30,613
+x minus five plus five is x, and two plus
+five is seven. So x equals seven.
+
+23
+00:01:31,733 --> 00:01:37,558
+Next, four x equals twenty. Here x is
+multiplied by four, so we divide both
+
+24
+00:01:37,558 --> 00:01:38,645
+sides by four.
+
+25
+00:01:39,095 --> 00:01:46,093
+Four x divided by four is x, and twenty
+divided by four is five. So x equals five.
+
+26
+00:01:47,233 --> 00:01:54,032
+Finally, x divided by three equals six. x
+is divided by three, so we multiply both
+
+27
+00:01:54,032 --> 00:01:55,276
+sides by three.
+
+28
+00:01:55,726 --> 00:02:02,019
+x over three, times three, is x. Six times
+three is eighteen. So x equals eighteen.
+
+29
+00:02:02,469 --> 00:02:05,499
+Check: eighteen divided by three is six.
+It works.
+
+30
+00:02:06,633 --> 00:02:09,897
+Your turn. Solve negative three x equals
+twelve.
+
+31
+00:02:10,347 --> 00:02:11,883
+Pause the video and try it.
+
+32
+00:02:12,333 --> 00:02:17,795
+x is multiplied by negative three, so
+divide both sides by negative three.
+
+33
+00:02:18,245 --> 00:02:24,026
+Twelve divided by negative three is
+negative four. So x equals negative four.
+
+34
+00:02:24,476 --> 00:02:28,423
+Check: negative three times negative four
+is twelve. Correct.
+
+35
+00:02:29,566 --> 00:02:34,942
+Some equations need two steps to solve,
+like three x plus five equals twenty.
+
+36
+00:02:35,392 --> 00:02:38,784
+In this lesson, we'll learn which step to
+do first, and why.
+
+37
+00:02:39,933 --> 00:02:45,565
+To build three x plus five, you start with
+x, multiply by three, then add five.
+
+38
+00:02:46,015 --> 00:02:51,686
+To solve, we undo those steps in reverse
+order. First undo the adding, then undo
+
+39
+00:02:51,686 --> 00:02:52,820
+the multiplying.
+
+40
+00:02:53,270 --> 00:02:57,922
+It's like getting dressed. You put on
+socks, then shoes. To undress, the shoes
+
+41
+00:02:57,922 --> 00:02:58,817
+come off first.
+
+42
+00:02:59,966 --> 00:03:02,825
+Let's solve three x plus five equals
+twenty.
+
+43
+00:03:03,275 --> 00:03:08,181
+First, subtract five from both sides. That
+gives three x equals fifteen.
+
+44
+00:03:08,631 --> 00:03:12,194
+Then divide both sides by three. x equals
+five.
+
+45
+00:03:12,644 --> 00:03:16,121
+Check: three times five, plus five, is
+twenty. It works.
+
+46
+00:03:17,266 --> 00:03:20,125
+Next, x over four, minus two, equals
+three.
+
+47
+00:03:20,575 --> 00:03:24,521
+First add two to both sides, so x over
+four equals five.
+
+48
+00:03:24,971 --> 00:03:28,790
+Then multiply both sides by four. x equals
+twenty.
+
+49
+00:03:29,933 --> 00:03:33,559
+Watch the signs in seven minus two x
+equals fifteen.
+
+50
+00:03:34,009 --> 00:03:38,937
+Subtract seven from both sides. That
+leaves negative two x equals eight.
+
+51
+00:03:39,387 --> 00:03:43,910
+Divide both sides by negative two, and x
+equals negative four.
+
+52
+00:03:44,360 --> 00:03:49,629
+Check: seven minus two times negative four
+is seven plus eight, which is fifteen.
+
+53
+00:03:50,766 --> 00:03:56,079
+One exception. In the quantity x plus
+four, all over three, equals five, the
+
+54
+00:03:56,079 --> 00:03:58,595
+whole left side is divided by three.
+
+55
+00:03:59,045 --> 00:04:04,514
+So this time we multiply both sides by
+three first, to get x plus four equals
+
+56
+00:04:04,514 --> 00:04:05,083
+fifteen.
+
+57
+00:04:05,533 --> 00:04:08,242
+Then subtract four, and x equals eleven.
+
+58
+00:04:09,366 --> 00:04:13,163
+Your turn. Solve five x minus eight equals
+seventeen.
+
+59
+00:04:13,613 --> 00:04:15,149
+Pause the video and try it.
+
+60
+00:04:15,599 --> 00:04:19,226
+Add eight to both sides, so five x equals
+twenty-five.
+
+61
+00:04:19,676 --> 00:04:23,047
+Divide both sides by five, and x equals
+five.
+
+62
+00:04:23,497 --> 00:04:27,187
+Check: five times five minus eight is
+seventeen. Correct.
+
+63
+00:04:28,333 --> 00:04:33,154
+Real equations often take several steps,
+and can have x on both sides.
+
+64
+00:04:33,604 --> 00:04:37,252
+In this lesson, we'll use a simple plan
+that solves them all.
+
+65
+00:04:38,400 --> 00:04:42,026
+Here's the plan. First, distribute to
+clear any parentheses.
+
+66
+00:04:42,476 --> 00:04:44,887
+Second, combine like terms on each side.
+
+67
+00:04:45,337 --> 00:04:49,710
+Third, if x appears on both sides, move
+the x terms to one side.
+
+68
+00:04:50,160 --> 00:04:55,801
+Then finish like a two-step equation: undo
+adding or subtracting, then undo
+
+69
+00:04:55,801 --> 00:04:57,606
+multiplying or dividing.
+
+70
+00:04:58,733 --> 00:05:03,789
+Let's solve two times the quantity x plus
+three, plus four, equals eighteen.
+
+71
+00:05:04,239 --> 00:05:08,378
+Distribute the two: two x plus six, plus
+four, equals eighteen.
+
+72
+00:05:08,828 --> 00:05:12,220
+Combine like terms: two x plus ten equals
+eighteen.
+
+73
+00:05:12,670 --> 00:05:18,932
+Subtract ten from both sides, to get two x
+equals eight. Divide by two, and x equals
+
+74
+00:05:18,932 --> 00:05:19,304
+four.
+
+75
+00:05:20,433 --> 00:05:24,465
+Next, five x minus two plus three x equals
+forty-six.
+
+76
+00:05:24,915 --> 00:05:30,056
+Combine five x and three x, to get eight x
+minus two equals forty-six.
+
+77
+00:05:30,506 --> 00:05:35,221
+Add two to both sides: eight x equals
+forty-eight. So x equals six.
+
+78
+00:05:36,366 --> 00:05:41,614
+Now x is on both sides: five x plus three
+equals two x plus eighteen.
+
+79
+00:05:42,064 --> 00:05:47,857
+Subtract two x from both sides, so the x
+terms are together on the left. That gives
+
+80
+00:05:47,857 --> 00:05:50,299
+three x plus three equals eighteen.
+
+81
+00:05:50,749 --> 00:05:55,933
+Subtract three: three x equals fifteen.
+Divide by three: x equals five.
+
+82
+00:05:57,066 --> 00:06:02,101
+A useful tip: move the smaller x term, so
+you avoid a negative coefficient.
+
+83
+00:06:02,551 --> 00:06:08,759
+In four x minus seven equals nine x plus
+eight, subtract four x from both sides.
+
+84
+00:06:09,209 --> 00:06:12,430
+That gives negative seven equals five x
+plus eight.
+
+85
+00:06:12,880 --> 00:06:18,342
+Subtract eight: negative fifteen equals
+five x. So x equals negative three.
+
+86
+00:06:18,792 --> 00:06:21,693
+Check: both sides come out to negative
+nineteen.
+
+87
+00:06:22,833 --> 00:06:28,725
+Let's use the whole plan on three times
+the quantity x minus four, equals x plus
+
+88
+00:06:28,725 --> 00:06:29,020
+six.
+
+89
+00:06:29,470 --> 00:06:33,075
+Distribute: three x minus twelve equals x
+plus six.
+
+90
+00:06:33,525 --> 00:06:37,792
+Subtract x from both sides: two x minus
+twelve equals six.
+
+91
+00:06:38,242 --> 00:06:41,932
+Add twelve: two x equals eighteen. So x
+equals nine.
+
+92
+00:06:43,066 --> 00:06:48,555
+Your turn. Solve two times the quantity
+three x plus one, equals four x plus
+
+93
+00:06:48,555 --> 00:06:49,061
+twelve.
+
+94
+00:06:49,511 --> 00:06:51,047
+Pause the video and try it.
+
+95
+00:06:51,497 --> 00:06:55,422
+Distribute: six x plus two equals four x
+plus twelve.
+
+96
+00:06:55,872 --> 00:07:02,230
+Subtract four x: two x plus two equals
+twelve. Subtract two: two x equals ten.
+
+97
+00:07:02,680 --> 00:07:06,562
+So x equals five. Check: both sides equal
+thirty-two.
+
+98
+00:07:07,700 --> 00:07:13,198
+Most equations have exactly one solution.
+But some have none at all, and some have
+
+99
+00:07:13,198 --> 00:07:14,271
+infinitely many.
+
+100
+00:07:14,721 --> 00:07:17,622
+In this lesson, we'll learn how to tell
+which is which.
+
+101
+00:07:18,767 --> 00:07:22,308
+First, the usual case. Two x plus one
+equals seven.
+
+102
+00:07:22,758 --> 00:07:28,478
+Subtract one, then divide by two, and x
+equals three. Exactly one number works.
+
+103
+00:07:28,478 --> 00:07:29,926
+That's one solution.
+
+104
+00:07:31,067 --> 00:07:34,843
+Now try three x plus five equals three x
+minus two.
+
+105
+00:07:35,293 --> 00:07:40,845
+Subtract three x from both sides. The x
+terms cancel, and we're left with five
+
+106
+00:07:40,845 --> 00:07:42,269
+equals negative two.
+
+107
+00:07:42,719 --> 00:07:48,549
+That's false. Five never equals negative
+two, no matter what x is. So this equation
+
+108
+00:07:48,549 --> 00:07:49,673
+has no solution.
+
+109
+00:07:50,123 --> 00:07:54,861
+On a graph, the two sides are parallel
+lines. They have the same slope, so they
+
+110
+00:07:54,861 --> 00:07:55,521
+never meet.
+
+111
+00:07:56,667 --> 00:08:01,232
+Next, two times the quantity x plus three,
+equals two x plus six.
+
+112
+00:08:01,682 --> 00:08:05,266
+Distribute: two x plus six equals two x
+plus six.
+
+113
+00:08:05,716 --> 00:08:11,199
+Subtract two x from both sides, and we get
+six equals six. That's always true.
+
+114
+00:08:11,649 --> 00:08:16,818
+Every value of x works, so there are
+infinitely many solutions. The two sides
+
+115
+00:08:16,818 --> 00:08:18,497
+are really the same line.
+
+116
+00:08:19,633 --> 00:08:24,540
+Here's the rule. Simplify until the x
+terms are gone, or you have x alone.
+
+117
+00:08:24,990 --> 00:08:27,123
+If x is left, there's one solution.
+
+118
+00:08:27,573 --> 00:08:31,584
+If x disappears and the statement is
+false, there's no solution.
+
+119
+00:08:32,034 --> 00:08:37,623
+If x disappears and the statement is true,
+there are infinitely many solutions, all
+
+120
+00:08:37,623 --> 00:08:38,498
+real numbers.
+
+121
+00:08:39,633 --> 00:08:45,243
+Let's try one more. Five times the
+quantity x minus one, equals five x plus
+
+122
+00:08:45,243 --> 00:08:45,543
+one.
+
+123
+00:08:45,993 --> 00:08:50,089
+Distribute: five x minus five equals five
+x plus one.
+
+124
+00:08:50,539 --> 00:08:56,000
+Subtract five x: negative five equals one.
+That's false, so there's no solution.
+
+125
+00:08:57,133 --> 00:09:02,573
+Your turn. Solve three times the quantity
+x plus two, equals three x plus six.
+
+126
+00:09:03,023 --> 00:09:04,559
+Pause the video and try it.
+
+127
+00:09:05,009 --> 00:09:08,764
+Distribute: three x plus six equals three
+x plus six.
+
+128
+00:09:09,214 --> 00:09:14,296
+Subtract three x: six equals six. That's
+true, so there are infinitely many
+
+129
+00:09:14,296 --> 00:09:14,974
+solutions.
+
+130
+00:09:16,100 --> 00:09:21,633
+Next time, we'll solve literal equations
+and formulas. If this helped, subscribe to
+
+131
+00:09:21,633 --> 00:09:26,633
+School Math, Explained, and turn on
+notifications so you don't miss it. See
+
+132
+00:09:26,633 --> 00:09:27,300
+you there.
+

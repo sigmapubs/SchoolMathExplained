@@ -1,0 +1,533 @@
+1
+00:00:00,000 --> 00:00:05,568
+Formulas like distance equals rate times
+time are equations with several letters.
+
+2
+00:00:06,018 --> 00:00:10,925
+In this lesson, we'll rearrange formulas
+to solve for whichever letter we need.
+
+3
+00:00:12,067 --> 00:00:16,675
+An equation with more than one variable is
+called a literal equation.
+
+4
+00:00:17,125 --> 00:00:21,327
+To solve for one letter, treat every other
+letter as if it were a number.
+
+5
+00:00:21,777 --> 00:00:27,093
+Then use the same moves as always: do the
+same thing to both sides, and undo
+
+6
+00:00:27,093 --> 00:00:29,052
+operations in reverse order.
+
+7
+00:00:30,200 --> 00:00:32,611
+Let's solve d equals r t for t.
+
+8
+00:00:33,061 --> 00:00:39,887
+t is multiplied by r, so divide both sides
+by r. That gives t equals d over r.
+
+9
+00:00:40,337 --> 00:00:46,005
+Now if you drive a hundred fifty miles at
+fifty miles per hour, t equals a hundred
+
+10
+00:00:46,005 --> 00:00:48,700
+fifty over fifty, which is three hours.
+
+11
+00:00:49,833 --> 00:00:56,122
+Compare these two equations side by side.
+Two x plus three equals eleven, and a x
+
+12
+00:00:56,122 --> 00:00:57,364
+plus b equals c.
+
+13
+00:00:57,814 --> 00:01:04,193
+In both, subtract the constant first. Two
+x equals eight, and a x equals c minus b.
+
+14
+00:01:04,643 --> 00:01:11,363
+Then divide by the coefficient. x equals
+four, and x equals c minus b, all over a.
+
+15
+00:01:11,813 --> 00:01:16,740
+The steps are identical. The only
+difference is that the answer on the right
+
+16
+00:01:16,740 --> 00:01:18,490
+is a formula, not a number.
+
+17
+00:01:19,633 --> 00:01:26,097
+The perimeter of a rectangle is P equals
+two l plus two w. Let's solve for w.
+
+18
+00:01:26,547 --> 00:01:31,582
+Subtract two l from both sides: P minus
+two l equals two w.
+
+19
+00:01:32,032 --> 00:01:37,365
+Divide both sides by two: w equals P minus
+two l, all over two.
+
+20
+00:01:38,500 --> 00:01:44,279
+Here's a famous one. Fahrenheit equals
+nine fifths Celsius plus thirty-two. Let's
+
+21
+00:01:44,279 --> 00:01:45,135
+solve for C.
+
+22
+00:01:45,585 --> 00:01:49,958
+Subtract thirty-two: F minus thirty-two
+equals nine fifths C.
+
+23
+00:01:50,408 --> 00:01:56,652
+Multiply both sides by five ninths, the
+reciprocal of nine fifths. C equals five
+
+24
+00:01:56,652 --> 00:02:00,243
+ninths, times the quantity F minus
+thirty-two.
+
+25
+00:02:00,693 --> 00:02:06,391
+Check with boiling water. F is two hundred
+twelve. Two twelve minus thirty-two is a
+
+26
+00:02:06,391 --> 00:02:11,471
+hundred eighty, and five ninths of a
+hundred eighty is one hundred degrees
+
+27
+00:02:11,471 --> 00:02:12,021
+Celsius.
+
+28
+00:02:13,167 --> 00:02:18,799
+Your turn. The area of a triangle is A
+equals one half b h. Solve for h.
+
+29
+00:02:19,249 --> 00:02:20,785
+Pause the video and try it.
+
+30
+00:02:21,235 --> 00:02:24,797
+Multiply both sides by two: two A equals b
+h.
+
+31
+00:02:25,247 --> 00:02:28,917
+Divide both sides by b: h equals two A
+over b.
+
+32
+00:02:30,066 --> 00:02:35,357
+Ratios, proportions and percents show up
+everywhere, from recipes to shopping.
+
+33
+00:02:35,807 --> 00:02:40,618
+In this lesson, we'll turn them into
+equations, and solve them with one simple
+
+34
+00:02:40,618 --> 00:02:40,927
+tool.
+
+35
+00:02:41,066 --> 00:02:47,771
+A ratio compares two quantities. If a
+class has twelve boys and fifteen girls,
+
+36
+00:02:47,771 --> 00:02:51,282
+the ratio of boys to girls is twelve to
+fifteen.
+
+37
+00:02:51,732 --> 00:02:54,399
+You can write it with a colon, or as a
+fraction.
+
+38
+00:02:54,849 --> 00:03:00,412
+Like fractions, ratios can be simplified.
+Divide both by three, and twelve to
+
+39
+00:03:00,412 --> 00:03:02,507
+fifteen becomes four to five.
+
+40
+00:03:03,633 --> 00:03:09,657
+A proportion says two ratios are equal.
+For example, x over six equals ten over
+
+41
+00:03:09,657 --> 00:03:10,267
+fifteen.
+
+42
+00:03:10,717 --> 00:03:15,667
+To solve it, cross-multiply. Fifteen times
+x equals six times ten.
+
+43
+00:03:16,117 --> 00:03:21,279
+That's fifteen x equals sixty. Divide by
+fifteen, and x equals four.
+
+44
+00:03:21,729 --> 00:03:27,243
+Cross-multiplying works because it's the
+same as multiplying both sides by both
+
+45
+00:03:27,243 --> 00:03:28,151
+denominators.
+
+46
+00:03:29,299 --> 00:03:34,481
+Here's a real problem. Three notebooks
+cost seven dollars fifty. How much do
+
+47
+00:03:34,481 --> 00:03:35,913
+eight notebooks cost?
+
+48
+00:03:36,363 --> 00:03:41,984
+Set up matching ratios of notebooks to
+dollars: three over seven fifty equals
+
+49
+00:03:41,984 --> 00:03:42,933
+eight over x.
+
+50
+00:03:43,383 --> 00:03:49,720
+Cross-multiply: three x equals sixty. So x
+equals twenty. Eight notebooks cost twenty
+
+51
+00:03:49,720 --> 00:03:50,317
+dollars.
+
+52
+00:03:51,466 --> 00:03:57,595
+A percent is a ratio out of one hundred.
+So part over whole equals percent over one
+
+53
+00:03:57,595 --> 00:03:58,186
+hundred.
+
+54
+00:03:58,636 --> 00:04:03,519
+What is thirty percent of eighty? Write p
+over eighty equals thirty over one
+
+55
+00:04:03,519 --> 00:04:04,033
+hundred.
+
+56
+00:04:04,483 --> 00:04:09,927
+Cross-multiply: one hundred p equals two
+thousand four hundred. So p equals
+
+57
+00:04:09,927 --> 00:04:10,798
+twenty-four.
+
+58
+00:04:11,248 --> 00:04:16,965
+Or, as a shortcut, multiply zero point
+three zero by eighty. Same answer.
+
+59
+00:04:18,099 --> 00:04:23,081
+The same setup finds a missing whole.
+Eighteen is forty-five percent of what
+
+60
+00:04:23,081 --> 00:04:23,539
+number?
+
+61
+00:04:23,989 --> 00:04:27,915
+Eighteen over w equals forty-five over one
+hundred.
+
+62
+00:04:28,365 --> 00:04:34,893
+Cross-multiply: forty-five w equals one
+thousand eight hundred. So w equals forty.
+
+63
+00:04:36,033 --> 00:04:39,873
+For percent change, divide the change by
+the original amount.
+
+64
+00:04:40,323 --> 00:04:45,528
+A price goes from fifty dollars to sixty
+dollars. The change is ten dollars.
+
+65
+00:04:45,978 --> 00:04:50,522
+Ten over fifty is zero point two, which is
+a twenty percent increase.
+
+66
+00:04:51,666 --> 00:04:54,397
+Your turn. Twelve is what percent of
+forty-eight?
+
+67
+00:04:54,847 --> 00:04:56,383
+Pause the video and try it.
+
+68
+00:04:56,833 --> 00:05:00,609
+Set up twelve over forty-eight equals p
+over one hundred.
+
+69
+00:05:01,059 --> 00:05:06,476
+Cross-multiply: forty-eight p equals one
+thousand two hundred. So p equals
+
+70
+00:05:06,476 --> 00:05:10,723
+twenty-five. Twelve is twenty-five percent
+of forty-eight.
+
+71
+00:05:11,866 --> 00:05:14,917
+Word problems are where equations become
+useful.
+
+72
+00:05:15,367 --> 00:05:20,188
+In this lesson, we'll turn stories into
+equations, using a four-step plan.
+
+73
+00:05:21,333 --> 00:05:25,941
+Step one: define a variable. Write down
+exactly what x stands for.
+
+74
+00:05:26,391 --> 00:05:29,271
+Step two: translate the words into an
+equation.
+
+75
+00:05:29,721 --> 00:05:31,534
+Step three: solve the equation.
+
+76
+00:05:31,984 --> 00:05:36,016
+Step four: answer the question in words,
+and check that it makes sense.
+
+77
+00:05:37,133 --> 00:05:41,506
+The sum of three consecutive integers is
+seventy-two. What are they?
+
+78
+00:05:41,956 --> 00:05:46,735
+Let n be the smallest. Then the next two
+are n plus one and n plus two.
+
+79
+00:05:47,185 --> 00:05:53,253
+So n plus n plus one plus n plus two
+equals seventy-two. That's three n plus
+
+80
+00:05:53,253 --> 00:05:55,249
+three equals seventy-two.
+
+81
+00:05:55,699 --> 00:06:01,867
+Subtract three: three n equals sixty-nine.
+So n equals twenty-three. The integers are
+
+82
+00:06:01,867 --> 00:06:04,915
+twenty-three, twenty-four and twenty-five.
+
+83
+00:06:06,033 --> 00:06:11,877
+A phone plan costs twenty dollars a month,
+plus ten cents per text. One month's bill
+
+84
+00:06:11,877 --> 00:06:15,355
+was thirty-five dollars. How many texts
+were sent?
+
+85
+00:06:15,805 --> 00:06:21,864
+Let t be the number of texts. Then twenty
+plus zero point one t equals thirty-five.
+
+86
+00:06:22,314 --> 00:06:28,383
+Subtract twenty: zero point one t equals
+fifteen. Divide by zero point one: t
+
+87
+00:06:28,383 --> 00:06:30,826
+equals one hundred fifty texts.
+
+88
+00:06:31,966 --> 00:06:37,699
+Gym A charges a forty dollar joining fee
+plus twenty-five dollars a month. Gym B
+
+89
+00:06:37,699 --> 00:06:43,145
+charges thirty-five dollars a month with
+no fee. When do they cost the same?
+
+90
+00:06:43,595 --> 00:06:49,604
+Let m be the number of months. Gym A costs
+forty plus twenty-five m. Gym B costs
+
+91
+00:06:49,604 --> 00:06:50,656
+thirty-five m.
+
+92
+00:06:51,106 --> 00:06:55,458
+Set them equal: forty plus twenty-five m
+equals thirty-five m.
+
+93
+00:06:55,908 --> 00:07:02,410
+Subtract twenty-five m: forty equals ten
+m. So m equals four. After four months,
+
+94
+00:07:02,410 --> 00:07:05,743
+both gyms cost one hundred forty dollars.
+
+95
+00:07:05,866 --> 00:07:12,746
+A rectangle has a perimeter of fifty-four
+centimeters. Its length is three more than
+
+96
+00:07:12,746 --> 00:07:15,335
+twice its width. Find its dimensions.
+
+97
+00:07:15,785 --> 00:07:19,881
+Let w be the width. Then the length is two
+w plus three.
+
+98
+00:07:20,331 --> 00:07:26,735
+Perimeter is two lengths plus two widths:
+two times the quantity two w plus three,
+
+99
+00:07:26,735 --> 00:07:29,078
+plus two w, equals fifty-four.
+
+100
+00:07:29,528 --> 00:07:36,199
+That simplifies to six w plus six equals
+fifty-four. So six w equals forty-eight,
+
+101
+00:07:36,199 --> 00:07:40,728
+and w equals eight. The length is nineteen
+centimeters.
+
+102
+00:07:40,866 --> 00:07:46,964
+Your turn. Maya has a hundred twenty
+dollars and saves fifteen dollars a week.
+
+103
+00:07:46,964 --> 00:07:51,800
+Leo has sixty dollars and saves
+twenty-five dollars a week. After how many
+
+104
+00:07:51,800 --> 00:07:54,218
+weeks will they have the same amount?
+
+105
+00:07:54,668 --> 00:07:56,204
+Pause the video and try it.
+
+106
+00:07:56,654 --> 00:08:02,919
+Let w be the number of weeks. One twenty
+plus fifteen w equals sixty plus
+
+107
+00:08:02,919 --> 00:08:04,121
+twenty-five w.
+
+108
+00:08:04,571 --> 00:08:11,892
+Subtract fifteen w and sixty from both
+sides: sixty equals ten w. So w equals
+
+109
+00:08:11,892 --> 00:08:12,272
+six.
+
+110
+00:08:12,722 --> 00:08:16,690
+Check: after six weeks, each of them has
+two hundred ten dollars.
+
+111
+00:08:17,833 --> 00:08:22,806
+That completes Unit Two. Next, we'll start
+Unit Three, solving and graphing
+
+112
+00:08:22,806 --> 00:08:27,978
+inequalities. If this helped, subscribe to
+School Math, Explained, and turn on
+
+113
+00:08:27,978 --> 00:08:31,294
+notifications so you don't miss it. See
+you there.
+
