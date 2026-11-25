@@ -1,0 +1,820 @@
+1
+00:00:00,000 --> 00:00:05,056
+Welcome to Unit Nine of Algebra One:
+quadratic functions and equations.
+
+2
+00:00:05,506 --> 00:00:09,197
+In this lesson, we'll look at the graphs
+of quadratic functions.
+
+3
+00:00:10,333 --> 00:00:17,166
+A quadratic function has the form f of x
+equals a x squared plus b x plus c, with a
+
+4
+00:00:17,166 --> 00:00:17,907
+not zero.
+
+5
+00:00:18,357 --> 00:00:24,037
+The simplest one is y equals x squared.
+Its graph is a U-shaped curve called a
+
+6
+00:00:24,037 --> 00:00:24,693
+parabola.
+
+7
+00:00:25,833 --> 00:00:31,477
+The turning point of a parabola is the
+vertex. For y equals x squared, it's the
+
+8
+00:00:31,477 --> 00:00:31,977
+origin.
+
+9
+00:00:32,427 --> 00:00:37,646
+The parabola is symmetric about a vertical
+line through the vertex, called the axis
+
+10
+00:00:37,646 --> 00:00:38,401
+of symmetry.
+
+11
+00:00:39,533 --> 00:00:44,056
+When a is positive, the parabola opens up,
+and the vertex is a minimum.
+
+12
+00:00:44,506 --> 00:00:50,049
+When a is negative, it opens down, and the
+vertex is a maximum. The bigger the size
+
+13
+00:00:50,049 --> 00:00:52,186
+of a, the narrower the parabola.
+
+14
+00:00:53,333 --> 00:00:57,643
+The axis of symmetry is x equals negative
+b over two a.
+
+15
+00:00:58,093 --> 00:01:04,024
+For y equals x squared minus four x plus
+three, that's four over two, which is two.
+
+16
+00:01:04,024 --> 00:01:09,599
+Plug in two: four minus eight plus three
+is negative one. So the vertex is two
+
+17
+00:01:09,599 --> 00:01:10,957
+comma negative one.
+
+18
+00:01:12,100 --> 00:01:16,751
+Now graph it. Plot the vertex, then the y
+intercept, zero comma three.
+
+19
+00:01:17,201 --> 00:01:22,391
+By symmetry, four comma three is also on
+the graph. Connect them with a smooth
+
+20
+00:01:22,391 --> 00:01:22,790
+curve.
+
+21
+00:01:23,933 --> 00:01:29,288
+Your turn. Find the vertex of y equals x
+squared plus six x plus five.
+
+22
+00:01:29,738 --> 00:01:31,274
+Pause the video and try it.
+
+23
+00:01:31,724 --> 00:01:37,420
+x equals negative six over two, which is
+negative three. Then y is nine minus
+
+24
+00:01:37,420 --> 00:01:43,190
+eighteen plus five, which is negative
+four. The vertex is negative three comma
+
+25
+00:01:43,190 --> 00:01:44,225
+negative four.
+
+26
+00:01:45,366 --> 00:01:50,654
+In this lesson, we'll write parabolas in
+vertex form, which shows the vertex right
+
+27
+00:01:50,654 --> 00:01:50,977
+away.
+
+28
+00:01:52,099 --> 00:01:57,881
+Vertex form is y equals a times the
+quantity x minus h, squared, plus k.
+
+29
+00:01:58,331 --> 00:02:00,165
+The vertex is h comma k.
+
+30
+00:02:01,299 --> 00:02:03,454
+The h shifts the graph left or right.
+
+31
+00:02:03,904 --> 00:02:10,087
+y equals x minus three, squared, moves y
+equals x squared three units right. Watch
+
+32
+00:02:10,087 --> 00:02:12,651
+the sign: minus three means right.
+
+33
+00:02:13,799 --> 00:02:15,847
+The k shifts the graph up or down.
+
+34
+00:02:16,297 --> 00:02:19,305
+y equals x squared plus two moves it up
+two.
+
+35
+00:02:20,433 --> 00:02:22,267
+The a stretches or reflects it.
+
+36
+00:02:22,717 --> 00:02:28,756
+y equals two x squared is narrower. y
+equals negative x squared flips it upside
+
+37
+00:02:28,756 --> 00:02:29,139
+down.
+
+38
+00:02:30,266 --> 00:02:35,130
+Graph y equals negative the quantity x
+plus one, squared, plus four.
+
+39
+00:02:35,580 --> 00:02:39,527
+The vertex is negative one comma four, and
+it opens down.
+
+40
+00:02:40,666 --> 00:02:46,383
+Your turn. What is the vertex of y equals
+two times the quantity x minus five,
+
+41
+00:02:46,383 --> 00:02:49,754
+squared, minus three? Does it open up or
+down?
+
+42
+00:02:50,204 --> 00:02:51,740
+Pause the video and try it.
+
+43
+00:02:52,190 --> 00:02:56,947
+The vertex is five comma negative three,
+and since a is two, it opens up.
+
+44
+00:02:58,066 --> 00:03:03,277
+Now we start solving quadratic equations.
+In this lesson, we'll use graphs and
+
+45
+00:03:03,277 --> 00:03:04,146
+square roots.
+
+46
+00:03:05,266 --> 00:03:11,625
+The solutions of a x squared plus b x plus
+c equals zero are the x intercepts of the
+
+47
+00:03:11,625 --> 00:03:12,306
+parabola.
+
+48
+00:03:12,756 --> 00:03:18,531
+They're also called roots or zeros. For y
+equals x squared minus four, the graph
+
+49
+00:03:18,531 --> 00:03:20,841
+crosses at negative two and two.
+
+50
+00:03:21,966 --> 00:03:26,339
+A parabola can cross the x axis twice,
+touch it once, or miss it.
+
+51
+00:03:26,789 --> 00:03:31,099
+So a quadratic equation has two, one, or
+no real solutions.
+
+52
+00:03:32,233 --> 00:03:36,777
+When there's no x term, use square roots.
+x squared equals twenty-five.
+
+53
+00:03:37,227 --> 00:03:41,643
+x can be five, or negative five. Don't
+forget the negative root.
+
+54
+00:03:42,766 --> 00:03:46,179
+Solve three x squared minus forty-eight
+equals zero.
+
+55
+00:03:46,629 --> 00:03:52,367
+Add forty-eight: three x squared equals
+forty-eight. Divide by three: x squared
+
+56
+00:03:52,367 --> 00:03:55,781
+equals sixteen. So x equals plus or minus
+four.
+
+57
+00:03:56,899 --> 00:04:00,398
+Solve the quantity x minus two, squared,
+equals nine.
+
+58
+00:04:00,848 --> 00:04:07,332
+Take square roots: x minus two equals plus
+or minus three. So x equals five, or x
+
+59
+00:04:07,332 --> 00:04:08,933
+equals negative one.
+
+60
+00:04:09,066 --> 00:04:13,437
+Your turn. Solve two x squared equals
+seventy-two.
+
+61
+00:04:13,887 --> 00:04:15,423
+Pause the video and try it.
+
+62
+00:04:15,873 --> 00:04:20,225
+x squared equals thirty-six, so x equals
+plus or minus six.
+
+63
+00:04:21,366 --> 00:04:26,708
+In Unit Eight we learned to factor. In
+this lesson, we'll use factoring to solve
+
+64
+00:04:26,708 --> 00:04:28,043
+quadratic equations.
+
+65
+00:04:29,166 --> 00:04:34,980
+The zero product property: if a times b
+equals zero, then a equals zero, or b
+
+66
+00:04:34,980 --> 00:04:35,886
+equals zero.
+
+67
+00:04:36,336 --> 00:04:38,640
+It only works with zero on one side.
+
+68
+00:04:39,766 --> 00:04:45,185
+Solve the quantity x minus three, times
+the quantity x plus five, equals zero.
+
+69
+00:04:45,635 --> 00:04:52,346
+Either x minus three is zero, so x equals
+three, or x plus five is zero, so x equals
+
+70
+00:04:52,346 --> 00:04:53,464
+negative five.
+
+71
+00:04:54,599 --> 00:04:58,013
+Solve x squared plus x minus twelve equals
+zero.
+
+72
+00:04:58,463 --> 00:05:04,873
+Factor: x plus four, times x minus three.
+So x equals negative four, or x equals
+
+73
+00:05:04,873 --> 00:05:05,353
+three.
+
+74
+00:05:06,499 --> 00:05:08,654
+Solve x squared equals five x.
+
+75
+00:05:09,104 --> 00:05:15,648
+First get zero on one side: x squared
+minus five x equals zero. Factor out x: x
+
+76
+00:05:15,648 --> 00:05:18,299
+times the quantity x minus five.
+
+77
+00:05:18,749 --> 00:05:24,551
+So x equals zero or five. Don't divide by
+x, or you'll lose the zero solution.
+
+78
+00:05:25,699 --> 00:05:29,625
+Solve two x squared plus seven x plus
+three equals zero.
+
+79
+00:05:30,075 --> 00:05:36,669
+It factors as two x plus one, times x plus
+three. So x equals negative one half, or
+
+80
+00:05:36,669 --> 00:05:37,861
+negative three.
+
+81
+00:05:38,999 --> 00:05:43,629
+Your turn. Solve x squared minus seven x
+plus ten equals zero.
+
+82
+00:05:44,079 --> 00:05:45,615
+Pause the video and try it.
+
+83
+00:05:46,065 --> 00:05:51,931
+It factors as x minus two, times x minus
+five. So x equals two or five.
+
+84
+00:05:53,066 --> 00:05:57,957
+Not every quadratic factors nicely.
+Completing the square works on any
+
+85
+00:05:57,957 --> 00:05:58,655
+quadratic.
+
+86
+00:05:59,799 --> 00:06:05,175
+x squared plus six x plus nine is a
+perfect square: x plus three, squared.
+
+87
+00:06:05,625 --> 00:06:10,916
+The nine comes from half of six, squared.
+Half of b, squared, completes the square.
+
+88
+00:06:11,066 --> 00:06:15,095
+Here are the steps. Move the constant to
+the right side.
+
+89
+00:06:15,545 --> 00:06:20,879
+Add half of b, squared, to both sides.
+Then write the left side as a square and
+
+90
+00:06:20,879 --> 00:06:22,095
+take square roots.
+
+91
+00:06:23,233 --> 00:06:26,923
+Solve x squared plus six x minus seven
+equals zero.
+
+92
+00:06:27,373 --> 00:06:33,062
+Move the seven: x squared plus six x
+equals seven. Add nine to both sides: x
+
+93
+00:06:33,062 --> 00:06:35,757
+plus three, squared, equals sixteen.
+
+94
+00:06:36,207 --> 00:06:43,162
+So x plus three equals plus or minus four.
+x equals one, or x equals negative seven.
+
+95
+00:06:44,299 --> 00:06:47,798
+When b is odd, you get fractions, but the
+steps are the same.
+
+96
+00:06:48,248 --> 00:06:53,432
+For x squared plus three x, half of three
+is three halves, and its square is nine
+
+97
+00:06:53,432 --> 00:06:53,944
+fourths.
+
+98
+00:06:54,066 --> 00:06:57,925
+Completing the square also gives vertex
+form.
+
+99
+00:06:58,375 --> 00:07:04,504
+x squared minus four x plus one equals x
+minus two, squared, minus three. So the
+
+100
+00:07:04,504 --> 00:07:07,185
+vertex is two comma negative three.
+
+101
+00:07:08,333 --> 00:07:13,957
+Your turn. Solve x squared plus four x
+minus five equals zero by completing the
+
+102
+00:07:13,957 --> 00:07:14,455
+square.
+
+103
+00:07:14,905 --> 00:07:16,441
+Pause the video and try it.
+
+104
+00:07:16,891 --> 00:07:23,648
+x squared plus four x equals five. Add
+four: x plus two, squared, equals nine. So
+
+105
+00:07:23,648 --> 00:07:26,150
+x equals one or negative five.
+
+106
+00:07:27,300 --> 00:07:32,225
+Completing the square on a general
+quadratic gives a formula that solves
+
+107
+00:07:32,225 --> 00:07:33,935
+every quadratic equation.
+
+108
+00:07:35,067 --> 00:07:41,420
+For a x squared plus b x plus c equals
+zero, x equals negative b, plus or minus
+
+109
+00:07:41,420 --> 00:07:46,245
+the square root of b squared minus four a
+c, all over two a.
+
+110
+00:07:46,695 --> 00:07:48,146
+It's worth memorizing.
+
+111
+00:07:49,267 --> 00:07:53,789
+First, write the equation in standard
+form, and read off a, b and c.
+
+112
+00:07:54,239 --> 00:08:00,523
+For two x squared minus three x equals
+two, subtract two: a is two, b is negative
+
+113
+00:08:00,523 --> 00:08:02,773
+three, and c is negative two.
+
+114
+00:08:03,900 --> 00:08:09,463
+Plug in. b squared minus four a c is nine
+plus sixteen, which is twenty-five, and
+
+115
+00:08:09,463 --> 00:08:11,111
+its square root is five.
+
+116
+00:08:11,561 --> 00:08:17,619
+So x equals three plus or minus five, over
+four. That's two, or negative one half.
+
+117
+00:08:18,767 --> 00:08:20,985
+The answers aren't always whole numbers.
+
+118
+00:08:21,435 --> 00:08:27,780
+For x squared plus two x minus one equals
+zero, x equals negative one plus or minus
+
+119
+00:08:27,780 --> 00:08:33,972
+the square root of two. Leave it exact, or
+round to about zero point four one and
+
+120
+00:08:33,972 --> 00:08:36,113
+negative two point four one.
+
+121
+00:08:37,233 --> 00:08:42,796
+Which method to use? If there's no x term,
+use square roots. If it factors easily,
+
+122
+00:08:42,796 --> 00:08:43,271
+factor.
+
+123
+00:08:43,721 --> 00:08:47,283
+Otherwise, use the quadratic formula. It
+always works.
+
+124
+00:08:48,433 --> 00:08:54,297
+Your turn. Solve x squared minus four x
+minus five equals zero with the quadratic
+
+125
+00:08:54,297 --> 00:08:54,876
+formula.
+
+126
+00:08:55,326 --> 00:08:56,862
+Pause the video and try it.
+
+127
+00:08:57,312 --> 00:09:04,144
+b squared minus four a c is sixteen plus
+twenty, which is thirty-six. x equals four
+
+128
+00:09:04,144 --> 00:09:08,341
+plus or minus six, over two: five, or
+negative one.
+
+129
+00:09:09,466 --> 00:09:14,088
+The part under the square root in the
+quadratic formula tells you how many
+
+130
+00:09:14,088 --> 00:09:16,399
+solutions there are, without solving.
+
+131
+00:09:17,533 --> 00:09:20,754
+b squared minus four a c is called the
+discriminant.
+
+132
+00:09:21,204 --> 00:09:24,020
+It decides whether the square root is a
+real number.
+
+133
+00:09:25,166 --> 00:09:29,027
+If the discriminant is positive, there are
+two real solutions.
+
+134
+00:09:29,477 --> 00:09:35,469
+For x squared minus five x plus six, it's
+twenty-five minus twenty-four, which is
+
+135
+00:09:35,469 --> 00:09:39,760
+one. Two solutions. The parabola crosses
+the x axis twice.
+
+136
+00:09:40,899 --> 00:09:43,566
+If it's zero, there's exactly one
+solution.
+
+137
+00:09:44,016 --> 00:09:49,864
+For x squared minus six x plus nine, it's
+thirty-six minus thirty-six, which is
+
+138
+00:09:49,864 --> 00:09:53,936
+zero. The parabola just touches the axis
+at its vertex.
+
+139
+00:09:55,066 --> 00:09:57,818
+If it's negative, there are no real
+solutions.
+
+140
+00:09:58,268 --> 00:10:04,131
+For x squared plus x plus three, it's one
+minus twelve, which is negative eleven.
+
+141
+00:10:04,131 --> 00:10:06,375
+The parabola misses the x axis.
+
+142
+00:10:07,499 --> 00:10:10,273
+The discriminant is a quick check before
+you solve.
+
+143
+00:10:10,723 --> 00:10:15,875
+If it's a perfect square, like one or
+twenty-five, the quadratic also factors
+
+144
+00:10:15,875 --> 00:10:17,080
+over the integers.
+
+145
+00:10:18,199 --> 00:10:24,113
+Your turn. How many real solutions does
+two x squared plus four x plus five equals
+
+146
+00:10:24,113 --> 00:10:24,834
+zero have?
+
+147
+00:10:25,284 --> 00:10:26,820
+Pause the video and try it.
+
+148
+00:10:27,270 --> 00:10:32,373
+Sixteen minus forty is negative
+twenty-four. It's negative, so there are
+
+149
+00:10:32,373 --> 00:10:33,649
+no real solutions.
+
+150
+00:10:34,766 --> 00:10:40,177
+Quadratics describe real motion and
+shapes. In this last lesson of Unit Nine,
+
+151
+00:10:40,177 --> 00:10:41,934
+we'll use them as models.
+
+152
+00:10:43,066 --> 00:10:49,270
+A ball is thrown upward. Its height in
+feet after t seconds is h equals negative
+
+153
+00:10:49,270 --> 00:10:52,837
+sixteen t squared plus sixty-four t plus
+five.
+
+154
+00:10:53,287 --> 00:10:57,233
+The negative leading coefficient makes the
+parabola open down.
+
+155
+00:10:58,366 --> 00:11:03,744
+The highest point is the vertex. t equals
+negative sixty-four over negative
+
+156
+00:11:03,744 --> 00:11:06,110
+thirty-two, which is two seconds.
+
+157
+00:11:06,560 --> 00:11:12,243
+h of two is negative sixty-four plus one
+hundred twenty-eight plus five, which is
+
+158
+00:11:12,243 --> 00:11:13,365
+sixty-nine feet.
+
+159
+00:11:14,499 --> 00:11:20,265
+The ball lands when h equals zero. Use the
+quadratic formula, and keep only the
+
+160
+00:11:20,265 --> 00:11:21,433
+positive answer.
+
+161
+00:11:21,883 --> 00:11:24,528
+t is about four point zero eight seconds.
+
+162
+00:11:25,666 --> 00:11:30,544
+A rectangle has a length three more than
+its width, and an area of forty square
+
+163
+00:11:30,544 --> 00:11:30,914
+units.
+
+164
+00:11:31,364 --> 00:11:37,813
+w times the quantity w plus three equals
+forty. So w squared plus three w minus
+
+165
+00:11:37,813 --> 00:11:44,506
+forty equals zero, which factors as w plus
+eight, times w minus five. The width is
+
+166
+00:11:44,506 --> 00:11:46,873
+five and the length is eight.
+
+167
+00:11:47,999 --> 00:11:51,626
+To identify a model from a table, look at
+the differences.
+
+168
+00:11:52,076 --> 00:11:57,307
+Constant first differences: linear.
+Constant second differences: quadratic.
+
+169
+00:11:57,307 --> 00:11:59,329
+Constant ratios: exponential.
+
+170
+00:12:00,466 --> 00:12:06,475
+Your turn. A ball's height is h equals
+negative sixteen t squared plus thirty-two
+
+171
+00:12:06,475 --> 00:12:08,701
+t. What is its maximum height?
+
+172
+00:12:09,151 --> 00:12:10,687
+Pause the video and try it.
+
+173
+00:12:11,137 --> 00:12:17,650
+The vertex is at t equals one. h of one is
+negative sixteen plus thirty-two, which is
+
+174
+00:12:17,650 --> 00:12:18,646
+sixteen feet.
+
+175
+00:12:18,766 --> 00:12:24,971
+That completes Unit Nine. Next, we'll
+finish the course with Unit Ten: radicals
+
+176
+00:12:24,971 --> 00:12:29,847
+and data. If this helped, subscribe to
+School Math, Explained, and turn on
+
+177
+00:12:29,847 --> 00:12:33,142
+notifications so you don't miss it. See
+you there.
+

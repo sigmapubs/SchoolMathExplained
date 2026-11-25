@@ -1,0 +1,555 @@
+1
+00:00:00,000 --> 00:00:05,459
+Welcome to Unit Two of Algebra Two:
+equations and systems. We start by
+
+2
+00:00:05,459 --> 00:00:09,515
+reviewing absolute value equations and
+inequalities.
+
+3
+00:00:10,633 --> 00:00:17,077
+The absolute value of x minus four equals
+six means x minus four is six away from
+
+4
+00:00:17,077 --> 00:00:19,145
+zero, in either direction.
+
+5
+00:00:19,595 --> 00:00:26,765
+So x minus four equals six, or x minus
+four equals negative six. x equals ten, or
+
+6
+00:00:26,765 --> 00:00:27,915
+negative two.
+
+7
+00:00:29,033 --> 00:00:35,349
+Always isolate the absolute value first.
+Three times the absolute value of two x
+
+8
+00:00:35,349 --> 00:00:38,271
+plus one, minus five, equals sixteen.
+
+9
+00:00:38,721 --> 00:00:45,301
+Add five and divide by three: the absolute
+value of two x plus one equals seven. So
+
+10
+00:00:45,301 --> 00:00:51,563
+two x plus one is seven or negative seven,
+and x equals three or negative four.
+
+11
+00:00:52,700 --> 00:00:58,867
+When the other side has a variable, check
+every answer. The absolute value of x plus
+
+12
+00:00:58,867 --> 00:01:00,849
+two equals two x minus one.
+
+13
+00:01:01,299 --> 00:01:07,278
+The cases give x equals three, or x equals
+negative one third. But at negative one
+
+14
+00:01:07,278 --> 00:01:11,945
+third, the right side is negative, so only
+x equals three works.
+
+15
+00:01:13,067 --> 00:01:19,119
+For less than, the solution is an and: the
+absolute value of x minus one is less than
+
+16
+00:01:19,119 --> 00:01:23,819
+four means negative three is less than x,
+which is less than five.
+
+17
+00:01:24,269 --> 00:01:30,352
+For greater than, it's an or: the absolute
+value of x minus one is greater than four
+
+18
+00:01:30,352 --> 00:01:34,914
+means x is less than negative three, or x
+is greater than five.
+
+19
+00:01:36,033 --> 00:01:38,679
+An absolute value can never be negative.
+
+20
+00:01:39,129 --> 00:01:44,931
+So the absolute value of x equals negative
+two has no solution, and the absolute
+
+21
+00:01:44,931 --> 00:01:49,283
+value of x is greater than negative two is
+true for every x.
+
+22
+00:01:50,433 --> 00:01:55,575
+Your turn. Solve the absolute value of two
+x minus three is at most seven.
+
+23
+00:01:56,025 --> 00:01:57,561
+Pause the video and try it.
+
+24
+00:01:58,011 --> 00:02:03,927
+Negative seven is at most two x minus
+three, which is at most seven. So negative
+
+25
+00:02:03,927 --> 00:02:06,885
+two is at most x, which is at most five.
+
+26
+00:02:08,033 --> 00:02:12,513
+Before we add a third variable, let's
+review systems in two variables.
+
+27
+00:02:13,633 --> 00:02:18,646
+You can solve a system by graphing, by
+substitution, or by elimination.
+
+28
+00:02:19,096 --> 00:02:24,515
+Graphing shows the picture. Substitution
+and elimination give exact answers.
+
+29
+00:02:25,633 --> 00:02:32,140
+Solve y equals three x minus five, and two
+x plus y equals ten, by substitution.
+
+30
+00:02:32,590 --> 00:02:39,400
+Two x plus three x minus five equals ten,
+so five x equals fifteen, and x equals
+
+31
+00:02:39,400 --> 00:02:41,614
+three. Then y equals four.
+
+32
+00:02:42,733 --> 00:02:48,762
+Solve four x plus three y equals
+seventeen, and two x minus three y equals
+
+33
+00:02:48,762 --> 00:02:50,392
+one, by elimination.
+
+34
+00:02:50,842 --> 00:02:57,172
+Add the equations: six x equals eighteen,
+so x equals three. Then three y equals
+
+35
+00:02:57,172 --> 00:02:59,546
+five, so y equals five thirds.
+
+36
+00:03:00,666 --> 00:03:02,586
+Remember the three possibilities.
+
+37
+00:03:03,036 --> 00:03:08,190
+One solution where the lines cross. No
+solution when they're parallel. Infinitely
+
+38
+00:03:08,190 --> 00:03:10,226
+many when they're the same line.
+
+39
+00:03:11,366 --> 00:03:16,318
+How many liters of a ten percent salt
+solution and a thirty percent solution
+
+40
+00:03:16,318 --> 00:03:19,772
+make twenty liters of a twenty-five
+percent solution?
+
+41
+00:03:20,222 --> 00:03:26,368
+x plus y equals twenty, and point one x
+plus point three y equals five. Solving
+
+42
+00:03:26,368 --> 00:03:31,891
+gives five liters of ten percent, and
+fifteen liters of thirty percent.
+
+43
+00:03:32,033 --> 00:03:38,708
+Your turn. Solve x plus two y equals
+eight, and three x minus y equals three.
+
+44
+00:03:39,158 --> 00:03:40,694
+Pause the video and try it.
+
+45
+00:03:41,144 --> 00:03:47,642
+From the first, x equals eight minus two
+y. Then twenty-four minus six y minus y
+
+46
+00:03:47,642 --> 00:03:51,704
+equals three, so y equals three, and x
+equals two.
+
+47
+00:03:52,833 --> 00:03:57,765
+A system can have three equations and
+three unknowns. In this lesson, we'll
+
+48
+00:03:57,765 --> 00:03:58,422
+solve one.
+
+49
+00:03:59,566 --> 00:04:05,113
+An equation like x plus y plus z equals
+six describes a plane in space.
+
+50
+00:04:05,563 --> 00:04:10,406
+A solution of three such equations is a
+point where all three planes meet.
+
+51
+00:04:11,533 --> 00:04:17,272
+The strategy is to use elimination twice
+to remove the same variable. That leaves
+
+52
+00:04:17,272 --> 00:04:19,469
+two equations in two variables.
+
+53
+00:04:19,919 --> 00:04:24,698
+Solve that smaller system, then substitute
+back to find the third variable.
+
+54
+00:04:25,833 --> 00:04:33,060
+Solve x plus y plus z equals six, two x
+minus y plus z equals three, and x plus
+
+55
+00:04:33,060 --> 00:04:35,348
+two y minus z equals two.
+
+56
+00:04:35,798 --> 00:04:41,915
+Add the first and third: two x plus three
+y equals eight. Add the second and third:
+
+57
+00:04:41,915 --> 00:04:43,904
+three x plus y equals five.
+
+58
+00:04:45,033 --> 00:04:50,750
+Now solve two x plus three y equals eight,
+and three x plus y equals five.
+
+59
+00:04:51,200 --> 00:04:57,679
+Multiply the second by three: nine x plus
+three y equals fifteen. Subtract the
+
+60
+00:04:57,679 --> 00:05:02,912
+first: seven x equals seven, so x equals
+one, and y equals two.
+
+61
+00:05:04,033 --> 00:05:08,876
+Back-substitute: one plus two plus z
+equals six, so z equals three.
+
+62
+00:05:09,326 --> 00:05:14,572
+The solution is the ordered triple one
+comma two comma three. Check it in all
+
+63
+00:05:14,572 --> 00:05:15,662
+three equations.
+
+64
+00:05:16,800 --> 00:05:23,728
+Your turn. Solve x plus y plus z equals
+four, x minus y equals one, and z equals
+
+65
+00:05:23,728 --> 00:05:24,074
+two.
+
+66
+00:05:24,524 --> 00:05:26,060
+Pause the video and try it.
+
+67
+00:05:26,510 --> 00:05:33,139
+With z equals two, x plus y equals two,
+and x minus y equals one. So x equals
+
+68
+00:05:33,139 --> 00:05:36,238
+three halves, and y equals one half.
+
+69
+00:05:37,366 --> 00:05:42,597
+Three unknowns need three equations. In
+this lesson, we'll set up and solve
+
+70
+00:05:42,597 --> 00:05:44,619
+three-variable word problems.
+
+71
+00:05:45,766 --> 00:05:50,630
+Define a variable for each unknown, and
+look for three separate facts in the
+
+72
+00:05:50,630 --> 00:05:51,142
+problem.
+
+73
+00:05:51,592 --> 00:05:53,576
+Each fact becomes one equation.
+
+74
+00:05:54,699 --> 00:05:59,720
+A concert sold two hundred tickets for a
+total of four thousand two hundred
+
+75
+00:05:59,720 --> 00:06:04,607
+dollars. Floor tickets cost thirty
+dollars, balcony twenty, and lawn ten.
+
+76
+00:06:04,607 --> 00:06:08,289
+There were twice as many lawn tickets as
+floor tickets.
+
+77
+00:06:08,739 --> 00:06:14,954
+So f plus b plus l equals two hundred,
+thirty f plus twenty b plus ten l equals
+
+78
+00:06:14,954 --> 00:06:18,573
+four thousand two hundred, and l equals
+two f.
+
+79
+00:06:19,699 --> 00:06:23,539
+Substitute l equals two f into the other
+two equations.
+
+80
+00:06:23,989 --> 00:06:30,133
+Three f plus b equals two hundred, and
+fifty f plus twenty b equals four thousand
+
+81
+00:06:30,133 --> 00:06:35,974
+two hundred. Solving gives f equals
+twenty, b equals one hundred forty, and l
+
+82
+00:06:35,974 --> 00:06:36,960
+equals forty.
+
+83
+00:06:38,099 --> 00:06:44,810
+Three points determine a parabola. Find y
+equals a x squared plus b x plus c through
+
+84
+00:06:44,810 --> 00:06:49,043
+zero comma one, one comma four, and two
+comma eleven.
+
+85
+00:06:49,493 --> 00:06:55,317
+The first point gives c equals one. The
+others give a plus b equals three, and
+
+86
+00:06:55,317 --> 00:07:00,096
+four a plus two b equals ten. So a equals
+two, and b equals one.
+
+87
+00:07:01,233 --> 00:07:05,094
+Check: two times four, plus two, plus one
+is eleven. It works.
+
+88
+00:07:05,544 --> 00:07:09,533
+The parabola is y equals two x squared
+plus x plus one.
+
+89
+00:07:10,666 --> 00:07:15,604
+Your turn. Three numbers add to twelve.
+The second is twice the first, and the
+
+90
+00:07:15,604 --> 00:07:18,517
+third is three more than the first. Find
+them.
+
+91
+00:07:18,967 --> 00:07:20,503
+Pause the video and try it.
+
+92
+00:07:20,953 --> 00:07:26,665
+x plus two x plus x plus three equals
+twelve, so four x equals nine, and x
+
+93
+00:07:26,665 --> 00:07:32,687
+equals nine fourths. The numbers are nine
+fourths, nine halves, and twenty-one
+
+94
+00:07:32,687 --> 00:07:33,305
+fourths.
+
+95
+00:07:34,433 --> 00:07:40,112
+In this last lesson of Unit Two, we'll use
+systems of inequalities to find the best
+
+96
+00:07:40,112 --> 00:07:43,670
+possible outcome. This is called linear
+programming.
+
+97
+00:07:44,800 --> 00:07:50,821
+A bakery makes x cakes and y pies. It has
+at most ten hours, cakes take one hour,
+
+98
+00:07:50,821 --> 00:07:54,613
+and pies take two. It can make at most
+eight items.
+
+99
+00:07:55,063 --> 00:08:01,560
+So x plus two y is at most ten, x plus y
+is at most eight, and x and y are at least
+
+100
+00:08:01,560 --> 00:08:05,474
+zero. The overlap of these is the feasible
+region.
+
+101
+00:08:06,600 --> 00:08:12,765
+Profit is four dollars per cake and five
+per pie. P equals four x plus five y.
+
+102
+00:08:13,215 --> 00:08:17,396
+This is the objective function: the
+quantity we want to maximize.
+
+103
+00:08:18,533 --> 00:08:22,501
+The maximum always occurs at a corner of
+the feasible region.
+
+104
+00:08:22,951 --> 00:08:29,354
+The corners are zero comma zero, eight
+comma zero, six comma two, and zero comma
+
+105
+00:08:29,354 --> 00:08:35,196
+five. Evaluate P at each: zero,
+thirty-two, thirty-four, and twenty-five.
+
+106
+00:08:36,333 --> 00:08:39,277
+The largest is thirty-four, at six comma
+two.
+
+107
+00:08:39,727 --> 00:08:44,810
+So the bakery should make six cakes and
+two pies, for a profit of thirty-four
+
+108
+00:08:44,810 --> 00:08:45,338
+dollars.
+
+109
+00:08:46,466 --> 00:08:51,887
+Why corners? Lines of equal profit are
+parallel. Slide them outward, and the last
+
+110
+00:08:51,887 --> 00:08:54,765
+point they touch in the region is a
+corner.
+
+111
+00:08:55,900 --> 00:09:02,329
+Your turn. Maximize P equals two x plus
+three y over the corners zero comma zero,
+
+112
+00:09:02,329 --> 00:09:06,694
+four comma zero, three comma two, and zero
+comma three.
+
+113
+00:09:07,144 --> 00:09:08,680
+Pause the video and try it.
+
+114
+00:09:09,130 --> 00:09:14,485
+P is zero, eight, twelve and nine. The
+maximum is twelve, at three comma two.
+
+115
+00:09:15,633 --> 00:09:20,833
+That completes Unit Two. Next, we'll go
+deeper into quadratics in Unit Three. If
+
+116
+00:09:20,833 --> 00:09:25,904
+this helped, subscribe to School Math,
+Explained, and turn on notifications so
+
+117
+00:09:25,904 --> 00:09:28,049
+you don't miss it. See you there.
+
