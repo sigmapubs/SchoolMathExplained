@@ -1,0 +1,614 @@
+1
+00:00:00,000 --> 00:00:05,542
+Welcome to Algebra Two. In Unit One, we'll
+review functions and learn to transform
+
+2
+00:00:05,542 --> 00:00:08,043
+them. We start with parent functions.
+
+3
+00:00:09,167 --> 00:00:12,601
+A parent function is the simplest function
+of a family.
+
+4
+00:00:13,051 --> 00:00:18,035
+Every other function in the family is the
+parent shifted, stretched or flipped.
+
+5
+00:00:18,035 --> 00:00:21,819
+Knowing the parents' shapes lets you
+sketch almost anything.
+
+6
+00:00:22,967 --> 00:00:28,005
+The linear parent is y equals x: a
+straight line through the origin with
+
+7
+00:00:28,005 --> 00:00:28,705
+slope one.
+
+8
+00:00:29,155 --> 00:00:34,846
+The quadratic parent is y equals x
+squared: a parabola with its vertex at the
+
+9
+00:00:34,846 --> 00:00:35,363
+origin.
+
+10
+00:00:36,500 --> 00:00:42,205
+The cubic parent, y equals x cubed, rises
+from the bottom left to the top right,
+
+11
+00:00:42,205 --> 00:00:43,988
+flattening at the origin.
+
+12
+00:00:44,438 --> 00:00:50,154
+The absolute value parent, y equals the
+absolute value of x, is a V with its
+
+13
+00:00:50,154 --> 00:00:51,734
+corner at the origin.
+
+14
+00:00:52,867 --> 00:00:58,952
+The square root parent, y equals root x,
+starts at the origin and rises slowly to
+
+15
+00:00:58,952 --> 00:01:03,235
+the right. Its domain is x greater than or
+equal to zero.
+
+16
+00:01:03,685 --> 00:01:09,204
+The reciprocal parent, y equals one over
+x, has two branches, and never touches
+
+17
+00:01:09,204 --> 00:01:10,042
+either axis.
+
+18
+00:01:11,167 --> 00:01:17,025
+The exponential parent, y equals two to
+the x, passes through zero comma one, and
+
+19
+00:01:17,025 --> 00:01:18,761
+grows faster and faster.
+
+20
+00:01:19,211 --> 00:01:22,945
+On the left, it approaches the x axis but
+never reaches it.
+
+21
+00:01:24,067 --> 00:01:29,255
+Your turn. Which parent function has
+domain x greater than or equal to zero,
+
+22
+00:01:29,255 --> 00:01:31,576
+and passes through four comma two?
+
+23
+00:01:32,026 --> 00:01:33,562
+Pause the video and try it.
+
+24
+00:01:34,012 --> 00:01:37,127
+The square root function: the square root
+of four is two.
+
+25
+00:01:38,266 --> 00:01:42,809
+In this lesson, we'll transform parent
+functions with shifts, stretches and
+
+26
+00:01:42,809 --> 00:01:43,535
+reflections.
+
+27
+00:01:44,666 --> 00:01:50,442
+Starting from f of x, the transformed
+function is a times f of the quantity x
+
+28
+00:01:50,442 --> 00:01:51,642
+minus h, plus k.
+
+29
+00:01:52,092 --> 00:01:57,356
+h moves the graph left or right, k moves
+it up or down, and a stretches or flips
+
+30
+00:01:57,356 --> 00:01:57,553
+it.
+
+31
+00:01:58,699 --> 00:02:02,134
+f of x minus h shifts the graph h units
+right.
+
+32
+00:02:02,584 --> 00:02:08,871
+The square root of x minus three starts at
+three comma zero instead of the origin. A
+
+33
+00:02:08,871 --> 00:02:11,565
+plus sign inside means a shift left.
+
+34
+00:02:12,699 --> 00:02:15,835
+f of x plus k shifts the graph k units up.
+
+35
+00:02:16,285 --> 00:02:20,659
+The absolute value of x, minus two, is the
+V moved down two.
+
+36
+00:02:21,799 --> 00:02:27,522
+a times f of x stretches vertically when a
+is greater than one, and compresses when a
+
+37
+00:02:27,522 --> 00:02:29,138
+is between zero and one.
+
+38
+00:02:29,588 --> 00:02:34,516
+Three x squared is narrower than x
+squared. One half x squared is wider.
+
+39
+00:02:35,666 --> 00:02:42,296
+A negative a reflects the graph across the
+x axis. f of negative x reflects it across
+
+40
+00:02:42,296 --> 00:02:43,154
+the y axis.
+
+41
+00:02:43,604 --> 00:02:48,873
+Negative root x opens downward. Root of
+negative x opens to the left.
+
+42
+00:02:49,999 --> 00:02:56,067
+Your turn. Describe the transformations in
+g of x equals negative two times the
+
+43
+00:02:56,067 --> 00:02:59,215
+absolute value of x plus one, plus three.
+
+44
+00:02:59,665 --> 00:03:01,201
+Pause the video and try it.
+
+45
+00:03:01,651 --> 00:03:07,793
+Shift left one, stretch by two, reflect
+across the x axis, and shift up three. The
+
+46
+00:03:07,793 --> 00:03:12,062
+vertex is negative one comma three, and
+the V opens down.
+
+47
+00:03:13,200 --> 00:03:18,327
+Some functions follow different rules on
+different parts of their domain. In this
+
+48
+00:03:18,327 --> 00:03:20,859
+lesson, we'll study piecewise functions.
+
+49
+00:03:22,000 --> 00:03:26,652
+A piecewise function lists several
+formulas, each with the interval where it
+
+50
+00:03:26,652 --> 00:03:27,141
+applies.
+
+51
+00:03:27,591 --> 00:03:34,334
+For example, f of x equals x plus two when
+x is less than one, and three minus x when
+
+52
+00:03:34,334 --> 00:03:35,762
+x is at least one.
+
+53
+00:03:36,900 --> 00:03:40,463
+To evaluate, first find which piece the
+input belongs to.
+
+54
+00:03:40,913 --> 00:03:47,332
+f of negative two uses the first piece:
+negative two plus two is zero. f of four
+
+55
+00:03:47,332 --> 00:03:51,345
+uses the second: three minus four is
+negative one.
+
+56
+00:03:52,467 --> 00:03:55,432
+To graph, draw each piece only on its own
+interval.
+
+57
+00:03:55,882 --> 00:04:02,029
+The line x plus two runs up to x equals
+one. The line three minus x starts at x
+
+58
+00:04:02,029 --> 00:04:04,053
+equals one and goes right.
+
+59
+00:04:04,200 --> 00:04:10,766
+At a boundary, use an open circle if the
+point isn't included, and a closed dot if
+
+60
+00:04:10,766 --> 00:04:11,173
+it is.
+
+61
+00:04:11,623 --> 00:04:17,689
+At x equals one, the first piece has an
+open circle at one comma three. The second
+
+62
+00:04:17,689 --> 00:04:20,647
+piece has a closed dot at one comma two.
+
+63
+00:04:21,767 --> 00:04:26,268
+Piecewise functions model things like
+shipping costs or tax brackets.
+
+64
+00:04:26,718 --> 00:04:32,021
+For example, shipping costs five dollars
+for up to two pounds, and five dollars
+
+65
+00:04:32,021 --> 00:04:34,974
+plus two dollars per extra pound after
+that.
+
+66
+00:04:36,100 --> 00:04:42,814
+Your turn. For f of x equals x squared if
+x is less than zero, and two x plus one if
+
+67
+00:04:42,814 --> 00:04:47,449
+x is at least zero, find f of negative
+three and f of two.
+
+68
+00:04:47,899 --> 00:04:49,435
+Pause the video and try it.
+
+69
+00:04:49,885 --> 00:04:53,192
+f of negative three is nine. f of two is
+five.
+
+70
+00:04:54,333 --> 00:04:59,655
+Absolute value functions make V shapes. In
+this lesson, we'll graph them and find
+
+71
+00:04:59,655 --> 00:05:00,904
+their key features.
+
+72
+00:05:02,033 --> 00:05:07,926
+The parent y equals the absolute value of
+x has its vertex at the origin, with
+
+73
+00:05:07,926 --> 00:05:10,268
+slopes of one and negative one.
+
+74
+00:05:11,400 --> 00:05:17,458
+The vertex form is y equals a times the
+absolute value of x minus h, plus k.
+
+75
+00:05:17,908 --> 00:05:23,754
+The vertex is h comma k, and a sets the
+slopes of the two sides: a and negative a.
+
+76
+00:05:24,900 --> 00:05:30,574
+Graph y equals two times the absolute
+value of x minus one, minus four.
+
+77
+00:05:31,024 --> 00:05:36,544
+The vertex is one comma negative four.
+From there, go up two for every one step,
+
+78
+00:05:36,544 --> 00:05:37,510
+left or right.
+
+79
+00:05:38,633 --> 00:05:45,409
+To find the x intercepts, set y equal to
+zero. Two times the absolute value of x
+
+80
+00:05:45,409 --> 00:05:47,273
+minus one equals four.
+
+81
+00:05:47,723 --> 00:05:54,255
+The absolute value of x minus one is two,
+so x equals three or negative one. The y
+
+82
+00:05:54,255 --> 00:05:59,115
+intercept is two times one minus four,
+which is negative two.
+
+83
+00:06:00,233 --> 00:06:03,497
+Every absolute value function is really
+piecewise.
+
+84
+00:06:03,947 --> 00:06:10,630
+The absolute value of x is x when x is at
+least zero, and negative x when x is less
+
+85
+00:06:10,630 --> 00:06:11,435
+than zero.
+
+86
+00:06:12,566 --> 00:06:18,350
+Your turn. Find the vertex and x
+intercepts of y equals the absolute value
+
+87
+00:06:18,350 --> 00:06:20,460
+of x plus two, minus three.
+
+88
+00:06:20,910 --> 00:06:22,446
+Pause the video and try it.
+
+89
+00:06:22,896 --> 00:06:29,160
+The vertex is negative two comma negative
+three. The absolute value of x plus two
+
+90
+00:06:29,160 --> 00:06:32,794
+equals three, so x equals one or negative
+five.
+
+91
+00:06:33,933 --> 00:06:38,882
+In this lesson, we'll feed one function
+into another. That's called composition.
+
+92
+00:06:40,000 --> 00:06:44,800
+f of g of x means: first apply g, then
+apply f to the result.
+
+93
+00:06:45,250 --> 00:06:50,249
+It's written f circle g. Think of a
+machine whose output goes straight into a
+
+94
+00:06:50,249 --> 00:06:51,223
+second machine.
+
+95
+00:06:52,366 --> 00:06:59,300
+Let f of x equal x squared, and g of x
+equal x plus three. Find f of g of two.
+
+96
+00:06:59,750 --> 00:07:03,270
+g of two is five. Then f of five is
+twenty-five.
+
+97
+00:07:04,400 --> 00:07:07,109
+Now find the formula for f of g of x.
+
+98
+00:07:07,559 --> 00:07:13,566
+Replace the x in f with g of x: the
+quantity x plus three, squared. That's x
+
+99
+00:07:13,566 --> 00:07:15,858
+squared plus six x plus nine.
+
+100
+00:07:17,000 --> 00:07:21,821
+Order matters. g of f of x is x squared
+plus three, which is different.
+
+101
+00:07:22,271 --> 00:07:27,604
+Check at two: g of f of two is four plus
+three, which is seven, not twenty-five.
+
+102
+00:07:28,733 --> 00:07:34,645
+You can also break a function apart. h of
+x equals the square root of two x plus
+
+103
+00:07:34,645 --> 00:07:34,941
+one.
+
+104
+00:07:35,391 --> 00:07:42,692
+That's f of g of x, with g of x equals two
+x plus one inside, and f of x equals root
+
+105
+00:07:42,692 --> 00:07:43,562
+x outside.
+
+106
+00:07:44,700 --> 00:07:51,512
+Your turn. With f of x equals two x minus
+one and g of x equals x squared, find f of
+
+107
+00:07:51,512 --> 00:07:54,108
+g of three, and g of f of three.
+
+108
+00:07:54,558 --> 00:07:56,094
+Pause the video and try it.
+
+109
+00:07:56,544 --> 00:08:03,049
+f of g of three is f of nine, which is
+seventeen. g of f of three is g of five,
+
+110
+00:08:03,049 --> 00:08:04,778
+which is twenty-five.
+
+111
+00:08:05,900 --> 00:08:11,084
+In this last lesson of Unit One, we'll
+learn inverse functions, which undo what a
+
+112
+00:08:11,084 --> 00:08:11,980
+function does.
+
+113
+00:08:13,100 --> 00:08:17,217
+If f takes three to seven, its inverse
+takes seven back to three.
+
+114
+00:08:17,667 --> 00:08:21,870
+The inverse is written f inverse. Inputs
+and outputs swap.
+
+115
+00:08:23,000 --> 00:08:29,059
+To find an inverse, write y equals f of x,
+swap x and y, and solve for y.
+
+116
+00:08:29,509 --> 00:08:36,143
+For f of x equals two x plus three: x
+equals two y plus three, so y equals x
+
+117
+00:08:36,143 --> 00:08:38,063
+minus three, over two.
+
+118
+00:08:39,200 --> 00:08:43,253
+Check by composing. f of f inverse of x
+should equal x.
+
+119
+00:08:43,703 --> 00:08:49,677
+Two times the quantity x minus three over
+two, plus three, is x minus three plus
+
+120
+00:08:49,677 --> 00:08:51,767
+three, which is x. It works.
+
+121
+00:08:52,900 --> 00:08:58,669
+The graph of an inverse is the reflection
+of the original across the line y equals
+
+122
+00:08:58,669 --> 00:08:58,809
+x.
+
+123
+00:08:59,259 --> 00:09:03,590
+Every point a comma b on f becomes b comma
+a on f inverse.
+
+124
+00:09:04,733 --> 00:09:08,467
+Only one-to-one functions have inverses
+that are functions.
+
+125
+00:09:08,917 --> 00:09:14,102
+Use the horizontal line test: if a
+horizontal line hits the graph more than
+
+126
+00:09:14,102 --> 00:09:18,389
+once, like with x squared, you must
+restrict the domain first.
+
+127
+00:09:19,533 --> 00:09:24,248
+Your turn. Find the inverse of f of x
+equals x cubed minus one.
+
+128
+00:09:24,698 --> 00:09:26,234
+Pause the video and try it.
+
+129
+00:09:26,684 --> 00:09:32,849
+Swap: x equals y cubed minus one. So y
+equals the cube root of x plus one.
+
+130
+00:09:33,967 --> 00:09:39,653
+That completes Unit One. Next, we'll start
+Unit Two: equations and systems. If this
+
+131
+00:09:39,653 --> 00:09:44,655
+helped, subscribe to School Math,
+Explained, and turn on notifications so
+
+132
+00:09:44,655 --> 00:09:46,916
+you don't miss it. See you there.
+

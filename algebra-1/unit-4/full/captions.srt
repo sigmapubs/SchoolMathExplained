@@ -1,0 +1,510 @@
+1
+00:00:00,000 --> 00:00:03,264
+Welcome to Unit Four of Algebra One:
+functions.
+
+2
+00:00:03,714 --> 00:00:08,788
+A function is one of the most important
+ideas in all of math. In this lesson,
+
+3
+00:00:08,788 --> 00:00:13,335
+we'll learn what a relation is, and what
+makes a relation a function.
+
+4
+00:00:14,467 --> 00:00:20,182
+A relation is any set of input-output
+pairs. For example: one goes to four, two
+
+5
+00:00:20,182 --> 00:00:22,787
+goes to five, and three goes to six.
+
+6
+00:00:23,237 --> 00:00:28,641
+We can write these as ordered pairs: one
+comma four, two comma five, three comma
+
+7
+00:00:28,641 --> 00:00:28,911
+six.
+
+8
+00:00:30,033 --> 00:00:34,428
+A function is a relation where every input
+has exactly one output.
+
+9
+00:00:34,878 --> 00:00:37,182
+Each input gets one answer, never two.
+
+10
+00:00:38,300 --> 00:00:43,962
+Look at this mapping diagram. One goes to
+three, two goes to five, and three also
+
+11
+00:00:43,962 --> 00:00:44,871
+goes to five.
+
+12
+00:00:45,321 --> 00:00:50,710
+Two inputs share the output five, and
+that's fine. Every input still has exactly
+
+13
+00:00:50,710 --> 00:00:53,001
+one output, so this is a function.
+
+14
+00:00:54,133 --> 00:00:58,507
+Now look at this one. One goes to two, and
+one also goes to seven.
+
+15
+00:00:58,957 --> 00:01:03,650
+The input one has two different outputs,
+so this relation is not a function.
+
+16
+00:01:04,800 --> 00:01:10,267
+On a graph, use the vertical line test. If
+any vertical line crosses the graph more
+
+17
+00:01:10,267 --> 00:01:12,309
+than once, it's not a function.
+
+18
+00:01:12,759 --> 00:01:18,652
+A line or a parabola passes the test. A
+sideways parabola fails, because one
+
+19
+00:01:18,652 --> 00:01:20,823
+vertical line hits it twice.
+
+20
+00:01:21,967 --> 00:01:27,291
+Your turn. Is this set of pairs a
+function? Two comma one, four comma one,
+
+21
+00:01:27,291 --> 00:01:29,881
+six comma three, and two comma five.
+
+22
+00:01:30,331 --> 00:01:31,867
+Pause the video and try it.
+
+23
+00:01:32,317 --> 00:01:37,267
+The input two appears with two outputs,
+one and five. So it is not a function.
+
+24
+00:01:38,400 --> 00:01:43,699
+In this lesson, we'll learn function
+notation: the way mathematicians name and
+
+25
+00:01:43,699 --> 00:01:44,651
+use functions.
+
+26
+00:01:45,800 --> 00:01:52,475
+f of x equals two x plus three. The letter
+f is the function's name, x is the input,
+
+27
+00:01:52,475 --> 00:01:54,461
+and f of x is the output.
+
+28
+00:01:54,911 --> 00:01:57,770
+Careful: f of x does not mean f times x.
+
+29
+00:01:58,900 --> 00:02:01,865
+To evaluate f of four, replace x with
+four.
+
+30
+00:02:02,315 --> 00:02:07,073
+Two times four, plus three, is eleven. So
+f of four equals eleven.
+
+31
+00:02:08,200 --> 00:02:10,397
+Negative inputs work the same way.
+
+32
+00:02:10,847 --> 00:02:16,415
+f of negative two is two times negative
+two, plus three, which is negative one.
+
+33
+00:02:17,533 --> 00:02:20,584
+Now let g of x equal x squared minus one.
+
+34
+00:02:21,034 --> 00:02:26,728
+g of three is nine minus one, which is
+eight. g of negative three is also nine
+
+35
+00:02:26,728 --> 00:02:31,765
+minus one, which is eight. Different
+inputs can give the same output.
+
+36
+00:02:32,900 --> 00:02:38,221
+We can also work backward. If f of x
+equals fifteen, then two x plus three
+
+37
+00:02:38,221 --> 00:02:39,300
+equals fifteen.
+
+38
+00:02:39,750 --> 00:02:43,590
+Subtract three: two x equals twelve. So x
+equals six.
+
+39
+00:02:44,733 --> 00:02:51,486
+Your turn. If h of x equals five minus x,
+find h of seven. Then find x when h of x
+
+40
+00:02:51,486 --> 00:02:52,392
+equals two.
+
+41
+00:02:52,842 --> 00:02:54,378
+Pause the video and try it.
+
+42
+00:02:54,828 --> 00:03:01,146
+h of seven is five minus seven, which is
+negative two. And five minus x equals two
+
+43
+00:03:01,146 --> 00:03:02,764
+gives x equals three.
+
+44
+00:03:03,900 --> 00:03:09,165
+Every function has a domain and a range.
+In this lesson, we'll learn what they are
+
+45
+00:03:09,165 --> 00:03:10,513
+and how to find them.
+
+46
+00:03:11,633 --> 00:03:14,897
+The domain is the set of all inputs: the x
+values.
+
+47
+00:03:15,347 --> 00:03:18,803
+The range is the set of all outputs: the y
+values.
+
+48
+00:03:19,933 --> 00:03:24,413
+Take the pairs one comma five, two comma
+seven, and three comma five.
+
+49
+00:03:24,863 --> 00:03:30,124
+The domain is one, two and three. The
+range is five and seven. We list five only
+
+50
+00:03:30,124 --> 00:03:30,453
+once.
+
+51
+00:03:31,600 --> 00:03:36,465
+On a graph, the domain is how far the
+graph stretches from left to right, and
+
+52
+00:03:36,465 --> 00:03:39,813
+the range is how far it stretches from
+bottom to top.
+
+53
+00:03:40,263 --> 00:03:46,109
+This segment runs from x equals negative
+two to x equals three. That's the domain.
+
+54
+00:03:46,559 --> 00:03:51,892
+It goes from y equals negative one up to y
+equals four. That's the range.
+
+55
+00:03:53,033 --> 00:03:59,710
+Some formulas forbid certain inputs. For f
+of x equals one over x minus two, x can't
+
+56
+00:03:59,710 --> 00:04:02,889
+be two, because we can't divide by zero.
+
+57
+00:04:03,339 --> 00:04:06,241
+So the domain is all real numbers except
+two.
+
+58
+00:04:07,367 --> 00:04:13,818
+In real situations, the context limits the
+domain. A taxi charges three dollars plus
+
+59
+00:04:13,818 --> 00:04:15,431
+two dollars per mile.
+
+60
+00:04:15,881 --> 00:04:21,350
+The number of miles can't be negative, so
+the domain is x greater than or equal to
+
+61
+00:04:21,350 --> 00:04:21,683
+zero.
+
+62
+00:04:22,833 --> 00:04:28,275
+Your turn. Find the domain and range of
+the pairs negative one comma two, zero
+
+63
+00:04:28,275 --> 00:04:30,577
+comma two, and three comma eight.
+
+64
+00:04:31,027 --> 00:04:32,563
+Pause the video and try it.
+
+65
+00:04:33,013 --> 00:04:37,643
+The domain is negative one, zero and
+three. The range is two and eight.
+
+66
+00:04:38,766 --> 00:04:43,554
+Graphs tell stories. In this lesson, we'll
+read information from the graph of a
+
+67
+00:04:43,554 --> 00:04:44,099
+function.
+
+68
+00:04:45,233 --> 00:04:50,522
+To find f of two from a graph, go to x
+equals two, then move up or down to the
+
+69
+00:04:50,522 --> 00:04:50,929
+curve.
+
+70
+00:04:51,379 --> 00:04:55,091
+Here we reach y equals three, so f of two
+equals three.
+
+71
+00:04:56,233 --> 00:05:01,353
+To solve f of x equals zero, look for
+where the graph meets the x axis.
+
+72
+00:05:01,803 --> 00:05:06,240
+Here there are two points: x equals
+negative one, and x equals three.
+
+73
+00:05:07,366 --> 00:05:12,955
+Those points are the x intercepts. The
+point where the graph crosses the y axis
+
+74
+00:05:12,955 --> 00:05:14,299
+is the y intercept.
+
+75
+00:05:14,749 --> 00:05:18,739
+Here, f of zero equals three, so the y
+intercept is three.
+
+76
+00:05:19,866 --> 00:05:25,003
+Reading from left to right, the graph goes
+up until x equals one, so it's increasing
+
+77
+00:05:25,003 --> 00:05:25,370
+there.
+
+78
+00:05:25,820 --> 00:05:31,764
+After x equals one, it goes down, so it's
+decreasing. The highest point, one comma
+
+79
+00:05:31,764 --> 00:05:33,287
+four, is the maximum.
+
+80
+00:05:34,433 --> 00:05:40,199
+Graphs of real situations tell a story.
+Suppose this graph shows the height of a
+
+81
+00:05:40,199 --> 00:05:41,281
+ball over time.
+
+82
+00:05:41,731 --> 00:05:47,097
+The ball rises, reaches its highest point
+after one second, then falls back to the
+
+83
+00:05:47,097 --> 00:05:47,555
+ground.
+
+84
+00:05:48,699 --> 00:05:54,305
+Your turn. Using the same graph, find f of
+three, and find every x where f of x
+
+85
+00:05:54,305 --> 00:05:55,227
+equals three.
+
+86
+00:05:55,677 --> 00:05:57,213
+Pause the video and try it.
+
+87
+00:05:57,663 --> 00:06:04,085
+f of three is zero. And f of x equals
+three at x equals zero and x equals two.
+
+88
+00:06:05,233 --> 00:06:10,552
+A sequence is an ordered list of numbers.
+In this lesson, we'll study arithmetic
+
+89
+00:06:10,552 --> 00:06:14,342
+sequences, and see that they are really
+linear functions.
+
+90
+00:06:15,466 --> 00:06:20,522
+In five, eight, eleven, fourteen, each
+term is three more than the one before.
+
+91
+00:06:20,972 --> 00:06:24,386
+That constant difference, three, is called
+the common difference.
+
+92
+00:06:25,533 --> 00:06:31,272
+The nth term is the first term, plus n
+minus one times the common difference.
+
+93
+00:06:31,722 --> 00:06:35,775
+Here, a sub n equals five plus three times
+n minus one.
+
+94
+00:06:36,900 --> 00:06:40,228
+To find the twentieth term, plug in n
+equals twenty.
+
+95
+00:06:40,678 --> 00:06:45,904
+Five plus three times nineteen is five
+plus fifty-seven, which is sixty-two.
+
+96
+00:06:47,033 --> 00:06:52,366
+Simplify the formula: five plus three n
+minus three is three n plus two.
+
+97
+00:06:52,816 --> 00:06:58,286
+Plot the terms as points: one comma five,
+two comma eight, three comma eleven. They
+
+98
+00:06:58,286 --> 00:07:02,438
+lie on a straight line with slope three,
+the common difference.
+
+99
+00:07:03,566 --> 00:07:08,432
+The common difference can be negative. In
+twenty, sixteen, twelve, eight, the
+
+100
+00:07:08,432 --> 00:07:10,201
+difference is negative four.
+
+101
+00:07:10,651 --> 00:07:16,941
+The formula is twenty minus four times n
+minus one, which simplifies to twenty-four
+
+102
+00:07:16,941 --> 00:07:17,926
+minus four n.
+
+103
+00:07:19,066 --> 00:07:23,825
+Your turn. For the sequence two, nine,
+sixteen, twenty-three, find the common
+
+104
+00:07:23,825 --> 00:07:25,680
+difference and the tenth term.
+
+105
+00:07:26,130 --> 00:07:27,666
+Pause the video and try it.
+
+106
+00:07:28,116 --> 00:07:33,637
+The common difference is seven. The tenth
+term is two plus seven times nine, which
+
+107
+00:07:33,637 --> 00:07:34,580
+is sixty-five.
+
+108
+00:07:35,700 --> 00:07:40,966
+That completes Unit Four. Next, we'll
+start Unit Five: linear functions. If this
+
+109
+00:07:40,966 --> 00:07:45,772
+helped, subscribe to School Math,
+Explained, and turn on notifications so
+
+110
+00:07:45,772 --> 00:07:47,945
+you don't miss it. See you there.
+

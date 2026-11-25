@@ -1,0 +1,668 @@
+1
+00:00:00,000 --> 00:00:05,312
+Welcome to Unit Seven of Algebra One:
+exponents and exponential functions.
+
+2
+00:00:05,762 --> 00:00:09,154
+In this lesson, we'll learn the three main
+exponent rules.
+
+3
+00:00:10,300 --> 00:00:15,165
+An exponent counts repeated
+multiplication. Two to the fourth means
+
+4
+00:00:15,165 --> 00:00:18,940
+two times two times two times two, which
+is sixteen.
+
+5
+00:00:19,390 --> 00:00:22,270
+The two is the base, and the four is the
+exponent.
+
+6
+00:00:23,400 --> 00:00:28,307
+Product rule: when you multiply powers
+with the same base, add the exponents.
+
+7
+00:00:28,757 --> 00:00:35,452
+x squared times x cubed is x times x,
+times x times x times x. That's x to the
+
+8
+00:00:35,452 --> 00:00:35,967
+fifth.
+
+9
+00:00:37,100 --> 00:00:42,092
+Quotient rule: when you divide powers with
+the same base, subtract the exponents.
+
+10
+00:00:42,542 --> 00:00:47,854
+x to the seventh over x squared is x to
+the fifth, because two of the x's cancel.
+
+11
+00:00:49,000 --> 00:00:53,373
+Power rule: when you raise a power to a
+power, multiply the exponents.
+
+12
+00:00:53,823 --> 00:00:58,559
+x squared, all cubed, is x squared three
+times, which is x to the sixth.
+
+13
+00:00:59,700 --> 00:01:04,372
+Now combine them. Simplify two x cubed,
+times three x to the fourth.
+
+14
+00:01:04,822 --> 00:01:10,788
+Multiply the numbers: two times three is
+six. Add the exponents: x to the seventh.
+
+15
+00:01:10,788 --> 00:01:13,334
+The answer is six x to the seventh.
+
+16
+00:01:14,467 --> 00:01:19,693
+Your turn. Simplify x to the fifth times x
+cubed, all over x to the fourth.
+
+17
+00:01:20,143 --> 00:01:21,679
+Pause the video and try it.
+
+18
+00:01:22,129 --> 00:01:27,294
+The top is x to the eighth. Then eight
+minus four is four. The answer is x to the
+
+19
+00:01:27,294 --> 00:01:27,740
+fourth.
+
+20
+00:01:28,866 --> 00:01:34,019
+What could two to the zero, or two to the
+negative three, possibly mean? In this
+
+21
+00:01:34,019 --> 00:01:35,501
+lesson, we'll find out.
+
+22
+00:01:36,633 --> 00:01:41,308
+Look at the pattern. Two cubed is eight,
+two squared is four, two to the first is
+
+23
+00:01:41,308 --> 00:01:41,539
+two.
+
+24
+00:01:41,989 --> 00:01:48,025
+Each step down divides by two. So two to
+the zero is one. In fact, any nonzero
+
+25
+00:01:48,025 --> 00:01:50,501
+number to the zero power is one.
+
+26
+00:01:51,633 --> 00:01:56,689
+Keep going down the pattern. Two to the
+negative one is one half, and two to the
+
+27
+00:01:56,689 --> 00:01:58,395
+negative two is one fourth.
+
+28
+00:01:58,845 --> 00:02:04,586
+A negative exponent means take the
+reciprocal. x to the negative n equals one
+
+29
+00:02:04,586 --> 00:02:05,779
+over x to the n.
+
+30
+00:02:06,899 --> 00:02:10,121
+Five to the negative two is one over
+twenty-five.
+
+31
+00:02:10,571 --> 00:02:16,333
+And one over three to the negative two is
+three squared, which is nine. A negative
+
+32
+00:02:16,333 --> 00:02:18,933
+exponent in the denominator moves up.
+
+33
+00:02:20,066 --> 00:02:23,650
+Simplify x to the negative three times x
+to the fifth.
+
+34
+00:02:24,100 --> 00:02:28,623
+Add the exponents: negative three plus
+five is two. So it's x squared.
+
+35
+00:02:29,766 --> 00:02:34,523
+A common mistake: a negative exponent does
+not make the number negative.
+
+36
+00:02:34,973 --> 00:02:38,472
+Two to the negative one is one half, not
+negative two.
+
+37
+00:02:39,599 --> 00:02:44,165
+Your turn. Simplify four to the negative
+one, plus seven to the zero.
+
+38
+00:02:44,615 --> 00:02:46,151
+Pause the video and try it.
+
+39
+00:02:46,601 --> 00:02:52,507
+Four to the negative one is one fourth,
+and seven to the zero is one. The total is
+
+40
+00:02:52,507 --> 00:02:53,875
+one and one fourth.
+
+41
+00:02:55,000 --> 00:03:00,276
+Exponents don't have to be whole numbers.
+In this lesson, we'll see what fractional
+
+42
+00:03:00,276 --> 00:03:01,229
+exponents mean.
+
+43
+00:03:02,367 --> 00:03:07,753
+Nine to the one half, squared, is nine to
+the first, which is nine. So nine to the
+
+44
+00:03:07,753 --> 00:03:11,497
+one half must be the square root of nine,
+which is three.
+
+45
+00:03:11,947 --> 00:03:15,446
+In general, x to the one half is the
+square root of x.
+
+46
+00:03:16,567 --> 00:03:21,508
+The same idea works for cube roots. Eight
+to the one third is the cube root of
+
+47
+00:03:21,508 --> 00:03:22,775
+eight, which is two.
+
+48
+00:03:23,900 --> 00:03:29,532
+In general, x to the m over n is the n-th
+root of x, raised to the m.
+
+49
+00:03:29,982 --> 00:03:33,566
+The bottom of the fraction is the root,
+and the top is the power.
+
+50
+00:03:34,700 --> 00:03:36,556
+Evaluate eight to the two thirds.
+
+51
+00:03:37,006 --> 00:03:41,664
+The cube root of eight is two, and two
+squared is four. So eight to the two
+
+52
+00:03:41,664 --> 00:03:42,595
+thirds is four.
+
+53
+00:03:43,045 --> 00:03:45,605
+Taking the root first keeps the numbers
+small.
+
+54
+00:03:46,733 --> 00:03:52,488
+The exponent rules still apply. x to the
+one half times x to the one half is x to
+
+55
+00:03:52,488 --> 00:03:54,051
+the first, which is x.
+
+56
+00:03:55,200 --> 00:03:58,336
+Your turn. Evaluate twenty-seven to the
+two thirds.
+
+57
+00:03:58,786 --> 00:04:00,322
+Pause the video and try it.
+
+58
+00:04:00,772 --> 00:04:04,591
+The cube root of twenty-seven is three,
+and three squared is nine.
+
+59
+00:04:05,733 --> 00:04:11,706
+Scientists write huge and tiny numbers
+with powers of ten. In this lesson, we'll
+
+60
+00:04:11,706 --> 00:04:13,648
+learn scientific notation.
+
+61
+00:04:14,766 --> 00:04:19,054
+A number in scientific notation looks like
+a times ten to the n.
+
+62
+00:04:19,504 --> 00:04:23,963
+The number a is at least one and less than
+ten, and n is an integer.
+
+63
+00:04:25,100 --> 00:04:28,812
+Write three hundred forty thousand in
+scientific notation.
+
+64
+00:04:29,262 --> 00:04:34,813
+Move the decimal point five places to the
+left to get three point four. So it's
+
+65
+00:04:34,813 --> 00:04:37,624
+three point four times ten to the fifth.
+
+66
+00:04:38,766 --> 00:04:42,244
+Now write zero point zero zero zero six
+two.
+
+67
+00:04:42,694 --> 00:04:48,481
+Move the decimal four places to the right
+to get six point two. Small numbers get
+
+68
+00:04:48,481 --> 00:04:53,126
+negative exponents: six point two times
+ten to the negative four.
+
+69
+00:04:54,266 --> 00:04:57,850
+To multiply, multiply the numbers and add
+the exponents.
+
+70
+00:04:58,300 --> 00:05:03,631
+Three times ten to the fourth, times two
+times ten to the fifth, is six times ten
+
+71
+00:05:03,631 --> 00:05:04,487
+to the ninth.
+
+72
+00:05:05,633 --> 00:05:09,196
+To divide, divide the numbers and subtract
+the exponents.
+
+73
+00:05:09,646 --> 00:05:15,236
+Eight times ten to the sixth, divided by
+four times ten to the two, is two times
+
+74
+00:05:15,236 --> 00:05:16,494
+ten to the fourth.
+
+75
+00:05:17,633 --> 00:05:23,925
+Your turn. Multiply five times ten cubed
+by four times ten to the sixth. Remember,
+
+76
+00:05:23,925 --> 00:05:27,148
+the answer must be in scientific notation.
+
+77
+00:05:27,598 --> 00:05:29,134
+Pause the video and try it.
+
+78
+00:05:29,584 --> 00:05:35,667
+Five times four is twenty, and three plus
+six is nine. Twenty times ten to the ninth
+
+79
+00:05:35,667 --> 00:05:37,840
+is two times ten to the tenth.
+
+80
+00:05:38,966 --> 00:05:43,786
+In this lesson, we'll meet exponential
+functions, where the variable is in the
+
+81
+00:05:43,786 --> 00:05:44,342
+exponent.
+
+82
+00:05:45,466 --> 00:05:50,671
+An exponential function has the form f of
+x equals a times b to the x.
+
+83
+00:05:51,121 --> 00:05:56,135
+a is the starting value, and b is the
+base, a positive number that isn't one.
+
+84
+00:05:57,266 --> 00:06:00,317
+Make a table for f of x equals two to the
+x.
+
+85
+00:06:00,767 --> 00:06:06,808
+At x equals zero, the value is one. Then
+two, four, eight. Each step multiplies by
+
+86
+00:06:06,808 --> 00:06:07,103
+two.
+
+87
+00:06:08,233 --> 00:06:13,449
+Plot the points and connect them. The
+curve rises slowly at first, then faster
+
+88
+00:06:13,449 --> 00:06:14,185
+and faster.
+
+89
+00:06:14,635 --> 00:06:18,859
+On the left, it gets close to zero but
+never touches the x axis.
+
+90
+00:06:19,999 --> 00:06:26,314
+Take f of x equals three times two to the
+x. At x equals zero, f equals three.
+
+91
+00:06:26,764 --> 00:06:30,433
+So a is the y intercept: the value where
+the graph starts.
+
+92
+00:06:31,566 --> 00:06:34,019
+Here's the key difference from linear
+functions.
+
+93
+00:06:34,469 --> 00:06:39,582
+A linear function adds the same amount
+each step. An exponential function
+
+94
+00:06:39,582 --> 00:06:42,384
+multiplies by the same factor each step.
+
+95
+00:06:43,533 --> 00:06:49,705
+Your turn. For f of x equals five times
+three to the x, find f of zero and f of
+
+96
+00:06:49,705 --> 00:06:50,018
+two.
+
+97
+00:06:50,468 --> 00:06:52,004
+Pause the video and try it.
+
+98
+00:06:52,454 --> 00:06:57,702
+f of zero is five. f of two is five times
+nine, which is forty-five.
+
+99
+00:06:58,833 --> 00:07:04,190
+Exponential functions model things that
+grow or shrink by a percent. In this
+
+100
+00:07:04,190 --> 00:07:06,940
+lesson, we'll look at growth and decay.
+
+101
+00:07:08,066 --> 00:07:11,309
+When the base b is greater than one, the
+function grows.
+
+102
+00:07:11,759 --> 00:07:17,257
+A population of one hundred that doubles
+each year is one hundred times two to the
+
+103
+00:07:17,257 --> 00:07:17,391
+t.
+
+104
+00:07:18,533 --> 00:07:21,946
+When b is between zero and one, the
+function decays.
+
+105
+00:07:22,396 --> 00:07:27,687
+A forty milligram dose that halves every
+hour is forty times one half to the t.
+
+106
+00:07:28,833 --> 00:07:32,524
+For growth by a percent r, use b equals
+one plus r.
+
+107
+00:07:32,974 --> 00:07:38,929
+A two thousand dollar investment growing
+five percent a year is two thousand times
+
+108
+00:07:38,929 --> 00:07:44,595
+one point zero five to the t. After two
+years, that's two thousand two hundred
+
+109
+00:07:44,595 --> 00:07:45,539
+five dollars.
+
+110
+00:07:46,666 --> 00:07:50,613
+For decay by a percent r, use b equals one
+minus r.
+
+111
+00:07:51,063 --> 00:07:56,021
+A twenty thousand dollar car losing
+fifteen percent each year is twenty
+
+112
+00:07:56,021 --> 00:07:59,234
+thousand times zero point eight five to
+the t.
+
+113
+00:08:00,366 --> 00:08:02,926
+To decide growth or decay, look at the
+base.
+
+114
+00:08:03,376 --> 00:08:09,463
+One point zero three is greater than one:
+growth of three percent. Zero point nine
+
+115
+00:08:09,463 --> 00:08:12,358
+is less than one: decay of ten percent.
+
+116
+00:08:13,500 --> 00:08:18,900
+Your turn. A town of eight thousand grows
+four percent per year. Write the model,
+
+117
+00:08:18,900 --> 00:08:21,500
+and find the population after one year.
+
+118
+00:08:21,950 --> 00:08:23,486
+Pause the video and try it.
+
+119
+00:08:23,936 --> 00:08:29,448
+The model is eight thousand times one
+point zero four to the t. After one year,
+
+120
+00:08:29,448 --> 00:08:32,448
+that's eight thousand three hundred
+twenty.
+
+121
+00:08:33,566 --> 00:08:39,446
+In Unit Four we saw arithmetic sequences,
+which add the same number each time. In
+
+122
+00:08:39,446 --> 00:08:45,107
+this last lesson of Unit Seven, we'll see
+geometric sequences, which multiply.
+
+123
+00:08:46,233 --> 00:08:50,670
+In three, six, twelve, twenty-four, each
+term is twice the one before.
+
+124
+00:08:51,120 --> 00:08:56,432
+The constant multiplier is called the
+common ratio, r. Here r equals two.
+
+125
+00:08:57,566 --> 00:09:04,291
+The formula for the n-th term is a sub n
+equals a sub one times r to the n minus
+
+126
+00:09:04,291 --> 00:09:04,627
+one.
+
+127
+00:09:05,077 --> 00:09:09,621
+For our sequence, a sub n equals three
+times two to the n minus one.
+
+128
+00:09:10,766 --> 00:09:12,174
+Find the seventh term.
+
+129
+00:09:12,624 --> 00:09:17,674
+Three times two to the sixth is three
+times sixty-four, which is one hundred
+
+130
+00:09:17,674 --> 00:09:18,405
+ninety-two.
+
+131
+00:09:19,533 --> 00:09:24,290
+Compare. Two, five, eight, eleven adds
+three each time, so it's arithmetic.
+
+132
+00:09:24,740 --> 00:09:30,939
+Two, six, eighteen, fifty-four multiplies
+by three each time, so it's geometric. A
+
+133
+00:09:30,939 --> 00:09:36,004
+geometric sequence is an exponential
+function on the whole numbers.
+
+134
+00:09:37,133 --> 00:09:43,118
+The ratio can be a fraction. In eighty,
+forty, twenty, ten, the ratio is one half,
+
+135
+00:09:43,118 --> 00:09:44,578
+so the terms shrink.
+
+136
+00:09:45,699 --> 00:09:50,478
+Your turn. Find the sixth term of five,
+fifteen, forty-five, and so on.
+
+137
+00:09:50,928 --> 00:09:52,464
+Pause the video and try it.
+
+138
+00:09:52,914 --> 00:09:57,972
+The ratio is three. Five times three to
+the fifth is five times two hundred
+
+139
+00:09:57,972 --> 00:10:01,682
+forty-three, which is one thousand two
+hundred fifteen.
+
+140
+00:10:02,799 --> 00:10:07,540
+That completes Unit Seven. Next, we'll
+start Unit Eight: polynomials and
+
+141
+00:10:07,540 --> 00:10:12,478
+factoring. If this helped, subscribe to
+School Math, Explained, and turn on
+
+142
+00:10:12,478 --> 00:10:15,770
+notifications so you don't miss it. See
+you there.
+
