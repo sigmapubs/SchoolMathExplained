@@ -1,0 +1,792 @@
+1
+00:00:00,000 --> 00:00:05,842
+Welcome to Unit Eight of Algebra Two:
+exponential and logarithmic functions. We
+
+2
+00:00:05,842 --> 00:00:08,725
+start by revisiting exponential models.
+
+3
+00:00:09,867 --> 00:00:16,134
+y equals a times b to the x grows when b
+is greater than one, and decays when b is
+
+4
+00:00:16,134 --> 00:00:17,739
+between zero and one.
+
+5
+00:00:18,189 --> 00:00:24,404
+b equals one point zero six means six
+percent growth. b equals zero point nine
+
+6
+00:00:24,404 --> 00:00:26,317
+means ten percent decay.
+
+7
+00:00:27,467 --> 00:00:32,693
+y equals two to the x has a horizontal
+asymptote at y equals zero.
+
+8
+00:00:33,143 --> 00:00:38,998
+y equals two to the x minus one, plus
+three, is shifted right one and up three,
+
+9
+00:00:38,998 --> 00:00:41,591
+so its asymptote is y equals three.
+
+10
+00:00:42,733 --> 00:00:47,469
+Write an exponential through zero comma
+five and two comma forty-five.
+
+11
+00:00:47,919 --> 00:00:54,405
+At x equals zero, a equals five. Then five
+times b squared equals forty-five, so b
+
+12
+00:00:54,405 --> 00:01:00,101
+squared is nine, and b equals three. y
+equals five times three to the x.
+
+13
+00:01:01,233 --> 00:01:06,487
+Rates can be restated for different
+periods. Twelve percent per year is about
+
+14
+00:01:06,487 --> 00:01:09,148
+zero point nine five percent per month.
+
+15
+00:01:09,598 --> 00:01:15,306
+That's because one point one two to the
+one twelfth is about one point zero zero
+
+16
+00:01:15,306 --> 00:01:16,019
+nine five.
+
+17
+00:01:17,167 --> 00:01:22,925
+Exponential growth always overtakes linear
+growth eventually, no matter how slow the
+
+18
+00:01:22,925 --> 00:01:23,268
+base.
+
+19
+00:01:24,400 --> 00:01:29,792
+Your turn. Write an exponential through
+zero comma two hundred and one comma one
+
+20
+00:01:29,792 --> 00:01:30,736
+hundred fifty.
+
+21
+00:01:31,186 --> 00:01:32,722
+Pause the video and try it.
+
+22
+00:01:33,172 --> 00:01:39,165
+a is two hundred, and b is one fifty over
+two hundred, which is zero point seven
+
+23
+00:01:39,165 --> 00:01:44,859
+five. y equals two hundred times zero
+point seven five to the x: twenty-five
+
+24
+00:01:44,859 --> 00:01:45,908
+percent decay.
+
+25
+00:01:47,033 --> 00:01:52,134
+There's a special number that shows up
+whenever growth is continuous. It's called
+
+26
+00:01:52,134 --> 00:01:52,260
+e.
+
+27
+00:01:53,400 --> 00:01:58,987
+Invest one dollar at one hundred percent
+interest for a year. Compounded once, you
+
+28
+00:01:58,987 --> 00:02:00,077
+get two dollars.
+
+29
+00:02:00,527 --> 00:02:05,773
+Compounded monthly, about two dollars
+sixty-one. Daily, about two dollars
+
+30
+00:02:05,773 --> 00:02:07,354
+seventy-one forty-six.
+
+31
+00:02:08,500 --> 00:02:14,044
+As you compound more and more often, the
+amount approaches a limit, about two point
+
+32
+00:02:14,044 --> 00:02:15,113
+seven one eight.
+
+33
+00:02:15,563 --> 00:02:21,417
+That number is e, the value of one plus
+one over n, to the n, as n grows without
+
+34
+00:02:21,417 --> 00:02:21,856
+bound.
+
+35
+00:02:23,000 --> 00:02:27,394
+For continuous compounding, A equals P
+times e to the r t.
+
+36
+00:02:27,844 --> 00:02:33,135
+One thousand dollars at five percent for
+ten years: one thousand times e to the
+
+37
+00:02:33,135 --> 00:02:37,956
+point five, which is about one thousand
+six hundred forty-eight dollars.
+
+38
+00:02:39,100 --> 00:02:44,745
+With annual compounding, it would be one
+thousand times one point zero five to the
+
+39
+00:02:44,745 --> 00:02:48,188
+tenth: about one thousand six hundred
+twenty-nine.
+
+40
+00:02:48,638 --> 00:02:51,688
+Continuous compounding always gives a
+little more.
+
+41
+00:02:52,833 --> 00:02:58,112
+The graph of y equals e to the x looks
+like two to the x and three to the x,
+
+42
+00:02:58,112 --> 00:03:01,238
+passing through zero comma one, between
+them.
+
+43
+00:03:01,688 --> 00:03:07,171
+Its slope at zero is exactly one, which
+makes it the natural choice in calculus.
+
+44
+00:03:08,300 --> 00:03:13,475
+Your turn. Find the value of five hundred
+dollars at four percent compounded
+
+45
+00:03:13,475 --> 00:03:15,382
+continuously for five years.
+
+46
+00:03:15,832 --> 00:03:17,368
+Pause the video and try it.
+
+47
+00:03:17,818 --> 00:03:23,097
+Five hundred times e to the point two,
+about six hundred ten dollars and seventy
+
+48
+00:03:23,097 --> 00:03:23,493
+cents.
+
+49
+00:03:24,633 --> 00:03:28,644
+How do you solve two to the x equals
+eight? You need a logarithm.
+
+50
+00:03:29,766 --> 00:03:33,244
+log base b of x asks: what power of b
+gives x?
+
+51
+00:03:33,694 --> 00:03:37,107
+log base two of eight is three, because
+two cubed is eight.
+
+52
+00:03:38,233 --> 00:03:42,158
+Every log statement is an exponential
+statement in disguise.
+
+53
+00:03:42,608 --> 00:03:49,395
+log base b of x equals y means b to the y
+equals x. log base five of twenty-five
+
+54
+00:03:49,395 --> 00:03:53,552
+equals two means five squared equals
+twenty-five.
+
+55
+00:03:54,700 --> 00:03:59,733
+Evaluate log base three of one
+eighty-first. Three to what power is one
+
+56
+00:03:59,733 --> 00:04:01,718
+eighty-first? Negative four.
+
+57
+00:04:02,168 --> 00:04:06,670
+log base ten of one is zero, because any
+base to the zero is one.
+
+58
+00:04:07,800 --> 00:04:13,944
+log with no base means base ten, the
+common log. ln means base e, the natural
+
+59
+00:04:13,944 --> 00:04:14,264
+log.
+
+60
+00:04:14,714 --> 00:04:18,426
+log of one thousand is three, and ln of e
+squared is two.
+
+61
+00:04:19,566 --> 00:04:26,357
+Logs and exponentials are inverses. b to
+the log base b of x is x, and log base b
+
+62
+00:04:26,357 --> 00:04:27,950
+of b to the x is x.
+
+63
+00:04:28,400 --> 00:04:31,750
+So their graphs are reflections across y
+equals x.
+
+64
+00:04:32,900 --> 00:04:38,276
+Your turn. Evaluate log base four of
+sixty-four, and log base two of one half.
+
+65
+00:04:38,726 --> 00:04:40,262
+Pause the video and try it.
+
+66
+00:04:40,712 --> 00:04:46,475
+Four cubed is sixty-four, so three. Two to
+the negative one is one half, so negative
+
+67
+00:04:46,475 --> 00:04:46,749
+one.
+
+68
+00:04:47,866 --> 00:04:52,888
+Logarithms turn multiplication into
+addition. In this lesson, we'll see the
+
+69
+00:04:52,888 --> 00:04:54,629
+rules that make that work.
+
+70
+00:04:55,766 --> 00:05:00,246
+Product rule: log of m times n equals log
+m plus log n.
+
+71
+00:05:00,696 --> 00:05:03,917
+That's because exponents add when you
+multiply powers.
+
+72
+00:05:05,066 --> 00:05:09,589
+Quotient rule: log of m over n equals log
+m minus log n.
+
+73
+00:05:10,733 --> 00:05:14,658
+Power rule: log of m to the k equals k
+times log m.
+
+74
+00:05:15,108 --> 00:05:19,652
+log base two of eight to the fifth is five
+times three, which is fifteen.
+
+75
+00:05:20,799 --> 00:05:26,709
+Expand log of x squared y over z: two log
+x plus log y minus log z.
+
+76
+00:05:27,159 --> 00:05:32,663
+Condense three ln x minus ln four: that's
+ln of x cubed over four.
+
+77
+00:05:33,799 --> 00:05:40,882
+Calculators only have log and ln. Change
+of base: log base b of x equals log x over
+
+78
+00:05:40,882 --> 00:05:41,394
+log b.
+
+79
+00:05:41,844 --> 00:05:47,222
+log base three of twenty is log twenty
+over log three, about two point seven
+
+80
+00:05:47,222 --> 00:05:47,647
+three.
+
+81
+00:05:48,766 --> 00:05:53,673
+Your turn. Condense two log base three of
+x plus log base three of five.
+
+82
+00:05:54,123 --> 00:05:55,659
+Pause the video and try it.
+
+83
+00:05:56,109 --> 00:05:58,263
+log base three of five x squared.
+
+84
+00:05:59,400 --> 00:06:03,965
+In this lesson, we'll solve equations
+where the variable is in the exponent.
+
+85
+00:06:05,100 --> 00:06:09,665
+If you can write both sides with the same
+base, set the exponents equal.
+
+86
+00:06:10,115 --> 00:06:16,340
+Four to the x plus one equals eight. Write
+both as powers of two: two to the two x
+
+87
+00:06:16,340 --> 00:06:22,489
+plus two equals two cubed. So two x plus
+two equals three, and x equals one half.
+
+88
+00:06:23,633 --> 00:06:28,220
+Otherwise, take the log of both sides.
+Three to the x equals twenty.
+
+89
+00:06:28,670 --> 00:06:35,063
+x log three equals log twenty, so x equals
+log twenty over log three, about two point
+
+90
+00:06:35,063 --> 00:06:35,966
+seven three.
+
+91
+00:06:37,100 --> 00:06:41,409
+With base e, use ln. Five e to the two x
+equals forty.
+
+92
+00:06:41,859 --> 00:06:48,585
+Divide by five: e to the two x equals
+eight. Take ln: two x equals ln eight, so
+
+93
+00:06:48,585 --> 00:06:51,225
+x is about one point zero four.
+
+94
+00:06:52,367 --> 00:06:58,270
+How long until an investment doubles at
+six percent compounded yearly? One point
+
+95
+00:06:58,270 --> 00:07:00,409
+zero six to the t equals two.
+
+96
+00:07:00,859 --> 00:07:07,110
+t equals ln two over ln one point zero
+six, about eleven point nine years.
+
+97
+00:07:08,233 --> 00:07:12,031
+Always isolate the exponential part before
+taking logs.
+
+98
+00:07:12,481 --> 00:07:18,139
+In two times three to the x plus one
+equals nineteen, subtract one and divide
+
+99
+00:07:18,139 --> 00:07:19,094
+by two first.
+
+100
+00:07:20,233 --> 00:07:23,732
+Your turn. Solve e to the x minus two
+equals five.
+
+101
+00:07:24,182 --> 00:07:25,718
+Pause the video and try it.
+
+102
+00:07:26,168 --> 00:07:33,609
+Take ln: x minus two equals ln five, so x
+equals two plus ln five, about three point
+
+103
+00:07:33,609 --> 00:07:34,317
+six one.
+
+104
+00:07:35,466 --> 00:07:40,293
+In this lesson, we'll solve equations with
+logarithms, and check for answers that
+
+105
+00:07:40,293 --> 00:07:40,949
+don't work.
+
+106
+00:07:42,066 --> 00:07:48,295
+Rewrite a single log in exponential form.
+log base two of x plus three equals five.
+
+107
+00:07:48,745 --> 00:07:53,720
+So x plus three equals two to the fifth,
+which is thirty-two, and x equals
+
+108
+00:07:53,720 --> 00:07:54,527
+twenty-nine.
+
+109
+00:07:55,666 --> 00:08:02,109
+Condense several logs into one first. log
+x plus log of x minus three equals one.
+
+110
+00:08:02,559 --> 00:08:09,139
+That's log of x times x minus three equals
+one. So x squared minus three x equals
+
+111
+00:08:09,139 --> 00:08:12,308
+ten, and x equals five or negative two.
+
+112
+00:08:13,433 --> 00:08:18,318
+If each side is a single log with the same
+base, set the insides equal.
+
+113
+00:08:18,768 --> 00:08:25,747
+ln of two x plus one equals ln of x plus
+four, so two x plus one equals x plus
+
+114
+00:08:25,747 --> 00:08:27,984
+four, and x equals three.
+
+115
+00:08:29,133 --> 00:08:32,461
+You can't take the log of a negative
+number or zero.
+
+116
+00:08:32,911 --> 00:08:39,047
+In the earlier example, x equals negative
+two makes log x undefined. So only x
+
+117
+00:08:39,047 --> 00:08:40,463
+equals five works.
+
+118
+00:08:41,599 --> 00:08:46,634
+ln x equals three means x equals e cubed,
+about twenty point one.
+
+119
+00:08:47,766 --> 00:08:52,182
+Your turn. Solve log base three of two x
+minus one equals two.
+
+120
+00:08:52,632 --> 00:08:54,168
+Pause the video and try it.
+
+121
+00:08:54,618 --> 00:08:58,245
+Two x minus one equals nine, so x equals
+five.
+
+122
+00:08:59,366 --> 00:09:04,875
+Since logs are inverses of exponentials,
+their graphs are reflections. Let's graph
+
+123
+00:09:04,875 --> 00:09:05,211
+them.
+
+124
+00:09:06,333 --> 00:09:12,966
+Reflect y equals two to the x across the
+line y equals x, and you get y equals log
+
+125
+00:09:12,966 --> 00:09:14,098
+base two of x.
+
+126
+00:09:15,233 --> 00:09:21,020
+Key points for log base two: one half
+comma negative one, one comma zero, two
+
+127
+00:09:21,020 --> 00:09:23,275
+comma one, and four comma two.
+
+128
+00:09:23,725 --> 00:09:26,605
+Every log graph passes through one comma
+zero.
+
+129
+00:09:27,733 --> 00:09:34,389
+The exponential's horizontal asymptote, y
+equals zero, becomes a vertical asymptote,
+
+130
+00:09:34,389 --> 00:09:35,498
+x equals zero.
+
+131
+00:09:35,948 --> 00:09:40,876
+The log graph drops steeply near the y
+axis, and rises slowly to the right.
+
+132
+00:09:41,999 --> 00:09:47,994
+y equals log base two of x minus three,
+plus one, shifts right three and up one.
+
+133
+00:09:48,444 --> 00:09:54,426
+Its asymptote moves to x equals three, and
+the point one comma zero moves to four
+
+134
+00:09:54,426 --> 00:09:55,164
+comma one.
+
+135
+00:09:56,299 --> 00:10:02,292
+The domain of a log function is where the
+inside is positive. The range is all real
+
+136
+00:10:02,292 --> 00:10:02,870
+numbers.
+
+137
+00:10:03,320 --> 00:10:07,245
+For log of x minus three, the domain is x
+greater than three.
+
+138
+00:10:07,366 --> 00:10:13,849
+Your turn. Find the asymptote and domain
+of y equals ln of x plus five.
+
+139
+00:10:14,299 --> 00:10:15,835
+Pause the video and try it.
+
+140
+00:10:16,285 --> 00:10:22,437
+The asymptote is x equals negative five,
+and the domain is x greater than negative
+
+141
+00:10:22,437 --> 00:10:22,813
+five.
+
+142
+00:10:23,933 --> 00:10:29,331
+In this last lesson of Unit Eight, we'll
+use exponentials and logs to answer real
+
+143
+00:10:29,331 --> 00:10:31,464
+questions about money and decay.
+
+144
+00:10:32,600 --> 00:10:39,424
+A equals P times one plus r over n, to the
+n t. P is the principal, r the rate, n the
+
+145
+00:10:39,424 --> 00:10:43,117
+compounding periods per year, and t the
+years.
+
+146
+00:10:43,567 --> 00:10:48,814
+Two thousand dollars at six percent
+compounded monthly for five years is about
+
+147
+00:10:48,814 --> 00:10:51,908
+two thousand six hundred ninety-eight
+dollars.
+
+148
+00:10:53,033 --> 00:10:58,022
+How long until two thousand dollars grows
+to three thousand at five percent
+
+149
+00:10:58,022 --> 00:10:59,220
+compounded yearly?
+
+150
+00:10:59,670 --> 00:11:06,362
+One point zero five to the t equals one
+point five. t equals ln one point five
+
+151
+00:11:06,362 --> 00:11:11,424
+over ln one point zero five, about eight
+point three years.
+
+152
+00:11:12,566 --> 00:11:18,812
+A substance with half-life h follows A
+equals A zero times one half to the t over
+
+153
+00:11:18,812 --> 00:11:18,966
+h.
+
+154
+00:11:19,416 --> 00:11:25,438
+Iodine one thirty-one has a half-life of
+eight days. After twenty-four days, three
+
+155
+00:11:25,438 --> 00:11:27,715
+half-lives, one eighth remains.
+
+156
+00:11:28,833 --> 00:11:33,676
+If eighty grams decays to fifty grams in
+ten hours, find the half-life.
+
+157
+00:11:34,126 --> 00:11:40,148
+Fifty over eighty equals one half to the
+ten over h. Taking logs gives h about
+
+158
+00:11:40,148 --> 00:11:42,232
+fourteen point seven hours.
+
+159
+00:11:43,366 --> 00:11:48,700
+Carbon fourteen has a half-life of about
+five thousand seven hundred thirty years.
+
+160
+00:11:49,150 --> 00:11:54,612
+A bone with thirty percent of its carbon
+fourteen left is about five thousand seven
+
+161
+00:11:54,612 --> 00:11:59,943
+hundred thirty times log base one half of
+point three, roughly nine thousand nine
+
+162
+00:11:59,943 --> 00:12:01,523
+hundred fifty years old.
+
+163
+00:12:02,666 --> 00:12:07,512
+Your turn. How long does it take money to
+triple at eight percent compounded
+
+164
+00:12:07,512 --> 00:12:08,341
+continuously?
+
+165
+00:12:08,791 --> 00:12:10,327
+Pause the video and try it.
+
+166
+00:12:10,777 --> 00:12:16,825
+e to the point oh eight t equals three, so
+t equals ln three over point oh eight,
+
+167
+00:12:16,825 --> 00:12:19,289
+about thirteen point seven years.
+
+168
+00:12:20,433 --> 00:12:25,681
+That completes Unit Eight. Next, we'll
+study sequences and series in Unit Nine.
+
+169
+00:12:25,681 --> 00:12:31,062
+If this helped, subscribe to School Math,
+Explained, and turn on notifications so
+
+170
+00:12:31,062 --> 00:12:33,254
+you don't miss it. See you there.
+
