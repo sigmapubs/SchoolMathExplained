@@ -1,0 +1,677 @@
+1
+00:00:00,000 --> 00:00:03,733
+Welcome to Unit Five of Algebra One:
+linear functions.
+
+2
+00:00:04,183 --> 00:00:08,471
+In this lesson, we'll learn about slope,
+which measures how steep a line is.
+
+3
+00:00:09,600 --> 00:00:14,708
+A rate of change compares how much one
+quantity changes to how much another
+
+4
+00:00:14,708 --> 00:00:15,253
+changes.
+
+5
+00:00:15,703 --> 00:00:20,615
+If you save twenty dollars every week,
+your savings grow at twenty dollars per
+
+6
+00:00:20,615 --> 00:00:20,930
+week.
+
+7
+00:00:22,067 --> 00:00:28,351
+For a line, the rate of change is called
+the slope. Slope equals rise over run: the
+
+8
+00:00:28,351 --> 00:00:31,304
+change in y divided by the change in x.
+
+9
+00:00:31,754 --> 00:00:37,663
+As a formula, m equals y two minus y one,
+over x two minus x one.
+
+10
+00:00:38,800 --> 00:00:42,277
+Find the slope through one comma two and
+four comma eight.
+
+11
+00:00:42,727 --> 00:00:48,827
+The change in y is eight minus two, which
+is six. The change in x is four minus one,
+
+12
+00:00:48,827 --> 00:00:49,917
+which is three.
+
+13
+00:00:50,367 --> 00:00:53,183
+Six over three is two. So the slope is
+two.
+
+14
+00:00:54,300 --> 00:00:58,439
+Now through negative two comma five and
+two comma negative three.
+
+15
+00:00:58,889 --> 00:01:04,518
+The change in y is negative three minus
+five, negative eight. The change in x is
+
+16
+00:01:04,518 --> 00:01:09,726
+four. The slope is negative two, so the
+line goes down from left to right.
+
+17
+00:01:10,867 --> 00:01:15,027
+A horizontal line has slope zero, because
+y doesn't change.
+
+18
+00:01:15,477 --> 00:01:20,922
+A vertical line has an undefined slope,
+because the run is zero, and we can't
+
+19
+00:01:20,922 --> 00:01:21,983
+divide by zero.
+
+20
+00:01:23,133 --> 00:01:28,151
+Your turn. Find the slope of the line
+through negative one comma four and three
+
+21
+00:01:28,151 --> 00:01:28,787
+comma six.
+
+22
+00:01:29,237 --> 00:01:30,773
+Pause the video and try it.
+
+23
+00:01:31,223 --> 00:01:36,813
+The change in y is two, and the change in
+x is four. The slope is two over four,
+
+24
+00:01:36,813 --> 00:01:38,071
+which is one half.
+
+25
+00:01:39,200 --> 00:01:43,376
+In this lesson, we'll learn the most
+popular way to write a line:
+
+26
+00:01:43,376 --> 00:01:44,725
+slope-intercept form.
+
+27
+00:01:45,867 --> 00:01:53,026
+y equals m x plus b. m is the slope, and b
+is the y intercept, where the line crosses
+
+28
+00:01:53,026 --> 00:01:53,952
+the y axis.
+
+29
+00:01:55,100 --> 00:02:00,753
+To graph y equals two x plus one, start at
+the y intercept, zero comma one.
+
+30
+00:02:01,203 --> 00:02:06,878
+The slope two means rise two, run one.
+Plot another point at one comma three, and
+
+31
+00:02:06,878 --> 00:02:07,859
+draw the line.
+
+32
+00:02:09,000 --> 00:02:14,995
+Now graph y equals negative two thirds x
+plus four. Start at zero comma four.
+
+33
+00:02:15,445 --> 00:02:20,225
+The slope says go down two and right
+three, to three comma two. Connect the
+
+34
+00:02:20,225 --> 00:02:20,671
+points.
+
+35
+00:02:21,800 --> 00:02:26,493
+To write the equation from a graph, read
+the y intercept and count the slope.
+
+36
+00:02:26,943 --> 00:02:32,946
+This line crosses at negative three, and
+rises one for every two across. So y
+
+37
+00:02:32,946 --> 00:02:35,285
+equals one half x minus three.
+
+38
+00:02:36,433 --> 00:02:39,612
+If an equation isn't in this form, solve
+for y.
+
+39
+00:02:40,062 --> 00:02:46,074
+Three x plus y equals five becomes y
+equals negative three x plus five. The
+
+40
+00:02:46,074 --> 00:02:50,323
+slope is negative three, and the y
+intercept is five.
+
+41
+00:02:51,467 --> 00:02:56,693
+Your turn. Find the slope and y intercept
+of two x plus y equals seven.
+
+42
+00:02:57,143 --> 00:02:58,679
+Pause the video and try it.
+
+43
+00:02:59,129 --> 00:03:05,538
+Subtract two x: y equals negative two x
+plus seven. The slope is negative two, and
+
+44
+00:03:05,538 --> 00:03:07,492
+the y intercept is seven.
+
+45
+00:03:08,633 --> 00:03:13,296
+When you know one point on a line and its
+slope, point-slope form writes the
+
+46
+00:03:13,296 --> 00:03:14,585
+equation in one step.
+
+47
+00:03:15,733 --> 00:03:20,810
+The form is y minus y one equals m times x
+minus x one.
+
+48
+00:03:21,260 --> 00:03:25,804
+Here, x one comma y one is a point on the
+line, and m is the slope.
+
+49
+00:03:26,933 --> 00:03:29,941
+Write the line through two comma five with
+slope three.
+
+50
+00:03:30,391 --> 00:03:35,831
+Plug in: y minus five equals three times x
+minus two. That's the equation.
+
+51
+00:03:36,966 --> 00:03:41,382
+To convert to slope-intercept form,
+distribute and solve for y.
+
+52
+00:03:41,832 --> 00:03:48,552
+y minus five equals three x minus six. Add
+five: y equals three x minus one.
+
+53
+00:03:49,700 --> 00:03:55,087
+Given two points, find the slope first.
+Through one comma negative one and three
+
+54
+00:03:55,087 --> 00:03:58,724
+comma three, the slope is four over two,
+which is two.
+
+55
+00:03:59,174 --> 00:04:06,363
+Then y plus one equals two times x minus
+one. Simplify: y equals two x minus three.
+
+56
+00:04:07,500 --> 00:04:12,824
+Careful with negative coordinates. Through
+negative four comma two with slope one
+
+57
+00:04:12,824 --> 00:04:13,153
+half:
+
+58
+00:04:13,603 --> 00:04:20,067
+y minus two equals one half times x plus
+four. Subtracting a negative becomes plus.
+
+59
+00:04:21,200 --> 00:04:26,466
+Your turn. Write the equation of the line
+through two comma one and four comma
+
+60
+00:04:26,466 --> 00:04:28,560
+seven, in slope-intercept form.
+
+61
+00:04:29,010 --> 00:04:30,546
+Pause the video and try it.
+
+62
+00:04:30,996 --> 00:04:37,701
+The slope is six over two, which is three.
+y minus one equals three times x minus
+
+63
+00:04:37,701 --> 00:04:40,681
+two, so y equals three x minus five.
+
+64
+00:04:41,800 --> 00:04:47,282
+Lines can also be written in standard
+form. In this lesson, we'll use it to find
+
+65
+00:04:47,282 --> 00:04:48,584
+intercepts quickly.
+
+66
+00:04:49,733 --> 00:04:55,472
+Standard form is A x plus B y equals C,
+where A, B and C are integers.
+
+67
+00:04:55,922 --> 00:04:59,207
+For example, two x plus three y equals
+twelve.
+
+68
+00:05:00,333 --> 00:05:05,709
+The x intercept is where the line crosses
+the x axis, so y equals zero.
+
+69
+00:05:06,159 --> 00:05:12,991
+Set y to zero: two x equals twelve, so x
+equals six. The x intercept is six comma
+
+70
+00:05:12,991 --> 00:05:13,413
+zero.
+
+71
+00:05:14,533 --> 00:05:17,093
+The y intercept is where x equals zero.
+
+72
+00:05:17,543 --> 00:05:23,645
+Three y equals twelve, so y equals four.
+The y intercept is zero comma four.
+
+73
+00:05:24,767 --> 00:05:27,647
+Plot both intercepts and draw the line
+through them.
+
+74
+00:05:28,097 --> 00:05:31,467
+That's the fastest way to graph a line in
+standard form.
+
+75
+00:05:32,600 --> 00:05:37,656
+To convert from slope-intercept form, move
+the x term to the left and clear the
+
+76
+00:05:37,656 --> 00:05:38,296
+fractions.
+
+77
+00:05:38,746 --> 00:05:45,396
+y equals one half x plus three. Subtract
+one half x: negative one half x plus y
+
+78
+00:05:45,396 --> 00:05:46,490
+equals three.
+
+79
+00:05:46,940 --> 00:05:52,743
+Multiply everything by negative two: x
+minus two y equals negative six.
+
+80
+00:05:53,867 --> 00:05:58,816
+Your turn. Find the intercepts of four x
+minus five y equals twenty.
+
+81
+00:05:59,266 --> 00:06:00,802
+Pause the video and try it.
+
+82
+00:06:01,252 --> 00:06:08,231
+Set y to zero: x equals five. Set x to
+zero: negative five y equals twenty, so y
+
+83
+00:06:08,231 --> 00:06:10,063
+equals negative four.
+
+84
+00:06:11,200 --> 00:06:16,363
+In this lesson, we'll use slopes to tell
+when lines are parallel or perpendicular.
+
+85
+00:06:17,500 --> 00:06:22,364
+Parallel lines never meet. They have the
+same slope and different y intercepts.
+
+86
+00:06:22,814 --> 00:06:28,318
+y equals two x plus one, and y equals two
+x minus three, are parallel.
+
+87
+00:06:29,467 --> 00:06:34,970
+Perpendicular lines meet at a right angle.
+Their slopes are negative reciprocals:
+
+88
+00:06:34,970 --> 00:06:37,552
+flip the fraction and change the sign.
+
+89
+00:06:38,002 --> 00:06:42,638
+If one slope is two thirds, the
+perpendicular slope is negative three
+
+90
+00:06:42,638 --> 00:06:45,191
+halves. Their product is negative one.
+
+91
+00:06:46,333 --> 00:06:51,731
+Write the line parallel to y equals three
+x plus two, through one comma four.
+
+92
+00:06:52,181 --> 00:06:58,578
+It has the same slope, three. y minus four
+equals three times x minus one, so y
+
+93
+00:06:58,578 --> 00:07:00,522
+equals three x plus one.
+
+94
+00:07:01,667 --> 00:07:07,725
+Now the line perpendicular to y equals one
+half x plus five, through two comma one.
+
+95
+00:07:08,175 --> 00:07:14,539
+The negative reciprocal of one half is
+negative two. y minus one equals negative
+
+96
+00:07:14,539 --> 00:07:19,311
+two times x minus two, so y equals
+negative two x plus five.
+
+97
+00:07:20,433 --> 00:07:26,084
+To classify two lines, compare slopes.
+Same slope means parallel. Slopes that
+
+98
+00:07:26,084 --> 00:07:30,780
+multiply to negative one mean
+perpendicular. Otherwise, neither.
+
+99
+00:07:31,230 --> 00:07:37,867
+For y equals four x minus one and y equals
+negative one fourth x plus two, four times
+
+100
+00:07:37,867 --> 00:07:42,707
+negative one fourth is negative one. So
+they're perpendicular.
+
+101
+00:07:43,833 --> 00:07:49,433
+Your turn. Find the slope of a line
+perpendicular to y equals negative five x
+
+102
+00:07:49,433 --> 00:07:50,233
+plus three.
+
+103
+00:07:50,683 --> 00:07:52,219
+Pause the video and try it.
+
+104
+00:07:52,669 --> 00:07:57,960
+Flip negative five and change the sign.
+The perpendicular slope is one fifth.
+
+105
+00:07:59,100 --> 00:08:04,881
+Every linear function is a transformation
+of the simplest one, f of x equals x.
+
+106
+00:08:05,331 --> 00:08:09,427
+In this lesson, we'll see how changing m
+and b moves the line.
+
+107
+00:08:10,567 --> 00:08:12,956
+Changing b shifts the line up or down.
+
+108
+00:08:13,406 --> 00:08:20,301
+y equals x plus three is the line y equals
+x moved up three. y equals x minus two
+
+109
+00:08:20,301 --> 00:08:21,833
+moves it down two.
+
+110
+00:08:22,967 --> 00:08:25,185
+Changing m changes the steepness.
+
+111
+00:08:25,635 --> 00:08:31,134
+When m is bigger than one, the line is
+steeper. When m is between zero and one,
+
+112
+00:08:31,134 --> 00:08:32,526
+the line is flatter.
+
+113
+00:08:33,667 --> 00:08:38,701
+A negative m flips the line, so it falls
+from left to right instead of rising.
+
+114
+00:08:39,833 --> 00:08:42,692
+Take g of x equals two x minus four.
+
+115
+00:08:43,142 --> 00:08:47,835
+Start with y equals x, make it twice as
+steep, then shift it down four.
+
+116
+00:08:48,967 --> 00:08:53,831
+In function notation, f of x plus k shifts
+the graph up k units.
+
+117
+00:08:54,281 --> 00:09:00,718
+And a times f of x stretches it when a is
+bigger than one. If f of x equals x, then
+
+118
+00:09:00,718 --> 00:09:02,579
+two f of x equals two x.
+
+119
+00:09:03,700 --> 00:09:10,218
+Your turn. Describe how y equals negative
+one half x plus one compares to y equals
+
+120
+00:09:10,218 --> 00:09:10,377
+x.
+
+121
+00:09:10,827 --> 00:09:12,363
+Pause the video and try it.
+
+122
+00:09:12,813 --> 00:09:17,714
+It's flatter, because one half is less
+than one. It falls instead of rising,
+
+123
+00:09:17,714 --> 00:09:21,261
+because the slope is negative. And it's
+shifted up one.
+
+124
+00:09:22,400 --> 00:09:28,165
+Real data rarely lies exactly on a line.
+In this lesson, we'll use scatter plots,
+
+125
+00:09:28,165 --> 00:09:30,229
+correlation and lines of fit.
+
+126
+00:09:31,367 --> 00:09:34,097
+A scatter plot shows pairs of data as
+points.
+
+127
+00:09:34,547 --> 00:09:38,174
+Here, each point is a student: hours
+studied, and test score.
+
+128
+00:09:39,300 --> 00:09:43,890
+If the points trend upward, there's a
+positive correlation. If they trend
+
+129
+00:09:43,890 --> 00:09:46,468
+downward, there's a negative correlation.
+
+130
+00:09:46,918 --> 00:09:49,883
+If there's no pattern at all, there's no
+correlation.
+
+131
+00:09:51,000 --> 00:09:56,035
+A line of fit follows the trend, with
+about as many points above it as below it.
+
+132
+00:09:56,485 --> 00:10:00,431
+Here, a good line of fit is y equals five
+x plus sixty.
+
+133
+00:10:01,567 --> 00:10:07,670
+Use the line to make predictions. For six
+hours of study, y equals five times six
+
+134
+00:10:07,670 --> 00:10:09,780
+plus sixty, which is ninety.
+
+135
+00:10:10,230 --> 00:10:12,555
+So we predict a score of about ninety.
+
+136
+00:10:13,700 --> 00:10:16,729
+Be careful: correlation does not mean
+causation.
+
+137
+00:10:17,179 --> 00:10:22,199
+Ice cream sales and sunburns rise
+together, but ice cream doesn't cause
+
+138
+00:10:22,199 --> 00:10:24,603
+sunburns. Hot weather causes both.
+
+139
+00:10:25,733 --> 00:10:31,414
+Your turn. Using y equals five x plus
+sixty, predict the score for three hours
+
+140
+00:10:31,414 --> 00:10:32,069
+of study.
+
+141
+00:10:32,519 --> 00:10:34,055
+Pause the video and try it.
+
+142
+00:10:34,505 --> 00:10:37,599
+Five times three, plus sixty, is
+seventy-five.
+
+143
+00:10:38,733 --> 00:10:44,095
+That completes Unit Five. Next, we'll
+start Unit Six: systems of equations. If
+
+144
+00:10:44,095 --> 00:10:49,457
+this helped, subscribe to School Math,
+Explained, and turn on notifications so
+
+145
+00:10:49,457 --> 00:10:51,725
+you don't miss it. See you there.
+

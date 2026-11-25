@@ -1,0 +1,605 @@
+1
+00:00:00,000 --> 00:00:03,947
+Welcome to Unit Three of Algebra One:
+linear inequalities.
+
+2
+00:00:04,397 --> 00:00:09,905
+An inequality compares two sides using
+less than or greater than. In this lesson,
+
+3
+00:00:09,905 --> 00:00:14,530
+we'll solve inequalities and graph their
+solutions on a number line.
+
+4
+00:00:15,667 --> 00:00:20,926
+There are four symbols: less than, greater
+than, less than or equal to, and greater
+
+5
+00:00:20,926 --> 00:00:22,003
+than or equal to.
+
+6
+00:00:22,453 --> 00:00:27,670
+x is greater than two means x can be any
+number bigger than two, like three, two
+
+7
+00:00:27,670 --> 00:00:29,301
+and a half, or a million.
+
+8
+00:00:30,433 --> 00:00:35,905
+To graph x greater than two, put an open
+circle at two, because two itself is not
+
+9
+00:00:35,905 --> 00:00:39,756
+included. Then shade to the right, toward
+bigger numbers.
+
+10
+00:00:40,206 --> 00:00:45,453
+For x less than or equal to negative one,
+use a closed circle at negative one,
+
+11
+00:00:45,453 --> 00:00:48,547
+because it is included, and shade to the
+left.
+
+12
+00:00:49,667 --> 00:00:55,428
+Solving an inequality works just like
+solving an equation. Take x plus four is
+
+13
+00:00:55,428 --> 00:00:56,536
+less than nine.
+
+14
+00:00:56,986 --> 00:01:00,591
+Subtract four from both sides, and x is
+less than five.
+
+15
+00:01:01,733 --> 00:01:07,323
+Now a two-step example: three x minus five
+is greater than or equal to seven.
+
+16
+00:01:07,773 --> 00:01:12,295
+Add five to both sides: three x is greater
+than or equal to twelve.
+
+17
+00:01:12,745 --> 00:01:17,971
+Divide by three: x is greater than or
+equal to four. Closed circle at four,
+
+18
+00:01:17,971 --> 00:01:19,295
+shade to the right.
+
+19
+00:01:20,433 --> 00:01:26,434
+To check, pick a number in the shaded
+region, like five. Three times five, minus
+
+20
+00:01:26,434 --> 00:01:29,884
+five, is ten, and ten is at least seven.
+True.
+
+21
+00:01:30,334 --> 00:01:34,999
+A number outside, like zero, gives
+negative five, which is not at least
+
+22
+00:01:34,999 --> 00:01:36,905
+seven. So the graph is right.
+
+23
+00:01:38,033 --> 00:01:41,959
+Your turn. Solve and graph two x plus one
+is less than seven.
+
+24
+00:01:42,409 --> 00:01:43,945
+Pause the video and try it.
+
+25
+00:01:44,395 --> 00:01:50,500
+Subtract one: two x is less than six.
+Divide by two: x is less than three. Open
+
+26
+00:01:50,500 --> 00:01:53,205
+circle at three, shade to the left.
+
+27
+00:01:54,333 --> 00:01:57,234
+Inequalities have one rule that equations
+don't.
+
+28
+00:01:57,684 --> 00:02:03,180
+When you multiply or divide both sides by
+a negative number, you must flip the
+
+29
+00:02:03,180 --> 00:02:05,364
+inequality sign. Let's see why.
+
+30
+00:02:06,500 --> 00:02:09,508
+Start with a true statement: two is less
+than five.
+
+31
+00:02:09,958 --> 00:02:15,590
+Multiply both sides by negative one, and
+you get negative two and negative five.
+
+32
+00:02:16,040 --> 00:02:21,699
+On the number line, negative two is to the
+right of negative five, so negative two is
+
+33
+00:02:21,699 --> 00:02:26,493
+greater than negative five. The order
+reversed, so the sign has to flip.
+
+34
+00:02:27,633 --> 00:02:30,364
+Solve negative three x is less than
+twelve.
+
+35
+00:02:30,814 --> 00:02:36,786
+Divide both sides by negative three, and
+flip the sign. x is greater than negative
+
+36
+00:02:36,786 --> 00:02:37,150
+four.
+
+37
+00:02:38,300 --> 00:02:42,844
+Another one: five minus two x is greater
+than or equal to eleven.
+
+38
+00:02:43,294 --> 00:02:47,710
+Subtract five: negative two x is greater
+than or equal to six.
+
+39
+00:02:48,160 --> 00:02:54,143
+Divide by negative two and flip: x is less
+than or equal to negative three. Closed
+
+40
+00:02:54,143 --> 00:02:57,354
+circle at negative three, shade to the
+left.
+
+41
+00:02:58,500 --> 00:03:03,364
+Careful: the sign flips only when you
+multiply or divide by a negative.
+
+42
+00:03:03,814 --> 00:03:09,446
+In four x is greater than negative eight,
+you divide by positive four, so the sign
+
+43
+00:03:09,446 --> 00:03:15,078
+stays the same. x is greater than negative
+two. The negative eight doesn't matter.
+
+44
+00:03:16,200 --> 00:03:22,066
+Now variables on both sides: two x plus
+three is less than five x minus nine.
+
+45
+00:03:22,516 --> 00:03:27,764
+Subtract five x: negative three x plus
+three is less than negative nine.
+
+46
+00:03:28,214 --> 00:03:34,162
+Subtract three: negative three x is less
+than negative twelve. Divide by negative
+
+47
+00:03:34,162 --> 00:03:37,025
+three and flip: x is greater than four.
+
+48
+00:03:38,166 --> 00:03:42,710
+Your turn. Solve negative four x plus two
+is greater than fourteen.
+
+49
+00:03:43,160 --> 00:03:44,696
+Pause the video and try it.
+
+50
+00:03:45,146 --> 00:03:51,113
+Subtract two: negative four x is greater
+than twelve. Divide by negative four and
+
+51
+00:03:51,113 --> 00:03:53,765
+flip: x is less than negative three.
+
+52
+00:03:54,900 --> 00:03:59,897
+A compound inequality joins two
+inequalities with the word and, or the
+
+53
+00:03:59,897 --> 00:04:00,468
+word or.
+
+54
+00:04:00,918 --> 00:04:03,798
+In this lesson, we'll solve and graph both
+kinds.
+
+55
+00:04:04,933 --> 00:04:10,614
+And means both must be true at once. x is
+greater than negative two, and x is less
+
+56
+00:04:10,614 --> 00:04:11,376
+than three.
+
+57
+00:04:11,826 --> 00:04:16,434
+The solution is the overlap: all the
+numbers between negative two and three.
+
+58
+00:04:16,884 --> 00:04:21,951
+We often write it as one statement:
+negative two is less than x, which is less
+
+59
+00:04:21,951 --> 00:04:22,665
+than three.
+
+60
+00:04:23,800 --> 00:04:29,215
+To solve negative one is less than or
+equal to two x plus three, which is less
+
+61
+00:04:29,215 --> 00:04:32,547
+than nine, do the same thing to all three
+parts.
+
+62
+00:04:32,997 --> 00:04:38,650
+Subtract three: negative four is less than
+or equal to two x, which is less than six.
+
+63
+00:04:39,100 --> 00:04:44,540
+Divide by two: negative two is less than
+or equal to x, which is less than three.
+
+64
+00:04:45,667 --> 00:04:51,632
+Or means at least one must be true. x is
+less than negative one, or x is greater
+
+65
+00:04:51,632 --> 00:04:53,197
+than or equal to two.
+
+66
+00:04:53,647 --> 00:04:56,741
+The graph has two pieces pointing away
+from each other.
+
+67
+00:04:57,867 --> 00:05:04,324
+To solve an or inequality, solve each part
+separately. x plus four is less than two,
+
+68
+00:05:04,324 --> 00:05:06,784
+or three x is greater than nine.
+
+69
+00:05:07,234 --> 00:05:12,464
+The first part gives x less than negative
+two. The second gives x greater than
+
+70
+00:05:12,464 --> 00:05:12,866
+three.
+
+71
+00:05:14,000 --> 00:05:18,800
+A quick summary: and gives the overlap,
+usually a segment between two numbers.
+
+72
+00:05:19,250 --> 00:05:23,453
+Or gives both pieces together, usually two
+rays pointing outward.
+
+73
+00:05:24,600 --> 00:05:30,218
+Your turn. Solve negative five is less
+than three x plus one, which is less than
+
+74
+00:05:30,218 --> 00:05:31,341
+or equal to ten.
+
+75
+00:05:31,791 --> 00:05:33,327
+Pause the video and try it.
+
+76
+00:05:33,777 --> 00:05:39,566
+Subtract one: negative six is less than
+three x, which is at most nine. Divide by
+
+77
+00:05:39,566 --> 00:05:43,783
+three: negative two is less than x, which
+is at most three.
+
+78
+00:05:43,900 --> 00:05:44,900
+Next time, we'll solve absolute value
+equations. If this helped, subscribe to
+
+79
+00:05:44,900 --> 00:05:47,460
+Absolute value means distance from zero.
+
+80
+00:05:47,910 --> 00:05:52,177
+In this lesson, we'll solve equations that
+contain absolute values.
+
+81
+00:05:53,300 --> 00:05:59,248
+The absolute value of five is five, and
+the absolute value of negative five is
+
+82
+00:05:59,248 --> 00:06:02,985
+also five. Both numbers are five units
+from zero.
+
+83
+00:06:03,435 --> 00:06:09,174
+So if the absolute value of x equals five,
+x can be five or negative five.
+
+84
+00:06:10,300 --> 00:06:13,692
+Here's the method. First, isolate the
+absolute value.
+
+85
+00:06:14,142 --> 00:06:19,953
+Then split into two equations: the inside
+equals the positive number, or the inside
+
+86
+00:06:19,953 --> 00:06:21,843
+equals the negative number.
+
+87
+00:06:22,967 --> 00:06:26,636
+Solve the absolute value of x minus three
+equals seven.
+
+88
+00:06:27,086 --> 00:06:30,990
+Split it. x minus three equals seven, so x
+equals ten.
+
+89
+00:06:31,440 --> 00:06:37,754
+Or x minus three equals negative seven, so
+x equals negative four. Both answers are
+
+90
+00:06:37,754 --> 00:06:39,504
+seven units from three.
+
+91
+00:06:40,633 --> 00:06:46,585
+Now solve two times the absolute value of
+x plus one, plus four, equals twelve.
+
+92
+00:06:47,035 --> 00:06:52,883
+Subtract four: two times the absolute
+value equals eight. Divide by two: the
+
+93
+00:06:52,883 --> 00:06:56,038
+absolute value of x plus one equals four.
+
+94
+00:06:56,488 --> 00:07:02,619
+So x plus one is four or negative four,
+which gives x equals three or x equals
+
+95
+00:07:02,619 --> 00:07:03,720
+negative five.
+
+96
+00:07:04,867 --> 00:07:10,584
+Watch out: the absolute value of x plus
+two equals negative three has no solution,
+
+97
+00:07:10,584 --> 00:07:13,443
+because a distance can never be negative.
+
+98
+00:07:13,893 --> 00:07:18,671
+And if an absolute value equals zero,
+there is exactly one solution.
+
+99
+00:07:19,800 --> 00:07:24,621
+Your turn. Solve the absolute value of two
+x minus one equals nine.
+
+100
+00:07:25,071 --> 00:07:26,607
+Pause the video and try it.
+
+101
+00:07:27,057 --> 00:07:33,985
+Two x minus one equals nine, so x equals
+five. Or two x minus one equals negative
+
+102
+00:07:33,985 --> 00:07:36,721
+nine, so x equals negative four.
+
+103
+00:07:37,866 --> 00:07:43,370
+In this last lesson of Unit Three, we'll
+combine absolute value with inequalities.
+
+104
+00:07:44,499 --> 00:07:50,202
+The absolute value of x is less than three
+means x is less than three units from
+
+105
+00:07:50,202 --> 00:07:50,558
+zero.
+
+106
+00:07:51,008 --> 00:07:56,189
+That's every number between negative three
+and three. So it becomes an and
+
+107
+00:07:56,189 --> 00:08:00,949
+inequality: negative three is less than x,
+which is less than three.
+
+108
+00:08:02,099 --> 00:08:07,602
+The absolute value of x is greater than
+three means x is more than three units
+
+109
+00:08:07,602 --> 00:08:08,307
+from zero.
+
+110
+00:08:08,757 --> 00:08:14,971
+That's two pieces: x is less than negative
+three, or x is greater than three. So it
+
+111
+00:08:14,971 --> 00:08:16,843
+becomes an or inequality.
+
+112
+00:08:17,966 --> 00:08:23,107
+Solve the absolute value of x minus two is
+less than or equal to five.
+
+113
+00:08:23,557 --> 00:08:28,229
+Write negative five is at most x minus
+two, which is at most five.
+
+114
+00:08:28,679 --> 00:08:34,290
+Add two to all three parts: negative three
+is at most x, which is at most seven.
+
+115
+00:08:35,433 --> 00:08:39,913
+Solve the absolute value of two x plus one
+is greater than seven.
+
+116
+00:08:40,363 --> 00:08:45,608
+Split it: two x plus one is less than
+negative seven, or two x plus one is
+
+117
+00:08:45,608 --> 00:08:46,955
+greater than seven.
+
+118
+00:08:47,405 --> 00:08:51,394
+So x is less than negative four, or x is
+greater than three.
+
+119
+00:08:52,533 --> 00:08:56,842
+Here's a memory trick. Less than becomes
+and: one segment in the middle.
+
+120
+00:08:57,292 --> 00:09:02,995
+Greater than becomes or: two rays pointing
+outward. And always isolate the absolute
+
+121
+00:09:02,995 --> 00:09:03,820
+value first.
+
+122
+00:09:04,966 --> 00:09:09,617
+Your turn. Solve the absolute value of x
+plus one is less than four.
+
+123
+00:09:10,067 --> 00:09:11,603
+Pause the video and try it.
+
+124
+00:09:12,053 --> 00:09:17,615
+Negative four is less than x plus one,
+which is less than four. Subtract one:
+
+125
+00:09:17,615 --> 00:09:21,589
+negative five is less than x, which is
+less than three.
+
+126
+00:09:22,733 --> 00:09:27,644
+That completes Unit Three. Next, we'll
+start Unit Four: functions. If this
+
+127
+00:09:27,644 --> 00:09:32,489
+helped, subscribe to School Math,
+Explained, and turn on notifications so
+
+128
+00:09:32,489 --> 00:09:34,679
+you don't miss it. See you there.
+
