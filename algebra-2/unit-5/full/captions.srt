@@ -1,0 +1,786 @@
+1
+00:00:00,000 --> 00:00:05,845
+Welcome to Unit Five of Algebra Two:
+polynomial functions. We start with how a
+
+2
+00:00:05,845 --> 00:00:09,067
+polynomial's graph behaves at its far
+ends.
+
+3
+00:00:10,200 --> 00:00:15,573
+A polynomial function is a sum of terms
+like a x to the n, with whole-number
+
+4
+00:00:15,573 --> 00:00:16,280
+exponents.
+
+5
+00:00:16,730 --> 00:00:21,609
+The degree is the highest exponent, and
+the leading coefficient is the number in
+
+6
+00:00:21,609 --> 00:00:22,767
+front of that term.
+
+7
+00:00:23,900 --> 00:00:27,036
+When the degree is even, both ends go the
+same way.
+
+8
+00:00:27,486 --> 00:00:33,141
+For x squared or x to the fourth with a
+positive leading coefficient, both ends
+
+9
+00:00:33,141 --> 00:00:36,147
+rise. With a negative one, both ends fall.
+
+10
+00:00:37,267 --> 00:00:40,253
+When the degree is odd, the ends go
+opposite ways.
+
+11
+00:00:40,703 --> 00:00:46,100
+For x cubed with a positive leading
+coefficient, the left end falls and the
+
+12
+00:00:46,100 --> 00:00:49,770
+right end rises. A negative coefficient
+flips that.
+
+13
+00:00:50,900 --> 00:00:54,143
+So for end behavior, you only need the
+leading term.
+
+14
+00:00:54,593 --> 00:00:59,955
+For f of x equals negative two x to the
+fifth plus x squared, the degree is odd
+
+15
+00:00:59,955 --> 00:01:05,385
+and the coefficient is negative, so the
+graph rises on the left and falls on the
+
+16
+00:01:05,385 --> 00:01:05,793
+right.
+
+17
+00:01:06,933 --> 00:01:12,898
+A polynomial of degree n has at most n
+minus one turning points, and at most n
+
+18
+00:01:12,898 --> 00:01:13,739
+real zeros.
+
+19
+00:01:14,189 --> 00:01:16,066
+A cubic can turn at most twice.
+
+20
+00:01:17,200 --> 00:01:23,349
+Your turn. Describe the end behavior of f
+of x equals negative x to the fourth plus
+
+21
+00:01:23,349 --> 00:01:23,941
+three x.
+
+22
+00:01:24,391 --> 00:01:25,927
+Pause the video and try it.
+
+23
+00:01:26,377 --> 00:01:31,125
+The degree is even and the leading
+coefficient is negative, so both ends
+
+24
+00:01:31,125 --> 00:01:31,455
+fall.
+
+25
+00:01:32,600 --> 00:01:37,941
+Polynomials can be divided just like
+numbers. In this lesson, we'll use long
+
+26
+00:01:37,941 --> 00:01:38,573
+division.
+
+27
+00:01:39,700 --> 00:01:45,198
+The process repeats three steps: divide
+the leading terms, multiply, and subtract.
+
+28
+00:01:45,198 --> 00:01:47,209
+Then bring down the next term.
+
+29
+00:01:48,333 --> 00:01:52,323
+Divide x squared plus five x plus six by x
+plus two.
+
+30
+00:01:52,773 --> 00:01:59,962
+x squared divided by x is x. Multiply: x
+squared plus two x. Subtract: three x.
+
+31
+00:02:01,100 --> 00:02:07,513
+Bring down the six: three x plus six.
+Divide: three. Multiply: three x plus six.
+
+32
+00:02:07,513 --> 00:02:08,716
+Subtract: zero.
+
+33
+00:02:09,166 --> 00:02:12,430
+So the quotient is x plus three, with no
+remainder.
+
+34
+00:02:13,567 --> 00:02:17,151
+When the remainder isn't zero, write it
+over the divisor.
+
+35
+00:02:17,601 --> 00:02:23,910
+Two x squared plus three x minus four,
+divided by x minus one, gives two x plus
+
+36
+00:02:23,910 --> 00:02:30,059
+five, with remainder one. So it's two x
+plus five, plus one over x minus one.
+
+37
+00:02:31,200 --> 00:02:34,485
+If a power is missing, insert a zero
+placeholder.
+
+38
+00:02:34,935 --> 00:02:41,375
+To divide x cubed minus eight by x minus
+two, write x cubed plus zero x squared
+
+39
+00:02:41,375 --> 00:02:47,245
+plus zero x minus eight. The quotient is x
+squared plus two x plus four.
+
+40
+00:02:48,367 --> 00:02:53,359
+Your turn. Divide x squared minus x minus
+twelve by x minus four.
+
+41
+00:02:53,809 --> 00:02:55,345
+Pause the video and try it.
+
+42
+00:02:55,795 --> 00:02:58,973
+The quotient is x plus three, with
+remainder zero.
+
+43
+00:03:00,100 --> 00:03:04,857
+Synthetic division is a fast shortcut for
+dividing by x minus c.
+
+44
+00:03:06,000 --> 00:03:11,914
+It only works when the divisor is linear
+with leading coefficient one, like x minus
+
+45
+00:03:11,914 --> 00:03:13,339
+three or x plus two.
+
+46
+00:03:14,467 --> 00:03:19,800
+Divide x cubed minus four x squared plus x
+plus six by x minus two.
+
+47
+00:03:20,250 --> 00:03:25,914
+Write c equals two on the left, and the
+coefficients one, negative four, one, six
+
+48
+00:03:25,914 --> 00:03:26,543
+in a row.
+
+49
+00:03:27,667 --> 00:03:33,405
+Bring down the one. Multiply by two and
+add to the next coefficient: negative four
+
+50
+00:03:33,405 --> 00:03:35,155
+plus two is negative two.
+
+51
+00:03:35,605 --> 00:03:41,945
+Repeat: negative two times two is negative
+four, plus one is negative three. Negative
+
+52
+00:03:41,945 --> 00:03:45,674
+three times two is negative six, plus six
+is zero.
+
+53
+00:03:46,800 --> 00:03:52,281
+The bottom row, one, negative two,
+negative three, is the quotient: x squared
+
+54
+00:03:52,281 --> 00:03:53,989
+minus two x minus three.
+
+55
+00:03:54,439 --> 00:03:56,786
+The last number, zero, is the remainder.
+
+56
+00:03:57,933 --> 00:03:59,875
+Missing terms still need zeros.
+
+57
+00:04:00,325 --> 00:04:06,543
+For x cubed minus twenty-seven divided by
+x minus three, use one, zero, zero,
+
+58
+00:04:06,543 --> 00:04:12,357
+negative twenty-seven. The quotient is x
+squared plus three x plus nine.
+
+59
+00:04:13,500 --> 00:04:19,482
+Your turn. Use synthetic division to
+divide x squared plus three x minus ten by
+
+60
+00:04:19,482 --> 00:04:20,391
+x plus five.
+
+61
+00:04:20,841 --> 00:04:22,377
+Pause the video and try it.
+
+62
+00:04:22,827 --> 00:04:29,471
+c is negative five. The bottom row is one,
+negative two, zero. So the quotient is x
+
+63
+00:04:29,471 --> 00:04:31,552
+minus two, remainder zero.
+
+64
+00:04:32,700 --> 00:04:37,666
+Synthetic division does more than divide.
+In this lesson, we'll see what the
+
+65
+00:04:37,666 --> 00:04:38,908
+remainder tells us.
+
+66
+00:04:40,033 --> 00:04:46,279
+The remainder theorem: when you divide f
+of x by x minus c, the remainder is f of
+
+67
+00:04:46,279 --> 00:04:46,433
+c.
+
+68
+00:04:46,883 --> 00:04:49,145
+So dividing is a way to evaluate.
+
+69
+00:04:50,267 --> 00:04:57,008
+Find f of three for f of x equals two x
+cubed minus five x squared plus x minus
+
+70
+00:04:57,008 --> 00:04:57,435
+four.
+
+71
+00:04:57,885 --> 00:05:03,271
+Synthetic division with three gives a
+bottom row of two, one, four, eight. So f
+
+72
+00:05:03,271 --> 00:05:04,498
+of three is eight.
+
+73
+00:05:05,633 --> 00:05:12,012
+The factor theorem: x minus c is a factor
+of f exactly when f of c equals zero.
+
+74
+00:05:12,462 --> 00:05:18,800
+Is x plus one a factor of x cubed plus x
+squared minus four x minus four? f of
+
+75
+00:05:18,800 --> 00:05:25,219
+negative one is negative one plus one plus
+four minus four, which is zero. Yes.
+
+76
+00:05:26,367 --> 00:05:29,332
+Divide to get the rest: x squared minus
+four.
+
+77
+00:05:29,782 --> 00:05:36,437
+So the polynomial factors completely as x
+plus one, times x plus two, times x minus
+
+78
+00:05:36,437 --> 00:05:36,758
+two.
+
+79
+00:05:37,900 --> 00:05:43,639
+Find k so that x minus two is a factor of
+x cubed plus k x minus six.
+
+80
+00:05:44,089 --> 00:05:50,482
+Set f of two equal to zero: eight plus two
+k minus six equals zero, so k equals
+
+81
+00:05:50,482 --> 00:05:51,534
+negative one.
+
+82
+00:05:52,667 --> 00:05:58,822
+Your turn. Is x minus three a factor of x
+cubed minus two x squared minus five x
+
+83
+00:05:58,822 --> 00:05:59,515
+plus six?
+
+84
+00:05:59,965 --> 00:06:01,501
+Pause the video and try it.
+
+85
+00:06:01,951 --> 00:06:07,967
+f of three is twenty-seven minus eighteen
+minus fifteen plus six, which is zero.
+
+86
+00:06:07,967 --> 00:06:09,396
+Yes, it's a factor.
+
+87
+00:06:10,533 --> 00:06:15,808
+How do you find the zeros of a cubic or
+quartic? In this lesson, we'll use the
+
+88
+00:06:15,808 --> 00:06:17,296
+rational root theorem.
+
+89
+00:06:18,433 --> 00:06:23,922
+If a polynomial has integer coefficients,
+any rational zero is a factor of the
+
+90
+00:06:23,922 --> 00:06:27,862
+constant term, over a factor of the
+leading coefficient.
+
+91
+00:06:28,312 --> 00:06:33,893
+For two x cubed plus x squared minus
+thirteen x plus six, the candidates are
+
+92
+00:06:33,893 --> 00:06:38,446
+plus or minus one, two, three, six, one
+half and three halves.
+
+93
+00:06:39,566 --> 00:06:44,174
+Test candidates with synthetic division
+until the remainder is zero.
+
+94
+00:06:44,624 --> 00:06:50,128
+Try two: the bottom row is two, five,
+negative three, zero. So two is a zero.
+
+95
+00:06:51,266 --> 00:06:57,704
+The quotient is two x squared plus five x
+minus three, which factors as two x minus
+
+96
+00:06:57,704 --> 00:06:59,565
+one, times x plus three.
+
+97
+00:07:00,015 --> 00:07:03,108
+So the zeros are two, one half, and
+negative three.
+
+98
+00:07:04,233 --> 00:07:07,497
+A graph helps you guess which candidates
+to test first.
+
+99
+00:07:07,947 --> 00:07:12,918
+Look where the curve crosses the x axis,
+then confirm with synthetic division.
+
+100
+00:07:14,066 --> 00:07:18,504
+After you find some zeros, the leftover
+quadratic may not factor.
+
+101
+00:07:18,954 --> 00:07:23,028
+Use the quadratic formula for irrational
+or complex zeros.
+
+102
+00:07:24,166 --> 00:07:30,406
+Your turn. List the possible rational
+zeros of x cubed minus two x squared minus
+
+103
+00:07:30,406 --> 00:07:31,654
+five x plus six.
+
+104
+00:07:32,104 --> 00:07:33,640
+Pause the video and try it.
+
+105
+00:07:34,090 --> 00:07:36,501
+Plus or minus one, two, three, and six.
+
+106
+00:07:37,633 --> 00:07:43,319
+How many zeros does a polynomial have? The
+fundamental theorem of algebra answers
+
+107
+00:07:43,319 --> 00:07:43,670
+that.
+
+108
+00:07:44,800 --> 00:07:50,716
+Every polynomial of degree n, with n at
+least one, has exactly n complex zeros,
+
+109
+00:07:50,716 --> 00:07:51,989
+counting repeats.
+
+110
+00:07:52,439 --> 00:07:54,764
+A cubic has three, a quartic has four.
+
+111
+00:07:55,900 --> 00:08:00,991
+A repeated zero counts as many times as
+its factor appears. That's its
+
+112
+00:08:00,991 --> 00:08:01,937
+multiplicity.
+
+113
+00:08:02,387 --> 00:08:08,927
+x minus two, squared, times x plus one has
+zeros two, two, and negative one: three
+
+114
+00:08:08,927 --> 00:08:09,406
+zeros.
+
+115
+00:08:10,533 --> 00:08:14,864
+For real coefficients, complex zeros come
+in conjugate pairs.
+
+116
+00:08:15,314 --> 00:08:18,599
+If three plus i is a zero, so is three
+minus i.
+
+117
+00:08:19,733 --> 00:08:23,957
+Write a polynomial with zeros one, and two
+plus or minus i.
+
+118
+00:08:24,407 --> 00:08:31,306
+The complex pair gives x squared minus
+four x plus five. Multiply by x minus one:
+
+119
+00:08:31,306 --> 00:08:35,735
+x cubed minus five x squared plus nine x
+minus five.
+
+120
+00:08:36,866 --> 00:08:42,050
+Since complex zeros pair up, a cubic
+always has at least one real zero.
+
+121
+00:08:42,500 --> 00:08:45,444
+Its graph must cross the x axis at least
+once.
+
+122
+00:08:46,566 --> 00:08:52,542
+Your turn. A degree-four polynomial has
+zeros three, negative one, and two i. What
+
+123
+00:08:52,542 --> 00:08:53,926
+is the fourth zero?
+
+124
+00:08:54,376 --> 00:08:55,912
+Pause the video and try it.
+
+125
+00:08:56,362 --> 00:08:59,349
+Negative two i, the conjugate of two i.
+
+126
+00:09:00,466 --> 00:09:06,135
+With zeros, multiplicity and end behavior,
+you can sketch any factored polynomial.
+
+127
+00:09:06,135 --> 00:09:07,655
+Let's put it together.
+
+128
+00:09:08,799 --> 00:09:15,413
+Sketch f of x equals x plus two, times x
+minus one, squared, times x minus three.
+
+129
+00:09:15,863 --> 00:09:19,063
+First, plot the zeros: negative two, one,
+and three.
+
+130
+00:09:20,199 --> 00:09:24,189
+At a zero with odd multiplicity, the graph
+crosses the axis.
+
+131
+00:09:24,639 --> 00:09:29,700
+At a zero with even multiplicity, it
+touches and turns back. So the graph
+
+132
+00:09:29,700 --> 00:09:30,740
+bounces at one.
+
+133
+00:09:31,866 --> 00:09:36,793
+The degree is four and the leading
+coefficient is positive, so both ends
+
+134
+00:09:36,793 --> 00:09:37,135
+rise.
+
+135
+00:09:38,266 --> 00:09:43,493
+Start high on the left, come down and
+cross at negative two, rise and bounce at
+
+136
+00:09:43,493 --> 00:09:46,735
+one, dip back down, then cross at three
+and rise.
+
+137
+00:09:47,185 --> 00:09:50,300
+Between one and three, the graph dips
+below the axis.
+
+138
+00:09:51,433 --> 00:09:57,076
+The y intercept is f of zero: two times
+one times negative three, which is
+
+139
+00:09:57,076 --> 00:09:58,067
+negative six.
+
+140
+00:09:58,517 --> 00:10:00,224
+That point confirms the shape.
+
+141
+00:10:01,366 --> 00:10:06,545
+Your turn. Where does f of x equals x
+squared times the quantity x minus four
+
+142
+00:10:06,545 --> 00:10:09,302
+cross the axis, and where does it bounce?
+
+143
+00:10:09,752 --> 00:10:11,288
+Pause the video and try it.
+
+144
+00:10:11,738 --> 00:10:16,282
+It bounces at zero, which has multiplicity
+two, and crosses at four.
+
+145
+00:10:17,400 --> 00:10:22,821
+In this last lesson of Unit Five, we'll
+study polynomial identities: equations
+
+146
+00:10:22,821 --> 00:10:26,019
+that are true for every value of the
+variable.
+
+147
+00:10:27,167 --> 00:10:32,930
+You already know some identities, like a
+plus b, squared, equals a squared plus two
+
+148
+00:10:32,930 --> 00:10:34,249
+a b plus b squared.
+
+149
+00:10:34,699 --> 00:10:37,131
+An identity is true for every a and b.
+
+150
+00:10:38,267 --> 00:10:44,597
+Two new ones: a cubed plus b cubed equals
+a plus b, times a squared minus a b plus b
+
+151
+00:10:44,597 --> 00:10:45,200
+squared.
+
+152
+00:10:45,650 --> 00:10:51,642
+And a cubed minus b cubed equals a minus
+b, times a squared plus a b plus b
+
+153
+00:10:51,642 --> 00:10:58,194
+squared. x cubed minus eight is x minus
+two, times x squared plus two x plus four.
+
+154
+00:10:59,333 --> 00:11:03,536
+To prove an identity, expand one side
+until it matches the other.
+
+155
+00:11:03,986 --> 00:11:10,322
+Multiply a minus b by a squared plus a b
+plus b squared. The middle terms cancel,
+
+156
+00:11:10,322 --> 00:11:12,669
+leaving a cubed minus b cubed.
+
+157
+00:11:13,800 --> 00:11:19,839
+The identity x squared minus y squared,
+squared, plus two x y, squared, equals x
+
+158
+00:11:19,839 --> 00:11:24,595
+squared plus y squared, squared, generates
+Pythagorean triples.
+
+159
+00:11:25,045 --> 00:11:28,970
+With x equals two and y equals one: three,
+four and five.
+
+160
+00:11:30,100 --> 00:11:35,343
+Expanding a plus b to higher powers
+follows a pattern of coefficients called
+
+161
+00:11:35,343 --> 00:11:36,585
+Pascal's triangle.
+
+162
+00:11:37,035 --> 00:11:39,595
+We'll use it later with the binomial
+theorem.
+
+163
+00:11:40,733 --> 00:11:43,976
+Your turn. Factor twenty-seven x cubed
+plus one.
+
+164
+00:11:44,426 --> 00:11:45,962
+Pause the video and try it.
+
+165
+00:11:46,412 --> 00:11:53,099
+It's three x cubed plus one cubed: three x
+plus one, times nine x squared minus three
+
+166
+00:11:53,099 --> 00:11:53,964
+x plus one.
+
+167
+00:11:55,100 --> 00:12:00,262
+That completes Unit Five. Next, we'll
+study rational expressions and functions
+
+168
+00:12:00,262 --> 00:12:05,359
+in Unit Six. If this helped, subscribe to
+School Math, Explained, and turn on
+
+169
+00:12:05,359 --> 00:12:08,668
+notifications so you don't miss it. See
+you there.
+
