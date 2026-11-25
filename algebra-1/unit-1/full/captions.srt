@@ -1,0 +1,941 @@
+1
+00:00:00,000 --> 00:00:04,880
+Welcome to Algebra One. Before we solve a
+single equation, we need to know what
+
+2
+00:00:04,880 --> 00:00:07,104
+kinds of numbers we're working with.
+
+3
+00:00:07,554 --> 00:00:12,233
+In this lesson, we'll sort numbers into
+families, and see where every one of them
+
+4
+00:00:12,233 --> 00:00:13,677
+lives on the number line.
+
+5
+00:00:15,300 --> 00:00:19,801
+Let's start with the numbers you first
+learned: one, two, three, and so on.
+
+6
+00:00:20,251 --> 00:00:23,878
+These are the natural numbers, also called
+counting numbers.
+
+7
+00:00:24,328 --> 00:00:27,293
+Add zero to that list, and you get the
+whole numbers.
+
+8
+00:00:28,433 --> 00:00:33,191
+Now include the negatives: negative one,
+negative two, negative three.
+
+9
+00:00:33,641 --> 00:00:36,542
+Together with the whole numbers, they make
+the integers.
+
+10
+00:00:36,992 --> 00:00:42,417
+On the number line, integers sit at evenly
+spaced marks, stretching forever in both
+
+11
+00:00:42,417 --> 00:00:43,136
+directions.
+
+12
+00:00:44,267 --> 00:00:48,939
+But there are numbers between the marks,
+like one half, or negative three fourths.
+
+13
+00:00:49,389 --> 00:00:54,249
+Any number that can be written as a
+fraction, one integer over another,
+
+14
+00:00:54,249 --> 00:00:56,919
+non-zero integer, is a rational number.
+
+15
+00:00:57,369 --> 00:01:02,724
+Every integer is rational too, because
+five, for example, equals five over one.
+
+16
+00:01:03,867 --> 00:01:06,683
+Rational numbers also show up as decimals.
+
+17
+00:01:07,133 --> 00:01:12,167
+Their decimals either stop, like zero
+point seven five, which is three fourths,
+
+18
+00:01:12,617 --> 00:01:18,298
+or repeat forever in a pattern, like zero
+point three three three, and so on, which
+
+19
+00:01:18,298 --> 00:01:19,188
+is one third.
+
+20
+00:01:20,333 --> 00:01:24,869
+Some numbers can't be written as a
+fraction at all. Their decimals go on
+
+21
+00:01:24,869 --> 00:01:27,011
+forever with no repeating pattern.
+
+22
+00:01:27,461 --> 00:01:31,813
+These are irrational numbers. The square
+root of two is one. So is pi.
+
+23
+00:01:32,263 --> 00:01:37,952
+They still have exact spots on the number
+line. The square root of two is about one
+
+24
+00:01:37,952 --> 00:01:41,585
+point four one, and pi is about three
+point one four.
+
+25
+00:01:42,733 --> 00:01:47,448
+Put the rational and irrational numbers
+together, and you get the real numbers.
+
+26
+00:01:47,898 --> 00:01:52,992
+Here's the whole family. Natural numbers
+sit inside the whole numbers, which sit
+
+27
+00:01:52,992 --> 00:01:56,303
+inside the integers, which sit inside the
+rationals.
+
+28
+00:01:56,753 --> 00:02:01,800
+The irrationals sit beside the rationals,
+and together they fill the entire number
+
+29
+00:02:01,800 --> 00:02:02,108
+line.
+
+30
+00:02:03,233 --> 00:02:08,393
+The number line also lets us compare
+numbers. A number to the right is always
+
+31
+00:02:08,393 --> 00:02:08,929
+greater.
+
+32
+00:02:09,379 --> 00:02:14,393
+So negative two is greater than negative
+five, even though five looks bigger.
+
+33
+00:02:14,843 --> 00:02:19,856
+Negative two is to the right, so negative
+two is greater than negative five.
+
+34
+00:02:20,000 --> 00:02:26,616
+Your turn. Classify each number: negative
+four, the square root of nine, two thirds,
+
+35
+00:02:26,616 --> 00:02:28,488
+and the square root of five.
+
+36
+00:02:28,938 --> 00:02:32,927
+Pause the video, and decide which families
+each one belongs to.
+
+37
+00:02:33,377 --> 00:02:37,431
+Negative four is an integer, so it's also
+rational and real.
+
+38
+00:02:37,881 --> 00:02:43,289
+The square root of nine equals three, so
+it's natural, whole, an integer, rational,
+
+39
+00:02:43,289 --> 00:02:43,875
+and real.
+
+40
+00:02:44,325 --> 00:02:49,518
+Two thirds is rational and real. And the
+square root of five is irrational and
+
+41
+00:02:49,518 --> 00:02:49,851
+real.
+
+42
+00:02:50,000 --> 00:02:51,000
+If this helped, subscribe to School Math,
+Explained, and turn on notifications so
+
+43
+00:02:51,000 --> 00:02:52,984
+What is three plus four times two?
+
+44
+00:02:53,434 --> 00:02:58,639
+If you said fourteen, you added first. If
+you said eleven, you multiplied first.
+
+45
+00:02:59,089 --> 00:03:03,567
+Only one of those can be right, and in
+this lesson we'll learn the rule that
+
+46
+00:03:03,567 --> 00:03:04,039
+decides.
+
+47
+00:03:05,167 --> 00:03:10,514
+Mathematicians agree on an order of
+operations, so that every expression has
+
+48
+00:03:10,514 --> 00:03:11,780
+exactly one value.
+
+49
+00:03:12,230 --> 00:03:14,705
+First, grouping symbols, like parentheses.
+
+50
+00:03:15,155 --> 00:03:16,456
+Second, exponents.
+
+51
+00:03:16,906 --> 00:03:20,682
+Third, multiplication and division,
+working from left to right.
+
+52
+00:03:21,132 --> 00:03:24,716
+Fourth, addition and subtraction, also
+from left to right.
+
+53
+00:03:25,833 --> 00:03:28,820
+Back to our question. Three plus four
+times two.
+
+54
+00:03:29,270 --> 00:03:33,515
+Multiplication comes before addition, so
+four times two is eight.
+
+55
+00:03:33,965 --> 00:03:37,336
+Then three plus eight is eleven. The
+answer is eleven.
+
+56
+00:03:38,467 --> 00:03:43,858
+Multiplication and division are partners.
+Neither one always goes first. You just
+
+57
+00:03:43,858 --> 00:03:45,123
+work left to right.
+
+58
+00:03:45,573 --> 00:03:50,863
+In twelve divided by three, times two, we
+divide first, because it's on the left.
+
+59
+00:03:51,313 --> 00:03:55,260
+Twelve divided by three is four, and four
+times two is eight.
+
+60
+00:03:56,400 --> 00:03:58,896
+The same goes for addition and
+subtraction.
+
+61
+00:03:59,346 --> 00:04:03,591
+Ten minus four plus three: subtract first,
+because it's on the left.
+
+62
+00:04:04,041 --> 00:04:08,329
+Ten minus four is six, and six plus three
+is nine. Not three!
+
+63
+00:04:09,467 --> 00:04:14,966
+Let's try a longer one: two times, open
+parenthesis, five minus three, close
+
+64
+00:04:14,966 --> 00:04:18,512
+parenthesis, squared, plus eight divided
+by four.
+
+65
+00:04:18,962 --> 00:04:21,842
+Parentheses first: five minus three is
+two.
+
+66
+00:04:22,292 --> 00:04:24,660
+Exponents next: two squared is four.
+
+67
+00:04:25,110 --> 00:04:30,881
+Now multiply and divide, left to right:
+two times four is eight, and eight divided
+
+68
+00:04:30,881 --> 00:04:31,937
+by four is two.
+
+69
+00:04:32,387 --> 00:04:34,541
+Finally, add: eight plus two is ten.
+
+70
+00:04:35,667 --> 00:04:41,249
+One more thing about exponents. Negative
+three squared, with no parentheses, means
+
+71
+00:04:41,249 --> 00:04:44,925
+the negative of three squared, which is
+negative nine.
+
+72
+00:04:45,375 --> 00:04:50,225
+But negative three in parentheses,
+squared, means negative three times
+
+73
+00:04:50,225 --> 00:04:52,927
+negative three, which is positive nine.
+
+74
+00:04:53,377 --> 00:04:56,215
+Parentheses tell you exactly what gets
+squared.
+
+75
+00:04:57,333 --> 00:05:02,475
+Your turn. Simplify: eighteen minus six
+divided by three, plus two cubed.
+
+76
+00:05:02,925 --> 00:05:04,461
+Pause the video and try it.
+
+77
+00:05:04,911 --> 00:05:07,087
+Exponents first: two cubed is eight.
+
+78
+00:05:07,537 --> 00:05:10,502
+Then division: six divided by three is
+two.
+
+79
+00:05:10,952 --> 00:05:16,324
+Now, left to right: eighteen minus two is
+sixteen, and sixteen plus eight is twenty
+
+80
+00:05:16,324 --> 00:05:16,648
+four.
+
+81
+00:05:17,766 --> 00:05:22,907
+Algebra starts with one simple idea: using
+a letter to stand for a number.
+
+82
+00:05:23,357 --> 00:05:28,409
+In this lesson, we'll learn what variables
+and expressions are, and how to evaluate
+
+83
+00:05:28,409 --> 00:05:31,635
+an expression when we know the value of
+its variable.
+
+84
+00:05:31,766 --> 00:05:38,364
+A variable is a letter, like x, n, or t,
+that represents a number we don't know
+
+85
+00:05:38,364 --> 00:05:40,702
+yet, or a number that can change.
+
+86
+00:05:41,152 --> 00:05:46,982
+For example, if a movie ticket costs eight
+dollars, then n tickets cost eight times n
+
+87
+00:05:46,982 --> 00:05:47,531
+dollars.
+
+88
+00:05:47,981 --> 00:05:50,711
+As n changes, the total changes with it.
+
+89
+00:05:51,833 --> 00:05:57,906
+An algebraic expression combines numbers,
+variables, and operations. Three x plus
+
+90
+00:05:57,906 --> 00:05:59,555
+five is an expression.
+
+91
+00:06:00,005 --> 00:06:05,864
+Its parts separated by plus or minus signs
+are called terms. Here, the terms are
+
+92
+00:06:05,864 --> 00:06:07,109
+three x and five.
+
+93
+00:06:07,559 --> 00:06:13,226
+The number multiplying a variable is its
+coefficient, so three is the coefficient
+
+94
+00:06:13,226 --> 00:06:13,575
+of x.
+
+95
+00:06:14,025 --> 00:06:17,631
+A term with no variable, like five, is
+called a constant.
+
+96
+00:06:18,766 --> 00:06:21,625
+An expression is not the same as an
+equation.
+
+97
+00:06:22,075 --> 00:06:27,865
+An equation has an equal sign and states
+that two things are equal, like three x
+
+98
+00:06:27,865 --> 00:06:29,819
+plus five equals seventeen.
+
+99
+00:06:30,269 --> 00:06:35,520
+An expression is just a value we can
+calculate. We simplify or evaluate
+
+100
+00:06:35,520 --> 00:06:38,183
+expressions, and we solve equations.
+
+101
+00:06:39,333 --> 00:06:44,709
+To evaluate an expression, substitute the
+value of the variable, then follow the
+
+102
+00:06:44,709 --> 00:06:46,053
+order of operations.
+
+103
+00:06:46,503 --> 00:06:50,087
+Let's evaluate three x plus five when x
+equals four.
+
+104
+00:06:50,537 --> 00:06:53,801
+Replace x with four: three times four,
+plus five.
+
+105
+00:06:54,251 --> 00:06:58,133
+Multiply first, to get twelve plus five,
+which is seventeen.
+
+106
+00:06:59,266 --> 00:07:04,817
+Now an expression with two variables: two
+a squared, minus b, when a equals three
+
+107
+00:07:04,817 --> 00:07:06,050
+and b equals five.
+
+108
+00:07:06,500 --> 00:07:09,572
+Substitute: two times three squared, minus
+five.
+
+109
+00:07:10,022 --> 00:07:14,545
+Exponent first: three squared is nine.
+Then two times nine is eighteen.
+
+110
+00:07:14,995 --> 00:07:17,107
+And eighteen minus five is thirteen.
+
+111
+00:07:18,233 --> 00:07:21,113
+We can also translate words into
+expressions.
+
+112
+00:07:21,563 --> 00:07:27,268
+Five more than twice a number. Let n be
+the number. Twice the number is two n, and
+
+113
+00:07:27,268 --> 00:07:29,008
+five more means add five.
+
+114
+00:07:29,458 --> 00:07:31,890
+So the expression is two n plus five.
+
+115
+00:07:32,340 --> 00:07:38,106
+Watch out for phrases like three less than
+a number. That's n minus three, not three
+
+116
+00:07:38,106 --> 00:07:38,655
+minus n.
+
+117
+00:07:39,799 --> 00:07:45,794
+Your turn. Evaluate x squared, minus four
+x, plus one, when x equals negative two.
+
+118
+00:07:46,244 --> 00:07:50,105
+Pause the video and try it. Be careful
+with the negative sign.
+
+119
+00:07:50,555 --> 00:07:56,516
+Substitute, using parentheses: negative
+two in parentheses, squared, minus four
+
+120
+00:07:56,516 --> 00:07:58,705
+times negative two, plus one.
+
+121
+00:07:59,155 --> 00:08:04,651
+Negative two squared is positive four.
+Minus four times negative two is plus
+
+122
+00:08:04,651 --> 00:08:05,085
+eight.
+
+123
+00:08:05,535 --> 00:08:08,714
+So we get four plus eight plus one, which
+is thirteen.
+
+124
+00:08:09,833 --> 00:08:14,206
+Why can you add numbers in any order, but
+not subtract them in any order?
+
+125
+00:08:14,656 --> 00:08:19,411
+The answer comes from a handful of
+properties that every number follows. In
+
+126
+00:08:19,411 --> 00:08:23,531
+this lesson, we'll meet them, and see why
+they make algebra work.
+
+127
+00:08:24,666 --> 00:08:28,549
+First, the commutative property. Commute
+means to move around.
+
+128
+00:08:28,999 --> 00:08:34,604
+For addition, a plus b equals b plus a.
+For example, three plus five and five plus
+
+129
+00:08:34,604 --> 00:08:36,039
+three are both eight.
+
+130
+00:08:36,489 --> 00:08:40,009
+For multiplication, a times b equals b
+times a.
+
+131
+00:08:40,459 --> 00:08:46,343
+But subtraction is not commutative. Five
+minus three is two, while three minus five
+
+132
+00:08:46,343 --> 00:08:47,478
+is negative two.
+
+133
+00:08:48,600 --> 00:08:51,714
+Next, the associative property. It's about
+grouping.
+
+134
+00:08:52,164 --> 00:08:57,884
+When you add three numbers, it doesn't
+matter which pair you add first. a plus b,
+
+135
+00:08:57,884 --> 00:09:00,143
+plus c, equals a, plus b plus c.
+
+136
+00:09:00,593 --> 00:09:07,045
+The same is true for multiplication. Two
+times five, times seven, equals two, times
+
+137
+00:09:07,045 --> 00:09:09,766
+five times seven. Both are seventy.
+
+138
+00:09:10,900 --> 00:09:15,252
+The most important one in algebra is the
+distributive property.
+
+139
+00:09:15,702 --> 00:09:21,959
+a times the quantity b plus c equals a b
+plus a c. The a gets multiplied by each
+
+140
+00:09:21,959 --> 00:09:24,150
+term inside the parentheses.
+
+141
+00:09:24,600 --> 00:09:30,323
+Think of a rectangle that's three wide,
+and x plus four long. Its area is three x
+
+142
+00:09:30,323 --> 00:09:31,170
+plus twelve.
+
+143
+00:09:31,620 --> 00:09:36,292
+So three times the quantity x plus four
+equals three x plus twelve.
+
+144
+00:09:37,433 --> 00:09:41,273
+The distributive property also makes
+mental math easier.
+
+145
+00:09:41,723 --> 00:09:47,378
+Seven times ninety eight is the same as
+seven times the quantity one hundred minus
+
+146
+00:09:47,378 --> 00:09:47,654
+two.
+
+147
+00:09:48,104 --> 00:09:52,306
+That's seven hundred minus fourteen, which
+is six hundred eighty six.
+
+148
+00:09:53,433 --> 00:09:55,609
+Finally, identities and inverses.
+
+149
+00:09:56,059 --> 00:10:02,427
+Adding zero leaves a number unchanged, so
+zero is the additive identity. Multiplying
+
+150
+00:10:02,427 --> 00:10:07,430
+by one leaves it unchanged, so one is the
+multiplicative identity.
+
+151
+00:10:07,880 --> 00:10:12,699
+Every number has an opposite. a plus
+negative a equals zero. That's the
+
+152
+00:10:12,699 --> 00:10:13,853
+additive inverse.
+
+153
+00:10:14,303 --> 00:10:19,690
+And every number except zero has a
+reciprocal. a times one over a equals one.
+
+154
+00:10:19,690 --> 00:10:22,068
+That's the multiplicative inverse.
+
+155
+00:10:23,200 --> 00:10:25,952
+Your turn. Name the property shown in each
+line.
+
+156
+00:10:26,402 --> 00:10:33,092
+Four times the quantity x minus two equals
+four x minus eight. Six plus negative six
+
+157
+00:10:33,092 --> 00:10:39,543
+equals zero. And two times five, times
+seven, equals two, times five times seven.
+
+158
+00:10:39,993 --> 00:10:41,614
+Pause the video and decide.
+
+159
+00:10:42,064 --> 00:10:47,583
+The first is the distributive property.
+The second is the additive inverse. The
+
+160
+00:10:47,583 --> 00:10:51,216
+third is the associative property of
+multiplication.
+
+161
+00:10:52,366 --> 00:10:55,182
+Long expressions can often be made much
+shorter.
+
+162
+00:10:55,632 --> 00:11:00,744
+In this lesson, we'll learn to spot like
+terms, and combine them to simplify an
+
+163
+00:11:00,744 --> 00:11:01,456
+expression.
+
+164
+00:11:02,599 --> 00:11:07,207
+Like terms have exactly the same variable
+part, with the same exponents.
+
+165
+00:11:07,657 --> 00:11:13,235
+Three x and five x are like terms. So are
+two y squared and negative seven y
+
+166
+00:11:13,235 --> 00:11:13,823
+squared.
+
+167
+00:11:14,273 --> 00:11:19,163
+But three x and three x squared are not
+like terms, because the exponents are
+
+168
+00:11:19,163 --> 00:11:19,798
+different.
+
+169
+00:11:20,248 --> 00:11:25,305
+And four y and four are not like terms
+either, because one has a variable and the
+
+170
+00:11:25,305 --> 00:11:26,179
+other doesn't.
+
+171
+00:11:27,299 --> 00:11:32,710
+To combine like terms, add or subtract
+their coefficients, and keep the variable
+
+172
+00:11:32,710 --> 00:11:33,657
+part the same.
+
+173
+00:11:34,107 --> 00:11:36,368
+Three x plus five x is eight x.
+
+174
+00:11:36,818 --> 00:11:42,234
+This works because of the distributive
+property: three x plus five x equals the
+
+175
+00:11:42,234 --> 00:11:45,799
+quantity three plus five, times x, which
+is eight x.
+
+176
+00:11:46,249 --> 00:11:51,252
+Think of it like three apples plus five
+apples. You get eight apples, not eight
+
+177
+00:11:51,252 --> 00:11:52,201
+apples squared.
+
+178
+00:11:53,333 --> 00:11:58,069
+Let's simplify seven a, plus two b, minus
+three a, plus six b.
+
+179
+00:11:58,519 --> 00:12:03,809
+First, group the like terms. Seven a minus
+three a, and two b plus six b.
+
+180
+00:12:04,259 --> 00:12:08,931
+Seven a minus three a is four a. Two b
+plus six b is eight b.
+
+181
+00:12:09,381 --> 00:12:14,382
+So the expression simplifies to four a
+plus eight b. We can't combine those,
+
+182
+00:12:14,382 --> 00:12:16,421
+because they're not like terms.
+
+183
+00:12:17,566 --> 00:12:19,849
+Sometimes you need to distribute first.
+
+184
+00:12:20,299 --> 00:12:24,480
+Simplify two times the quantity x plus
+three, plus four x.
+
+185
+00:12:24,930 --> 00:12:28,237
+Distribute the two: two x plus six, plus
+four x.
+
+186
+00:12:28,687 --> 00:12:32,697
+Now combine two x and four x, to get six x
+plus six.
+
+187
+00:12:33,833 --> 00:12:37,097
+Be careful with a minus sign in front of
+parentheses.
+
+188
+00:12:37,547 --> 00:12:43,882
+In five x minus the quantity two x minus
+four, the minus sign applies to every term
+
+189
+00:12:43,882 --> 00:12:44,416
+inside.
+
+190
+00:12:44,866 --> 00:12:51,086
+It becomes five x minus two x plus four.
+Notice the minus four turned into plus
+
+191
+00:12:51,086 --> 00:12:51,479
+four.
+
+192
+00:12:51,929 --> 00:12:54,233
+Combining, we get three x plus four.
+
+193
+00:12:54,366 --> 00:13:01,134
+Your turn. Simplify three times the
+quantity two y minus one, minus y, plus
+
+194
+00:13:01,134 --> 00:13:01,595
+seven.
+
+195
+00:13:02,045 --> 00:13:03,581
+Pause the video and try it.
+
+196
+00:13:04,031 --> 00:13:08,341
+Distribute the three: six y minus three,
+minus y, plus seven.
+
+197
+00:13:08,791 --> 00:13:15,509
+Combine the y terms: six y minus y is five
+y. Combine the constants: negative three
+
+198
+00:13:15,509 --> 00:13:17,047
+plus seven is four.
+
+199
+00:13:17,497 --> 00:13:19,630
+The answer is five y plus four.
+
+200
+00:13:20,766 --> 00:13:25,807
+That completes Unit One. Next, we'll start
+solving equations. If this helped,
+
+201
+00:13:25,807 --> 00:13:31,044
+subscribe to School Math, Explained, and
+turn on notifications so you don't miss
+
+202
+00:13:31,044 --> 00:13:32,222
+it. See you there.
+
