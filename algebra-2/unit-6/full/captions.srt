@@ -1,0 +1,574 @@
+1
+00:00:00,000 --> 00:00:05,484
+Welcome to Unit Six of Algebra Two:
+rational expressions and functions. We
+
+2
+00:00:05,484 --> 00:00:07,040
+start by simplifying.
+
+3
+00:00:08,167 --> 00:00:12,839
+A rational expression is a fraction whose
+top and bottom are polynomials.
+
+4
+00:00:13,289 --> 00:00:18,302
+For example, x squared minus nine, over x
+squared plus x minus six.
+
+5
+00:00:19,433 --> 00:00:23,764
+The denominator can't be zero, so some x
+values are excluded.
+
+6
+00:00:24,214 --> 00:00:30,883
+x squared plus x minus six is x plus three
+times x minus two. So x can't be negative
+
+7
+00:00:30,883 --> 00:00:31,915
+three or two.
+
+8
+00:00:33,033 --> 00:00:37,449
+To simplify, factor the top and bottom,
+then cancel common factors.
+
+9
+00:00:37,899 --> 00:00:44,161
+The top is x plus three times x minus
+three. Cancel x plus three, and you get x
+
+10
+00:00:44,161 --> 00:00:48,203
+minus three, over x minus two. The
+exclusions stay.
+
+11
+00:00:49,333 --> 00:00:54,347
+Watch for opposites. Two minus x is
+negative one times x minus two.
+
+12
+00:00:54,797 --> 00:00:59,405
+So x minus two, over two minus x,
+simplifies to negative one.
+
+13
+00:01:00,533 --> 00:01:02,773
+Only cancel factors, never terms.
+
+14
+00:01:03,223 --> 00:01:09,186
+In x plus five over five, you can't cancel
+the fives, because five is added on top,
+
+15
+00:01:09,186 --> 00:01:10,263
+not multiplied.
+
+16
+00:01:11,400 --> 00:01:16,712
+Your turn. Simplify x squared minus four
+x, over x squared minus sixteen.
+
+17
+00:01:17,162 --> 00:01:18,698
+Pause the video and try it.
+
+18
+00:01:19,148 --> 00:01:25,722
+The top is x times x minus four, and the
+bottom is x plus four times x minus four.
+
+19
+00:01:25,722 --> 00:01:32,055
+So the answer is x over x plus four, with
+x not equal to four or negative four.
+
+20
+00:01:33,200 --> 00:01:38,017
+Multiplying and dividing rational
+expressions works like fractions, with
+
+21
+00:01:38,017 --> 00:01:39,088
+factoring first.
+
+22
+00:01:40,233 --> 00:01:45,908
+To multiply, factor everything, cancel
+common factors, then multiply what's left.
+
+23
+00:01:47,033 --> 00:01:53,884
+Multiply x squared minus one over x plus
+two, times three x plus six over x minus
+
+24
+00:01:53,884 --> 00:01:54,223
+one.
+
+25
+00:01:54,673 --> 00:02:01,803
+Factor: x plus one times x minus one over
+x plus two, times three times x plus two
+
+26
+00:02:01,803 --> 00:02:09,194
+over x minus one. Cancel x minus one and x
+plus two. The answer is three times x plus
+
+27
+00:02:09,194 --> 00:02:09,542
+one.
+
+28
+00:02:10,667 --> 00:02:14,805
+To divide, multiply by the reciprocal of
+the second expression.
+
+29
+00:02:15,255 --> 00:02:16,471
+Keep, change, flip.
+
+30
+00:02:17,600 --> 00:02:23,403
+Divide x squared minus nine over two x, by
+x plus three over four x squared.
+
+31
+00:02:23,853 --> 00:02:30,042
+Flip and multiply: x plus three times x
+minus three over two x, times four x
+
+32
+00:02:30,042 --> 00:02:35,906
+squared over x plus three. That simplifies
+to two x times x minus three.
+
+33
+00:02:37,033 --> 00:02:41,428
+Exclusions come from every denominator,
+including the one you flipped.
+
+34
+00:02:41,878 --> 00:02:44,459
+Here x can't be zero or negative three.
+
+35
+00:02:45,600 --> 00:02:51,709
+Your turn. Multiply x over x plus five,
+times x squared minus twenty-five over x
+
+36
+00:02:51,709 --> 00:02:52,320
+squared.
+
+37
+00:02:52,770 --> 00:02:54,306
+Pause the video and try it.
+
+38
+00:02:54,756 --> 00:02:57,252
+Cancel to get x minus five over x.
+
+39
+00:02:58,400 --> 00:03:03,392
+Adding rational expressions needs a common
+denominator, just like fractions.
+
+40
+00:03:04,533 --> 00:03:07,413
+With the same denominator, add the
+numerators.
+
+41
+00:03:07,863 --> 00:03:11,085
+Three over x plus five over x is eight
+over x.
+
+42
+00:03:12,233 --> 00:03:17,080
+Otherwise, find the least common
+denominator: every factor, each to its
+
+43
+00:03:17,080 --> 00:03:18,036
+highest power.
+
+44
+00:03:18,486 --> 00:03:25,163
+For one over x squared and one over x
+times x plus one, the LCD is x squared
+
+45
+00:03:25,163 --> 00:03:26,657
+times x plus one.
+
+46
+00:03:27,800 --> 00:03:31,576
+Add two over x plus one, and three over x
+minus two.
+
+47
+00:03:32,026 --> 00:03:39,590
+The LCD is x plus one times x minus two.
+Rewrite: two times x minus two, plus three
+
+48
+00:03:39,590 --> 00:03:42,415
+times x plus one, over the LCD.
+
+49
+00:03:42,865 --> 00:03:50,243
+The top is five x minus one. So the sum is
+five x minus one, over x plus one times x
+
+50
+00:03:50,243 --> 00:03:51,121
+minus two.
+
+51
+00:03:52,267 --> 00:03:56,768
+When subtracting, the minus sign applies
+to the whole second numerator.
+
+52
+00:03:57,218 --> 00:04:04,043
+x over x minus three, minus three over x
+minus three, is x minus three over x minus
+
+53
+00:04:04,043 --> 00:04:05,687
+three, which is one.
+
+54
+00:04:06,833 --> 00:04:09,735
+Always factor the result and cancel if you
+can.
+
+55
+00:04:10,867 --> 00:04:14,621
+Your turn. Add one over x, plus two over x
+plus one.
+
+56
+00:04:15,071 --> 00:04:16,607
+Pause the video and try it.
+
+57
+00:04:17,057 --> 00:04:24,096
+The LCD is x times x plus one. The top is
+x plus one plus two x, so the answer is
+
+58
+00:04:24,096 --> 00:04:27,745
+three x plus one, over x times x plus one.
+
+59
+00:04:28,866 --> 00:04:32,813
+In this lesson, we'll solve equations with
+rational expressions.
+
+60
+00:04:33,933 --> 00:04:39,225
+Multiply both sides by the LCD. That
+clears every fraction, leaving a
+
+61
+00:04:39,225 --> 00:04:40,759
+polynomial equation.
+
+62
+00:04:41,899 --> 00:04:45,355
+Solve x over three plus x over four equals
+seven.
+
+63
+00:04:45,805 --> 00:04:52,056
+Multiply by twelve: four x plus three x
+equals eighty-four. So x equals twelve.
+
+64
+00:04:53,199 --> 00:04:58,533
+Solve x over x minus three equals three
+over x minus three, plus two.
+
+65
+00:04:58,983 --> 00:05:05,814
+Multiply by x minus three: x equals three
+plus two times x minus three, which is two
+
+66
+00:05:05,814 --> 00:05:08,497
+x minus three. So x equals three.
+
+67
+00:05:08,947 --> 00:05:14,912
+But x equals three makes the denominator
+zero. It's an extraneous solution, so this
+
+68
+00:05:14,912 --> 00:05:17,715
+equation has no solution. Always check.
+
+69
+00:05:18,833 --> 00:05:22,182
+When each side is a single fraction,
+cross-multiply.
+
+70
+00:05:22,632 --> 00:05:29,421
+Three over x plus one equals two over x.
+So three x equals two x plus two, and x
+
+71
+00:05:29,421 --> 00:05:30,355
+equals two.
+
+72
+00:05:31,499 --> 00:05:37,482
+Work problems use rates. One pipe fills a
+tank in three hours, another in six.
+
+73
+00:05:37,482 --> 00:05:41,547
+Together: one third plus one sixth equals
+one over t.
+
+74
+00:05:41,997 --> 00:05:47,821
+Multiply by six t: two t plus t equals
+six. So t equals two hours.
+
+75
+00:05:48,966 --> 00:05:53,275
+Your turn. Solve five over x equals three
+over x minus two.
+
+76
+00:05:53,725 --> 00:05:55,261
+Pause the video and try it.
+
+77
+00:05:55,711 --> 00:06:02,230
+Cross-multiply: five x minus ten equals
+three x. So x equals five. Check: neither
+
+78
+00:06:02,230 --> 00:06:03,839
+denominator is zero.
+
+79
+00:06:04,966 --> 00:06:10,024
+Rational functions have graphs that
+approach lines called asymptotes. In this
+
+80
+00:06:10,024 --> 00:06:11,601
+lesson, we'll find them.
+
+81
+00:06:12,733 --> 00:06:18,796
+The parent y equals one over x has two
+branches. It approaches the x axis and the
+
+82
+00:06:18,796 --> 00:06:20,967
+y axis without touching them.
+
+83
+00:06:21,417 --> 00:06:23,295
+Those axes are its asymptotes.
+
+84
+00:06:24,433 --> 00:06:29,083
+A vertical asymptote occurs where the
+simplified denominator is zero.
+
+85
+00:06:29,533 --> 00:06:34,547
+For f of x equals two x over x minus
+three, it's x equals three.
+
+86
+00:06:35,666 --> 00:06:41,224
+For the horizontal asymptote, compare
+degrees. If the bottom degree is bigger,
+
+87
+00:06:41,224 --> 00:06:42,578
+it's y equals zero.
+
+88
+00:06:43,028 --> 00:06:48,976
+If the degrees are equal, it's the ratio
+of leading coefficients. For two x over x
+
+89
+00:06:48,976 --> 00:06:51,369
+minus three, that's y equals two.
+
+90
+00:06:52,499 --> 00:06:59,021
+Sketch f of x equals two x over x minus
+three. Draw the dashed lines x equals
+
+91
+00:06:59,021 --> 00:07:00,969
+three and y equals two.
+
+92
+00:07:01,419 --> 00:07:05,913
+Plot a few points on each side, then draw
+the two branches approaching the
+
+93
+00:07:05,913 --> 00:07:06,581
+asymptotes.
+
+94
+00:07:07,699 --> 00:07:14,201
+The x intercept is where the top is zero:
+x equals zero. The y intercept is f of
+
+95
+00:07:14,201 --> 00:07:16,233
+zero, which is also zero.
+
+96
+00:07:16,683 --> 00:07:18,837
+So the graph passes through the origin.
+
+97
+00:07:18,966 --> 00:07:26,025
+Your turn. Find the asymptotes of f of x
+equals three over x plus one, plus two.
+
+98
+00:07:26,475 --> 00:07:28,011
+Pause the video and try it.
+
+99
+00:07:28,461 --> 00:07:33,069
+Vertical: x equals negative one.
+Horizontal: y equals two.
+
+100
+00:07:34,200 --> 00:07:39,752
+In this last lesson of Unit Six, we'll
+handle two special features of rational
+
+101
+00:07:39,752 --> 00:07:42,243
+graphs: holes and slant asymptotes.
+
+102
+00:07:43,367 --> 00:07:48,316
+If a factor cancels from the top and
+bottom, the graph has a hole there instead
+
+103
+00:07:48,316 --> 00:07:49,319
+of an asymptote.
+
+104
+00:07:49,769 --> 00:07:56,242
+x squared minus four over x minus two
+simplifies to x plus two, with x not equal
+
+105
+00:07:56,242 --> 00:07:56,809
+to two.
+
+106
+00:07:57,933 --> 00:08:02,115
+To find the hole, plug the excluded x into
+the simplified form.
+
+107
+00:08:02,565 --> 00:08:08,559
+x plus two at x equals two is four. So
+there's an open circle at two comma four.
+
+108
+00:08:09,700 --> 00:08:14,244
+When the top's degree is exactly one more
+than the bottom's, there's a slant
+
+109
+00:08:14,244 --> 00:08:14,841
+asymptote.
+
+110
+00:08:15,291 --> 00:08:20,433
+For x squared plus one over x, the graph
+approaches the line y equals x.
+
+111
+00:08:21,567 --> 00:08:26,196
+Find it by dividing. Take x squared plus
+three, over x minus one.
+
+112
+00:08:26,646 --> 00:08:32,623
+Long division gives x plus one, with
+remainder four. So the slant asymptote is
+
+113
+00:08:32,623 --> 00:08:34,155
+y equals x plus one.
+
+114
+00:08:35,300 --> 00:08:40,895
+The checklist: factor and cancel to find
+holes. The remaining zeros of the bottom
+
+115
+00:08:40,895 --> 00:08:42,553
+are vertical asymptotes.
+
+116
+00:08:43,003 --> 00:08:48,551
+Compare degrees for horizontal or slant
+asymptotes. Then find intercepts and
+
+117
+00:08:48,551 --> 00:08:49,062
+sketch.
+
+118
+00:08:49,200 --> 00:08:56,626
+Your turn. Find the hole of f of x equals
+x squared minus x minus six, over x minus
+
+119
+00:08:56,626 --> 00:08:57,091
+three.
+
+120
+00:08:57,541 --> 00:08:59,077
+Pause the video and try it.
+
+121
+00:08:59,527 --> 00:09:05,031
+It simplifies to x plus two, with a hole
+at x equals three, y equals five.
+
+122
+00:09:06,167 --> 00:09:11,760
+That completes Unit Six. Next, we'll study
+radical functions in Unit Seven. If this
+
+123
+00:09:11,760 --> 00:09:16,679
+helped, subscribe to School Math,
+Explained, and turn on notifications so
+
+124
+00:09:16,679 --> 00:09:18,903
+you don't miss it. See you there.
+

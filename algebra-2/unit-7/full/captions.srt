@@ -1,0 +1,396 @@
+1
+00:00:00,000 --> 00:00:06,379
+Welcome to Unit Seven of Algebra Two:
+radical functions. We start with nth roots
+
+2
+00:00:06,379 --> 00:00:08,213
+and rational exponents.
+
+3
+00:00:09,333 --> 00:00:13,707
+The nth root of a is a number that, raised
+to the n, gives a.
+
+4
+00:00:14,157 --> 00:00:18,965
+The cube root of sixty-four is four,
+because four cubed is sixty-four. The
+
+5
+00:00:18,965 --> 00:00:21,239
+fourth root of eighty-one is three.
+
+6
+00:00:22,367 --> 00:00:27,828
+Odd roots of negatives are fine: the cube
+root of negative eight is negative two.
+
+7
+00:00:28,278 --> 00:00:33,923
+Even roots of negatives aren't real
+numbers. And for even n, the root of x to
+
+8
+00:00:33,923 --> 00:00:36,342
+the n is the absolute value of x.
+
+9
+00:00:37,467 --> 00:00:43,959
+A rational exponent combines a root and a
+power: a to the m over n is the nth root
+
+10
+00:00:43,959 --> 00:00:45,701
+of a, raised to the m.
+
+11
+00:00:46,151 --> 00:00:51,255
+So thirty-two to the three fifths is the
+fifth root of thirty-two, which is two,
+
+12
+00:00:51,255 --> 00:00:52,658
+cubed, which is eight.
+
+13
+00:00:53,800 --> 00:00:55,805
+All the exponent rules still work.
+
+14
+00:00:56,255 --> 00:01:02,466
+x to the one half times x to the one third
+is x to the five sixths. And x to the two
+
+15
+00:01:02,466 --> 00:01:04,831
+thirds, all cubed, is x squared.
+
+16
+00:01:05,967 --> 00:01:11,129
+You can move between forms. The cube root
+of x squared is x to the two thirds.
+
+17
+00:01:11,579 --> 00:01:16,657
+And y to the negative three fourths is one
+over the fourth root of y cubed.
+
+18
+00:01:17,800 --> 00:01:21,512
+Your turn. Evaluate sixteen to the
+negative three fourths.
+
+19
+00:01:21,962 --> 00:01:23,498
+Pause the video and try it.
+
+20
+00:01:23,948 --> 00:01:28,998
+The fourth root of sixteen is two, and two
+cubed is eight. The negative exponent
+
+21
+00:01:28,998 --> 00:01:30,071
+gives one eighth.
+
+22
+00:01:31,200 --> 00:01:36,971
+In this lesson, we'll simplify radicals of
+any index, and add, multiply and divide
+
+23
+00:01:36,971 --> 00:01:37,323
+them.
+
+24
+00:01:38,467 --> 00:01:41,581
+Look for factors that are perfect nth
+powers.
+
+25
+00:01:42,031 --> 00:01:47,438
+The cube root of fifty-four is the cube
+root of twenty-seven times two, which is
+
+26
+00:01:47,438 --> 00:01:49,669
+three times the cube root of two.
+
+27
+00:01:50,800 --> 00:01:55,195
+Radicals with the same index multiply and
+divide under one root.
+
+28
+00:01:55,645 --> 00:02:01,546
+The cube root of four times the cube root
+of ten is the cube root of forty, which is
+
+29
+00:02:01,546 --> 00:02:03,794
+two times the cube root of five.
+
+30
+00:02:04,933 --> 00:02:08,539
+Add only like radicals: same index, same
+radicand.
+
+31
+00:02:08,989 --> 00:02:14,130
+Two cube root of three plus five cube root
+of three is seven cube root of three.
+
+32
+00:02:15,267 --> 00:02:20,493
+To rationalize a binomial denominator,
+multiply by its conjugate.
+
+33
+00:02:20,943 --> 00:02:26,613
+Four over three minus root five: multiply
+by three plus root five. The bottom
+
+34
+00:02:26,613 --> 00:02:32,357
+becomes nine minus five, which is four. So
+the answer is three plus root five.
+
+35
+00:02:33,500 --> 00:02:38,023
+For a cube root in the denominator,
+multiply to make a perfect cube.
+
+36
+00:02:38,473 --> 00:02:44,542
+One over the cube root of two: multiply by
+the cube root of four over itself. The
+
+37
+00:02:44,542 --> 00:02:47,689
+answer is the cube root of four, over two.
+
+38
+00:02:48,833 --> 00:02:52,908
+Your turn. Simplify the cube root of
+eighty-one x to the fourth.
+
+39
+00:02:53,358 --> 00:02:54,894
+Pause the video and try it.
+
+40
+00:02:55,344 --> 00:03:01,500
+Eighty-one x to the fourth is twenty-seven
+x cubed times three x. So it's three x
+
+41
+00:03:01,500 --> 00:03:03,856
+times the cube root of three x.
+
+42
+00:03:05,000 --> 00:03:09,841
+In this lesson, we'll solve equations with
+radicals, and learn why checking is
+
+43
+00:03:09,841 --> 00:03:10,461
+essential.
+
+44
+00:03:11,600 --> 00:03:15,803
+Isolate the radical, then raise both sides
+to the index's power.
+
+45
+00:03:16,253 --> 00:03:20,626
+For square roots, square both sides. For
+cube roots, cube both sides.
+
+46
+00:03:21,767 --> 00:03:25,713
+Solve the square root of x plus three,
+plus two, equals seven.
+
+47
+00:03:26,163 --> 00:03:31,760
+Isolate: the root of x plus three equals
+five. Square: x plus three equals
+
+48
+00:03:31,760 --> 00:03:34,483
+twenty-five, so x equals twenty-two.
+
+49
+00:03:35,600 --> 00:03:41,659
+Squaring can create extraneous solutions.
+Solve the root of x plus six equals x.
+
+50
+00:03:42,109 --> 00:03:48,996
+Square: x plus six equals x squared, so x
+squared minus x minus six equals zero. x
+
+51
+00:03:48,996 --> 00:03:51,431
+equals three or negative two.
+
+52
+00:03:51,881 --> 00:03:57,363
+Check negative two: the root of four is
+two, not negative two. So only x equals
+
+53
+00:03:57,363 --> 00:03:58,196
+three works.
+
+54
+00:03:59,333 --> 00:04:04,411
+With two radicals, isolate one, square,
+then isolate the other and square again.
+
+55
+00:04:04,861 --> 00:04:10,960
+The root of x plus five equals one plus
+the root of x gives x equals four. Check:
+
+56
+00:04:10,960 --> 00:04:13,671
+three equals one plus two. It works.
+
+57
+00:04:14,800 --> 00:04:19,003
+For rational exponents, raise both sides
+to the reciprocal power.
+
+58
+00:04:19,453 --> 00:04:25,529
+x to the two thirds equals nine: raise to
+the three halves. x equals plus or minus
+
+59
+00:04:25,529 --> 00:04:26,493
+twenty-seven.
+
+60
+00:04:27,633 --> 00:04:31,900
+Your turn. Solve the cube root of two x
+minus one equals three.
+
+61
+00:04:32,350 --> 00:04:33,886
+Pause the video and try it.
+
+62
+00:04:34,336 --> 00:04:40,181
+Cube both sides: two x minus one equals
+twenty-seven. So x equals fourteen.
+
+63
+00:04:41,300 --> 00:04:46,463
+In this last lesson of Unit Seven, we'll
+graph square root and cube root functions.
+
+64
+00:04:47,600 --> 00:04:53,543
+y equals root x starts at the origin and
+passes through one comma one, four comma
+
+65
+00:04:53,543 --> 00:04:55,451
+two, and nine comma three.
+
+66
+00:04:55,901 --> 00:04:57,821
+It rises more and more slowly.
+
+67
+00:04:58,967 --> 00:05:04,961
+The same transformations apply. y equals
+two root of x minus one, plus three,
+
+68
+00:05:04,961 --> 00:05:09,164
+starts at one comma three, and rises twice
+as steeply.
+
+69
+00:05:09,614 --> 00:05:11,854
+A negative in front flips it downward.
+
+70
+00:05:13,000 --> 00:05:18,755
+y equals the cube root of x passes through
+negative eight comma negative two,
+
+71
+00:05:18,755 --> 00:05:24,285
+negative one comma negative one, zero, one
+comma one, and eight comma two.
+
+72
+00:05:24,735 --> 00:05:28,959
+It extends in both directions, and
+flattens out near the origin.
+
+73
+00:05:30,100 --> 00:05:35,704
+The domain of a square root function is
+where the inside is at least zero. For
+
+74
+00:05:35,704 --> 00:05:38,505
+root of x minus one, x is at least one.
+
+75
+00:05:38,955 --> 00:05:43,371
+Cube root functions have all real numbers
+as their domain and range.
+
+76
+00:05:44,500 --> 00:05:50,367
+The square root function is the inverse of
+y equals x squared, with x at least zero.
+
+77
+00:05:50,817 --> 00:05:54,571
+Their graphs are reflections across the
+line y equals x.
+
+78
+00:05:55,700 --> 00:06:01,581
+Your turn. Find the domain, range and
+starting point of y equals negative root
+
+79
+00:06:01,581 --> 00:06:03,465
+of x plus four, plus one.
+
+80
+00:06:03,915 --> 00:06:05,451
+Pause the video and try it.
+
+81
+00:06:05,901 --> 00:06:12,116
+It starts at negative four comma one.
+Domain: x at least negative four. Range: y
+
+82
+00:06:12,116 --> 00:06:13,048
+at most one.
+
+83
+00:06:14,167 --> 00:06:18,840
+That completes Unit Seven. Next, we'll
+study exponential and logarithmic
+
+84
+00:06:18,840 --> 00:06:24,098
+functions in Unit Eight. If this helped,
+subscribe to School Math, Explained, and
+
+85
+00:06:24,098 --> 00:06:27,863
+turn on notifications so you don't miss
+it. See you there.
+
