@@ -1,0 +1,203 @@
+1
+00:00:00,000 --> 00:00:04,880
+Welcome to Algebra One. Before we solve a
+single equation, we need to know what
+
+2
+00:00:04,880 --> 00:00:07,104
+kinds of numbers we're working with.
+
+3
+00:00:07,554 --> 00:00:12,233
+In this lesson, we'll sort numbers into
+families, and see where every one of them
+
+4
+00:00:12,233 --> 00:00:13,677
+lives on the number line.
+
+5
+00:00:15,300 --> 00:00:19,801
+Let's start with the numbers you first
+learned: one, two, three, and so on.
+
+6
+00:00:20,251 --> 00:00:23,878
+These are the natural numbers, also called
+counting numbers.
+
+7
+00:00:24,328 --> 00:00:27,293
+Add zero to that list, and you get the
+whole numbers.
+
+8
+00:00:28,433 --> 00:00:33,191
+Now include the negatives: negative one,
+negative two, negative three.
+
+9
+00:00:33,641 --> 00:00:36,542
+Together with the whole numbers, they make
+the integers.
+
+10
+00:00:36,992 --> 00:00:42,417
+On the number line, integers sit at evenly
+spaced marks, stretching forever in both
+
+11
+00:00:42,417 --> 00:00:43,136
+directions.
+
+12
+00:00:44,267 --> 00:00:48,939
+But there are numbers between the marks,
+like one half, or negative three fourths.
+
+13
+00:00:49,389 --> 00:00:54,249
+Any number that can be written as a
+fraction, one integer over another,
+
+14
+00:00:54,249 --> 00:00:56,919
+non-zero integer, is a rational number.
+
+15
+00:00:57,369 --> 00:01:02,724
+Every integer is rational too, because
+five, for example, equals five over one.
+
+16
+00:01:03,867 --> 00:01:06,683
+Rational numbers also show up as decimals.
+
+17
+00:01:07,133 --> 00:01:12,167
+Their decimals either stop, like zero
+point seven five, which is three fourths,
+
+18
+00:01:12,617 --> 00:01:18,298
+or repeat forever in a pattern, like zero
+point three three three, and so on, which
+
+19
+00:01:18,298 --> 00:01:19,188
+is one third.
+
+20
+00:01:20,333 --> 00:01:24,869
+Some numbers can't be written as a
+fraction at all. Their decimals go on
+
+21
+00:01:24,869 --> 00:01:27,011
+forever with no repeating pattern.
+
+22
+00:01:27,461 --> 00:01:31,813
+These are irrational numbers. The square
+root of two is one. So is pi.
+
+23
+00:01:32,263 --> 00:01:37,952
+They still have exact spots on the number
+line. The square root of two is about one
+
+24
+00:01:37,952 --> 00:01:41,585
+point four one, and pi is about three
+point one four.
+
+25
+00:01:42,733 --> 00:01:47,448
+Put the rational and irrational numbers
+together, and you get the real numbers.
+
+26
+00:01:47,898 --> 00:01:52,992
+Here's the whole family. Natural numbers
+sit inside the whole numbers, which sit
+
+27
+00:01:52,992 --> 00:01:56,303
+inside the integers, which sit inside the
+rationals.
+
+28
+00:01:56,753 --> 00:02:01,800
+The irrationals sit beside the rationals,
+and together they fill the entire number
+
+29
+00:02:01,800 --> 00:02:02,108
+line.
+
+30
+00:02:03,233 --> 00:02:08,393
+The number line also lets us compare
+numbers. A number to the right is always
+
+31
+00:02:08,393 --> 00:02:08,929
+greater.
+
+32
+00:02:09,379 --> 00:02:14,393
+So negative two is greater than negative
+five, even though five looks bigger.
+
+33
+00:02:14,843 --> 00:02:19,856
+Negative two is to the right, so negative
+two is greater than negative five.
+
+34
+00:02:20,000 --> 00:02:26,616
+Your turn. Classify each number: negative
+four, the square root of nine, two thirds,
+
+35
+00:02:26,616 --> 00:02:28,488
+and the square root of five.
+
+36
+00:02:28,938 --> 00:02:32,927
+Pause the video, and decide which families
+each one belongs to.
+
+37
+00:02:33,377 --> 00:02:37,431
+Negative four is an integer, so it's also
+rational and real.
+
+38
+00:02:37,881 --> 00:02:43,289
+The square root of nine equals three, so
+it's natural, whole, an integer, rational,
+
+39
+00:02:43,289 --> 00:02:43,875
+and real.
+
+40
+00:02:44,325 --> 00:02:49,518
+Two thirds is rational and real. And the
+square root of five is irrational and
+
+41
+00:02:49,518 --> 00:02:49,851
+real.
+
+42
+00:02:50,000 --> 00:02:56,474
+If this helped, subscribe to School Math,
+Explained, and turn on notifications so
+
+43
+00:02:56,474 --> 00:03:01,475
+you don't miss the next lesson, on the
+order of operations. See you there.
+

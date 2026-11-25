@@ -1,0 +1,193 @@
+1
+00:00:00,000 --> 00:00:02,816
+Long expressions can often be made much
+shorter.
+
+2
+00:00:03,266 --> 00:00:08,378
+In this lesson, we'll learn to spot like
+terms, and combine them to simplify an
+
+3
+00:00:08,378 --> 00:00:09,090
+expression.
+
+4
+00:00:10,233 --> 00:00:14,841
+Like terms have exactly the same variable
+part, with the same exponents.
+
+5
+00:00:15,291 --> 00:00:20,869
+Three x and five x are like terms. So are
+two y squared and negative seven y
+
+6
+00:00:20,869 --> 00:00:21,457
+squared.
+
+7
+00:00:21,907 --> 00:00:26,797
+But three x and three x squared are not
+like terms, because the exponents are
+
+8
+00:00:26,797 --> 00:00:27,432
+different.
+
+9
+00:00:27,882 --> 00:00:32,939
+And four y and four are not like terms
+either, because one has a variable and the
+
+10
+00:00:32,939 --> 00:00:33,813
+other doesn't.
+
+11
+00:00:34,933 --> 00:00:40,344
+To combine like terms, add or subtract
+their coefficients, and keep the variable
+
+12
+00:00:40,344 --> 00:00:41,291
+part the same.
+
+13
+00:00:41,741 --> 00:00:44,002
+Three x plus five x is eight x.
+
+14
+00:00:44,452 --> 00:00:49,868
+This works because of the distributive
+property: three x plus five x equals the
+
+15
+00:00:49,868 --> 00:00:53,433
+quantity three plus five, times x, which
+is eight x.
+
+16
+00:00:53,883 --> 00:00:58,886
+Think of it like three apples plus five
+apples. You get eight apples, not eight
+
+17
+00:00:58,886 --> 00:00:59,835
+apples squared.
+
+18
+00:01:00,967 --> 00:01:05,703
+Let's simplify seven a, plus two b, minus
+three a, plus six b.
+
+19
+00:01:06,153 --> 00:01:11,443
+First, group the like terms. Seven a minus
+three a, and two b plus six b.
+
+20
+00:01:11,893 --> 00:01:16,565
+Seven a minus three a is four a. Two b
+plus six b is eight b.
+
+21
+00:01:17,015 --> 00:01:22,016
+So the expression simplifies to four a
+plus eight b. We can't combine those,
+
+22
+00:01:22,016 --> 00:01:24,055
+because they're not like terms.
+
+23
+00:01:25,200 --> 00:01:27,483
+Sometimes you need to distribute first.
+
+24
+00:01:27,933 --> 00:01:32,114
+Simplify two times the quantity x plus
+three, plus four x.
+
+25
+00:01:32,564 --> 00:01:35,871
+Distribute the two: two x plus six, plus
+four x.
+
+26
+00:01:36,321 --> 00:01:40,331
+Now combine two x and four x, to get six x
+plus six.
+
+27
+00:01:41,467 --> 00:01:44,731
+Be careful with a minus sign in front of
+parentheses.
+
+28
+00:01:45,181 --> 00:01:51,516
+In five x minus the quantity two x minus
+four, the minus sign applies to every term
+
+29
+00:01:51,516 --> 00:01:52,050
+inside.
+
+30
+00:01:52,500 --> 00:01:58,720
+It becomes five x minus two x plus four.
+Notice the minus four turned into plus
+
+31
+00:01:58,720 --> 00:01:59,113
+four.
+
+32
+00:01:59,563 --> 00:02:01,867
+Combining, we get three x plus four.
+
+33
+00:02:02,000 --> 00:02:08,768
+Your turn. Simplify three times the
+quantity two y minus one, minus y, plus
+
+34
+00:02:08,768 --> 00:02:09,229
+seven.
+
+35
+00:02:09,679 --> 00:02:11,215
+Pause the video and try it.
+
+36
+00:02:11,665 --> 00:02:15,975
+Distribute the three: six y minus three,
+minus y, plus seven.
+
+37
+00:02:16,425 --> 00:02:23,143
+Combine the y terms: six y minus y is five
+y. Combine the constants: negative three
+
+38
+00:02:23,143 --> 00:02:24,681
+plus seven is four.
+
+39
+00:02:25,131 --> 00:02:27,264
+The answer is five y plus four.
+
+40
+00:02:28,400 --> 00:02:33,441
+That completes Unit One. Next, we'll start
+solving equations. If this helped,
+
+41
+00:02:33,441 --> 00:02:38,678
+subscribe to School Math, Explained, and
+turn on notifications so you don't miss
+
+42
+00:02:38,678 --> 00:02:39,856
+it. See you there.
+

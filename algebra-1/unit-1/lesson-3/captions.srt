@@ -1,0 +1,209 @@
+1
+00:00:00,000 --> 00:00:05,141
+Algebra starts with one simple idea: using
+a letter to stand for a number.
+
+2
+00:00:05,591 --> 00:00:10,643
+In this lesson, we'll learn what variables
+and expressions are, and how to evaluate
+
+3
+00:00:10,643 --> 00:00:13,869
+an expression when we know the value of
+its variable.
+
+4
+00:00:14,000 --> 00:00:20,598
+A variable is a letter, like x, n, or t,
+that represents a number we don't know
+
+5
+00:00:20,598 --> 00:00:22,936
+yet, or a number that can change.
+
+6
+00:00:23,386 --> 00:00:29,216
+For example, if a movie ticket costs eight
+dollars, then n tickets cost eight times n
+
+7
+00:00:29,216 --> 00:00:29,765
+dollars.
+
+8
+00:00:30,215 --> 00:00:32,945
+As n changes, the total changes with it.
+
+9
+00:00:34,067 --> 00:00:40,140
+An algebraic expression combines numbers,
+variables, and operations. Three x plus
+
+10
+00:00:40,140 --> 00:00:41,789
+five is an expression.
+
+11
+00:00:42,239 --> 00:00:48,098
+Its parts separated by plus or minus signs
+are called terms. Here, the terms are
+
+12
+00:00:48,098 --> 00:00:49,343
+three x and five.
+
+13
+00:00:49,793 --> 00:00:55,460
+The number multiplying a variable is its
+coefficient, so three is the coefficient
+
+14
+00:00:55,460 --> 00:00:55,809
+of x.
+
+15
+00:00:56,259 --> 00:00:59,865
+A term with no variable, like five, is
+called a constant.
+
+16
+00:01:01,000 --> 00:01:03,859
+An expression is not the same as an
+equation.
+
+17
+00:01:04,309 --> 00:01:10,099
+An equation has an equal sign and states
+that two things are equal, like three x
+
+18
+00:01:10,099 --> 00:01:12,053
+plus five equals seventeen.
+
+19
+00:01:12,503 --> 00:01:17,754
+An expression is just a value we can
+calculate. We simplify or evaluate
+
+20
+00:01:17,754 --> 00:01:20,417
+expressions, and we solve equations.
+
+21
+00:01:21,567 --> 00:01:26,943
+To evaluate an expression, substitute the
+value of the variable, then follow the
+
+22
+00:01:26,943 --> 00:01:28,287
+order of operations.
+
+23
+00:01:28,737 --> 00:01:32,321
+Let's evaluate three x plus five when x
+equals four.
+
+24
+00:01:32,771 --> 00:01:36,035
+Replace x with four: three times four,
+plus five.
+
+25
+00:01:36,485 --> 00:01:40,367
+Multiply first, to get twelve plus five,
+which is seventeen.
+
+26
+00:01:41,500 --> 00:01:47,051
+Now an expression with two variables: two
+a squared, minus b, when a equals three
+
+27
+00:01:47,051 --> 00:01:48,284
+and b equals five.
+
+28
+00:01:48,734 --> 00:01:51,806
+Substitute: two times three squared, minus
+five.
+
+29
+00:01:52,256 --> 00:01:56,779
+Exponent first: three squared is nine.
+Then two times nine is eighteen.
+
+30
+00:01:57,229 --> 00:01:59,341
+And eighteen minus five is thirteen.
+
+31
+00:02:00,467 --> 00:02:03,347
+We can also translate words into
+expressions.
+
+32
+00:02:03,797 --> 00:02:09,502
+Five more than twice a number. Let n be
+the number. Twice the number is two n, and
+
+33
+00:02:09,502 --> 00:02:11,242
+five more means add five.
+
+34
+00:02:11,692 --> 00:02:14,124
+So the expression is two n plus five.
+
+35
+00:02:14,574 --> 00:02:20,340
+Watch out for phrases like three less than
+a number. That's n minus three, not three
+
+36
+00:02:20,340 --> 00:02:20,889
+minus n.
+
+37
+00:02:22,033 --> 00:02:28,028
+Your turn. Evaluate x squared, minus four
+x, plus one, when x equals negative two.
+
+38
+00:02:28,478 --> 00:02:32,339
+Pause the video and try it. Be careful
+with the negative sign.
+
+39
+00:02:32,789 --> 00:02:38,750
+Substitute, using parentheses: negative
+two in parentheses, squared, minus four
+
+40
+00:02:38,750 --> 00:02:40,939
+times negative two, plus one.
+
+41
+00:02:41,389 --> 00:02:46,885
+Negative two squared is positive four.
+Minus four times negative two is plus
+
+42
+00:02:46,885 --> 00:02:47,319
+eight.
+
+43
+00:02:47,769 --> 00:02:50,948
+So we get four plus eight plus one, which
+is thirteen.
+
+44
+00:02:52,067 --> 00:02:57,517
+If this helped, subscribe to School Math,
+Explained, and turn on notifications so
+
+45
+00:02:57,517 --> 00:03:02,563
+you don't miss the next lesson, on
+properties of operations. See you there.
+
