@@ -1,0 +1,163 @@
+1
+00:00:00,000 --> 00:00:05,498
+Most equations have exactly one solution.
+But some have none at all, and some have
+
+2
+00:00:05,498 --> 00:00:06,571
+infinitely many.
+
+3
+00:00:07,021 --> 00:00:09,922
+In this lesson, we'll learn how to tell
+which is which.
+
+4
+00:00:11,067 --> 00:00:14,608
+First, the usual case. Two x plus one
+equals seven.
+
+5
+00:00:15,058 --> 00:00:20,778
+Subtract one, then divide by two, and x
+equals three. Exactly one number works.
+
+6
+00:00:20,778 --> 00:00:22,226
+That's one solution.
+
+7
+00:00:23,367 --> 00:00:27,143
+Now try three x plus five equals three x
+minus two.
+
+8
+00:00:27,593 --> 00:00:33,145
+Subtract three x from both sides. The x
+terms cancel, and we're left with five
+
+9
+00:00:33,145 --> 00:00:34,569
+equals negative two.
+
+10
+00:00:35,019 --> 00:00:40,849
+That's false. Five never equals negative
+two, no matter what x is. So this equation
+
+11
+00:00:40,849 --> 00:00:41,973
+has no solution.
+
+12
+00:00:42,423 --> 00:00:47,161
+On a graph, the two sides are parallel
+lines. They have the same slope, so they
+
+13
+00:00:47,161 --> 00:00:47,821
+never meet.
+
+14
+00:00:48,967 --> 00:00:53,532
+Next, two times the quantity x plus three,
+equals two x plus six.
+
+15
+00:00:53,982 --> 00:00:57,566
+Distribute: two x plus six equals two x
+plus six.
+
+16
+00:00:58,016 --> 00:01:03,499
+Subtract two x from both sides, and we get
+six equals six. That's always true.
+
+17
+00:01:03,949 --> 00:01:09,118
+Every value of x works, so there are
+infinitely many solutions. The two sides
+
+18
+00:01:09,118 --> 00:01:10,797
+are really the same line.
+
+19
+00:01:11,933 --> 00:01:16,840
+Here's the rule. Simplify until the x
+terms are gone, or you have x alone.
+
+20
+00:01:17,290 --> 00:01:19,423
+If x is left, there's one solution.
+
+21
+00:01:19,873 --> 00:01:23,884
+If x disappears and the statement is
+false, there's no solution.
+
+22
+00:01:24,334 --> 00:01:29,923
+If x disappears and the statement is true,
+there are infinitely many solutions, all
+
+23
+00:01:29,923 --> 00:01:30,798
+real numbers.
+
+24
+00:01:31,933 --> 00:01:37,543
+Let's try one more. Five times the
+quantity x minus one, equals five x plus
+
+25
+00:01:37,543 --> 00:01:37,843
+one.
+
+26
+00:01:38,293 --> 00:01:42,389
+Distribute: five x minus five equals five
+x plus one.
+
+27
+00:01:42,839 --> 00:01:48,300
+Subtract five x: negative five equals one.
+That's false, so there's no solution.
+
+28
+00:01:49,433 --> 00:01:54,873
+Your turn. Solve three times the quantity
+x plus two, equals three x plus six.
+
+29
+00:01:55,323 --> 00:01:56,859
+Pause the video and try it.
+
+30
+00:01:57,309 --> 00:02:01,064
+Distribute: three x plus six equals three
+x plus six.
+
+31
+00:02:01,514 --> 00:02:06,596
+Subtract three x: six equals six. That's
+true, so there are infinitely many
+
+32
+00:02:06,596 --> 00:02:07,274
+solutions.
+
+33
+00:02:08,400 --> 00:02:13,933
+Next time, we'll solve literal equations
+and formulas. If this helped, subscribe to
+
+34
+00:02:13,933 --> 00:02:18,933
+School Math, Explained, and turn on
+notifications so you don't miss it. See
+
+35
+00:02:18,933 --> 00:02:19,600
+you there.
+

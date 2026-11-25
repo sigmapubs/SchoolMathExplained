@@ -1,0 +1,198 @@
+1
+00:00:00,000 --> 00:00:05,291
+Ratios, proportions and percents show up
+everywhere, from recipes to shopping.
+
+2
+00:00:05,741 --> 00:00:10,552
+In this lesson, we'll turn them into
+equations, and solve them with one simple
+
+3
+00:00:10,552 --> 00:00:10,861
+tool.
+
+4
+00:00:11,000 --> 00:00:17,705
+A ratio compares two quantities. If a
+class has twelve boys and fifteen girls,
+
+5
+00:00:17,705 --> 00:00:21,216
+the ratio of boys to girls is twelve to
+fifteen.
+
+6
+00:00:21,666 --> 00:00:24,333
+You can write it with a colon, or as a
+fraction.
+
+7
+00:00:24,783 --> 00:00:30,346
+Like fractions, ratios can be simplified.
+Divide both by three, and twelve to
+
+8
+00:00:30,346 --> 00:00:32,441
+fifteen becomes four to five.
+
+9
+00:00:33,567 --> 00:00:39,591
+A proportion says two ratios are equal.
+For example, x over six equals ten over
+
+10
+00:00:39,591 --> 00:00:40,201
+fifteen.
+
+11
+00:00:40,651 --> 00:00:45,601
+To solve it, cross-multiply. Fifteen times
+x equals six times ten.
+
+12
+00:00:46,051 --> 00:00:51,213
+That's fifteen x equals sixty. Divide by
+fifteen, and x equals four.
+
+13
+00:00:51,663 --> 00:00:57,177
+Cross-multiplying works because it's the
+same as multiplying both sides by both
+
+14
+00:00:57,177 --> 00:00:58,085
+denominators.
+
+15
+00:00:59,233 --> 00:01:04,415
+Here's a real problem. Three notebooks
+cost seven dollars fifty. How much do
+
+16
+00:01:04,415 --> 00:01:05,847
+eight notebooks cost?
+
+17
+00:01:06,297 --> 00:01:11,918
+Set up matching ratios of notebooks to
+dollars: three over seven fifty equals
+
+18
+00:01:11,918 --> 00:01:12,867
+eight over x.
+
+19
+00:01:13,317 --> 00:01:19,654
+Cross-multiply: three x equals sixty. So x
+equals twenty. Eight notebooks cost twenty
+
+20
+00:01:19,654 --> 00:01:20,251
+dollars.
+
+21
+00:01:21,400 --> 00:01:27,529
+A percent is a ratio out of one hundred.
+So part over whole equals percent over one
+
+22
+00:01:27,529 --> 00:01:28,120
+hundred.
+
+23
+00:01:28,570 --> 00:01:33,453
+What is thirty percent of eighty? Write p
+over eighty equals thirty over one
+
+24
+00:01:33,453 --> 00:01:33,967
+hundred.
+
+25
+00:01:34,417 --> 00:01:39,861
+Cross-multiply: one hundred p equals two
+thousand four hundred. So p equals
+
+26
+00:01:39,861 --> 00:01:40,732
+twenty-four.
+
+27
+00:01:41,182 --> 00:01:46,899
+Or, as a shortcut, multiply zero point
+three zero by eighty. Same answer.
+
+28
+00:01:48,033 --> 00:01:53,015
+The same setup finds a missing whole.
+Eighteen is forty-five percent of what
+
+29
+00:01:53,015 --> 00:01:53,473
+number?
+
+30
+00:01:53,923 --> 00:01:57,849
+Eighteen over w equals forty-five over one
+hundred.
+
+31
+00:01:58,299 --> 00:02:04,827
+Cross-multiply: forty-five w equals one
+thousand eight hundred. So w equals forty.
+
+32
+00:02:05,967 --> 00:02:09,807
+For percent change, divide the change by
+the original amount.
+
+33
+00:02:10,257 --> 00:02:15,462
+A price goes from fifty dollars to sixty
+dollars. The change is ten dollars.
+
+34
+00:02:15,912 --> 00:02:20,456
+Ten over fifty is zero point two, which is
+a twenty percent increase.
+
+35
+00:02:21,600 --> 00:02:24,331
+Your turn. Twelve is what percent of
+forty-eight?
+
+36
+00:02:24,781 --> 00:02:26,317
+Pause the video and try it.
+
+37
+00:02:26,767 --> 00:02:30,543
+Set up twelve over forty-eight equals p
+over one hundred.
+
+38
+00:02:30,993 --> 00:02:36,410
+Cross-multiply: forty-eight p equals one
+thousand two hundred. So p equals
+
+39
+00:02:36,410 --> 00:02:40,657
+twenty-five. Twelve is twenty-five percent
+of forty-eight.
+
+40
+00:02:41,800 --> 00:02:46,728
+Next time, we'll put everything together
+to solve word problems with linear
+
+41
+00:02:46,728 --> 00:02:51,656
+equations. If this helped, subscribe to
+School Math, Explained, and turn on
+
+42
+00:02:51,656 --> 00:02:54,941
+notifications so you don't miss it. See
+you there.
+

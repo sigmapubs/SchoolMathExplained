@@ -1,0 +1,161 @@
+1
+00:00:00,000 --> 00:00:05,568
+Formulas like distance equals rate times
+time are equations with several letters.
+
+2
+00:00:06,018 --> 00:00:10,925
+In this lesson, we'll rearrange formulas
+to solve for whichever letter we need.
+
+3
+00:00:12,067 --> 00:00:16,675
+An equation with more than one variable is
+called a literal equation.
+
+4
+00:00:17,125 --> 00:00:21,327
+To solve for one letter, treat every other
+letter as if it were a number.
+
+5
+00:00:21,777 --> 00:00:27,093
+Then use the same moves as always: do the
+same thing to both sides, and undo
+
+6
+00:00:27,093 --> 00:00:29,052
+operations in reverse order.
+
+7
+00:00:30,200 --> 00:00:32,611
+Let's solve d equals r t for t.
+
+8
+00:00:33,061 --> 00:00:39,887
+t is multiplied by r, so divide both sides
+by r. That gives t equals d over r.
+
+9
+00:00:40,337 --> 00:00:46,005
+Now if you drive a hundred fifty miles at
+fifty miles per hour, t equals a hundred
+
+10
+00:00:46,005 --> 00:00:48,700
+fifty over fifty, which is three hours.
+
+11
+00:00:49,833 --> 00:00:56,122
+Compare these two equations side by side.
+Two x plus three equals eleven, and a x
+
+12
+00:00:56,122 --> 00:00:57,364
+plus b equals c.
+
+13
+00:00:57,814 --> 00:01:04,193
+In both, subtract the constant first. Two
+x equals eight, and a x equals c minus b.
+
+14
+00:01:04,643 --> 00:01:11,363
+Then divide by the coefficient. x equals
+four, and x equals c minus b, all over a.
+
+15
+00:01:11,813 --> 00:01:16,740
+The steps are identical. The only
+difference is that the answer on the right
+
+16
+00:01:16,740 --> 00:01:18,490
+is a formula, not a number.
+
+17
+00:01:19,633 --> 00:01:26,097
+The perimeter of a rectangle is P equals
+two l plus two w. Let's solve for w.
+
+18
+00:01:26,547 --> 00:01:31,582
+Subtract two l from both sides: P minus
+two l equals two w.
+
+19
+00:01:32,032 --> 00:01:37,365
+Divide both sides by two: w equals P minus
+two l, all over two.
+
+20
+00:01:38,500 --> 00:01:44,279
+Here's a famous one. Fahrenheit equals
+nine fifths Celsius plus thirty-two. Let's
+
+21
+00:01:44,279 --> 00:01:45,135
+solve for C.
+
+22
+00:01:45,585 --> 00:01:49,958
+Subtract thirty-two: F minus thirty-two
+equals nine fifths C.
+
+23
+00:01:50,408 --> 00:01:56,652
+Multiply both sides by five ninths, the
+reciprocal of nine fifths. C equals five
+
+24
+00:01:56,652 --> 00:02:00,243
+ninths, times the quantity F minus
+thirty-two.
+
+25
+00:02:00,693 --> 00:02:06,391
+Check with boiling water. F is two hundred
+twelve. Two twelve minus thirty-two is a
+
+26
+00:02:06,391 --> 00:02:11,471
+hundred eighty, and five ninths of a
+hundred eighty is one hundred degrees
+
+27
+00:02:11,471 --> 00:02:12,021
+Celsius.
+
+28
+00:02:13,167 --> 00:02:18,799
+Your turn. The area of a triangle is A
+equals one half b h. Solve for h.
+
+29
+00:02:19,249 --> 00:02:20,785
+Pause the video and try it.
+
+30
+00:02:21,235 --> 00:02:24,797
+Multiply both sides by two: two A equals b
+h.
+
+31
+00:02:25,247 --> 00:02:28,917
+Divide both sides by b: h equals two A
+over b.
+
+32
+00:02:30,067 --> 00:02:35,632
+Next time, we'll use equations to solve
+ratio, proportion and percent problems. If
+
+33
+00:02:35,632 --> 00:02:40,926
+this helped, subscribe to School Math,
+Explained, and turn on notifications so
+
+34
+00:02:40,926 --> 00:02:43,165
+you don't miss it. See you there.
+

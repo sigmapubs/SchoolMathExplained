@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:05,376
+Some equations need two steps to solve,
+like three x plus five equals twenty.
+
+2
+00:00:05,826 --> 00:00:09,218
+In this lesson, we'll learn which step to
+do first, and why.
+
+3
+00:00:10,367 --> 00:00:15,999
+To build three x plus five, you start with
+x, multiply by three, then add five.
+
+4
+00:00:16,449 --> 00:00:22,120
+To solve, we undo those steps in reverse
+order. First undo the adding, then undo
+
+5
+00:00:22,120 --> 00:00:23,254
+the multiplying.
+
+6
+00:00:23,704 --> 00:00:28,356
+It's like getting dressed. You put on
+socks, then shoes. To undress, the shoes
+
+7
+00:00:28,356 --> 00:00:29,251
+come off first.
+
+8
+00:00:30,400 --> 00:00:33,259
+Let's solve three x plus five equals
+twenty.
+
+9
+00:00:33,709 --> 00:00:38,615
+First, subtract five from both sides. That
+gives three x equals fifteen.
+
+10
+00:00:39,065 --> 00:00:42,628
+Then divide both sides by three. x equals
+five.
+
+11
+00:00:43,078 --> 00:00:46,555
+Check: three times five, plus five, is
+twenty. It works.
+
+12
+00:00:47,700 --> 00:00:50,559
+Next, x over four, minus two, equals
+three.
+
+13
+00:00:51,009 --> 00:00:54,955
+First add two to both sides, so x over
+four equals five.
+
+14
+00:00:55,405 --> 00:00:59,224
+Then multiply both sides by four. x equals
+twenty.
+
+15
+00:01:00,367 --> 00:01:03,993
+Watch the signs in seven minus two x
+equals fifteen.
+
+16
+00:01:04,443 --> 00:01:09,371
+Subtract seven from both sides. That
+leaves negative two x equals eight.
+
+17
+00:01:09,821 --> 00:01:14,344
+Divide both sides by negative two, and x
+equals negative four.
+
+18
+00:01:14,794 --> 00:01:20,063
+Check: seven minus two times negative four
+is seven plus eight, which is fifteen.
+
+19
+00:01:21,200 --> 00:01:26,513
+One exception. In the quantity x plus
+four, all over three, equals five, the
+
+20
+00:01:26,513 --> 00:01:29,029
+whole left side is divided by three.
+
+21
+00:01:29,479 --> 00:01:34,948
+So this time we multiply both sides by
+three first, to get x plus four equals
+
+22
+00:01:34,948 --> 00:01:35,517
+fifteen.
+
+23
+00:01:35,967 --> 00:01:38,676
+Then subtract four, and x equals eleven.
+
+24
+00:01:39,800 --> 00:01:43,597
+Your turn. Solve five x minus eight equals
+seventeen.
+
+25
+00:01:44,047 --> 00:01:45,583
+Pause the video and try it.
+
+26
+00:01:46,033 --> 00:01:49,660
+Add eight to both sides, so five x equals
+twenty-five.
+
+27
+00:01:50,110 --> 00:01:53,481
+Divide both sides by five, and x equals
+five.
+
+28
+00:01:53,931 --> 00:01:57,621
+Check: five times five minus eight is
+seventeen. Correct.
+
+29
+00:01:58,767 --> 00:02:03,822
+Next time, we'll solve multi-step
+equations, with variables on both sides.
+
+30
+00:02:03,822 --> 00:02:09,355
+If this helped, subscribe to School Math,
+Explained, and turn on notifications so
+
+31
+00:02:09,355 --> 00:02:11,609
+you don't miss it. See you there.
+

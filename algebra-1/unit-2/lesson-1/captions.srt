@@ -1,0 +1,173 @@
+1
+00:00:00,000 --> 00:00:04,651
+Welcome to Unit Two of Algebra One, where
+we start solving equations.
+
+2
+00:00:05,101 --> 00:00:09,837
+In this lesson, we'll solve one-step
+equations, and learn the one rule that
+
+3
+00:00:09,837 --> 00:00:11,479
+makes every equation work.
+
+4
+00:00:12,600 --> 00:00:17,528
+An equation says two things are equal. You
+can picture it as a balanced scale.
+
+5
+00:00:17,978 --> 00:00:21,626
+Here, x plus three on the left balances
+seven on the right.
+
+6
+00:00:22,076 --> 00:00:27,553
+If you take three away from the left side
+only, the scale tips. To keep it balanced,
+
+7
+00:00:27,553 --> 00:00:30,161
+take three away from the right side too.
+
+8
+00:00:30,611 --> 00:00:35,374
+That's the golden rule of equations:
+whatever you do to one side, do to the
+
+9
+00:00:35,374 --> 00:00:36,073
+other side.
+
+10
+00:00:37,200 --> 00:00:43,240
+To solve, we want x alone on one side. We
+undo whatever is being done to x, using
+
+11
+00:00:43,240 --> 00:00:44,880
+the inverse operation.
+
+12
+00:00:45,330 --> 00:00:50,961
+Addition and subtraction undo each other.
+Multiplication and division undo each
+
+13
+00:00:50,961 --> 00:00:51,389
+other.
+
+14
+00:00:51,839 --> 00:00:57,936
+In x plus three equals seven, three is
+added to x. So we subtract three from both
+
+15
+00:00:57,936 --> 00:00:58,388
+sides.
+
+16
+00:00:58,838 --> 00:01:04,812
+x plus three minus three is just x, and
+seven minus three is four. So x equals
+
+17
+00:01:04,812 --> 00:01:05,195
+four.
+
+18
+00:01:06,333 --> 00:01:10,643
+Always check your answer by putting it
+back into the original equation.
+
+19
+00:01:11,093 --> 00:01:16,383
+Four plus three is seven. Seven equals
+seven, so x equals four is correct.
+
+20
+00:01:17,533 --> 00:01:23,793
+Now x minus five equals two. Five is
+subtracted from x, so we add five to both
+
+21
+00:01:23,793 --> 00:01:24,275
+sides.
+
+22
+00:01:24,725 --> 00:01:30,613
+x minus five plus five is x, and two plus
+five is seven. So x equals seven.
+
+23
+00:01:31,733 --> 00:01:37,558
+Next, four x equals twenty. Here x is
+multiplied by four, so we divide both
+
+24
+00:01:37,558 --> 00:01:38,645
+sides by four.
+
+25
+00:01:39,095 --> 00:01:46,093
+Four x divided by four is x, and twenty
+divided by four is five. So x equals five.
+
+26
+00:01:47,233 --> 00:01:54,032
+Finally, x divided by three equals six. x
+is divided by three, so we multiply both
+
+27
+00:01:54,032 --> 00:01:55,276
+sides by three.
+
+28
+00:01:55,726 --> 00:02:02,019
+x over three, times three, is x. Six times
+three is eighteen. So x equals eighteen.
+
+29
+00:02:02,469 --> 00:02:05,499
+Check: eighteen divided by three is six.
+It works.
+
+30
+00:02:06,633 --> 00:02:09,897
+Your turn. Solve negative three x equals
+twelve.
+
+31
+00:02:10,347 --> 00:02:11,883
+Pause the video and try it.
+
+32
+00:02:12,333 --> 00:02:17,795
+x is multiplied by negative three, so
+divide both sides by negative three.
+
+33
+00:02:18,245 --> 00:02:24,026
+Twelve divided by negative three is
+negative four. So x equals negative four.
+
+34
+00:02:24,476 --> 00:02:28,423
+Check: negative three times negative four
+is twelve. Correct.
+
+35
+00:02:29,567 --> 00:02:35,165
+Next time, we'll solve two-step equations.
+If this helped, subscribe to School Math,
+
+36
+00:02:35,165 --> 00:02:40,431
+Explained, and turn on notifications so
+you don't miss the next lesson. See you
+
+37
+00:02:40,431 --> 00:02:40,831
+there.
+

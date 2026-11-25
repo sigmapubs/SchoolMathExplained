@@ -1,0 +1,203 @@
+1
+00:00:00,000 --> 00:00:03,051
+Word problems are where equations become
+useful.
+
+2
+00:00:03,501 --> 00:00:08,322
+In this lesson, we'll turn stories into
+equations, using a four-step plan.
+
+3
+00:00:09,467 --> 00:00:14,075
+Step one: define a variable. Write down
+exactly what x stands for.
+
+4
+00:00:14,525 --> 00:00:17,405
+Step two: translate the words into an
+equation.
+
+5
+00:00:17,855 --> 00:00:19,668
+Step three: solve the equation.
+
+6
+00:00:20,118 --> 00:00:24,150
+Step four: answer the question in words,
+and check that it makes sense.
+
+7
+00:00:25,267 --> 00:00:29,640
+The sum of three consecutive integers is
+seventy-two. What are they?
+
+8
+00:00:30,090 --> 00:00:34,869
+Let n be the smallest. Then the next two
+are n plus one and n plus two.
+
+9
+00:00:35,319 --> 00:00:41,387
+So n plus n plus one plus n plus two
+equals seventy-two. That's three n plus
+
+10
+00:00:41,387 --> 00:00:43,383
+three equals seventy-two.
+
+11
+00:00:43,833 --> 00:00:50,001
+Subtract three: three n equals sixty-nine.
+So n equals twenty-three. The integers are
+
+12
+00:00:50,001 --> 00:00:53,049
+twenty-three, twenty-four and twenty-five.
+
+13
+00:00:54,167 --> 00:01:00,011
+A phone plan costs twenty dollars a month,
+plus ten cents per text. One month's bill
+
+14
+00:01:00,011 --> 00:01:03,489
+was thirty-five dollars. How many texts
+were sent?
+
+15
+00:01:03,939 --> 00:01:09,998
+Let t be the number of texts. Then twenty
+plus zero point one t equals thirty-five.
+
+16
+00:01:10,448 --> 00:01:16,517
+Subtract twenty: zero point one t equals
+fifteen. Divide by zero point one: t
+
+17
+00:01:16,517 --> 00:01:18,960
+equals one hundred fifty texts.
+
+18
+00:01:20,100 --> 00:01:25,833
+Gym A charges a forty dollar joining fee
+plus twenty-five dollars a month. Gym B
+
+19
+00:01:25,833 --> 00:01:31,279
+charges thirty-five dollars a month with
+no fee. When do they cost the same?
+
+20
+00:01:31,729 --> 00:01:37,738
+Let m be the number of months. Gym A costs
+forty plus twenty-five m. Gym B costs
+
+21
+00:01:37,738 --> 00:01:38,790
+thirty-five m.
+
+22
+00:01:39,240 --> 00:01:43,592
+Set them equal: forty plus twenty-five m
+equals thirty-five m.
+
+23
+00:01:44,042 --> 00:01:50,544
+Subtract twenty-five m: forty equals ten
+m. So m equals four. After four months,
+
+24
+00:01:50,544 --> 00:01:53,877
+both gyms cost one hundred forty dollars.
+
+25
+00:01:54,000 --> 00:02:00,880
+A rectangle has a perimeter of fifty-four
+centimeters. Its length is three more than
+
+26
+00:02:00,880 --> 00:02:03,469
+twice its width. Find its dimensions.
+
+27
+00:02:03,919 --> 00:02:08,015
+Let w be the width. Then the length is two
+w plus three.
+
+28
+00:02:08,465 --> 00:02:14,869
+Perimeter is two lengths plus two widths:
+two times the quantity two w plus three,
+
+29
+00:02:14,869 --> 00:02:17,212
+plus two w, equals fifty-four.
+
+30
+00:02:17,662 --> 00:02:24,333
+That simplifies to six w plus six equals
+fifty-four. So six w equals forty-eight,
+
+31
+00:02:24,333 --> 00:02:28,862
+and w equals eight. The length is nineteen
+centimeters.
+
+32
+00:02:29,000 --> 00:02:35,098
+Your turn. Maya has a hundred twenty
+dollars and saves fifteen dollars a week.
+
+33
+00:02:35,098 --> 00:02:39,934
+Leo has sixty dollars and saves
+twenty-five dollars a week. After how many
+
+34
+00:02:39,934 --> 00:02:42,352
+weeks will they have the same amount?
+
+35
+00:02:42,802 --> 00:02:44,338
+Pause the video and try it.
+
+36
+00:02:44,788 --> 00:02:51,053
+Let w be the number of weeks. One twenty
+plus fifteen w equals sixty plus
+
+37
+00:02:51,053 --> 00:02:52,255
+twenty-five w.
+
+38
+00:02:52,705 --> 00:03:00,026
+Subtract fifteen w and sixty from both
+sides: sixty equals ten w. So w equals
+
+39
+00:03:00,026 --> 00:03:00,406
+six.
+
+40
+00:03:00,856 --> 00:03:04,824
+Check: after six weeks, each of them has
+two hundred ten dollars.
+
+41
+00:03:05,967 --> 00:03:10,940
+That completes Unit Two. Next, we'll start
+Unit Three, solving and graphing
+
+42
+00:03:10,940 --> 00:03:16,112
+inequalities. If this helped, subscribe to
+School Math, Explained, and turn on
+
+43
+00:03:16,112 --> 00:03:19,428
+notifications so you don't miss it. See
+you there.
+
