@@ -1,0 +1,578 @@
+1
+00:00:00,000 --> 00:00:03,456
+In this lesson, we'll count outcomes
+without listing them all.
+
+2
+00:00:04,600 --> 00:00:09,998
+If one choice has m options and a second
+has n, together there are m times n
+
+3
+00:00:09,998 --> 00:00:10,637
+outcomes.
+
+4
+00:00:11,087 --> 00:00:15,397
+Three shirts and four pants make three
+times four, or twelve outfits.
+
+5
+00:00:16,533 --> 00:00:22,485
+Five factorial means five times four times
+three times two times one, which is one
+
+6
+00:00:22,485 --> 00:00:23,573
+hundred twenty.
+
+7
+00:00:24,023 --> 00:00:29,084
+It counts the ways to line up five
+different books. By definition, zero
+
+8
+00:00:29,084 --> 00:00:30,295
+factorial is one.
+
+9
+00:00:31,433 --> 00:00:34,740
+A permutation is an arrangement where
+order matters.
+
+10
+00:00:35,190 --> 00:00:41,434
+The number of ways to arrange r items
+chosen from n is n P r, equal to n
+
+11
+00:00:41,434 --> 00:00:44,470
+factorial over n minus r factorial.
+
+12
+00:00:45,600 --> 00:00:49,269
+How many ways can eight runners finish
+first, second and third?
+
+13
+00:00:49,719 --> 00:00:54,999
+Eight P three equals eight times seven
+times six, which is three hundred thirty
+
+14
+00:00:54,999 --> 00:00:55,266
+six.
+
+15
+00:00:56,400 --> 00:01:01,613
+When letters repeat, divide out the
+duplicates. The letters of LEVEL: five
+
+16
+00:01:01,613 --> 00:01:03,867
+letters, with two Ls and two Es.
+
+17
+00:01:04,317 --> 00:01:09,999
+Five factorial over two factorial times
+two factorial is one twenty over four,
+
+18
+00:01:09,999 --> 00:01:11,165
+which is thirty.
+
+19
+00:01:12,300 --> 00:01:17,783
+Your turn. How many four digit codes use
+digits zero through nine with no repeats?
+
+20
+00:01:18,233 --> 00:01:19,769
+Pause the video and try it.
+
+21
+00:01:20,219 --> 00:01:26,232
+Ten P four equals ten times nine times
+eight times seven, which is five thousand
+
+22
+00:01:26,232 --> 00:01:26,683
+forty.
+
+23
+00:01:27,800 --> 00:01:31,512
+In this lesson, we'll count selections
+where order doesn't matter.
+
+24
+00:01:32,633 --> 00:01:36,409
+Picking Ana, then Ben, is the same team as
+Ben, then Ana.
+
+25
+00:01:36,859 --> 00:01:39,761
+So a combination counts groups, not
+orderings.
+
+26
+00:01:40,900 --> 00:01:47,702
+The number of ways to choose r items from
+n is n C r equals n factorial over r
+
+27
+00:01:47,702 --> 00:01:50,841
+factorial times n minus r factorial.
+
+28
+00:01:51,291 --> 00:01:56,795
+It's the permutation count divided by r
+factorial, the ways to order each group.
+
+29
+00:01:57,933 --> 00:02:01,603
+How many ways can you choose a committee
+of three from ten people?
+
+30
+00:02:02,053 --> 00:02:07,385
+Ten C three equals ten times nine times
+eight over six, which is one hundred
+
+31
+00:02:07,385 --> 00:02:07,877
+twenty.
+
+32
+00:02:09,000 --> 00:02:12,136
+Choose two boys from six and two girls
+from five.
+
+33
+00:02:12,586 --> 00:02:18,542
+Six C two is fifteen and five C two is
+ten, so fifteen times ten gives one
+
+34
+00:02:18,542 --> 00:02:19,669
+hundred fifty.
+
+35
+00:02:19,800 --> 00:02:24,299
+Ask yourself: does swapping two people
+change the outcome?
+
+36
+00:02:24,749 --> 00:02:29,876
+Electing a president and vice president,
+order matters, so it's a permutation.
+
+37
+00:02:29,876 --> 00:02:33,623
+Picking two delegates, it doesn't, so it's
+a combination.
+
+38
+00:02:34,767 --> 00:02:39,076
+Your turn. How many five card hands come
+from a fifty two card deck?
+
+39
+00:02:39,526 --> 00:02:41,062
+Pause the video and try it.
+
+40
+00:02:41,512 --> 00:02:46,945
+Fifty two C five equals two million, five
+hundred ninety eight thousand, nine
+
+41
+00:02:46,945 --> 00:02:47,933
+hundred sixty.
+
+42
+00:02:49,066 --> 00:02:53,973
+In this lesson, we'll find probabilities
+when more than one event is involved.
+
+43
+00:02:55,099 --> 00:03:00,682
+The probability of an event is favorable
+outcomes over total outcomes, when all are
+
+44
+00:03:00,682 --> 00:03:01,691
+equally likely.
+
+45
+00:03:02,141 --> 00:03:06,067
+Rolling an even number on a die: three out
+of six, or one half.
+
+46
+00:03:07,199 --> 00:03:13,109
+The complement of A is everything that is
+not A. P of not A equals one minus P of A.
+
+47
+00:03:13,559 --> 00:03:18,401
+The chance of not rolling a six is one
+minus one sixth, or five sixths.
+
+48
+00:03:19,533 --> 00:03:24,375
+P of A or B equals P of A plus P of B
+minus P of A and B.
+
+49
+00:03:24,825 --> 00:03:30,626
+Drawing a heart or a king: thirteen over
+fifty two plus four over fifty two minus
+
+50
+00:03:30,626 --> 00:03:35,855
+one over fifty two, which is sixteen over
+fifty two, or four thirteenths.
+
+51
+00:03:36,999 --> 00:03:41,671
+For independent events, P of A and B
+equals P of A times P of B.
+
+52
+00:03:42,121 --> 00:03:47,305
+Flipping heads and rolling a six: one half
+times one sixth, which is one twelfth.
+
+53
+00:03:48,433 --> 00:03:52,699
+Counting helps too. Choose two cards:
+what's the chance both are aces?
+
+54
+00:03:53,149 --> 00:03:59,402
+Four C two over fifty two C two equals six
+over one thousand three hundred twenty
+
+55
+00:03:59,402 --> 00:04:02,259
+six, about point zero zero four five.
+
+56
+00:04:03,399 --> 00:04:07,367
+Your turn. Flip three coins. What's the
+chance of at least one head?
+
+57
+00:04:07,817 --> 00:04:09,353
+Pause the video and try it.
+
+58
+00:04:09,803 --> 00:04:13,665
+Use the complement: one minus one eighth,
+which is seven eighths.
+
+59
+00:04:14,800 --> 00:04:19,621
+In this lesson, we'll find probabilities
+when we already know something happened.
+
+60
+00:04:20,767 --> 00:04:24,073
+P of A given B is the chance of A, knowing
+B occurred.
+
+61
+00:04:24,523 --> 00:04:28,150
+Knowing B shrinks the sample space to just
+the B outcomes.
+
+62
+00:04:29,300 --> 00:04:34,441
+The formula is P of A given B equals P of
+A and B over P of B.
+
+63
+00:04:34,891 --> 00:04:40,432
+Roll a die. Given the roll is even, what's
+the chance it's a six? One sixth over one
+
+64
+00:04:40,432 --> 00:04:42,081
+half, which is one third.
+
+65
+00:04:43,200 --> 00:04:48,959
+In a survey of one hundred students, sixty
+play a sport, and forty of those also play
+
+66
+00:04:48,959 --> 00:04:49,365
+music.
+
+67
+00:04:49,815 --> 00:04:55,131
+Given a student plays a sport, the
+probability they play music is forty over
+
+68
+00:04:55,131 --> 00:04:56,599
+sixty, or two thirds.
+
+69
+00:04:57,733 --> 00:05:00,720
+Drawing without replacement makes events
+dependent.
+
+70
+00:05:01,170 --> 00:05:06,436
+Two cards, both hearts: thirteen over
+fifty two, times twelve over fifty one,
+
+71
+00:05:06,436 --> 00:05:08,146
+which is one seventeenth.
+
+72
+00:05:09,267 --> 00:05:13,512
+A and B are independent when P of A given
+B equals P of A.
+
+73
+00:05:13,962 --> 00:05:19,259
+Suppose thirty of the forty non-athletes
+also play music. Then seventy of one
+
+74
+00:05:19,259 --> 00:05:24,762
+hundred students play music overall, but
+only two thirds of athletes do. Seventy
+
+75
+00:05:24,762 --> 00:05:28,063
+percent is not two thirds, so they're
+dependent.
+
+76
+00:05:29,200 --> 00:05:33,960
+Your turn. A bag has five red and three
+blue marbles. Draw two without
+
+77
+00:05:33,960 --> 00:05:36,816
+replacement. Find the chance both are red.
+
+78
+00:05:37,266 --> 00:05:38,802
+Pause the video and try it.
+
+79
+00:05:39,252 --> 00:05:43,961
+Five eighths times four sevenths, which is
+twenty over fifty six, or five
+
+80
+00:05:43,961 --> 00:05:44,735
+fourteenths.
+
+81
+00:05:45,866 --> 00:05:49,855
+In this lesson, we'll study the bell
+shaped normal distribution.
+
+82
+00:05:50,999 --> 00:05:56,195
+Many measurements, like heights or test
+scores, pile up around an average and thin
+
+83
+00:05:56,195 --> 00:05:57,335
+out on both sides.
+
+84
+00:05:57,785 --> 00:06:00,452
+That symmetric bell shape is the normal
+curve.
+
+85
+00:06:01,599 --> 00:06:06,463
+The mean, mu, is the center. The standard
+deviation, sigma, measures spread.
+
+86
+00:06:06,913 --> 00:06:09,857
+A larger sigma makes the bell wider and
+flatter.
+
+87
+00:06:10,999 --> 00:06:16,185
+The empirical rule: about sixty eight
+percent of data falls within one standard
+
+88
+00:06:16,185 --> 00:06:21,568
+deviation of the mean, ninety five percent
+within two, and ninety nine point seven
+
+89
+00:06:21,568 --> 00:06:22,946
+percent within three.
+
+90
+00:06:23,396 --> 00:06:27,364
+That's the sixty eight, ninety five,
+ninety nine point seven rule.
+
+91
+00:06:28,499 --> 00:06:34,327
+A z score tells how many standard
+deviations a value is from the mean: z
+
+92
+00:06:34,327 --> 00:06:36,755
+equals x minus mu, over sigma.
+
+93
+00:06:37,205 --> 00:06:43,140
+Scores have mean seventy and sigma eight.
+A score of eighty six has z equals sixteen
+
+94
+00:06:43,140 --> 00:06:44,907
+over eight, which is two.
+
+95
+00:06:46,033 --> 00:06:48,038
+What percent score above eighty six?
+
+96
+00:06:48,488 --> 00:06:54,457
+Ninety five percent are within two sigma,
+so five percent are outside, split evenly.
+
+97
+00:06:54,457 --> 00:06:58,152
+That leaves two point five percent above
+eighty six.
+
+98
+00:06:59,299 --> 00:07:04,704
+Your turn. Heights have mean sixty six
+inches and sigma three. What percent are
+
+99
+00:07:04,704 --> 00:07:07,577
+between sixty three and sixty nine inches?
+
+100
+00:07:08,027 --> 00:07:09,563
+Pause the video and try it.
+
+101
+00:07:10,013 --> 00:07:14,109
+That's within one standard deviation, so
+about sixty eight percent.
+
+102
+00:07:15,233 --> 00:07:19,695
+In this lesson, we'll see how a small
+sample can tell us about a whole
+
+103
+00:07:19,695 --> 00:07:20,396
+population.
+
+104
+00:07:21,533 --> 00:07:26,994
+The population is everyone you care about.
+A sample is the part you actually measure.
+
+105
+00:07:27,444 --> 00:07:31,839
+A statistic from the sample estimates a
+parameter of the population.
+
+106
+00:07:32,966 --> 00:07:37,894
+A simple random sample gives every member
+an equal chance of being chosen.
+
+107
+00:07:38,344 --> 00:07:43,699
+Surveying only your friends, or only
+people who volunteer, introduces bias.
+
+108
+00:07:44,833 --> 00:07:50,625
+A survey asks questions. An observational
+study watches without interfering. An
+
+109
+00:07:50,625 --> 00:07:53,558
+experiment assigns treatments at random.
+
+110
+00:07:54,008 --> 00:07:57,550
+Only a randomized experiment can show
+cause and effect.
+
+111
+00:07:58,700 --> 00:08:04,050
+For a sample proportion, the margin of
+error is about one over the square root of
+
+112
+00:08:04,050 --> 00:08:04,182
+n.
+
+113
+00:08:04,632 --> 00:08:08,643
+With four hundred people, that's one over
+twenty, or five percent.
+
+114
+00:08:09,766 --> 00:08:14,417
+A poll of four hundred voters finds fifty
+four percent support a measure.
+
+115
+00:08:14,867 --> 00:08:20,846
+The interval is fifty four plus or minus
+five, so forty nine to fifty nine percent.
+
+116
+00:08:20,846 --> 00:08:25,384
+Since it includes values below fifty, the
+result isn't certain.
+
+117
+00:08:26,533 --> 00:08:31,540
+Your turn. Estimate the margin of error
+for a sample of two thousand five hundred
+
+118
+00:08:31,540 --> 00:08:31,973
+people.
+
+119
+00:08:32,423 --> 00:08:33,959
+Pause the video and try it.
+
+120
+00:08:34,409 --> 00:08:39,678
+One over the square root of twenty five
+hundred is one over fifty, or two percent.
+
+121
+00:08:40,800 --> 00:08:45,715
+Next time, we start Pre-calculus,
+beginning with functions and their graphs.
+
+122
+00:08:45,715 --> 00:08:50,953
+If this helped, subscribe to School Math,
+Explained, and turn on notifications so
+
+123
+00:08:50,953 --> 00:08:53,088
+you don't miss it. See you there.
+
