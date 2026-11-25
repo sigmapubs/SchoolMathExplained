@@ -176,12 +176,12 @@ sixteen, and sixteen plus eight is twenty
 four.
 
 39
-00:02:26,767 --> 00:02:32,332
+00:02:26,767 --> 00:02:32,215
 If this helped, subscribe to School Math,
 Explained, and turn on notifications so
 
 40
-00:02:32,332 --> 00:02:37,348
+00:02:32,215 --> 00:02:37,327
 you don't miss the next lesson, on
-evaluating expressions. See you there.
+variables and expressions. See you there.
 
