@@ -1,0 +1,583 @@
+1
+00:00:00,000 --> 00:00:04,416
+In this lesson, we'll find the average
+height of a function over an interval.
+
+2
+00:00:05,533 --> 00:00:12,028
+The average value of f on a to b is one
+over b minus a, times the integral from a
+
+3
+00:00:12,028 --> 00:00:12,829
+to b of f.
+
+4
+00:00:13,279 --> 00:00:17,055
+Total accumulation divided by the length
+of the interval.
+
+5
+00:00:18,200 --> 00:00:21,251
+Find the average of x squared on zero to
+three.
+
+6
+00:00:21,701 --> 00:00:26,479
+One third times the integral, which is
+nine. So the average value is three.
+
+7
+00:00:27,600 --> 00:00:32,438
+Geometrically, it's the height of the
+rectangle with the same width and the same
+
+8
+00:00:32,438 --> 00:00:34,555
+area as the region under the curve.
+
+9
+00:00:35,005 --> 00:00:38,333
+The extra area above that height fills the
+gap below it.
+
+10
+00:00:39,467 --> 00:00:44,651
+If f is continuous, some c in the interval
+has f of c equal to the average.
+
+11
+00:00:45,101 --> 00:00:50,733
+For x squared on zero to three, c squared
+equals three, so c equals root three.
+
+12
+00:00:51,867 --> 00:00:58,175
+The temperature is T of t equals sixty
+plus ten sine of pi t over twelve, for t
+
+13
+00:00:58,175 --> 00:01:00,251
+from zero to twelve hours.
+
+14
+00:01:00,701 --> 00:01:06,929
+The average is sixty plus ten over twelve
+times twenty four over pi, about sixty six
+
+15
+00:01:06,929 --> 00:01:08,338
+point four degrees.
+
+16
+00:01:09,467 --> 00:01:13,755
+Your turn. Find the average value of sine
+x on zero to pi.
+
+17
+00:01:14,205 --> 00:01:15,741
+Pause the video and try it.
+
+18
+00:01:16,191 --> 00:01:20,841
+One over pi times two, which is two over
+pi, about point six four.
+
+19
+00:01:21,966 --> 00:01:27,171
+In this lesson, we'll use integrals to
+track motion and other accumulated change.
+
+20
+00:01:28,299 --> 00:01:33,889
+The integral of velocity from a to b gives
+displacement, the net change in position.
+
+21
+00:01:34,339 --> 00:01:35,960
+Movement backward subtracts.
+
+22
+00:01:37,099 --> 00:01:42,185
+The integral of speed, the absolute value
+of velocity, gives total distance
+
+23
+00:01:42,185 --> 00:01:42,795
+traveled.
+
+24
+00:01:43,245 --> 00:01:49,064
+For v of t equals t squared minus four on
+zero to three, displacement is negative
+
+25
+00:01:49,064 --> 00:01:54,668
+three, but distance is sixteen thirds plus
+seven thirds, which is twenty three
+
+26
+00:01:54,668 --> 00:01:55,171
+thirds.
+
+27
+00:01:56,299 --> 00:02:01,334
+Position at time t is the starting
+position plus the integral of velocity.
+
+28
+00:02:01,784 --> 00:02:07,878
+If s of zero is five and v equals two t,
+then s of three is five plus nine, which
+
+29
+00:02:07,878 --> 00:02:08,781
+is fourteen.
+
+30
+00:02:09,899 --> 00:02:14,778
+In general, the value at the end equals
+the value at the start plus the integral
+
+31
+00:02:14,778 --> 00:02:15,510
+of the rate.
+
+32
+00:02:15,960 --> 00:02:17,581
+That's the net change theorem.
+
+33
+00:02:18,699 --> 00:02:25,048
+Water flows in at R of t and out at D of t
+gallons per hour. The amount after six
+
+34
+00:02:25,048 --> 00:02:29,750
+hours is the starting amount plus the
+integral of R minus D.
+
+35
+00:02:30,200 --> 00:02:33,741
+The amount is increasing whenever R is
+greater than D.
+
+36
+00:02:34,866 --> 00:02:41,444
+Your turn. A particle has v of t equals
+three t squared, and s of zero equals two.
+
+37
+00:02:41,444 --> 00:02:42,567
+Find s of two.
+
+38
+00:02:43,017 --> 00:02:44,553
+Pause the video and try it.
+
+39
+00:02:45,003 --> 00:02:50,682
+Two plus the integral of three t squared
+from zero to two, which is two plus eight:
+
+40
+00:02:50,682 --> 00:02:50,955
+ten.
+
+41
+00:02:52,100 --> 00:02:56,623
+In this lesson, we'll find the area of a
+region trapped between two curves.
+
+42
+00:02:57,767 --> 00:03:04,070
+The area between f on top and g on the
+bottom, from a to b, is the integral of f
+
+43
+00:03:04,070 --> 00:03:04,700
+minus g.
+
+44
+00:03:05,150 --> 00:03:08,265
+Each thin rectangle has height top minus
+bottom.
+
+45
+00:03:09,400 --> 00:03:13,880
+Often the limits are where the curves
+intersect. Set them equal and solve.
+
+46
+00:03:14,330 --> 00:03:20,431
+For y equals x and y equals x squared: x
+equals x squared at zero and one.
+
+47
+00:03:21,567 --> 00:03:24,255
+On zero to one, x is above x squared.
+
+48
+00:03:24,705 --> 00:03:30,129
+The area is the integral of x minus x
+squared, which is one half minus one
+
+49
+00:03:30,129 --> 00:03:31,595
+third, or one sixth.
+
+50
+00:03:32,733 --> 00:03:37,984
+If the curves cross, split the integral at
+each crossing so that you always subtract
+
+51
+00:03:37,984 --> 00:03:38,984
+bottom from top.
+
+52
+00:03:39,434 --> 00:03:42,357
+Or integrate the absolute value of the
+difference.
+
+53
+00:03:43,500 --> 00:03:48,855
+Sometimes it's easier to integrate with
+respect to y, using right minus left.
+
+54
+00:03:49,305 --> 00:03:55,555
+Between x equals y squared and x equals y
+plus two: they meet at y equals negative
+
+55
+00:03:55,555 --> 00:04:01,806
+one and two. The area is the integral of y
+plus two minus y squared, which is nine
+
+56
+00:04:01,806 --> 00:04:02,339
+halves.
+
+57
+00:04:03,467 --> 00:04:09,269
+Your turn. Find the area between y equals
+four minus x squared and the x axis.
+
+58
+00:04:09,719 --> 00:04:11,255
+Pause the video and try it.
+
+59
+00:04:11,705 --> 00:04:17,337
+From negative two to two, the integral of
+four minus x squared is thirty two thirds.
+
+60
+00:04:18,466 --> 00:04:23,757
+In this lesson, we'll find volumes of
+solids by slicing them into thin pieces.
+
+61
+00:04:24,899 --> 00:04:30,928
+If every slice perpendicular to the x axis
+has area A of x, the volume is the
+
+62
+00:04:30,928 --> 00:04:32,729
+integral of A of x d x.
+
+63
+00:04:33,179 --> 00:04:37,189
+Each slice is a thin slab of volume A of x
+times d x.
+
+64
+00:04:38,333 --> 00:04:44,517
+A solid has base between y equals root x
+and the x axis from zero to four. Cross
+
+65
+00:04:44,517 --> 00:04:46,141
+sections are squares.
+
+66
+00:04:46,591 --> 00:04:52,518
+The side is root x, so the area is x. The
+volume is the integral from zero to four
+
+67
+00:04:52,518 --> 00:04:54,036
+of x, which is eight.
+
+68
+00:04:55,166 --> 00:04:59,731
+Same base, but the cross sections are
+semicircles with diameter root x.
+
+69
+00:05:00,181 --> 00:05:06,827
+The area is one half pi times root x over
+two squared, which is pi x over eight. The
+
+70
+00:05:06,827 --> 00:05:10,229
+volume is pi over eight times eight, or
+pi.
+
+71
+00:05:11,366 --> 00:05:17,119
+For equilateral triangles with side s, the
+area is root three over four times s
+
+72
+00:05:17,119 --> 00:05:17,702
+squared.
+
+73
+00:05:18,152 --> 00:05:23,634
+With side root x, that's root three over
+four times x, and the volume is two root
+
+74
+00:05:23,634 --> 00:05:24,040
+three.
+
+75
+00:05:25,166 --> 00:05:30,371
+The recipe: sketch the base, find the
+length of a slice in terms of x, plug into
+
+76
+00:05:30,371 --> 00:05:32,974
+the shape's area formula, and integrate.
+
+77
+00:05:33,424 --> 00:05:37,669
+The same idea works for slices
+perpendicular to the y axis.
+
+78
+00:05:38,799 --> 00:05:44,587
+Your turn. The base is the region under y
+equals two from zero to three, and cross
+
+79
+00:05:44,587 --> 00:05:47,269
+sections are squares. Find the volume.
+
+80
+00:05:47,719 --> 00:05:49,255
+Pause the video and try it.
+
+81
+00:05:49,705 --> 00:05:52,905
+Each square has area four, so the volume
+is twelve.
+
+82
+00:05:54,033 --> 00:05:59,594
+In this lesson, we'll find the volume of a
+solid formed by spinning a region around a
+
+83
+00:05:59,594 --> 00:05:59,921
+line.
+
+84
+00:06:01,066 --> 00:06:06,528
+Rotate a region around an axis and it
+sweeps out a solid. Each slice is a disk.
+
+85
+00:06:06,978 --> 00:06:12,460
+A disk of radius r and thickness d x has
+volume pi r squared d x.
+
+86
+00:06:13,600 --> 00:06:19,398
+The disk method: V equals pi times the
+integral of R of x squared d x, where R is
+
+87
+00:06:19,398 --> 00:06:22,261
+the distance from the axis to the curve.
+
+88
+00:06:22,711 --> 00:06:28,911
+Rotating y equals root x around the x axis
+from zero to four gives pi times the
+
+89
+00:06:28,911 --> 00:06:31,500
+integral of x, which is eight pi.
+
+90
+00:06:32,633 --> 00:06:37,582
+Rotate y equals x squared, from zero to
+two, around the x axis.
+
+91
+00:06:38,032 --> 00:06:44,091
+V equals pi times the integral of x to the
+fourth, which is thirty two pi over five.
+
+92
+00:06:45,233 --> 00:06:49,393
+If there's a gap between the region and
+the axis, slices are washers.
+
+93
+00:06:49,843 --> 00:06:55,782
+V equals pi times the integral of R
+squared minus r squared. Between y equals
+
+94
+00:06:55,782 --> 00:07:01,875
+x and y equals x squared, around the x
+axis: pi times the integral of x squared
+
+95
+00:07:01,875 --> 00:07:05,886
+minus x to the fourth, which is two pi
+over fifteen.
+
+96
+00:07:06,033 --> 00:07:10,276
+For a different axis, measure radii from
+that axis.
+
+97
+00:07:10,726 --> 00:07:16,625
+Rotating around y equals negative one, the
+outer radius becomes the top curve plus
+
+98
+00:07:16,625 --> 00:07:16,912
+one.
+
+99
+00:07:17,033 --> 00:07:23,939
+Your turn. Rotate y equals two from zero
+to three around the x axis. Find the
+
+100
+00:07:23,939 --> 00:07:24,476
+volume.
+
+101
+00:07:24,926 --> 00:07:26,462
+Pause the video and try it.
+
+102
+00:07:26,912 --> 00:07:30,752
+A cylinder: pi times four times three,
+which is twelve pi.
+
+103
+00:07:31,900 --> 00:07:35,889
+In this lesson, a BC topic, we'll find the
+length of a curve.
+
+104
+00:07:37,033 --> 00:07:43,385
+The length of y equals f of x from a to b
+is the integral of the square root of one
+
+105
+00:07:43,385 --> 00:07:45,375
+plus f prime of x squared.
+
+106
+00:07:45,825 --> 00:07:47,937
+It adds up tiny hypotenuses.
+
+107
+00:07:49,067 --> 00:07:54,699
+A tiny piece of curve has horizontal
+change d x and vertical change d y.
+
+108
+00:07:55,149 --> 00:08:01,015
+Its length is the square root of d x
+squared plus d y squared, which is the
+
+109
+00:08:01,015 --> 00:08:05,005
+square root of one plus d y d x squared,
+times d x.
+
+110
+00:08:06,133 --> 00:08:11,445
+Find the length of y equals two thirds x
+to the three halves from zero to three.
+
+111
+00:08:11,895 --> 00:08:18,022
+y prime is root x, so the integrand is the
+square root of one plus x. The integral is
+
+112
+00:08:18,022 --> 00:08:23,716
+two thirds times one plus x to the three
+halves, from zero to three: two thirds
+
+113
+00:08:23,716 --> 00:08:26,743
+times eight minus one, or fourteen thirds.
+
+114
+00:08:27,867 --> 00:08:30,768
+Most arc length integrals can't be done by
+hand.
+
+115
+00:08:31,218 --> 00:08:37,771
+The length of y equals x squared from zero
+to one needs a calculator: about one point
+
+116
+00:08:37,771 --> 00:08:39,005
+four seven nine.
+
+117
+00:08:40,133 --> 00:08:46,320
+For parametric curves, the formula becomes
+the integral of the square root of x prime
+
+118
+00:08:46,320 --> 00:08:48,795
+squared plus y prime squared, d t.
+
+119
+00:08:49,245 --> 00:08:50,759
+We'll use it in Unit 9.
+
+120
+00:08:50,900 --> 00:08:57,617
+Your turn. Set up the arc length integral
+for y equals sine x from zero to pi.
+
+121
+00:08:58,067 --> 00:08:59,603
+Pause the video and try it.
+
+122
+00:09:00,053 --> 00:09:05,408
+The integral from zero to pi of the square
+root of one plus cosine squared x.
+
+123
+00:09:06,533 --> 00:09:12,247
+Next time, we start Unit 9, parametric,
+polar and vector-valued functions. If this
+
+124
+00:09:12,247 --> 00:09:17,333
+helped, subscribe to School Math,
+Explained, and turn on notifications so
+
+125
+00:09:17,333 --> 00:09:19,632
+you don't miss it. See you there.
+

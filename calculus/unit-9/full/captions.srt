@@ -1,0 +1,456 @@
+1
+00:00:00,000 --> 00:00:04,821
+In this lesson, a BC topic, we'll find
+slopes on parametric curves.
+
+2
+00:00:05,967 --> 00:00:14,119
+If x and y both depend on t, the chain
+rule gives d y d x equals d y d t over d x
+
+3
+00:00:14,119 --> 00:00:14,521
+d t.
+
+4
+00:00:14,971 --> 00:00:18,043
+Divide the vertical rate by the horizontal
+rate.
+
+5
+00:00:19,167 --> 00:00:26,483
+For x equals t squared and y equals t
+cubed minus three t: d x d t is two t, d y
+
+6
+00:00:26,483 --> 00:00:29,684
+d t is three t squared minus three.
+
+7
+00:00:30,134 --> 00:00:34,977
+So d y d x equals three t squared minus
+three, over two t.
+
+8
+00:00:36,100 --> 00:00:43,716
+Horizontal tangents occur where d y d t is
+zero and d x d t isn't: t equals plus or
+
+9
+00:00:43,716 --> 00:00:44,633
+minus one.
+
+10
+00:00:45,083 --> 00:00:52,102
+Vertical tangents occur where d x d t is
+zero and d y d t isn't: t equals zero.
+
+11
+00:00:53,233 --> 00:01:00,361
+The second derivative is the derivative of
+d y d x with respect to t, divided by d x
+
+12
+00:01:00,361 --> 00:01:00,700
+d t.
+
+13
+00:01:01,150 --> 00:01:04,393
+It's not just d squared y over d t
+squared.
+
+14
+00:01:05,533 --> 00:01:11,653
+Find the tangent line at t equals two. The
+point is four, two, and the slope is nine
+
+15
+00:01:11,653 --> 00:01:12,381
+over four.
+
+16
+00:01:12,831 --> 00:01:16,799
+y minus two equals nine fourths times x
+minus four.
+
+17
+00:01:17,933 --> 00:01:23,928
+Your turn. Find d y d x for x equals
+cosine t, y equals sine t.
+
+18
+00:01:24,378 --> 00:01:25,914
+Pause the video and try it.
+
+19
+00:01:26,364 --> 00:01:31,185
+Cosine t over negative sine t, which is
+negative cotangent t.
+
+20
+00:01:32,333 --> 00:01:37,496
+In this lesson, a BC topic, we'll measure
+distance along parametric paths.
+
+21
+00:01:38,633 --> 00:01:44,628
+The arc length from t equals a to b is the
+integral of the square root of x prime
+
+22
+00:01:44,628 --> 00:01:47,145
+squared plus y prime squared, d t.
+
+23
+00:01:47,595 --> 00:01:50,347
+It adds tiny hypotenuses along the path.
+
+24
+00:01:51,466 --> 00:01:56,842
+For x equals t squared, y equals two
+thirds t cubed, from zero to one:
+
+25
+00:01:57,292 --> 00:02:03,034
+x prime is two t, y prime is two t
+squared. The integrand is two t times the
+
+26
+00:02:03,034 --> 00:02:09,077
+square root of one plus t squared, which
+integrates to two thirds times two root
+
+27
+00:02:09,077 --> 00:02:10,135
+two minus one.
+
+28
+00:02:11,266 --> 00:02:16,294
+If the curve is a particle's path, the
+speed is the square root of x prime
+
+29
+00:02:16,294 --> 00:02:18,264
+squared plus y prime squared.
+
+30
+00:02:18,714 --> 00:02:21,722
+Speed is the integrand of the arc length
+formula.
+
+31
+00:02:22,866 --> 00:02:28,962
+For x equals three cosine t, y equals
+three sine t, the speed is three at all
+
+32
+00:02:28,962 --> 00:02:29,437
+times.
+
+33
+00:02:29,887 --> 00:02:34,111
+From zero to two pi, the distance is six
+pi, the circumference.
+
+34
+00:02:35,233 --> 00:02:38,284
+Total distance traveled is the integral of
+speed.
+
+35
+00:02:38,734 --> 00:02:41,912
+It's always positive, even if the path
+doubles back.
+
+36
+00:02:43,033 --> 00:02:49,412
+Your turn. Find the speed at t equals one
+for x equals t squared, y equals four t.
+
+37
+00:02:49,862 --> 00:02:51,398
+Pause the video and try it.
+
+38
+00:02:51,848 --> 00:02:57,518
+x prime is two, y prime is four, so the
+speed is the square root of twenty, about
+
+39
+00:02:57,518 --> 00:02:59,058
+four point four seven.
+
+40
+00:03:00,200 --> 00:03:05,277
+In this lesson, a BC topic, we'll describe
+motion in the plane with vectors.
+
+41
+00:03:06,400 --> 00:03:12,696
+A vector-valued function r of t equals x
+of t, y of t gives a position vector at
+
+42
+00:03:12,696 --> 00:03:13,483
+each time.
+
+43
+00:03:13,933 --> 00:03:16,066
+Its tip traces the particle's path.
+
+44
+00:03:16,200 --> 00:03:23,870
+Differentiate componentwise. Velocity is x
+prime, y prime, and acceleration is x
+
+45
+00:03:23,870 --> 00:03:26,288
+double prime, y double prime.
+
+46
+00:03:26,738 --> 00:03:29,362
+The velocity vector is tangent to the
+path.
+
+47
+00:03:30,500 --> 00:03:33,487
+Speed is the magnitude of the velocity
+vector.
+
+48
+00:03:33,937 --> 00:03:36,241
+Direction comes from the vector itself.
+
+49
+00:03:37,367 --> 00:03:44,328
+r of t equals t squared, e to the t. Then
+v equals two t, e to the t, and a equals
+
+50
+00:03:44,328 --> 00:03:45,687
+two, e to the t.
+
+51
+00:03:46,137 --> 00:03:51,747
+At t equals zero, the velocity is zero,
+one: moving straight up with speed one.
+
+52
+00:03:52,867 --> 00:03:59,224
+Integrate componentwise to go back. If a
+equals zero, negative thirty two, v of
+
+53
+00:03:59,224 --> 00:04:03,811
+zero equals ten, twenty, and r of zero
+equals zero, zero:
+
+54
+00:04:04,261 --> 00:04:11,115
+v equals ten, twenty minus thirty two t,
+and r equals ten t, twenty t minus sixteen
+
+55
+00:04:11,115 --> 00:04:11,941
+t squared.
+
+56
+00:04:13,067 --> 00:04:19,829
+Your turn. Find the velocity of r of t
+equals sine t, cosine t at t equals zero.
+
+57
+00:04:20,279 --> 00:04:21,815
+Pause the video and try it.
+
+58
+00:04:22,265 --> 00:04:28,388
+v equals cosine t, negative sine t, which
+is one, zero at t equals zero.
+
+59
+00:04:29,533 --> 00:04:33,842
+In this lesson, a BC topic, we'll find
+slopes of polar curves.
+
+60
+00:04:34,966 --> 00:04:42,281
+A polar curve r equals f of theta is a
+parametric curve: x equals r cosine theta,
+
+61
+00:04:42,281 --> 00:04:44,268
+y equals r sine theta.
+
+62
+00:04:44,718 --> 00:04:46,510
+Theta plays the role of t.
+
+63
+00:04:47,633 --> 00:04:52,710
+So d y d x equals d y d theta over d x d
+theta.
+
+64
+00:04:53,160 --> 00:05:01,087
+d y d theta is r prime sine theta plus r
+cosine theta. d x d theta is r prime
+
+65
+00:05:01,087 --> 00:05:04,382
+cosine theta minus r sine theta.
+
+66
+00:05:05,500 --> 00:05:12,320
+For the cardioid r equals one plus cosine
+theta at theta equals pi over two: r is
+
+67
+00:05:12,320 --> 00:05:15,014
+one and r prime is negative one.
+
+68
+00:05:15,464 --> 00:05:21,992
+d y d theta is negative one, d x d theta
+is negative one, so the slope is one.
+
+69
+00:05:23,133 --> 00:05:30,024
+Horizontal tangents: d y d theta equals
+zero. Vertical tangents: d x d theta
+
+70
+00:05:30,024 --> 00:05:31,112
+equals zero.
+
+71
+00:05:31,562 --> 00:05:34,719
+Check that the other derivative isn't also
+zero.
+
+72
+00:05:35,866 --> 00:05:39,429
+Don't confuse d r d theta with d y d x.
+
+73
+00:05:39,879 --> 00:05:46,645
+d r d theta tells whether the curve moves
+toward or away from the origin; d y d x is
+
+74
+00:05:46,645 --> 00:05:48,498
+the slope on the graph.
+
+75
+00:05:49,633 --> 00:05:55,585
+Your turn. For r equals two, what is d y d
+x at theta equals pi over four?
+
+76
+00:05:56,035 --> 00:05:57,571
+Pause the video and try it.
+
+77
+00:05:58,021 --> 00:06:04,101
+It's a circle. d y d x equals negative
+cotangent theta, which is negative one.
+
+78
+00:06:05,233 --> 00:06:10,097
+In this lesson, a BC topic, we'll find the
+area inside polar curves.
+
+79
+00:06:11,233 --> 00:06:15,862
+In polar, we slice regions into thin
+sectors, like pizza slices.
+
+80
+00:06:16,312 --> 00:06:22,478
+A sector with radius r and angle d theta
+has area one half r squared d theta.
+
+81
+00:06:23,600 --> 00:06:29,466
+The area is one half times the integral of
+r squared d theta, from alpha to beta.
+
+82
+00:06:29,916 --> 00:06:33,052
+Make sure the angles trace the region
+exactly once.
+
+83
+00:06:34,200 --> 00:06:39,384
+The cardioid r equals one plus cosine
+theta, from zero to two pi:
+
+84
+00:06:39,834 --> 00:06:45,612
+One half times the integral of one plus
+two cosine theta plus cosine squared
+
+85
+00:06:45,612 --> 00:06:48,196
+theta, which is three pi over two.
+
+86
+00:06:49,333 --> 00:06:56,024
+One petal of r equals cosine two theta
+runs from negative pi over four to pi over
+
+87
+00:06:56,024 --> 00:06:56,437
+four.
+
+88
+00:06:56,887 --> 00:07:02,885
+Its area is one half times the integral of
+cosine squared two theta, which is pi over
+
+89
+00:07:02,885 --> 00:07:03,308
+eight.
+
+90
+00:07:04,433 --> 00:07:10,407
+The area between two polar curves is one
+half the integral of outer r squared minus
+
+91
+00:07:10,407 --> 00:07:11,558
+inner r squared.
+
+92
+00:07:12,008 --> 00:07:14,120
+Find where they intersect to get the
+limits.
+
+93
+00:07:15,266 --> 00:07:18,445
+Your turn. Find the area inside r equals
+three.
+
+94
+00:07:18,895 --> 00:07:20,431
+Pause the video and try it.
+
+95
+00:07:20,881 --> 00:07:24,550
+One half times nine times two pi, which is
+nine pi.
+
+96
+00:07:25,700 --> 00:07:30,786
+Next time, we start Unit 10, infinite
+sequences and series. If this helped,
+
+97
+00:07:30,786 --> 00:07:36,212
+subscribe to School Math, Explained, and
+turn on notifications so you don't miss
+
+98
+00:07:36,212 --> 00:07:37,433
+it. See you there.
+

@@ -1,0 +1,566 @@
+1
+00:00:00,000 --> 00:00:05,966
+In this lesson, a BC topic, we'll learn
+the ratio test, perfect for factorials and
+
+2
+00:00:05,966 --> 00:00:06,912
+exponentials.
+
+3
+00:00:08,033 --> 00:00:13,644
+Find L, the limit of the absolute value of
+a sub n plus one over a sub n.
+
+4
+00:00:14,094 --> 00:00:19,876
+If L is less than one, the series
+converges absolutely. If L is greater than
+
+5
+00:00:19,876 --> 00:00:24,441
+one, it diverges. If L equals one, the
+test is inconclusive.
+
+6
+00:00:25,567 --> 00:00:31,817
+The sum of two to the n over n factorial.
+The ratio is two over n plus one, which
+
+7
+00:00:31,817 --> 00:00:32,820
+goes to zero.
+
+8
+00:00:33,270 --> 00:00:35,851
+Zero is less than one, so it converges.
+
+9
+00:00:37,000 --> 00:00:43,212
+The sum of n squared over three to the n.
+The ratio is n plus one over n, squared,
+
+10
+00:00:43,212 --> 00:00:44,424
+times one third.
+
+11
+00:00:44,874 --> 00:00:47,370
+That goes to one third, so it converges.
+
+12
+00:00:48,500 --> 00:00:51,188
+For any p-series, the ratio goes to one.
+
+13
+00:00:51,638 --> 00:00:55,926
+So the ratio test can't decide them; use
+the p rule instead.
+
+14
+00:00:57,067 --> 00:01:03,620
+Factorials or exponentials: ratio test.
+Powers of n: p-series or comparison.
+
+15
+00:01:03,620 --> 00:01:07,328
+Alternating signs: alternating series
+test.
+
+16
+00:01:07,778 --> 00:01:10,466
+Always start with the nth term test.
+
+17
+00:01:11,600 --> 00:01:16,976
+Your turn. Use the ratio test on the sum
+of n factorial over five to the n.
+
+18
+00:01:17,426 --> 00:01:18,962
+Pause the video and try it.
+
+19
+00:01:19,412 --> 00:01:24,895
+The ratio is n plus one over five, which
+goes to infinity. It diverges.
+
+20
+00:01:26,033 --> 00:01:31,792
+In this lesson, a BC topic, we'll see that
+some series converge more robustly than
+
+21
+00:01:31,792 --> 00:01:32,284
+others.
+
+22
+00:01:33,433 --> 00:01:38,830
+A series converges absolutely if the
+series of absolute values converges.
+
+23
+00:01:39,280 --> 00:01:42,054
+Absolute convergence implies convergence.
+
+24
+00:01:43,200 --> 00:01:48,716
+A series converges conditionally if it
+converges, but the series of absolute
+
+25
+00:01:48,716 --> 00:01:49,877
+values diverges.
+
+26
+00:01:50,327 --> 00:01:53,932
+The alternating harmonic series is the
+classic example.
+
+27
+00:01:55,066 --> 00:02:00,247
+To classify, test the absolute values
+first. If they converge, you're done:
+
+28
+00:02:00,247 --> 00:02:00,869
+absolute.
+
+29
+00:02:01,319 --> 00:02:06,460
+If not, test the original series, for
+example with the alternating series test.
+
+30
+00:02:07,600 --> 00:02:12,421
+Absolutely convergent series can be
+rearranged without changing the sum.
+
+31
+00:02:12,871 --> 00:02:17,948
+Conditionally convergent ones can be
+rearranged to add up to any number at all.
+
+32
+00:02:19,066 --> 00:02:24,037
+The sum of negative one to the n over n
+squared converges absolutely.
+
+33
+00:02:24,487 --> 00:02:29,372
+The sum of negative one to the n over root
+n converges conditionally.
+
+34
+00:02:30,500 --> 00:02:36,516
+Your turn. Classify the sum of negative
+one to the n over n to the one point five.
+
+35
+00:02:36,966 --> 00:02:38,502
+Pause the video and try it.
+
+36
+00:02:38,952 --> 00:02:44,375
+The absolute values form a p-series with p
+greater than one, so it converges
+
+37
+00:02:44,375 --> 00:02:45,160
+absolutely.
+
+38
+00:02:46,300 --> 00:02:51,661
+In this lesson, a BC topic, we'll build
+polynomials that imitate any smooth
+
+39
+00:02:51,661 --> 00:02:53,233
+function near a point.
+
+40
+00:02:54,367 --> 00:02:59,584
+The idea: match the function's value,
+slope, concavity and higher derivatives at
+
+41
+00:02:59,584 --> 00:03:00,105
+a point.
+
+42
+00:03:00,555 --> 00:03:03,627
+The more derivatives match, the better the
+fit nearby.
+
+43
+00:03:04,767 --> 00:03:12,295
+The nth degree Taylor polynomial at a is
+the sum from k equals zero to n of f's kth
+
+44
+00:03:12,295 --> 00:03:17,737
+derivative at a, over k factorial, times x
+minus a to the k.
+
+45
+00:03:18,187 --> 00:03:21,579
+Centered at zero, it's called a Maclaurin
+polynomial.
+
+46
+00:03:22,700 --> 00:03:26,007
+For e to the x at zero, every derivative
+is one.
+
+47
+00:03:26,457 --> 00:03:32,912
+P three of x is one plus x plus x squared
+over two plus x cubed over six. At x
+
+48
+00:03:32,912 --> 00:03:37,465
+equals one, that's two point six six
+seven, close to e.
+
+49
+00:03:38,600 --> 00:03:45,171
+For sine x at zero: x minus x cubed over
+six plus x to the fifth over one twenty.
+
+50
+00:03:45,621 --> 00:03:48,202
+Only odd powers appear, since sine is odd.
+
+51
+00:03:49,333 --> 00:03:52,427
+Center at a different point when you need
+accuracy there.
+
+52
+00:03:52,877 --> 00:03:59,768
+For ln x at one: x minus one, minus x
+minus one squared over two, plus x minus
+
+53
+00:03:59,768 --> 00:04:01,623
+one cubed over three.
+
+54
+00:04:02,767 --> 00:04:07,524
+Your turn. Find the second degree
+Maclaurin polynomial for cosine x.
+
+55
+00:04:07,974 --> 00:04:09,510
+Pause the video and try it.
+
+56
+00:04:09,960 --> 00:04:12,008
+One minus x squared over two.
+
+57
+00:04:13,133 --> 00:04:19,058
+In this lesson, a BC topic, we'll find how
+far a Taylor polynomial can be from the
+
+58
+00:04:19,058 --> 00:04:19,853
+true value.
+
+59
+00:04:21,000 --> 00:04:25,629
+The remainder is the difference between
+the function and its Taylor polynomial.
+
+60
+00:04:26,079 --> 00:04:29,343
+We can't usually find it exactly, but we
+can bound it.
+
+61
+00:04:30,466 --> 00:04:36,864
+The Lagrange error bound: the error is at
+most M over n plus one factorial, times
+
+62
+00:04:36,864 --> 00:04:40,813
+the absolute value of x minus a to the n
+plus one.
+
+63
+00:04:41,263 --> 00:04:45,359
+M is the biggest value of the next
+derivative between a and x.
+
+64
+00:04:46,500 --> 00:04:52,557
+Using P three for e to the one: the fourth
+derivative is e to the x, at most three on
+
+65
+00:04:52,557 --> 00:04:53,412
+zero to one.
+
+66
+00:04:53,862 --> 00:04:59,240
+The error is at most three over twenty
+four, which is point one two five. The
+
+67
+00:04:59,240 --> 00:05:01,755
+true error is about point zero five.
+
+68
+00:05:02,900 --> 00:05:08,488
+For sine of point one using x minus x
+cubed over six, every derivative is at
+
+69
+00:05:08,488 --> 00:05:09,150
+most one.
+
+70
+00:05:09,600 --> 00:05:14,649
+The error is at most point one to the
+fifth over one twenty, less than one ten
+
+71
+00:05:14,649 --> 00:05:15,296
+millionth.
+
+72
+00:05:16,433 --> 00:05:22,384
+To guarantee an error under point zero
+zero one for e to the half, find n with
+
+73
+00:05:22,384 --> 00:05:28,717
+three times point five to the n plus one
+over n plus one factorial below point zero
+
+74
+00:05:28,717 --> 00:05:29,404
+zero one.
+
+75
+00:05:29,854 --> 00:05:31,219
+n equals four works.
+
+76
+00:05:32,366 --> 00:05:36,996
+Your turn. Bound the error of using one
+plus x for e to the point two.
+
+77
+00:05:37,446 --> 00:05:38,982
+Pause the video and try it.
+
+78
+00:05:39,432 --> 00:05:46,085
+M is at most e to the point two, under one
+point three. Error at most one point three
+
+79
+00:05:46,085 --> 00:05:50,546
+times point zero four over two, about
+point zero two six.
+
+80
+00:05:51,666 --> 00:05:57,042
+In this lesson, a BC topic, we'll study
+series with x in them: power series.
+
+81
+00:05:58,166 --> 00:06:02,753
+A power series is the sum of c sub n times
+x minus a to the n.
+
+82
+00:06:03,203 --> 00:06:08,195
+It's like a polynomial that never ends,
+and it may converge for some x and not
+
+83
+00:06:08,195 --> 00:06:08,643
+others.
+
+84
+00:06:09,766 --> 00:06:15,582
+Every power series has a radius of
+convergence R. It converges for x within R
+
+85
+00:06:15,582 --> 00:06:18,150
+of the center and diverges beyond.
+
+86
+00:06:18,600 --> 00:06:22,035
+R can be zero, a positive number, or
+infinity.
+
+87
+00:06:23,166 --> 00:06:29,478
+Use the ratio test. For the sum of x to
+the n over n: the ratio is the absolute
+
+88
+00:06:29,478 --> 00:06:35,390
+value of x times n over n plus one, which
+goes to the absolute value of x.
+
+89
+00:06:35,840 --> 00:06:41,429
+It converges when the absolute value of x
+is less than one, so R equals one.
+
+90
+00:06:42,566 --> 00:06:46,641
+At the endpoints, the ratio test fails, so
+test them separately.
+
+91
+00:06:47,091 --> 00:06:53,429
+At x equals one, it's the harmonic series:
+diverges. At x equals negative one, it's
+
+92
+00:06:53,429 --> 00:06:56,712
+the alternating harmonic series:
+converges.
+
+93
+00:06:57,833 --> 00:07:03,187
+So the interval of convergence is from
+negative one, included, to one, excluded.
+
+94
+00:07:03,637 --> 00:07:06,304
+Endpoints can go either way, so always
+check.
+
+95
+00:07:07,433 --> 00:07:13,470
+Your turn. Find the radius of convergence
+of the sum of x to the n over n factorial.
+
+96
+00:07:13,920 --> 00:07:15,456
+Pause the video and try it.
+
+97
+00:07:15,906 --> 00:07:22,903
+The ratio is the absolute value of x over
+n plus one, which goes to zero for every
+
+98
+00:07:22,903 --> 00:07:24,354
+x. R is infinity.
+
+99
+00:07:25,500 --> 00:07:31,244
+In this final lesson of Calculus, a BC
+topic, we'll turn Taylor polynomials into
+
+100
+00:07:31,244 --> 00:07:34,332
+infinite series that equal their
+functions.
+
+101
+00:07:35,467 --> 00:07:40,565
+Let the Taylor polynomial's degree go to
+infinity, and you get the Taylor series.
+
+102
+00:07:41,015 --> 00:07:45,602
+Where the remainder goes to zero, the
+series equals the function exactly.
+
+103
+00:07:46,733 --> 00:07:52,749
+Three series to know by heart: e to the x
+is the sum of x to the n over n factorial.
+
+104
+00:07:53,199 --> 00:07:59,705
+Sine x and cosine x use the odd and even
+powers with alternating signs. All three
+
+105
+00:07:59,705 --> 00:08:01,391
+converge for every x.
+
+106
+00:08:02,533 --> 00:08:08,865
+Build new series by substitution. e to the
+negative x squared is the sum of negative
+
+107
+00:08:08,865 --> 00:08:11,579
+x squared to the n over n factorial.
+
+108
+00:08:12,029 --> 00:08:16,551
+That's one minus x squared plus x to the
+fourth over two, and so on.
+
+109
+00:08:17,700 --> 00:08:24,417
+Differentiate or integrate term by term.
+One over one minus x is one plus x plus x
+
+110
+00:08:24,417 --> 00:08:25,892
+squared and so on.
+
+111
+00:08:26,342 --> 00:08:32,726
+Integrating gives negative ln of one minus
+x as x plus x squared over two plus x
+
+112
+00:08:32,726 --> 00:08:34,961
+cubed over three, and so on.
+
+113
+00:08:36,100 --> 00:08:41,689
+You've now covered the full AP Calculus BC
+syllabus, from limits to series.
+
+114
+00:08:42,139 --> 00:08:45,403
+Congratulations on making it to the end of
+the course.
+
+115
+00:08:46,533 --> 00:08:52,346
+Your turn. Write the first three nonzero
+terms of the Maclaurin series for x times
+
+116
+00:08:52,346 --> 00:08:53,125
+e to the x.
+
+117
+00:08:53,575 --> 00:08:55,111
+Pause the video and try it.
+
+118
+00:08:55,561 --> 00:08:58,463
+x plus x squared plus x cubed over two.
+
+119
+00:08:59,600 --> 00:09:04,904
+That's the end of the course. Revisit any
+unit in the Calculus Full Course playlist
+
+120
+00:09:04,904 --> 00:09:09,506
+whenever you need a refresher. If this
+helped, subscribe to School Math,
+
+121
+00:09:09,506 --> 00:09:14,683
+Explained, and turn on notifications for
+new videos. Thanks for learning with us.
+

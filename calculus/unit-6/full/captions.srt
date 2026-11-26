@@ -1,0 +1,817 @@
+1
+00:00:00,000 --> 00:00:04,761
+In this lesson, we'll start integral
+calculus by asking: how much has
+
+2
+00:00:04,761 --> 00:00:05,589
+accumulated?
+
+3
+00:00:06,733 --> 00:00:11,745
+Drive at sixty miles per hour for two
+hours, and you travel one hundred twenty
+
+4
+00:00:11,745 --> 00:00:12,131
+miles.
+
+5
+00:00:12,581 --> 00:00:17,466
+On a velocity graph, that's the area of a
+rectangle: height sixty, width two.
+
+6
+00:00:18,600 --> 00:00:23,699
+When the rate changes, accumulated change
+is still the area under the rate curve.
+
+7
+00:00:24,149 --> 00:00:30,304
+If velocity rises steadily from zero to
+forty over four seconds, the distance is a
+
+8
+00:00:30,304 --> 00:00:32,106
+triangle's area: eighty.
+
+9
+00:00:33,233 --> 00:00:36,241
+Area below the axis counts as negative
+change.
+
+10
+00:00:36,691 --> 00:00:41,107
+If water flows out, the volume decreases,
+and that region subtracts.
+
+11
+00:00:42,233 --> 00:00:47,332
+An accumulation function tracks the total
+area from a starting point up to x.
+
+12
+00:00:47,782 --> 00:00:52,674
+As x moves right, the accumulated area
+grows when the rate is positive and
+
+13
+00:00:52,674 --> 00:00:54,459
+shrinks when it's negative.
+
+14
+00:00:55,600 --> 00:01:00,251
+The units of accumulated change are rate
+units times input units.
+
+15
+00:01:00,701 --> 00:01:03,367
+Gallons per minute times minutes gives
+gallons.
+
+16
+00:01:04,500 --> 00:01:09,570
+Your turn. A rate is three liters per
+minute for five minutes, then one liter
+
+17
+00:01:09,570 --> 00:01:12,863
+per minute for four minutes. How much
+accumulated?
+
+18
+00:01:13,313 --> 00:01:14,849
+Pause the video and try it.
+
+19
+00:01:15,299 --> 00:01:17,475
+Fifteen plus four, nineteen liters.
+
+20
+00:01:18,600 --> 00:01:22,995
+In this lesson, we'll estimate the area
+under a curve using rectangles.
+
+21
+00:01:24,133 --> 00:01:29,842
+Split the interval into n subintervals of
+width delta x. On each, build a rectangle
+
+22
+00:01:29,842 --> 00:01:33,349
+whose height is the function's value at
+some point.
+
+23
+00:01:33,799 --> 00:01:36,679
+Add up the rectangle areas: that's a
+Riemann sum.
+
+24
+00:01:37,800 --> 00:01:43,755
+Estimate the area under x squared from
+zero to two with four rectangles. Delta x
+
+25
+00:01:43,755 --> 00:01:44,648
+is one half.
+
+26
+00:01:45,098 --> 00:01:51,029
+Left endpoints: one half times zero plus
+one fourth plus one plus nine fourths,
+
+27
+00:01:51,029 --> 00:01:56,661
+which is one point seven five. Right
+endpoints give three point seven five.
+
+28
+00:01:57,800 --> 00:02:01,192
+The midpoint sum uses the center of each
+subinterval.
+
+29
+00:02:01,642 --> 00:02:07,593
+Heights at one fourth, three fourths, five
+fourths and seven fourths give two point
+
+30
+00:02:07,593 --> 00:02:12,970
+six two five. The true area is eight
+thirds, about two point six six seven.
+
+31
+00:02:14,100 --> 00:02:17,620
+The trapezoidal rule averages the left and
+right sums.
+
+32
+00:02:18,070 --> 00:02:20,097
+Here, that's two point seven five.
+
+33
+00:02:21,233 --> 00:02:26,460
+For an increasing function, left sums
+underestimate and right sums overestimate.
+
+34
+00:02:26,910 --> 00:02:31,507
+For a concave up function, the trapezoid
+overestimates and the midpoint
+
+35
+00:02:31,507 --> 00:02:32,478
+underestimates.
+
+36
+00:02:32,600 --> 00:02:38,891
+Your turn. Estimate the area under one
+over x from one to three with two right
+
+37
+00:02:38,891 --> 00:02:39,637
+rectangles.
+
+38
+00:02:40,087 --> 00:02:41,623
+Pause the video and try it.
+
+39
+00:02:42,073 --> 00:02:45,828
+Delta x is one: one half plus one third,
+five sixths.
+
+40
+00:02:46,966 --> 00:02:52,321
+In this lesson, we'll define the definite
+integral as the exact accumulated area.
+
+41
+00:02:53,466 --> 00:02:58,351
+As the number of rectangles goes to
+infinity, Riemann sums approach a limit.
+
+42
+00:02:58,801 --> 00:03:02,172
+That limit is the definite integral of f
+from a to b.
+
+43
+00:03:03,299 --> 00:03:08,697
+We write the integral sign, then f of x d
+x, with a at the bottom and b at the top.
+
+44
+00:03:09,147 --> 00:03:12,411
+The d x reminds us of the tiny widths
+delta x.
+
+45
+00:03:13,533 --> 00:03:19,357
+Some integrals are just geometry. The
+integral from zero to three of two x is a
+
+46
+00:03:19,357 --> 00:03:22,749
+triangle with base three and height six:
+nine.
+
+47
+00:03:23,199 --> 00:03:29,210
+The integral from negative two to two of
+the square root of four minus x squared is
+
+48
+00:03:29,210 --> 00:03:31,817
+half a circle of radius two: two pi.
+
+49
+00:03:32,966 --> 00:03:37,958
+The integral gives signed area: area above
+the axis minus area below.
+
+50
+00:03:38,408 --> 00:03:44,040
+The integral of sine x from zero to two pi
+is zero, since the two humps cancel.
+
+51
+00:03:45,166 --> 00:03:50,051
+Integrals add over adjacent intervals, and
+reversing limits flips the sign.
+
+52
+00:03:50,501 --> 00:03:55,088
+Constants factor out, and the integral of
+a sum is the sum of the integrals.
+
+53
+00:03:56,233 --> 00:04:01,928
+Your turn. If the integral from zero to
+five of f is eight and from zero to two of
+
+54
+00:04:01,928 --> 00:04:05,193
+f is three, find the integral from two to
+five.
+
+55
+00:04:05,643 --> 00:04:07,179
+Pause the video and try it.
+
+56
+00:04:07,629 --> 00:04:09,570
+Eight minus three, which is five.
+
+57
+00:04:10,700 --> 00:04:15,450
+In this lesson, we'll meet the Fundamental
+Theorem of Calculus, which ties
+
+58
+00:04:15,450 --> 00:04:17,697
+derivatives and integrals together.
+
+59
+00:04:18,833 --> 00:04:25,878
+Part one: if g of x is the integral from a
+to x of f of t d t, then g prime of x
+
+60
+00:04:25,878 --> 00:04:27,111
+equals f of x.
+
+61
+00:04:27,561 --> 00:04:31,806
+The rate at which accumulated area grows
+is the height of the curve.
+
+62
+00:04:32,933 --> 00:04:38,385
+The derivative of the integral from zero
+to x of the square root of one plus t
+
+63
+00:04:38,385 --> 00:04:41,531
+cubed is the square root of one plus x
+cubed.
+
+64
+00:04:41,981 --> 00:04:47,015
+With x squared as the upper limit, use the
+chain rule: multiply by two x.
+
+65
+00:04:48,133 --> 00:04:54,647
+Part two: if F is any antiderivative of f,
+then the integral from a to b of f equals
+
+66
+00:04:54,647 --> 00:04:56,197
+F of b minus F of a.
+
+67
+00:04:56,647 --> 00:05:00,274
+To find an area, find a function whose
+derivative is f.
+
+68
+00:05:01,400 --> 00:05:06,882
+The integral from zero to two of x
+squared: an antiderivative is x cubed over
+
+69
+00:05:06,882 --> 00:05:07,309
+three.
+
+70
+00:05:07,759 --> 00:05:13,114
+Eight thirds minus zero is eight thirds,
+exactly what our Riemann sums approached.
+
+71
+00:05:14,233 --> 00:05:19,135
+Before this theorem, areas needed infinite
+sums. Now they need only an
+
+72
+00:05:19,135 --> 00:05:20,185
+antiderivative.
+
+73
+00:05:20,635 --> 00:05:23,899
+Differentiation and integration undo each
+other.
+
+74
+00:05:25,033 --> 00:05:29,257
+Your turn. Evaluate the integral from one
+to e of one over x.
+
+75
+00:05:29,707 --> 00:05:31,243
+Pause the video and try it.
+
+76
+00:05:31,693 --> 00:05:34,253
+ln e minus ln one, which is one.
+
+77
+00:05:35,400 --> 00:05:39,027
+In this lesson, we'll learn to run
+differentiation backward.
+
+78
+00:05:40,167 --> 00:05:43,815
+F is an antiderivative of f if F prime
+equals f.
+
+79
+00:05:44,265 --> 00:05:46,974
+x squared is an antiderivative of two x.
+
+80
+00:05:48,100 --> 00:05:53,792
+So is x squared plus five, or x squared
+minus seven. Antiderivatives differ by
+
+81
+00:05:53,792 --> 00:05:54,521
+constants.
+
+82
+00:05:54,971 --> 00:05:59,217
+The indefinite integral of two x d x is x
+squared plus C.
+
+83
+00:06:00,367 --> 00:06:06,946
+The power rule in reverse: the integral of
+x to the n is x to the n plus one, over n
+
+84
+00:06:06,946 --> 00:06:10,863
+plus one, plus C, for n not equal to
+negative one.
+
+85
+00:06:11,313 --> 00:06:15,878
+The integral of x to the n is easy to
+check: differentiate the answer.
+
+86
+00:06:17,000 --> 00:06:23,724
+The integral of one over x is ln of the
+absolute value of x. The integral of e to
+
+87
+00:06:23,724 --> 00:06:25,384
+the x is e to the x.
+
+88
+00:06:25,834 --> 00:06:32,634
+The integral of cosine x is sine x, and of
+sine x is negative cosine x, and of secant
+
+89
+00:06:32,634 --> 00:06:34,474
+squared x is tangent x.
+
+90
+00:06:35,600 --> 00:06:41,339
+If f prime of x equals six x squared and f
+of one equals five, find f.
+
+91
+00:06:41,789 --> 00:06:48,903
+f equals two x cubed plus C. Then two plus
+C equals five, so C equals three: f of x
+
+92
+00:06:48,903 --> 00:06:51,474
+equals two x cubed plus three.
+
+93
+00:06:52,600 --> 00:06:58,424
+Your turn. Find the integral of four x
+cubed minus three over x plus e to the x.
+
+94
+00:06:58,874 --> 00:07:00,410
+Pause the video and try it.
+
+95
+00:07:00,860 --> 00:07:05,980
+x to the fourth minus three ln absolute x
+plus e to the x, plus C.
+
+96
+00:07:07,100 --> 00:07:11,431
+In this lesson, we'll learn substitution,
+the reverse of the chain rule.
+
+97
+00:07:12,567 --> 00:07:19,338
+If an integrand looks like f of g of x
+times g prime of x, its antiderivative is
+
+98
+00:07:19,338 --> 00:07:20,353
+F of g of x.
+
+99
+00:07:20,803 --> 00:07:25,881
+We let u equal g of x, so d u equals g
+prime of x d x.
+
+100
+00:07:27,000 --> 00:07:32,359
+Choose u as the inside of a composite,
+especially one whose derivative also
+
+101
+00:07:32,359 --> 00:07:32,931
+appears.
+
+102
+00:07:33,381 --> 00:07:39,077
+In two x times x squared plus one to the
+fifth, let u equal x squared plus one.
+
+103
+00:07:40,200 --> 00:07:45,683
+Then d u equals two x d x, and the
+integral becomes u to the fifth d u.
+
+104
+00:07:46,133 --> 00:07:51,387
+That's u to the sixth over six, or x
+squared plus one to the sixth over six,
+
+105
+00:07:51,387 --> 00:07:51,871
+plus C.
+
+106
+00:07:53,000 --> 00:07:58,613
+For definite integrals, change the limits
+too. The integral from zero to one of x e
+
+107
+00:07:58,613 --> 00:07:59,763
+to the x squared.
+
+108
+00:08:00,213 --> 00:08:07,302
+u equals x squared, so u runs from zero to
+one, and x d x is half of d u. The answer
+
+109
+00:08:07,302 --> 00:08:09,834
+is one half times e minus one.
+
+110
+00:08:10,967 --> 00:08:17,215
+If a constant is missing, adjust. The
+integral of cosine of three x: u equals
+
+111
+00:08:17,215 --> 00:08:19,649
+three x, d u equals three d x.
+
+112
+00:08:20,099 --> 00:08:22,787
+So it's one third of sine three x, plus C.
+
+113
+00:08:23,933 --> 00:08:27,240
+Your turn. Integrate x over x squared plus
+four.
+
+114
+00:08:27,690 --> 00:08:29,226
+Pause the video and try it.
+
+115
+00:08:29,676 --> 00:08:35,287
+u equals x squared plus four: one half ln
+of x squared plus four, plus C.
+
+116
+00:08:36,433 --> 00:08:42,012
+In this lesson, a BC topic, we'll learn
+integration by parts, the reverse of the
+
+117
+00:08:42,012 --> 00:08:42,918
+product rule.
+
+118
+00:08:44,066 --> 00:08:49,442
+The integral of u d v equals u v minus the
+integral of v d u.
+
+119
+00:08:49,892 --> 00:08:53,519
+It trades one integral for another,
+hopefully easier one.
+
+120
+00:08:54,666 --> 00:09:00,893
+Choose u as something that simplifies when
+differentiated. A guide: logs, inverse
+
+121
+00:09:00,893 --> 00:09:03,584
+trig, algebraic, trig, exponential.
+
+122
+00:09:04,034 --> 00:09:06,018
+Pick u from whichever comes first.
+
+123
+00:09:07,166 --> 00:09:14,916
+For x e to the x: u equals x, d v equals e
+to the x d x. Then d u equals d x and v
+
+124
+00:09:14,916 --> 00:09:16,617
+equals e to the x.
+
+125
+00:09:17,067 --> 00:09:21,483
+The integral equals x e to the x minus e
+to the x, plus C.
+
+126
+00:09:22,633 --> 00:09:26,644
+For ln x: u equals ln x, d v equals d x.
+
+127
+00:09:27,094 --> 00:09:32,683
+x ln x minus the integral of one, so x ln
+x minus x, plus C.
+
+128
+00:09:33,833 --> 00:09:36,692
+For x squared sine x, apply parts twice.
+
+129
+00:09:37,142 --> 00:09:44,037
+The result is negative x squared cosine x
+plus two x sine x plus two cosine x, plus
+
+130
+00:09:44,037 --> 00:09:44,203
+C.
+
+131
+00:09:45,333 --> 00:09:47,808
+Your turn. Integrate x cosine x.
+
+132
+00:09:48,258 --> 00:09:49,794
+Pause the video and try it.
+
+133
+00:09:50,244 --> 00:09:57,028
+u equals x, d v equals cosine x d x: x
+sine x plus cosine x, plus C.
+
+134
+00:09:58,166 --> 00:10:03,230
+In this lesson, a BC topic, we'll
+integrate rational functions by splitting
+
+135
+00:10:03,230 --> 00:10:05,121
+them into simpler fractions.
+
+136
+00:10:06,266 --> 00:10:12,036
+When the denominator factors into distinct
+linear factors, partial fractions turns
+
+137
+00:10:12,036 --> 00:10:14,991
+one hard integral into easy log integrals.
+
+138
+00:10:15,441 --> 00:10:19,367
+If the top degree is at least the bottom
+degree, divide first.
+
+139
+00:10:20,499 --> 00:10:27,582
+Decompose one over x squared minus one: A
+over x minus one plus B over x plus one.
+
+140
+00:10:28,032 --> 00:10:31,467
+A equals one half and B equals negative
+one half.
+
+141
+00:10:32,599 --> 00:10:39,927
+Integrate each piece: one half ln absolute
+x minus one, minus one half ln absolute x
+
+142
+00:10:39,927 --> 00:10:41,410
+plus one, plus C.
+
+143
+00:10:41,860 --> 00:10:47,769
+Combine: one half ln of the absolute value
+of x minus one over x plus one.
+
+144
+00:10:48,899 --> 00:10:53,081
+The integral from two to three of one over
+x squared minus one.
+
+145
+00:10:53,531 --> 00:10:59,873
+One half times ln of one half minus ln of
+one third, which is one half ln three
+
+146
+00:10:59,873 --> 00:11:02,683
+halves, about point two zero three.
+
+147
+00:11:03,833 --> 00:11:09,825
+Partial fractions also solves the logistic
+differential equation, which we'll meet in
+
+148
+00:11:09,825 --> 00:11:10,318
+Unit 7.
+
+149
+00:11:10,768 --> 00:11:17,680
+There, one over P times one minus P splits
+into one over P plus one over one minus P.
+
+150
+00:11:18,799 --> 00:11:22,319
+Your turn. Integrate one over x times x
+plus one.
+
+151
+00:11:22,769 --> 00:11:24,305
+Pause the video and try it.
+
+152
+00:11:24,755 --> 00:11:32,767
+One over x minus one over x plus one: ln
+absolute x minus ln absolute x plus one,
+
+153
+00:11:32,767 --> 00:11:33,459
+plus C.
+
+154
+00:11:34,600 --> 00:11:39,700
+In this lesson, a BC topic, we'll
+integrate over infinite intervals and
+
+155
+00:11:39,700 --> 00:11:41,640
+across vertical asymptotes.
+
+156
+00:11:42,767 --> 00:11:48,467
+The integral from one to infinity of f is
+the limit as b goes to infinity of the
+
+157
+00:11:48,467 --> 00:11:50,105
+integral from one to b.
+
+158
+00:11:50,555 --> 00:11:53,649
+If that limit is finite, the integral
+converges.
+
+159
+00:11:54,767 --> 00:12:01,391
+The integral from one to infinity of one
+over x squared: negative one over x from
+
+160
+00:12:01,391 --> 00:12:04,089
+one to b is one minus one over b.
+
+161
+00:12:04,539 --> 00:12:08,785
+As b goes to infinity, that goes to one.
+It converges to one.
+
+162
+00:12:09,933 --> 00:12:15,949
+The integral from one to infinity of one
+over x is ln b, which grows forever.
+
+163
+00:12:16,399 --> 00:12:19,791
+It diverges, even though one over x goes
+to zero.
+
+164
+00:12:20,933 --> 00:12:25,179
+If the integrand blows up inside the
+interval, use a limit there too.
+
+165
+00:12:25,629 --> 00:12:31,549
+The integral from zero to one of one over
+root x is the limit of two root x from a
+
+166
+00:12:31,549 --> 00:12:34,077
+to one, which is two. It converges.
+
+167
+00:12:35,200 --> 00:12:41,057
+The integral from one to infinity of one
+over x to the p converges when p is
+
+168
+00:12:41,057 --> 00:12:45,141
+greater than one, and diverges when p is
+at most one.
+
+169
+00:12:45,591 --> 00:12:47,981
+This p rule will matter again for series.
+
+170
+00:12:49,100 --> 00:12:54,689
+Your turn. Evaluate the integral from zero
+to infinity of e to the negative x.
+
+171
+00:12:55,139 --> 00:12:56,675
+Pause the video and try it.
+
+172
+00:12:57,125 --> 00:13:02,181
+The limit of one minus e to the negative b
+is one. It converges to one.
+
+173
+00:13:03,300 --> 00:13:08,751
+Next time, we start Unit 7, differential
+equations. If this helped, subscribe to
+
+174
+00:13:08,751 --> 00:13:13,861
+School Math, Explained, and turn on
+notifications so you don't miss it. See
+
+175
+00:13:13,861 --> 00:13:14,543
+you there.
+

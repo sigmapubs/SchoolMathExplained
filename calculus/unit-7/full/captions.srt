@@ -1,0 +1,559 @@
+1
+00:00:00,000 --> 00:00:04,954
+In this lesson, we'll meet differential
+equations, equations that involve a
+
+2
+00:00:04,954 --> 00:00:06,869
+function and its derivatives.
+
+3
+00:00:08,000 --> 00:00:12,779
+A differential equation relates an unknown
+function to its rate of change.
+
+4
+00:00:13,229 --> 00:00:19,095
+d y d x equals three y says the rate is
+always three times the current value.
+
+5
+00:00:20,233 --> 00:00:25,972
+To check a solution, substitute it in. Is
+y equals e to the three x a solution?
+
+6
+00:00:26,422 --> 00:00:31,073
+y prime is three e to the three x, which
+equals three y. Yes.
+
+7
+00:00:32,200 --> 00:00:37,512
+The general solution includes a constant:
+y equals C e to the three x.
+
+8
+00:00:37,962 --> 00:00:41,973
+Each value of C gives a different curve, a
+family of solutions.
+
+9
+00:00:43,100 --> 00:00:48,924
+An initial condition picks one. If y of
+zero equals five, then C equals five.
+
+10
+00:00:49,374 --> 00:00:52,937
+That's a particular solution to the
+initial value problem.
+
+11
+00:00:54,067 --> 00:01:00,873
+Differential equations model the world. A
+population growing in proportion to its
+
+12
+00:01:00,873 --> 00:01:03,731
+size satisfies d P d t equals k P.
+
+13
+00:01:04,181 --> 00:01:10,474
+Newton's law of cooling says d T d t
+equals negative k times T minus the room
+
+14
+00:01:10,474 --> 00:01:11,455
+temperature.
+
+15
+00:01:12,600 --> 00:01:18,147
+Your turn. Is y equals x squared a
+solution of x y prime equals two y?
+
+16
+00:01:18,597 --> 00:01:20,133
+Pause the video and try it.
+
+17
+00:01:20,583 --> 00:01:25,809
+x times two x is two x squared, and two y
+is two x squared. Yes.
+
+18
+00:01:26,933 --> 00:01:31,370
+In this lesson, we'll visualize
+differential equations with slope fields.
+
+19
+00:01:32,500 --> 00:01:35,870
+A differential equation tells you the
+slope at every point.
+
+20
+00:01:36,320 --> 00:01:40,971
+Draw a short segment with that slope at
+many points, and you have a slope field.
+
+21
+00:01:42,100 --> 00:01:49,441
+For d y d x equals x plus y: at zero, zero
+the slope is zero. At one, zero it's one.
+
+22
+00:01:49,441 --> 00:01:52,937
+At zero, negative one it's negative one.
+
+23
+00:01:53,387 --> 00:01:54,774
+Repeat across a grid.
+
+24
+00:01:55,900 --> 00:02:00,316
+A solution curve follows the segments,
+like a leaf floating on a current.
+
+25
+00:02:00,766 --> 00:02:04,158
+Start at the initial condition and flow
+along the field.
+
+26
+00:02:05,300 --> 00:02:11,250
+To match a field to an equation, check
+easy places. If slopes depend only on x,
+
+27
+00:02:11,250 --> 00:02:13,961
+each column of segments is parallel.
+
+28
+00:02:14,411 --> 00:02:17,931
+If slopes depend only on y, each row is
+parallel.
+
+29
+00:02:19,066 --> 00:02:24,022
+Where the slope is always zero along a
+horizontal line, that line is an
+
+30
+00:02:24,022 --> 00:02:25,488
+equilibrium solution.
+
+31
+00:02:25,938 --> 00:02:33,032
+For d y d x equals y times two minus y, y
+equals zero and y equals two are
+
+32
+00:02:33,032 --> 00:02:34,087
+equilibria.
+
+33
+00:02:35,233 --> 00:02:40,822
+Your turn. For d y d x equals x minus y,
+what's the slope at two, three?
+
+34
+00:02:41,272 --> 00:02:42,808
+Pause the video and try it.
+
+35
+00:02:43,258 --> 00:02:45,136
+Two minus three, negative one.
+
+36
+00:02:46,266 --> 00:02:51,243
+In this lesson, we'll solve differential
+equations exactly by separating the
+
+37
+00:02:51,243 --> 00:02:51,898
+variables.
+
+38
+00:02:53,033 --> 00:02:59,440
+If d y d x equals a function of x times a
+function of y, move all the y's to one
+
+39
+00:02:59,440 --> 00:03:02,163
+side and all the x's to the other.
+
+40
+00:03:02,613 --> 00:03:04,213
+Then integrate both sides.
+
+41
+00:03:05,333 --> 00:03:11,733
+Solve d y d x equals x over y. Separate: y
+d y equals x d x.
+
+42
+00:03:12,183 --> 00:03:17,977
+Integrate: y squared over two equals x
+squared over two plus C. So y squared
+
+43
+00:03:17,977 --> 00:03:21,484
+minus x squared equals a constant:
+hyperbolas.
+
+44
+00:03:22,633 --> 00:03:27,433
+With y of zero equals three: nine minus
+zero equals the constant.
+
+45
+00:03:27,883 --> 00:03:33,707
+y squared equals x squared plus nine, and
+since y starts positive, y equals the
+
+46
+00:03:33,707 --> 00:03:36,288
+square root of x squared plus nine.
+
+47
+00:03:37,433 --> 00:03:44,366
+Solve d y d x equals two x y. Separate: d
+y over y equals two x d x.
+
+48
+00:03:44,816 --> 00:03:50,789
+ln absolute y equals x squared plus C, so
+y equals A e to the x squared.
+
+49
+00:03:51,933 --> 00:03:59,037
+Dividing by y assumes y isn't zero. Check:
+y equals zero also solves the equation.
+
+50
+00:03:59,487 --> 00:04:01,727
+Here it's included when A equals zero.
+
+51
+00:04:02,866 --> 00:04:08,711
+Your turn. Solve d y d x equals y squared
+with y of zero equals one.
+
+52
+00:04:09,161 --> 00:04:10,697
+Pause the video and try it.
+
+53
+00:04:11,147 --> 00:04:18,339
+Negative one over y equals x plus C, with
+C equal to negative one. So y equals one
+
+54
+00:04:18,339 --> 00:04:19,830
+over one minus x.
+
+55
+00:04:20,966 --> 00:04:25,830
+In this lesson, we'll solve the most
+important differential equation of all:
+
+56
+00:04:25,830 --> 00:04:27,622
+rate proportional to amount.
+
+57
+00:04:28,766 --> 00:04:35,635
+d y d t equals k y. If k is positive, the
+quantity grows; if negative, it decays.
+
+58
+00:04:36,085 --> 00:04:40,544
+Bacteria, compound interest and
+radioactive atoms all follow it.
+
+59
+00:04:41,666 --> 00:04:48,180
+Separate and integrate: the solution is y
+equals y zero e to the k t, where y zero
+
+60
+00:04:48,180 --> 00:04:50,007
+is the starting amount.
+
+61
+00:04:50,457 --> 00:04:52,569
+Every solution is an exponential.
+
+62
+00:04:53,699 --> 00:04:57,539
+A culture grows from one hundred to three
+hundred in two hours.
+
+63
+00:04:57,989 --> 00:05:04,080
+Three hundred equals one hundred e to the
+two k, so k equals ln three over two,
+
+64
+00:05:04,080 --> 00:05:05,776
+about point five five.
+
+65
+00:05:06,899 --> 00:05:13,145
+Half-life is the time to fall to half: t
+equals ln two over the absolute value of
+
+66
+00:05:13,145 --> 00:05:13,299
+k.
+
+67
+00:05:13,749 --> 00:05:19,876
+Carbon fourteen has a half-life of five
+thousand seven hundred thirty years, so k
+
+68
+00:05:19,876 --> 00:05:23,733
+is about negative point zero zero zero one
+two one.
+
+69
+00:05:24,866 --> 00:05:31,912
+Newton's law of cooling, d T d t equals
+negative k times T minus T room, gives T
+
+70
+00:05:31,912 --> 00:05:37,901
+equals T room plus T zero minus T room,
+times e to the negative k t.
+
+71
+00:05:38,351 --> 00:05:41,721
+The difference from room temperature
+decays exponentially.
+
+72
+00:05:42,866 --> 00:05:48,887
+Your turn. A substance decays with k
+equals negative point zero five per year.
+
+73
+00:05:48,887 --> 00:05:50,354
+Find its half-life.
+
+74
+00:05:50,804 --> 00:05:52,340
+Pause the video and try it.
+
+75
+00:05:52,790 --> 00:05:57,334
+ln two over point zero five, about
+thirteen point nine years.
+
+76
+00:05:58,466 --> 00:06:03,876
+In this lesson, a BC topic, we'll
+approximate a solution numerically, step
+
+77
+00:06:03,876 --> 00:06:04,461
+by step.
+
+78
+00:06:05,599 --> 00:06:10,520
+Start at the initial point. Follow the
+tangent line for a short step, then
+
+79
+00:06:10,520 --> 00:06:12,981
+recompute the slope there and repeat.
+
+80
+00:06:13,431 --> 00:06:17,164
+It's like walking a path by checking the
+compass every few steps.
+
+81
+00:06:18,299 --> 00:06:25,696
+With step size h: the next x is x plus h,
+and the next y is y plus h times the slope
+
+82
+00:06:25,696 --> 00:06:26,577
+f of x, y.
+
+83
+00:06:27,027 --> 00:06:30,952
+y new equals y old plus h times d y d x.
+
+84
+00:06:32,099 --> 00:06:39,550
+Approximate y of one for d y d x equals x
+plus y, y of zero equals one, using h
+
+85
+00:06:39,550 --> 00:06:41,059
+equals one half.
+
+86
+00:06:41,509 --> 00:06:47,980
+First step: slope one, so y at one half is
+one point five. Second step: slope two, so
+
+87
+00:06:47,980 --> 00:06:52,624
+y at one is one point five plus one, which
+is two point five.
+
+88
+00:06:53,766 --> 00:06:59,681
+The true value is two e minus two, about
+three point four four. Smaller steps give
+
+89
+00:06:59,681 --> 00:07:00,763
+better answers.
+
+90
+00:07:01,213 --> 00:07:05,523
+With h equals point one, Euler gives about
+three point one nine.
+
+91
+00:07:06,666 --> 00:07:11,592
+If the solution is concave up, the tangent
+lines lie below it, and Euler
+
+92
+00:07:11,592 --> 00:07:12,618
+underestimates.
+
+93
+00:07:13,068 --> 00:07:17,377
+Here, y double prime is positive, so our
+estimates are too low.
+
+94
+00:07:18,499 --> 00:07:24,391
+Your turn. Take one Euler step of size
+point two for d y d x equals two x,
+
+95
+00:07:24,391 --> 00:07:26,222
+starting at one, three.
+
+96
+00:07:26,672 --> 00:07:28,208
+Pause the video and try it.
+
+97
+00:07:28,658 --> 00:07:34,631
+The slope is two, so y becomes three plus
+point four, which is three point four at x
+
+98
+00:07:34,631 --> 00:07:36,125
+equals one point two.
+
+99
+00:07:37,266 --> 00:07:41,554
+In this lesson, a BC topic, we'll model
+growth that levels off.
+
+100
+00:07:42,699 --> 00:07:49,003
+Real populations run out of room or food.
+Growth slows as the population nears a
+
+101
+00:07:49,003 --> 00:07:51,446
+limit, the carrying capacity L.
+
+102
+00:07:51,896 --> 00:07:54,093
+Exponential growth can't capture that.
+
+103
+00:07:55,233 --> 00:08:01,590
+The logistic equation is d P d t equals k
+P times one minus P over L.
+
+104
+00:08:02,040 --> 00:08:07,117
+When P is small, it's nearly exponential.
+When P nears L, growth stops.
+
+105
+00:08:08,266 --> 00:08:14,725
+Using partial fractions and separation,
+the solution is P equals L over one plus A
+
+106
+00:08:14,725 --> 00:08:16,458
+e to the negative k t.
+
+107
+00:08:16,908 --> 00:08:19,596
+As t goes to infinity, P approaches L.
+
+108
+00:08:20,733 --> 00:08:23,591
+Growth is fastest when P equals L over
+two.
+
+109
+00:08:24,041 --> 00:08:26,644
+That's the inflection point of the
+S-shaped curve.
+
+110
+00:08:27,766 --> 00:08:33,712
+A rumor spreads in a school of one
+thousand by d P d t equals point eight P
+
+111
+00:08:33,712 --> 00:08:38,390
+times one minus P over one thousand. Ten
+students start it.
+
+112
+00:08:38,840 --> 00:08:44,494
+A equals ninety nine, so P equals one
+thousand over one plus ninety nine e to
+
+113
+00:08:44,494 --> 00:08:49,635
+the negative point eight t. It spreads
+fastest when five hundred know.
+
+114
+00:08:50,766 --> 00:08:57,064
+Your turn. For d P d t equals point three
+P times one minus P over two hundred, what
+
+115
+00:08:57,064 --> 00:09:01,113
+is the carrying capacity, and where is
+growth fastest?
+
+116
+00:09:01,563 --> 00:09:03,099
+Pause the video and try it.
+
+117
+00:09:03,549 --> 00:09:08,349
+Carrying capacity two hundred; fastest
+growth at P equals one hundred.
+
+118
+00:09:09,466 --> 00:09:15,084
+Next time, we start Unit 8, applications
+of integration. If this helped, subscribe
+
+119
+00:09:15,084 --> 00:09:20,429
+to School Math, Explained, and turn on
+notifications so you don't miss it. See
+
+120
+00:09:20,429 --> 00:09:21,114
+you there.
+
