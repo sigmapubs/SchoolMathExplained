@@ -1,0 +1,685 @@
+1
+00:00:00,000 --> 00:00:05,420
+In this lesson, we'll solve triangles that
+don't have a right angle, using the law of
+
+2
+00:00:05,420 --> 00:00:05,803
+sines.
+
+3
+00:00:06,933 --> 00:00:12,821
+We label a triangle with angles A, B, C
+and the sides opposite them a, b, c.
+
+4
+00:00:13,271 --> 00:00:17,175
+Right triangle trig no longer applies, so
+we need new tools.
+
+5
+00:00:18,300 --> 00:00:24,636
+The law of sines says a over sine A equals
+b over sine B equals c over sine C.
+
+6
+00:00:25,086 --> 00:00:28,755
+Each side is proportional to the sine of
+its opposite angle.
+
+7
+00:00:29,900 --> 00:00:35,647
+Suppose A is forty degrees, B is sixty
+degrees, and a is ten. Then C is eighty
+
+8
+00:00:35,647 --> 00:00:36,236
+degrees.
+
+9
+00:00:36,686 --> 00:00:42,855
+b equals ten sine sixty over sine forty,
+about thirteen point five. c equals ten
+
+10
+00:00:42,855 --> 00:00:47,097
+sine eighty over sine forty, about fifteen
+point three.
+
+11
+00:00:48,233 --> 00:00:53,456
+Given two sides and an angle not between
+them, there may be zero, one or two
+
+12
+00:00:53,456 --> 00:00:55,999
+triangles. That's the ambiguous case.
+
+13
+00:00:56,449 --> 00:01:02,849
+Say A is thirty degrees, a is six, and b
+is ten. Sine B equals ten sine thirty over
+
+14
+00:01:02,849 --> 00:01:04,854
+six, which is five sixths.
+
+15
+00:01:05,000 --> 00:01:11,404
+Then B is about fifty six point four
+degrees, or one eighty minus that, one
+
+16
+00:01:11,404 --> 00:01:13,637
+twenty three point six degrees.
+
+17
+00:01:14,087 --> 00:01:19,058
+Both leave room for a positive angle C, so
+there are two different triangles.
+
+18
+00:01:20,200 --> 00:01:25,704
+Your turn. A is fifty degrees, B is
+seventy degrees, and c is twelve. Find a.
+
+19
+00:01:26,154 --> 00:01:27,690
+Pause the video and try it.
+
+20
+00:01:28,140 --> 00:01:34,171
+C is sixty degrees. a equals twelve sine
+fifty over sine sixty, about ten point
+
+21
+00:01:34,171 --> 00:01:34,476
+six.
+
+22
+00:01:35,600 --> 00:01:40,510
+In this lesson, we'll use the law of
+cosines, for when the law of sines can't
+
+23
+00:01:40,510 --> 00:01:41,275
+get started.
+
+24
+00:01:42,400 --> 00:01:47,349
+c squared equals a squared plus b squared
+minus two a b cosine C.
+
+25
+00:01:47,799 --> 00:01:51,469
+The same pattern works for any side and
+its opposite angle.
+
+26
+00:01:51,600 --> 00:01:58,275
+Given a equals eight, b equals eleven, and
+C equals thirty seven degrees, find c.
+
+27
+00:01:58,725 --> 00:02:04,744
+c squared equals sixty four plus one
+twenty one minus one seventy six cosine
+
+28
+00:02:04,744 --> 00:02:10,842
+thirty seven, about forty four point four.
+So c is about six point six seven.
+
+29
+00:02:11,967 --> 00:02:17,713
+Given all three sides, solve for an angle.
+Sides five, seven, and nine: find the
+
+30
+00:02:17,713 --> 00:02:19,796
+largest angle, opposite nine.
+
+31
+00:02:20,246 --> 00:02:26,382
+Cosine C equals twenty five plus forty
+nine minus eighty one, over seventy, which
+
+32
+00:02:26,382 --> 00:02:31,382
+is negative one tenth. C is about ninety
+five point seven degrees.
+
+33
+00:02:32,500 --> 00:02:38,811
+If C is ninety degrees, cosine C is zero,
+and the formula becomes a squared plus b
+
+34
+00:02:38,811 --> 00:02:40,735
+squared equals c squared.
+
+35
+00:02:41,185 --> 00:02:46,572
+So the law of cosines is the Pythagorean
+theorem, corrected for angles that aren't
+
+36
+00:02:46,572 --> 00:02:46,966
+right.
+
+37
+00:02:48,100 --> 00:02:53,237
+Two ships leave port. One travels twenty
+miles, the other thirty miles, with fifty
+
+38
+00:02:53,237 --> 00:02:54,991
+degrees between their paths.
+
+39
+00:02:55,441 --> 00:03:00,839
+Their distance apart is the square root of
+four hundred plus nine hundred minus
+
+40
+00:03:00,839 --> 00:03:04,529
+twelve hundred cosine fifty, about twenty
+three miles.
+
+41
+00:03:05,667 --> 00:03:10,189
+Your turn. Sides three, four and six. Find
+the angle opposite six.
+
+42
+00:03:10,639 --> 00:03:12,175
+Pause the video and try it.
+
+43
+00:03:12,625 --> 00:03:18,684
+Cosine C equals nine plus sixteen minus
+thirty six, over twenty four, negative
+
+44
+00:03:18,684 --> 00:03:23,655
+eleven twenty fourths. C is about one
+hundred seventeen degrees.
+
+45
+00:03:24,800 --> 00:03:29,579
+In this lesson, we'll find the area of any
+triangle, even without its height.
+
+46
+00:03:30,700 --> 00:03:35,948
+The height to side b is a sine C. So area
+equals one half a b sine C.
+
+47
+00:03:36,398 --> 00:03:39,641
+Two sides and the angle between them are
+all you need.
+
+48
+00:03:40,767 --> 00:03:44,671
+Sides seven and ten with an included angle
+of forty degrees.
+
+49
+00:03:45,121 --> 00:03:51,051
+Area equals one half times seventy times
+sine forty, about twenty two point five.
+
+50
+00:03:52,200 --> 00:03:56,787
+With all three sides, use Heron's formula.
+Let s be half the perimeter.
+
+51
+00:03:57,237 --> 00:04:04,094
+Then area equals the square root of s
+times s minus a, times s minus b, times s
+
+52
+00:04:04,094 --> 00:04:04,789
+minus c.
+
+53
+00:04:05,933 --> 00:04:08,899
+Sides five, six and seven. s equals nine.
+
+54
+00:04:09,349 --> 00:04:15,127
+Area equals the square root of nine times
+four times three times two, which is the
+
+55
+00:04:15,127 --> 00:04:19,567
+square root of two hundred sixteen, about
+fourteen point seven.
+
+56
+00:04:20,700 --> 00:04:26,190
+A triangular lot has sides one hundred
+twenty and ninety feet, with a sixty five
+
+57
+00:04:26,190 --> 00:04:27,975
+degree angle between them.
+
+58
+00:04:28,425 --> 00:04:34,072
+Area equals one half times one twenty
+times ninety times sine sixty five, about
+
+59
+00:04:34,072 --> 00:04:37,790
+four thousand eight hundred ninety four
+square feet.
+
+60
+00:04:38,933 --> 00:04:44,125
+Your turn. Find the area of a triangle
+with sides six, eight and ten using
+
+61
+00:04:44,125 --> 00:04:45,248
+Heron's formula.
+
+62
+00:04:45,698 --> 00:04:47,234
+Pause the video and try it.
+
+63
+00:04:47,684 --> 00:04:53,174
+s is twelve, so the area is the square
+root of twelve times six times four times
+
+64
+00:04:53,174 --> 00:04:54,959
+two, which is twenty four.
+
+65
+00:04:56,100 --> 00:05:00,900
+In this lesson, we'll meet vectors,
+quantities with both size and direction.
+
+66
+00:05:02,033 --> 00:05:06,961
+A vector is an arrow. Its length is the
+magnitude, and where it points is the
+
+67
+00:05:06,961 --> 00:05:07,601
+direction.
+
+68
+00:05:08,051 --> 00:05:11,337
+Velocity and force are vectors;
+temperature is not.
+
+69
+00:05:12,467 --> 00:05:17,245
+A vector from the origin to three, four
+has component form three, four.
+
+70
+00:05:17,695 --> 00:05:22,943
+Its magnitude is the square root of three
+squared plus four squared, which is five.
+
+71
+00:05:24,067 --> 00:05:29,678
+Add vectors by adding components: three,
+four plus one, negative two equals four,
+
+72
+00:05:29,678 --> 00:05:29,955
+two.
+
+73
+00:05:30,405 --> 00:05:35,875
+Geometrically, place them tip to tail.
+Multiplying by a scalar stretches: two
+
+74
+00:05:35,875 --> 00:05:38,149
+times three, four is six, eight.
+
+75
+00:05:39,267 --> 00:05:43,704
+The direction angle comes from tangent
+theta equals y over x.
+
+76
+00:05:44,154 --> 00:05:49,933
+For three, four, theta is inverse tangent
+of four thirds, about fifty three point
+
+77
+00:05:49,933 --> 00:05:50,789
+one degrees.
+
+78
+00:05:51,933 --> 00:05:57,935
+A unit vector has length one: divide a
+vector by its magnitude. And i is one,
+
+79
+00:05:57,935 --> 00:06:00,040
+zero, while j is zero, one.
+
+80
+00:06:00,490 --> 00:06:06,896
+A force of fifty newtons at thirty degrees
+is fifty cosine thirty i plus fifty sine
+
+81
+00:06:06,896 --> 00:06:11,605
+thirty j, about forty three point three i
+plus twenty five j.
+
+82
+00:06:12,733 --> 00:06:16,339
+Your turn. Find the magnitude of negative
+five, twelve.
+
+83
+00:06:16,789 --> 00:06:18,325
+Pause the video and try it.
+
+84
+00:06:18,775 --> 00:06:23,041
+The square root of twenty five plus one
+forty four, which is thirteen.
+
+85
+00:06:24,166 --> 00:06:29,163
+In this lesson, we'll multiply vectors
+with the dot product, and use it to find
+
+86
+00:06:29,163 --> 00:06:29,606
+angles.
+
+87
+00:06:30,733 --> 00:06:36,962
+The dot product of a one, a two and b one,
+b two is a one b one plus a two b two.
+
+88
+00:06:37,412 --> 00:06:42,890
+It's a number, not a vector. Three, four
+dot two, negative one is six minus four,
+
+89
+00:06:42,890 --> 00:06:43,769
+which is two.
+
+90
+00:06:44,899 --> 00:06:50,489
+The dot product also equals the magnitudes
+times cosine of the angle between them.
+
+91
+00:06:50,939 --> 00:06:57,381
+So cosine theta equals u dot v over the
+magnitude of u times the magnitude of v.
+
+92
+00:06:58,499 --> 00:07:03,551
+If the dot product is zero, the angle is
+ninety degrees: the vectors are
+
+93
+00:07:03,551 --> 00:07:04,323
+orthogonal.
+
+94
+00:07:04,773 --> 00:07:09,740
+Two, three and negative six, four:
+negative twelve plus twelve is zero, so
+
+95
+00:07:09,740 --> 00:07:11,216
+they're perpendicular.
+
+96
+00:07:12,366 --> 00:07:18,993
+The projection of u onto v is the shadow
+of u along v: u dot v over the magnitude
+
+97
+00:07:18,993 --> 00:07:20,793
+of v squared, times v.
+
+98
+00:07:21,243 --> 00:07:25,637
+It splits a force into the part along a
+direction and the part across it.
+
+99
+00:07:26,766 --> 00:07:28,942
+Work equals force dot displacement.
+
+100
+00:07:29,392 --> 00:07:34,607
+Pulling a sled with force thirty, ten
+newtons over a displacement of twenty,
+
+101
+00:07:34,607 --> 00:07:37,627
+zero meters does six hundred joules of
+work.
+
+102
+00:07:38,766 --> 00:07:42,478
+Your turn. Find the angle between one,
+zero and one, one.
+
+103
+00:07:42,928 --> 00:07:44,464
+Pause the video and try it.
+
+104
+00:07:44,914 --> 00:07:50,226
+Cosine theta equals one over root two, so
+theta is forty five degrees.
+
+105
+00:07:51,366 --> 00:07:56,430
+In this lesson, we'll write complex
+numbers using trigonometry, which makes
+
+106
+00:07:56,430 --> 00:07:57,915
+multiplying them easy.
+
+107
+00:07:59,033 --> 00:08:02,702
+Plot a plus b i at the point a, b in the
+complex plane.
+
+108
+00:08:03,152 --> 00:08:07,781
+The horizontal axis is real, the vertical
+axis is imaginary.
+
+109
+00:08:08,899 --> 00:08:14,512
+The modulus r is the distance from the
+origin: the square root of a squared plus
+
+110
+00:08:14,512 --> 00:08:15,214
+b squared.
+
+111
+00:08:15,664 --> 00:08:19,717
+The argument theta is the angle from the
+positive real axis.
+
+112
+00:08:20,866 --> 00:08:25,261
+Then z equals r times cosine theta plus i
+sine theta.
+
+113
+00:08:25,711 --> 00:08:32,286
+For one plus i root three, r is two and
+theta is pi over three, so z equals two
+
+114
+00:08:32,286 --> 00:08:36,697
+times cosine pi over three plus i sine pi
+over three.
+
+115
+00:08:37,833 --> 00:08:41,694
+To multiply, multiply the moduli and add
+the arguments.
+
+116
+00:08:42,144 --> 00:08:48,357
+Two at pi over three times three at pi
+over six equals six at pi over two, which
+
+117
+00:08:48,357 --> 00:08:49,056
+is six i.
+
+118
+00:08:50,199 --> 00:08:53,997
+To divide, divide the moduli and subtract
+the arguments.
+
+119
+00:08:54,447 --> 00:09:00,800
+Eight at five pi over six divided by two
+at pi over three equals four at pi over
+
+120
+00:09:00,800 --> 00:09:02,468
+two, which is four i.
+
+121
+00:09:03,599 --> 00:09:07,333
+Your turn. Write negative two plus two i
+in trig form.
+
+122
+00:09:07,783 --> 00:09:09,319
+Pause the video and try it.
+
+123
+00:09:09,769 --> 00:09:13,182
+r is two root two and theta is three pi
+over four.
+
+124
+00:09:14,300 --> 00:09:18,289
+In this lesson, we'll find powers and
+roots of complex numbers.
+
+125
+00:09:19,433 --> 00:09:26,489
+De Moivre's theorem: z to the n equals r
+to the n times cosine n theta plus i sine
+
+126
+00:09:26,489 --> 00:09:27,177
+n theta.
+
+127
+00:09:27,627 --> 00:09:31,019
+Raise the modulus to the power, multiply
+the angle.
+
+128
+00:09:32,167 --> 00:09:37,201
+Find one plus i, to the eighth. r is root
+two, theta is pi over four.
+
+129
+00:09:37,651 --> 00:09:43,324
+Root two to the eighth is sixteen, and
+eight times pi over four is two pi. So the
+
+130
+00:09:43,324 --> 00:09:44,585
+answer is sixteen.
+
+131
+00:09:45,733 --> 00:09:51,024
+Every nonzero complex number has exactly n
+distinct nth roots.
+
+132
+00:09:51,474 --> 00:09:58,478
+They have modulus r to the one over n, and
+angles theta plus two pi k, over n, for k
+
+133
+00:09:58,478 --> 00:10:00,562
+from zero to n minus one.
+
+134
+00:10:01,700 --> 00:10:06,948
+Find the cube roots of eight. Eight has r
+equals eight and theta equals zero.
+
+135
+00:10:07,398 --> 00:10:13,471
+The roots have modulus two and angles
+zero, two pi over three and four pi over
+
+136
+00:10:13,471 --> 00:10:19,155
+three: two, negative one plus i root
+three, and negative one minus i root
+
+137
+00:10:19,155 --> 00:10:19,622
+three.
+
+138
+00:10:20,767 --> 00:10:26,356
+The nth roots of one, the roots of unity,
+sit evenly around the unit circle.
+
+139
+00:10:26,806 --> 00:10:32,178
+The fourth roots of unity are one, i,
+negative one and negative i, forming a
+
+140
+00:10:32,178 --> 00:10:32,673
+square.
+
+141
+00:10:33,800 --> 00:10:36,765
+Your turn. Compute two at pi over six,
+cubed.
+
+142
+00:10:37,215 --> 00:10:38,751
+Pause the video and try it.
+
+143
+00:10:39,201 --> 00:10:41,527
+Eight at pi over two, which is eight i.
+
+144
+00:10:42,667 --> 00:10:48,031
+Next time, we start Unit 7, polar and
+parametric equations. If this helped,
+
+145
+00:10:48,031 --> 00:10:53,753
+subscribe to School Math, Explained, and
+turn on notifications so you don't miss
+
+146
+00:10:53,753 --> 00:10:55,040
+it. See you there.
+

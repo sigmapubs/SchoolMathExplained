@@ -1,0 +1,386 @@
+1
+00:00:00,000 --> 00:00:05,035
+In this lesson, we'll locate points by
+distance and angle instead of x and y.
+
+2
+00:00:06,167 --> 00:00:11,052
+A polar point r, theta means: turn by
+theta, then go out r units.
+
+3
+00:00:11,502 --> 00:00:16,345
+The point two, pi over three is two units
+out along the sixty degree ray.
+
+4
+00:00:17,467 --> 00:00:22,871
+Each point has infinitely many polar
+names. Adding two pi to theta gives the
+
+5
+00:00:22,871 --> 00:00:23,653
+same point.
+
+6
+00:00:24,103 --> 00:00:30,309
+A negative r means go the opposite way:
+negative two, pi over three is the same as
+
+7
+00:00:30,309 --> 00:00:32,125
+two, four pi over three.
+
+8
+00:00:33,267 --> 00:00:39,731
+To convert to rectangular, x equals r
+cosine theta and y equals r sine theta.
+
+9
+00:00:40,181 --> 00:00:44,298
+Four, five pi over six becomes negative
+two root three, two.
+
+10
+00:00:45,433 --> 00:00:51,448
+To go back, r equals the square root of x
+squared plus y squared, and tangent theta
+
+11
+00:00:51,448 --> 00:00:54,564
+equals y over x, with the quadrant
+checked.
+
+12
+00:00:55,014 --> 00:01:01,169
+Negative one, negative one has r equals
+root two and theta equals five pi over
+
+13
+00:01:01,169 --> 00:01:01,563
+four.
+
+14
+00:01:02,700 --> 00:01:09,441
+Equations convert too. r equals four sine
+theta: multiply by r to get r squared
+
+15
+00:01:09,441 --> 00:01:11,575
+equals four r sine theta.
+
+16
+00:01:12,025 --> 00:01:18,599
+So x squared plus y squared equals four y,
+a circle of radius two centered at zero,
+
+17
+00:01:18,599 --> 00:01:18,915
+two.
+
+18
+00:01:20,033 --> 00:01:25,324
+Your turn. Convert zero, negative three to
+polar form with r positive.
+
+19
+00:01:25,774 --> 00:01:27,310
+Pause the video and try it.
+
+20
+00:01:27,760 --> 00:01:30,491
+r is three and theta is three pi over two.
+
+21
+00:01:31,633 --> 00:01:35,985
+In this lesson, we'll draw the beautiful
+curves that polar equations make.
+
+22
+00:01:37,133 --> 00:01:43,358
+r equals three is a circle of radius
+three. Theta equals pi over four is a line
+
+23
+00:01:43,358 --> 00:01:44,856
+through the origin.
+
+24
+00:01:45,306 --> 00:01:51,070
+r equals four cosine theta is a circle
+through the origin, centered on the x
+
+25
+00:01:51,070 --> 00:01:51,450
+axis.
+
+26
+00:01:52,600 --> 00:01:56,781
+To graph, make a table: choose theta
+values, compute r, and plot.
+
+27
+00:01:57,231 --> 00:02:04,564
+For r equals two plus two cosine theta: at
+zero, r is four. At pi over two, two. At
+
+28
+00:02:04,564 --> 00:02:05,359
+pi, zero.
+
+29
+00:02:06,500 --> 00:02:13,066
+That curve is a cardioid, a heart shape.
+In general, r equals a plus b cosine theta
+
+30
+00:02:13,066 --> 00:02:14,094
+is a limacon.
+
+31
+00:02:14,544 --> 00:02:19,686
+When a equals b, it's a cardioid. When a
+is less than b, it has an inner loop.
+
+32
+00:02:20,833 --> 00:02:23,756
+r equals a cosine of n theta is a rose.
+
+33
+00:02:24,206 --> 00:02:30,549
+If n is odd, it has n petals. If n is
+even, it has two n petals. r equals three
+
+34
+00:02:30,549 --> 00:02:33,038
+sine two theta has four petals.
+
+35
+00:02:34,166 --> 00:02:39,593
+Check symmetry to save work. Replacing
+theta with negative theta tests symmetry
+
+36
+00:02:39,593 --> 00:02:41,036
+about the polar axis.
+
+37
+00:02:41,486 --> 00:02:46,862
+Cosine graphs are always symmetric about
+the x axis, since cosine is even.
+
+38
+00:02:48,000 --> 00:02:52,928
+Your turn. How many petals does r equals
+five cosine three theta have?
+
+39
+00:02:53,378 --> 00:02:54,914
+Pause the video and try it.
+
+40
+00:02:55,364 --> 00:02:57,902
+n equals three is odd, so three petals.
+
+41
+00:02:59,033 --> 00:03:04,430
+In this lesson, we'll describe curves by
+giving x and y each as a function of a
+
+42
+00:03:04,430 --> 00:03:05,454
+third variable.
+
+43
+00:03:06,600 --> 00:03:12,040
+In parametric equations, x and y both
+depend on a parameter, usually t.
+
+44
+00:03:12,490 --> 00:03:17,780
+As t changes, the point x of t, y of t
+traces a path with a direction.
+
+45
+00:03:18,900 --> 00:03:25,108
+Take x equals t plus one and y equals t
+squared, for t from negative two to two.
+
+46
+00:03:25,558 --> 00:03:32,087
+t equals negative two gives negative one,
+four. t equals zero gives one, zero. t
+
+47
+00:03:32,087 --> 00:03:34,454
+equals two gives three, four.
+
+48
+00:03:35,600 --> 00:03:42,426
+To find the ordinary equation, eliminate
+t. From x equals t plus one, t equals x
+
+49
+00:03:42,426 --> 00:03:43,280
+minus one.
+
+50
+00:03:43,730 --> 00:03:47,015
+So y equals x minus one squared, a
+parabola.
+
+51
+00:03:48,133 --> 00:03:54,576
+x equals three cosine t, y equals three
+sine t, for t from zero to two pi.
+
+52
+00:03:55,026 --> 00:04:01,146
+Since cosine squared plus sine squared is
+one, x squared plus y squared equals nine:
+
+53
+00:04:01,146 --> 00:04:03,623
+a circle, traced counterclockwise.
+
+54
+00:04:04,766 --> 00:04:08,990
+Different parametrizations can trace the
+same path in different ways.
+
+55
+00:04:09,440 --> 00:04:15,540
+x equals three cosine two t, y equals
+three sine two t goes around the same
+
+56
+00:04:15,540 --> 00:04:17,248
+circle twice as fast.
+
+57
+00:04:18,366 --> 00:04:23,998
+Your turn. Eliminate the parameter: x
+equals two t, y equals t plus three.
+
+58
+00:04:24,448 --> 00:04:25,984
+Pause the video and try it.
+
+59
+00:04:26,434 --> 00:04:30,936
+t equals x over two, so y equals x over
+two plus three.
+
+60
+00:04:32,066 --> 00:04:36,653
+In this lesson, we'll use parametric
+equations to track moving objects.
+
+61
+00:04:37,799 --> 00:04:42,578
+A boat starts at two, one and moves with
+velocity three, four per hour.
+
+62
+00:04:43,028 --> 00:04:48,575
+Its position is x equals two plus three t,
+y equals one plus four t.
+
+63
+00:04:49,699 --> 00:04:56,550
+A ball launched at speed v at angle theta
+from height h follows x equals v cosine
+
+64
+00:04:56,550 --> 00:05:03,570
+theta times t, and y equals h plus v sine
+theta times t minus sixteen t squared, in
+
+65
+00:05:03,570 --> 00:05:03,993
+feet.
+
+66
+00:05:04,443 --> 00:05:09,520
+Horizontal motion is steady; vertical
+motion is pulled down by gravity.
+
+67
+00:05:10,666 --> 00:05:16,737
+Launch at eighty feet per second at thirty
+degrees from the ground: x equals about
+
+68
+00:05:16,737 --> 00:05:21,994
+sixty nine point three t, and y equals
+forty t minus sixteen t squared.
+
+69
+00:05:22,444 --> 00:05:28,001
+The top of the arc is at t equals forty
+over thirty two, one point two five
+
+70
+00:05:28,001 --> 00:05:30,743
+seconds, where y is twenty five feet.
+
+71
+00:05:31,866 --> 00:05:36,559
+It lands when y equals zero: t equals two
+point five seconds.
+
+72
+00:05:37,009 --> 00:05:42,439
+The horizontal distance is sixty nine
+point three times two point five, about
+
+73
+00:05:42,439 --> 00:05:44,625
+one hundred seventy three feet.
+
+74
+00:05:45,766 --> 00:05:52,410
+A fence ten feet tall is one hundred fifty
+feet away. When x is one fifty, t is about
+
+75
+00:05:52,410 --> 00:05:54,598
+two point one seven seconds.
+
+76
+00:05:55,048 --> 00:05:59,101
+Then y is about eleven point six feet. It
+clears the fence.
+
+77
+00:06:00,233 --> 00:06:06,086
+Your turn. A ball is launched straight up:
+y equals sixty four t minus sixteen t
+
+78
+00:06:06,086 --> 00:06:08,062
+squared. When does it land?
+
+79
+00:06:08,512 --> 00:06:10,048
+Pause the video and try it.
+
+80
+00:06:10,498 --> 00:06:16,151
+sixteen t times four minus t equals zero,
+so t equals four seconds.
+
+81
+00:06:17,299 --> 00:06:22,720
+Next time, we start Unit 8, systems and
+matrices. If this helped, subscribe to
+
+82
+00:06:22,720 --> 00:06:27,932
+School Math, Explained, and turn on
+notifications so you don't miss it. See
+
+83
+00:06:27,932 --> 00:06:28,627
+you there.
+

@@ -1,0 +1,548 @@
+1
+00:00:00,000 --> 00:00:04,782
+In this lesson, we'll use quadratic
+functions to find the best possible value
+
+2
+00:00:04,782 --> 00:00:05,589
+of something.
+
+3
+00:00:06,733 --> 00:00:13,978
+In vertex form, f of x equals a times x
+minus h squared, plus k, the vertex is h,
+
+4
+00:00:13,978 --> 00:00:14,157
+k.
+
+5
+00:00:14,607 --> 00:00:20,069
+If a is positive, the vertex is a minimum.
+If a is negative, it's a maximum.
+
+6
+00:00:21,200 --> 00:00:27,088
+To reach vertex form, complete the square.
+Take x squared minus six x plus eleven.
+
+7
+00:00:27,538 --> 00:00:33,143
+Half of negative six is negative three,
+and its square is nine. So it's x minus
+
+8
+00:00:33,143 --> 00:00:36,690
+three squared, plus two. The vertex is
+three, two.
+
+9
+00:00:37,833 --> 00:00:44,892
+For f of x equals a x squared plus b x
+plus c, the vertex is at x equals negative
+
+10
+00:00:44,892 --> 00:00:46,025
+b over two a.
+
+11
+00:00:46,475 --> 00:00:52,344
+For negative two x squared plus eight x
+minus one, x equals negative eight over
+
+12
+00:00:52,344 --> 00:00:56,801
+negative four, which is two. f of two is
+seven, the maximum.
+
+13
+00:00:57,933 --> 00:01:02,627
+You have one hundred twenty meters of
+fence for a rectangular pen. What
+
+14
+00:01:02,627 --> 00:01:04,611
+dimensions give the most area?
+
+15
+00:01:05,061 --> 00:01:11,366
+With width x, the length is sixty minus x,
+so area is x times sixty minus x. The
+
+16
+00:01:11,366 --> 00:01:17,672
+vertex is at x equals thirty, a thirty by
+thirty square with nine hundred square
+
+17
+00:01:17,672 --> 00:01:18,223
+meters.
+
+18
+00:01:19,367 --> 00:01:24,785
+A store sells forty mugs a day at ten
+dollars. Each dollar off sells five more.
+
+19
+00:01:25,235 --> 00:01:31,685
+Revenue is ten minus x, times forty plus
+five x. Expand to negative five x squared
+
+20
+00:01:31,685 --> 00:01:38,057
+plus ten x plus four hundred. The vertex
+is x equals one: charge nine dollars for
+
+21
+00:01:38,057 --> 00:01:40,574
+four hundred five dollars a day.
+
+22
+00:01:41,700 --> 00:01:47,865
+Your turn. Find the minimum value of f of
+x equals x squared plus ten x plus thirty.
+
+23
+00:01:48,315 --> 00:01:49,851
+Pause the video and try it.
+
+24
+00:01:50,301 --> 00:01:56,258
+x equals negative five, and f of negative
+five is twenty five minus fifty plus
+
+25
+00:01:56,258 --> 00:01:57,939
+thirty, which is five.
+
+26
+00:01:59,066 --> 00:02:02,799
+In this lesson, we'll read a polynomial's
+shape from its formula.
+
+27
+00:02:03,933 --> 00:02:09,892
+End behavior depends on the leading term.
+Even degree: both ends go the same way.
+
+28
+00:02:09,892 --> 00:02:11,805
+Odd degree: opposite ways.
+
+29
+00:02:12,255 --> 00:02:17,738
+A positive leading coefficient makes the
+right end rise. So x cubed falls on the
+
+30
+00:02:17,738 --> 00:02:19,657
+left and rises on the right.
+
+31
+00:02:20,799 --> 00:02:27,162
+If x minus r is a factor, then r is a
+zero, and the graph crosses or touches the
+
+32
+00:02:27,162 --> 00:02:28,117
+x axis at r.
+
+33
+00:02:28,567 --> 00:02:35,070
+f of x equals x times x minus two times x
+plus three has zeros zero, two and
+
+34
+00:02:35,070 --> 00:02:36,353
+negative three.
+
+35
+00:02:37,499 --> 00:02:41,595
+A zero's multiplicity is how many times
+its factor appears.
+
+36
+00:02:42,045 --> 00:02:48,362
+Odd multiplicity: the graph crosses. Even
+multiplicity: it touches and turns back,
+
+37
+00:02:48,362 --> 00:02:51,752
+like at x equals one in x minus one
+squared.
+
+38
+00:02:52,899 --> 00:02:58,339
+Sketch f of x equals negative x minus one
+squared times x plus two.
+
+39
+00:02:58,789 --> 00:03:04,097
+Degree three with a negative leading
+coefficient: rises on the left, falls on
+
+40
+00:03:04,097 --> 00:03:08,027
+the right. It crosses at negative two and
+bounces at one.
+
+41
+00:03:09,166 --> 00:03:13,859
+A polynomial of degree n has at most n
+minus one turning points.
+
+42
+00:03:14,309 --> 00:03:16,741
+So a quartic can turn at most three times.
+
+43
+00:03:17,866 --> 00:03:23,959
+Your turn. Describe the end behavior of f
+of x equals negative two x to the fourth
+
+44
+00:03:23,959 --> 00:03:24,479
+plus x.
+
+45
+00:03:24,929 --> 00:03:26,465
+Pause the video and try it.
+
+46
+00:03:26,915 --> 00:03:31,865
+Even degree with a negative leading
+coefficient, so both ends point down.
+
+47
+00:03:33,000 --> 00:03:38,269
+In this lesson, we'll find all the zeros
+of a polynomial, real and complex.
+
+48
+00:03:39,400 --> 00:03:45,819
+The fundamental theorem of algebra says a
+degree n polynomial has exactly n complex
+
+49
+00:03:45,819 --> 00:03:48,061
+zeros, counting multiplicity.
+
+50
+00:03:48,511 --> 00:03:51,925
+So a cubic always has three, though some
+may be complex.
+
+51
+00:03:53,067 --> 00:03:58,078
+To find rational candidates, use the
+rational zero test: factors of the
+
+52
+00:03:58,078 --> 00:04:01,536
+constant over factors of the leading
+coefficient.
+
+53
+00:04:01,986 --> 00:04:08,724
+For x cubed minus two x squared minus five
+x plus six, try plus or minus one, two,
+
+54
+00:04:08,724 --> 00:04:12,503
+three and six. f of one is zero, so one
+works.
+
+55
+00:04:13,633 --> 00:04:19,713
+Divide by x minus one with synthetic
+division to get x squared minus x minus
+
+56
+00:04:19,713 --> 00:04:20,033
+six.
+
+57
+00:04:20,483 --> 00:04:26,723
+That factors as x minus three times x plus
+two. All the zeros are one, three and
+
+58
+00:04:26,723 --> 00:04:27,737
+negative two.
+
+59
+00:04:28,867 --> 00:04:35,986
+Now x cubed minus x squared plus four x
+minus four. Group: x squared times x minus
+
+60
+00:04:35,986 --> 00:04:38,851
+one, plus four times x minus one.
+
+61
+00:04:39,301 --> 00:04:45,380
+That's x minus one times x squared plus
+four. The zeros are one, two i and
+
+62
+00:04:45,380 --> 00:04:51,458
+negative two i. Complex zeros of real
+polynomials always come in conjugate
+
+63
+00:04:51,458 --> 00:04:51,951
+pairs.
+
+64
+00:04:53,100 --> 00:04:56,215
+Build a polynomial with zeros two and
+three i.
+
+65
+00:04:56,665 --> 00:05:02,962
+Three i means negative three i too.
+Multiply x minus two times x squared plus
+
+66
+00:05:02,962 --> 00:05:08,441
+nine to get x cubed minus two x squared
+plus nine x minus eighteen.
+
+67
+00:05:09,567 --> 00:05:13,599
+Your turn. Find all zeros of x to the
+fourth minus sixteen.
+
+68
+00:05:14,049 --> 00:05:15,585
+Pause the video and try it.
+
+69
+00:05:16,035 --> 00:05:22,256
+It's x squared minus four times x squared
+plus four, so the zeros are two, negative
+
+70
+00:05:22,256 --> 00:05:24,504
+two, two i and negative two i.
+
+71
+00:05:25,633 --> 00:05:30,508
+In this lesson, we'll study rational
+functions, ratios of polynomials, and
+
+72
+00:05:30,508 --> 00:05:31,628
+their asymptotes.
+
+73
+00:05:32,766 --> 00:05:37,140
+Vertical asymptotes sit where the
+simplified denominator is zero.
+
+74
+00:05:37,590 --> 00:05:43,857
+For f of x equals one over x minus three,
+the graph shoots up or down near x equals
+
+75
+00:05:43,857 --> 00:05:44,310
+three.
+
+76
+00:05:45,433 --> 00:05:48,078
+If a factor cancels, you get a hole
+instead.
+
+77
+00:05:48,528 --> 00:05:54,850
+x squared minus four over x minus two
+simplifies to x plus two, with a hole at x
+
+78
+00:05:54,850 --> 00:05:57,616
+equals two, at the point two, four.
+
+79
+00:05:58,733 --> 00:06:05,314
+Horizontal asymptotes compare degrees. Top
+smaller: y equals zero. Same degree: the
+
+80
+00:06:05,314 --> 00:06:07,693
+ratio of leading coefficients.
+
+81
+00:06:08,143 --> 00:06:14,032
+Three x squared over two x squared plus
+one has a horizontal asymptote at y equals
+
+82
+00:06:14,032 --> 00:06:17,551
+three halves. If the top is bigger,
+there's none.
+
+83
+00:06:18,700 --> 00:06:22,924
+If the top degree is exactly one more,
+there's a slant asymptote.
+
+84
+00:06:23,374 --> 00:06:30,400
+Divide: x squared plus one over x equals x
+plus one over x, so the slant asymptote is
+
+85
+00:06:30,400 --> 00:06:31,310
+y equals x.
+
+86
+00:06:32,433 --> 00:06:35,996
+Analyze f of x equals two x over x plus
+one.
+
+87
+00:06:36,446 --> 00:06:42,781
+Vertical asymptote x equals negative one,
+horizontal asymptote y equals two, and it
+
+88
+00:06:42,781 --> 00:06:44,766
+passes through the origin.
+
+89
+00:06:45,900 --> 00:06:52,329
+Your turn. Find the asymptotes of g of x
+equals x minus five over x squared minus
+
+90
+00:06:52,329 --> 00:06:52,726
+nine.
+
+91
+00:06:53,176 --> 00:06:54,712
+Pause the video and try it.
+
+92
+00:06:55,162 --> 00:07:01,371
+Vertical at x equals three and negative
+three. The top has lower degree, so the
+
+93
+00:07:01,371 --> 00:07:04,357
+horizontal asymptote is y equals zero.
+
+94
+00:07:05,500 --> 00:07:10,065
+In this lesson, we'll solve inequalities
+with polynomials and fractions.
+
+95
+00:07:11,200 --> 00:07:16,985
+First, get zero on one side. Then find the
+critical points, where the expression is
+
+96
+00:07:16,985 --> 00:07:18,240
+zero or undefined.
+
+97
+00:07:18,690 --> 00:07:22,679
+These split the number line into intervals
+where the sign can't change.
+
+98
+00:07:23,800 --> 00:07:27,043
+Make a sign chart. Test one value in each
+interval.
+
+99
+00:07:27,493 --> 00:07:30,714
+The sign of each factor tells you the sign
+of the product.
+
+100
+00:07:31,833 --> 00:07:38,485
+Solve x squared minus x minus six greater
+than zero. Factor: x minus three times x
+
+101
+00:07:38,485 --> 00:07:39,215
+plus two.
+
+102
+00:07:39,665 --> 00:07:44,966
+Critical points negative two and three.
+Testing gives positive, negative,
+
+103
+00:07:44,966 --> 00:07:49,542
+positive. So x is less than negative two
+or greater than three.
+
+104
+00:07:50,667 --> 00:07:55,616
+Solve x plus one over x minus four, less
+than or equal to zero.
+
+105
+00:07:56,066 --> 00:08:01,219
+Critical points negative one and four. The
+expression is negative between them.
+
+106
+00:08:01,219 --> 00:08:06,503
+Include negative one, where it's zero, but
+exclude four, where it's undefined. So
+
+107
+00:08:06,503 --> 00:08:10,743
+negative one is less than or equal to x,
+which is less than four.
+
+108
+00:08:11,867 --> 00:08:17,022
+Don't multiply both sides by the
+denominator. Its sign is unknown, so the
+
+109
+00:08:17,022 --> 00:08:19,141
+inequality might need to flip.
+
+110
+00:08:19,591 --> 00:08:24,946
+Instead, subtract to get zero on one side
+and combine into a single fraction.
+
+111
+00:08:26,067 --> 00:08:29,928
+Your turn. Solve x times x minus five less
+than zero.
+
+112
+00:08:30,378 --> 00:08:31,914
+Pause the video and try it.
+
+113
+00:08:32,364 --> 00:08:38,376
+Critical points zero and five; the product
+is negative between them. So zero is less
+
+114
+00:08:38,376 --> 00:08:40,023
+than x, less than five.
+
+115
+00:08:41,167 --> 00:08:46,862
+Next time, we start Unit 3, exponential
+and logarithmic functions. If this helped,
+
+116
+00:08:46,862 --> 00:08:52,418
+subscribe to School Math, Explained, and
+turn on notifications so you don't miss
+
+117
+00:08:52,418 --> 00:08:53,668
+it. See you there.
+

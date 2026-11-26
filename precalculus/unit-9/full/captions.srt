@@ -1,0 +1,383 @@
+1
+00:00:00,000 --> 00:00:04,953
+In this lesson, we'll define parabolas
+geometrically, using a focus and a
+
+2
+00:00:04,953 --> 00:00:05,632
+directrix.
+
+3
+00:00:06,767 --> 00:00:12,061
+A parabola is every point that is the same
+distance from a fixed point, the focus,
+
+4
+00:00:12,061 --> 00:00:14,127
+and a fixed line, the directrix.
+
+5
+00:00:14,577 --> 00:00:16,603
+The vertex sits halfway between them.
+
+6
+00:00:17,733 --> 00:00:23,728
+With vertex at the origin opening up, the
+equation is x squared equals four p y.
+
+7
+00:00:24,178 --> 00:00:30,489
+p is the distance from the vertex to the
+focus. Opening sideways, it's y squared
+
+8
+00:00:30,489 --> 00:00:31,751
+equals four p x.
+
+9
+00:00:32,900 --> 00:00:38,041
+For x squared equals twelve y, four p
+equals twelve, so p equals three.
+
+10
+00:00:38,491 --> 00:00:43,505
+The focus is zero, three and the directrix
+is y equals negative three.
+
+11
+00:00:44,633 --> 00:00:50,579
+A parabola has vertex two, negative one
+and focus two, one. Then p equals two,
+
+12
+00:00:50,579 --> 00:00:51,417
+opening up.
+
+13
+00:00:51,867 --> 00:00:56,689
+The equation is x minus two squared equals
+eight times y plus one.
+
+14
+00:00:57,833 --> 00:01:03,183
+Every ray coming in parallel to the axis
+reflects off the parabola straight through
+
+15
+00:01:03,183 --> 00:01:03,828
+the focus.
+
+16
+00:01:04,278 --> 00:01:08,161
+That's why satellite dishes and car
+headlights are parabolic.
+
+17
+00:01:09,300 --> 00:01:13,737
+Your turn. Find the focus of y squared
+equals negative eight x.
+
+18
+00:01:14,187 --> 00:01:15,723
+Pause the video and try it.
+
+19
+00:01:16,173 --> 00:01:22,128
+Four p equals negative eight, so p is
+negative two. The focus is negative two,
+
+20
+00:01:22,128 --> 00:01:22,509
+zero.
+
+21
+00:01:23,633 --> 00:01:27,025
+In this lesson, we'll study ellipses, the
+stretched circles.
+
+22
+00:01:28,166 --> 00:01:33,478
+An ellipse is every point whose distances
+to two foci add up to the same total.
+
+23
+00:01:33,928 --> 00:01:37,512
+Tie a string to two pins and trace around
+them with a pencil.
+
+24
+00:01:37,633 --> 00:01:44,470
+Centered at the origin, the equation is x
+squared over a squared plus y squared over
+
+25
+00:01:44,470 --> 00:01:45,929
+b squared equals one.
+
+26
+00:01:46,379 --> 00:01:49,920
+a is half the long axis and b is half the
+short axis.
+
+27
+00:01:51,066 --> 00:01:56,677
+The foci are c units from the center,
+where c squared equals a squared minus b
+
+28
+00:01:56,677 --> 00:01:57,253
+squared.
+
+29
+00:01:57,703 --> 00:02:03,785
+For x squared over twenty five plus y
+squared over nine equals one, c squared is
+
+30
+00:02:03,785 --> 00:02:07,815
+sixteen, so the foci are at plus or minus
+four, zero.
+
+31
+00:02:08,933 --> 00:02:14,743
+Complete the square to find the center.
+Four x squared plus y squared minus
+
+32
+00:02:14,743 --> 00:02:18,384
+sixteen x plus two y plus thirteen equals
+zero.
+
+33
+00:02:18,834 --> 00:02:25,230
+It becomes x minus two squared over one
+plus y plus one squared over four equals
+
+34
+00:02:25,230 --> 00:02:29,308
+one: center two, negative one, vertical
+major axis.
+
+35
+00:02:30,433 --> 00:02:34,956
+Eccentricity e equals c over a measures
+how stretched the ellipse is.
+
+36
+00:02:35,406 --> 00:02:41,400
+Near zero, it's almost a circle. Earth's
+orbit has e about point zero one seven.
+
+37
+00:02:42,533 --> 00:02:48,401
+Your turn. Find the vertices of x squared
+over sixteen plus y squared over thirty
+
+38
+00:02:48,401 --> 00:02:49,488
+six equals one.
+
+39
+00:02:49,938 --> 00:02:51,474
+Pause the video and try it.
+
+40
+00:02:51,924 --> 00:02:57,790
+The bigger denominator is under y, so the
+vertices are zero, plus or minus six.
+
+41
+00:02:58,933 --> 00:03:03,264
+In this lesson, we'll study hyperbolas,
+the conics with two branches.
+
+42
+00:03:04,400 --> 00:03:10,074
+A hyperbola is every point whose distances
+to two foci differ by the same amount.
+
+43
+00:03:10,524 --> 00:03:14,044
+It has two separate branches, opening away
+from each other.
+
+44
+00:03:15,166 --> 00:03:20,870
+Centered at the origin and opening left
+and right, the equation is x squared over
+
+45
+00:03:20,870 --> 00:03:24,532
+a squared minus y squared over b squared
+equals one.
+
+46
+00:03:24,982 --> 00:03:27,840
+The vertices are at plus or minus a, zero.
+
+47
+00:03:28,966 --> 00:03:33,553
+The asymptotes are y equals plus or minus
+b over a times x.
+
+48
+00:03:34,003 --> 00:03:38,974
+Draw a box with sides two a and two b; the
+diagonals are the asymptotes.
+
+49
+00:03:40,100 --> 00:03:43,897
+For hyperbolas, c squared equals a squared
+plus b squared.
+
+50
+00:03:44,347 --> 00:03:50,976
+For x squared over nine minus y squared
+over sixteen equals one, c is five, so the
+
+51
+00:03:50,976 --> 00:03:57,443
+foci are at plus or minus five, zero.
+Asymptotes are y equals plus or minus four
+
+52
+00:03:57,443 --> 00:03:58,171
+thirds x.
+
+53
+00:03:59,300 --> 00:04:03,289
+If the y term comes first, the hyperbola
+opens up and down.
+
+54
+00:04:03,739 --> 00:04:10,529
+y squared over four minus x squared equals
+one has vertices zero, plus or minus two
+
+55
+00:04:10,529 --> 00:04:14,128
+and asymptotes y equals plus or minus two
+x.
+
+56
+00:04:15,266 --> 00:04:21,535
+Your turn. Find the foci of x squared over
+sixteen minus y squared over nine equals
+
+57
+00:04:21,535 --> 00:04:21,837
+one.
+
+58
+00:04:22,287 --> 00:04:23,823
+Pause the video and try it.
+
+59
+00:04:24,273 --> 00:04:29,244
+c squared is twenty five, so the foci are
+at plus or minus five, zero.
+
+60
+00:04:30,366 --> 00:04:35,123
+In this lesson, we'll identify a conic
+just by looking at its equation.
+
+61
+00:04:36,266 --> 00:04:42,870
+Every conic can be written A x squared
+plus C y squared plus D x plus E y plus F
+
+62
+00:04:42,870 --> 00:04:43,861
+equals zero.
+
+63
+00:04:44,311 --> 00:04:48,748
+The coefficients A and C, on the squared
+terms, tell you which one it is.
+
+64
+00:04:49,866 --> 00:04:51,679
+If A equals C, it's a circle.
+
+65
+00:04:52,129 --> 00:04:57,932
+x squared plus y squared minus six x plus
+four y equals three is a circle.
+
+66
+00:04:57,932 --> 00:05:03,500
+Completing the square gives center three,
+negative two and radius four.
+
+67
+00:05:04,633 --> 00:05:07,705
+If only one variable is squared, it's a
+parabola.
+
+68
+00:05:08,155 --> 00:05:14,363
+y squared minus four x plus two y equals
+seven is a parabola that opens sideways.
+
+69
+00:05:15,499 --> 00:05:21,074
+If A and C have the same sign but differ,
+it's an ellipse. Opposite signs give a
+
+70
+00:05:21,074 --> 00:05:21,771
+hyperbola.
+
+71
+00:05:22,221 --> 00:05:28,576
+Four x squared plus nine y squared equals
+thirty six is an ellipse. Four x squared
+
+72
+00:05:28,576 --> 00:05:32,760
+minus nine y squared equals thirty six is
+a hyperbola.
+
+73
+00:05:33,899 --> 00:05:38,379
+Try these. Two x squared plus two y
+squared equals eight: a circle.
+
+74
+00:05:38,829 --> 00:05:45,493
+x squared minus y squared plus four y
+equals zero: a hyperbola. Three y squared
+
+75
+00:05:45,493 --> 00:05:48,024
+plus x equals six: a parabola.
+
+76
+00:05:49,166 --> 00:05:55,118
+Your turn. Identify five x squared plus y
+squared minus ten x equals zero.
+
+77
+00:05:55,568 --> 00:05:57,104
+Pause the video and try it.
+
+78
+00:05:57,554 --> 00:06:01,074
+Both squared, same sign, different
+coefficients: an ellipse.
+
+79
+00:06:02,199 --> 00:06:07,684
+Next time, we start Unit 10, sequences,
+series and probability. If this helped,
+
+80
+00:06:07,684 --> 00:06:13,238
+subscribe to School Math, Explained, and
+turn on notifications so you don't miss
+
+81
+00:06:13,238 --> 00:06:14,487
+it. See you there.
+

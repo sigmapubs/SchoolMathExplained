@@ -1,0 +1,815 @@
+1
+00:00:00,000 --> 00:00:05,699
+Welcome to Calculus. In this first lesson,
+we'll pin down the idea everything else is
+
+2
+00:00:05,699 --> 00:00:07,040
+built on: the limit.
+
+3
+00:00:08,167 --> 00:00:13,736
+Calculus studies change at an instant,
+like a speedometer reading. But speed is
+
+4
+00:00:13,736 --> 00:00:17,191
+distance over time, and an instant has
+zero time.
+
+5
+00:00:17,641 --> 00:00:22,483
+Limits let us ask what a ratio approaches,
+without dividing by zero.
+
+6
+00:00:23,633 --> 00:00:30,109
+The limit of f of x as x approaches c
+equals L means f of x can be made as close
+
+7
+00:00:30,109 --> 00:00:35,452
+to L as we like by taking x close enough
+to c, but not equal to c.
+
+8
+00:00:35,902 --> 00:00:38,014
+The value at c itself is ignored.
+
+9
+00:00:39,133 --> 00:00:44,701
+Estimate the limit as x approaches zero of
+sine x over x. Make a table.
+
+10
+00:00:45,151 --> 00:00:50,669
+At point one, point nine nine eight three.
+At point zero one, point nine nine nine
+
+11
+00:00:50,669 --> 00:00:54,303
+nine eight. From the left, the same. The
+limit is one.
+
+12
+00:00:55,433 --> 00:00:58,527
+Graphs show limits as the height the curve
+heads toward.
+
+13
+00:00:58,977 --> 00:01:04,630
+The graph of sine x over x has a hole at
+zero, but both sides head to height one.
+
+14
+00:01:05,767 --> 00:01:09,031
+We write lim, x arrow c, f of x equals L.
+
+15
+00:01:09,481 --> 00:01:14,750
+Tables and graphs give evidence, not
+proof. Soon we'll compute limits exactly.
+
+16
+00:01:15,900 --> 00:01:22,068
+Your turn. Use a table to estimate the
+limit as x approaches zero of e to the x
+
+17
+00:01:22,068 --> 00:01:23,473
+minus one, over x.
+
+18
+00:01:23,923 --> 00:01:25,459
+Pause the video and try it.
+
+19
+00:01:25,909 --> 00:01:32,038
+At point zero one, about one point zero
+zero five; at negative point zero one,
+
+20
+00:01:32,038 --> 00:01:35,573
+about point nine nine five. The limit is
+one.
+
+21
+00:01:36,700 --> 00:01:40,071
+In this lesson, we'll approach a point
+from just one side.
+
+22
+00:01:41,200 --> 00:01:47,284
+The left-hand limit uses x values less
+than c. The right-hand limit uses x values
+
+23
+00:01:47,284 --> 00:01:48,411
+greater than c.
+
+24
+00:01:48,861 --> 00:01:51,847
+A function can approach different heights
+from each side.
+
+25
+00:01:52,967 --> 00:01:57,669
+We write x approaches c from the minus
+side for the left, and from the plus side
+
+26
+00:01:57,669 --> 00:01:58,492
+for the right.
+
+27
+00:01:58,942 --> 00:02:04,303
+For the floor function at x equals two,
+the left limit is one and the right limit
+
+28
+00:02:04,303 --> 00:02:04,766
+is two.
+
+29
+00:02:05,900 --> 00:02:11,745
+The two-sided limit exists exactly when
+both one-sided limits exist and are equal.
+
+30
+00:02:12,195 --> 00:02:16,355
+For the floor function at two, they
+differ, so the limit does not exist.
+
+31
+00:02:17,500 --> 00:02:23,047
+Let f be x squared for x less than one,
+and two x plus one for x at least one.
+
+32
+00:02:23,497 --> 00:02:28,489
+The left limit at one is one; the right
+limit is three. No two-sided limit.
+
+33
+00:02:29,633 --> 00:02:33,793
+Find the limits of the absolute value of
+x, over x, at zero.
+
+34
+00:02:34,243 --> 00:02:39,815
+For x greater than zero, it's one. For x
+less than zero, it's negative one. So the
+
+35
+00:02:39,815 --> 00:02:44,844
+right limit is one, the left limit is
+negative one, and the limit does not
+
+36
+00:02:44,844 --> 00:02:45,251
+exist.
+
+37
+00:02:46,400 --> 00:02:52,528
+Your turn. f is three minus x for x less
+than two, and x minus one for x at least
+
+38
+00:02:52,528 --> 00:02:54,571
+two. Find the limit at two.
+
+39
+00:02:55,021 --> 00:02:56,557
+Pause the video and try it.
+
+40
+00:02:57,007 --> 00:02:59,524
+Both sides give one, so the limit is one.
+
+41
+00:03:00,666 --> 00:03:05,553
+In this lesson, we'll learn the rules that
+let us compute limits by breaking them
+
+42
+00:03:05,553 --> 00:03:06,277
+into pieces.
+
+43
+00:03:07,399 --> 00:03:12,844
+If the limits of f and g exist, the limit
+of a sum is the sum of the limits, and the
+
+44
+00:03:12,844 --> 00:03:14,205
+same for differences.
+
+45
+00:03:14,655 --> 00:03:17,001
+A constant multiple can come out front.
+
+46
+00:03:18,133 --> 00:03:23,740
+The limit of a product is the product of
+the limits. The limit of a quotient is the
+
+47
+00:03:23,740 --> 00:03:27,050
+quotient, as long as the bottom limit
+isn't zero.
+
+48
+00:03:27,500 --> 00:03:30,252
+These laws turn hard limits into easy
+ones.
+
+49
+00:03:31,399 --> 00:03:37,088
+The limit of f to the n is the limit of f,
+to the n. Roots work the same way when
+
+50
+00:03:37,088 --> 00:03:37,650
+defined.
+
+51
+00:03:38,100 --> 00:03:42,153
+So the limit as x approaches four of the
+square root of x is two.
+
+52
+00:03:43,299 --> 00:03:48,787
+Together, these mean polynomials and
+rational functions can be evaluated by
+
+53
+00:03:48,787 --> 00:03:52,665
+direct substitution, when the denominator
+isn't zero.
+
+54
+00:03:53,115 --> 00:03:59,670
+The limit as x approaches two of x cubed
+minus four x plus one, over x plus three,
+
+55
+00:03:59,670 --> 00:04:00,709
+is one fifth.
+
+56
+00:04:01,833 --> 00:04:07,109
+Suppose the limit of f is three and the
+limit of g is negative two, as x
+
+57
+00:04:07,109 --> 00:04:08,062
+approaches c.
+
+58
+00:04:08,512 --> 00:04:14,562
+Then the limit of two f minus g squared is
+six minus four, which is two. And the
+
+59
+00:04:14,562 --> 00:04:17,813
+limit of f over g is negative three
+halves.
+
+60
+00:04:18,933 --> 00:04:23,882
+Your turn. With those same limits, find
+the limit of f times g plus five.
+
+61
+00:04:24,332 --> 00:04:25,868
+Pause the video and try it.
+
+62
+00:04:26,318 --> 00:04:30,158
+Three times negative two plus five, which
+is negative one.
+
+63
+00:04:31,300 --> 00:04:36,399
+In this lesson, we'll handle limits where
+substitution gives zero over zero.
+
+64
+00:04:37,533 --> 00:04:43,336
+Zero over zero is called indeterminate. It
+doesn't mean the limit fails; it means we
+
+65
+00:04:43,336 --> 00:04:44,787
+need to do more work.
+
+66
+00:04:45,237 --> 00:04:49,994
+The goal is to find an equivalent
+expression that we can substitute into.
+
+67
+00:04:51,133 --> 00:04:56,691
+Factor and cancel. The limit as x
+approaches two of x cubed minus eight,
+
+68
+00:04:56,691 --> 00:04:58,003
+over x minus two.
+
+69
+00:04:58,453 --> 00:05:04,363
+Factor the top: x minus two times x
+squared plus two x plus four. Cancel, then
+
+70
+00:05:04,363 --> 00:05:07,925
+substitute: four plus four plus four is
+twelve.
+
+71
+00:05:09,067 --> 00:05:15,401
+Multiply by a conjugate for roots. The
+limit as x approaches nine of the square
+
+72
+00:05:15,401 --> 00:05:18,688
+root of x minus three, over x minus nine.
+
+73
+00:05:19,138 --> 00:05:25,251
+Multiply by the square root of x plus
+three. The top becomes x minus nine, which
+
+74
+00:05:25,251 --> 00:05:27,543
+cancels, leaving one over six.
+
+75
+00:05:28,667 --> 00:05:35,505
+Combine complex fractions. The limit as h
+approaches zero of one over three plus h
+
+76
+00:05:35,505 --> 00:05:37,840
+minus one third, all over h.
+
+77
+00:05:38,290 --> 00:05:44,873
+The top is negative h over three times
+three plus h. Divide by h and let h go to
+
+78
+00:05:44,873 --> 00:05:46,930
+zero: negative one ninth.
+
+79
+00:05:48,067 --> 00:05:54,039
+Two key trig limits: sine x over x
+approaches one, and one minus cosine x,
+
+80
+00:05:54,039 --> 00:05:57,752
+over x, approaches zero, as x approaches
+zero.
+
+81
+00:05:58,202 --> 00:06:04,837
+So the limit of sine five x over x is five
+times sine five x over five x, which is
+
+82
+00:06:04,837 --> 00:06:05,242
+five.
+
+83
+00:06:06,367 --> 00:06:12,276
+Your turn. Find the limit as x approaches
+zero of sine three x over sine two x.
+
+84
+00:06:12,726 --> 00:06:14,262
+Pause the video and try it.
+
+85
+00:06:14,712 --> 00:06:21,230
+Rewrite as three halves times sine three x
+over three x, times two x over sine two x.
+
+86
+00:06:21,230 --> 00:06:23,224
+The limit is three halves.
+
+87
+00:06:24,366 --> 00:06:29,105
+In this lesson, we'll trap a tricky
+function between two simpler ones to find
+
+88
+00:06:29,105 --> 00:06:29,721
+its limit.
+
+89
+00:06:30,866 --> 00:06:36,112
+If a function is stuck between two others,
+and both of those head to the same value,
+
+90
+00:06:36,112 --> 00:06:37,735
+it has nowhere else to go.
+
+91
+00:06:38,185 --> 00:06:41,663
+That's the squeeze theorem, sometimes
+called the sandwich theorem.
+
+92
+00:06:42,799 --> 00:06:49,225
+If g of x is at most f of x, which is at
+most h of x near c, and g and h both
+
+93
+00:06:49,225 --> 00:06:52,229
+approach L, then f approaches L too.
+
+94
+00:06:52,679 --> 00:06:54,812
+The bounds only need to hold near c.
+
+95
+00:06:55,933 --> 00:07:02,954
+Find the limit as x approaches zero of x
+squared sine of one over x. Sine of one
+
+96
+00:07:02,954 --> 00:07:05,149
+over x oscillates wildly.
+
+97
+00:07:05,599 --> 00:07:11,498
+But it's between negative one and one, so
+the function is between negative x squared
+
+98
+00:07:11,498 --> 00:07:15,220
+and x squared. Both go to zero, so the
+limit is zero.
+
+99
+00:07:16,366 --> 00:07:20,825
+The squeeze theorem also proves that sine
+x over x approaches one.
+
+100
+00:07:21,275 --> 00:07:27,883
+A geometric argument with the unit circle
+shows cosine x is at most sine x over x,
+
+101
+00:07:27,883 --> 00:07:32,880
+which is at most one. As x goes to zero,
+cosine x goes to one.
+
+102
+00:07:33,999 --> 00:07:39,645
+The trick is choosing bounds. Use the fact
+that sine and cosine stay between negative
+
+103
+00:07:39,645 --> 00:07:40,442
+one and one.
+
+104
+00:07:40,892 --> 00:07:47,814
+For the limit at infinity of cosine x over
+x, bound it between negative one over x
+
+105
+00:07:47,814 --> 00:07:50,684
+and one over x. The limit is zero.
+
+106
+00:07:51,833 --> 00:07:57,998
+Your turn. Find the limit as x approaches
+zero of x times cosine of one over x.
+
+107
+00:07:58,448 --> 00:07:59,984
+Pause the video and try it.
+
+108
+00:08:00,434 --> 00:08:06,374
+It's between negative absolute x and
+absolute x, both going to zero. The limit
+
+109
+00:08:06,374 --> 00:08:06,983
+is zero.
+
+110
+00:08:08,133 --> 00:08:13,210
+In this lesson, we'll define exactly what
+it means for a function to be continuous.
+
+111
+00:08:14,333 --> 00:08:20,377
+f is continuous at c if three things hold:
+f of c is defined, the limit as x
+
+112
+00:08:20,377 --> 00:08:24,274
+approaches c exists, and the limit equals
+f of c.
+
+113
+00:08:24,724 --> 00:08:28,586
+Informally, you can draw the graph there
+without lifting your pencil.
+
+114
+00:08:29,733 --> 00:08:35,584
+A removable discontinuity is a hole: the
+limit exists, but f of c is missing or
+
+115
+00:08:35,584 --> 00:08:36,325
+different.
+
+116
+00:08:36,775 --> 00:08:42,944
+x squared minus four over x minus two has
+a hole at two; defining f of two as four
+
+117
+00:08:42,944 --> 00:08:43,922
+would fix it.
+
+118
+00:08:45,066 --> 00:08:49,952
+A jump discontinuity happens when the left
+and right limits exist but differ.
+
+119
+00:08:50,402 --> 00:08:53,730
+Step functions and many piecewise
+functions have jumps.
+
+120
+00:08:54,866 --> 00:08:58,408
+An infinite discontinuity is a vertical
+asymptote.
+
+121
+00:08:58,858 --> 00:09:02,378
+One over x minus three has one at x equals
+three.
+
+122
+00:09:03,500 --> 00:09:10,044
+Find k so that f is continuous: f equals k
+x plus one for x less than two, and x
+
+123
+00:09:10,044 --> 00:09:12,908
+squared minus k for x at least two.
+
+124
+00:09:13,358 --> 00:09:19,743
+Set the two pieces equal at two: two k
+plus one equals four minus k, so three k
+
+125
+00:09:19,743 --> 00:09:22,168
+equals three and k equals one.
+
+126
+00:09:23,300 --> 00:09:29,562
+Your turn. Classify the discontinuity of x
+plus one over x squared minus one at x
+
+127
+00:09:29,562 --> 00:09:31,108
+equals negative one.
+
+128
+00:09:31,558 --> 00:09:33,094
+Pause the video and try it.
+
+129
+00:09:33,544 --> 00:09:39,717
+It simplifies to one over x minus one, so
+x equals negative one is a removable
+
+130
+00:09:39,717 --> 00:09:41,458
+discontinuity, a hole.
+
+131
+00:09:42,600 --> 00:09:47,923
+In this lesson, we'll use continuity to
+guarantee that a function hits every value
+
+132
+00:09:47,923 --> 00:09:48,637
+in between.
+
+133
+00:09:49,767 --> 00:09:56,189
+If f is continuous on a closed interval
+from a to b, and N is any number between f
+
+134
+00:09:56,189 --> 00:10:01,436
+of a and f of b, then some c in the
+interval has f of c equal to N.
+
+135
+00:10:01,886 --> 00:10:04,425
+A continuous function can't skip values.
+
+136
+00:10:05,567 --> 00:10:10,729
+Continuity is essential. A function with a
+jump can leap right over a value.
+
+137
+00:10:11,179 --> 00:10:13,313
+So always check continuity first.
+
+138
+00:10:14,433 --> 00:10:20,855
+Show that x cubed plus x minus one equals
+zero has a solution between zero and one.
+
+139
+00:10:21,305 --> 00:10:27,481
+f of zero is negative one and f of one is
+one. The polynomial is continuous, and
+
+140
+00:10:27,481 --> 00:10:32,654
+zero is between negative one and one, so
+there's a root in between.
+
+141
+00:10:33,800 --> 00:10:39,168
+Check the midpoint to narrow it. f of one
+half is one eighth plus one half minus
+
+142
+00:10:39,168 --> 00:10:41,651
+one, which is negative three eighths.
+
+143
+00:10:42,101 --> 00:10:47,383
+So the root lies between one half and one.
+Repeating this is called the bisection
+
+144
+00:10:47,383 --> 00:10:47,839
+method.
+
+145
+00:10:48,967 --> 00:10:53,745
+At six in the morning it was forty
+degrees, and at noon it was sixty degrees.
+
+146
+00:10:54,195 --> 00:10:59,640
+Temperature changes continuously, so at
+some moment in between, it was exactly
+
+147
+00:10:59,640 --> 00:11:00,617
+fifty degrees.
+
+148
+00:11:01,767 --> 00:11:07,015
+Your turn. Does cosine x equal x somewhere
+between zero and pi over two?
+
+149
+00:11:07,465 --> 00:11:09,001
+Pause the video and try it.
+
+150
+00:11:09,451 --> 00:11:17,591
+Let g equal cosine x minus x. g of zero is
+one, g of pi over two is negative pi over
+
+151
+00:11:17,591 --> 00:11:19,627
+two. By the IVT, yes.
+
+152
+00:11:20,766 --> 00:11:25,737
+In this lesson, we'll study limits that
+involve infinity, in two different ways.
+
+153
+00:11:26,866 --> 00:11:32,007
+An infinite limit means f of x grows
+without bound as x approaches c.
+
+154
+00:11:32,457 --> 00:11:37,215
+The limit as x approaches zero of one over
+x squared is infinity.
+
+155
+00:11:38,333 --> 00:11:43,901
+If either one-sided limit is infinite, x
+equals c is a vertical asymptote.
+
+156
+00:11:44,351 --> 00:11:49,918
+For one over x minus three, the right
+limit is infinity and the left limit is
+
+157
+00:11:49,918 --> 00:11:51,220
+negative infinity.
+
+158
+00:11:52,366 --> 00:11:56,206
+A limit at infinity asks what f does as x
+grows forever.
+
+159
+00:11:56,656 --> 00:12:02,629
+The limit as x approaches infinity of two
+x squared minus x, over five x squared
+
+160
+00:12:02,629 --> 00:12:04,571
+plus three, is two fifths.
+
+161
+00:12:05,699 --> 00:12:08,409
+For large x, only the highest power
+matters.
+
+162
+00:12:08,859 --> 00:12:15,034
+The square root of nine x squared plus x,
+over two x plus one, behaves like three x
+
+163
+00:12:15,034 --> 00:12:17,861
+over two x: the limit is three halves.
+
+164
+00:12:18,999 --> 00:12:24,659
+A finite limit at infinity gives a
+horizontal asymptote. Growth rates also
+
+165
+00:12:24,659 --> 00:12:25,271
+compare.
+
+166
+00:12:25,721 --> 00:12:32,155
+Logarithms grow slower than powers, and
+powers slower than exponentials. So ln x
+
+167
+00:12:32,155 --> 00:12:33,764
+over x goes to zero.
+
+168
+00:12:34,899 --> 00:12:40,556
+Your turn. Find the limit as x approaches
+negative infinity of three x plus one,
+
+169
+00:12:40,556 --> 00:12:43,667
+over the square root of x squared plus
+four.
+
+170
+00:12:44,117 --> 00:12:45,653
+Pause the video and try it.
+
+171
+00:12:46,103 --> 00:12:51,382
+For negative x, the square root of x
+squared is negative x. So it's three x
+
+172
+00:12:51,382 --> 00:12:53,634
+over negative x: negative three.
+
+173
+00:12:53,766 --> 00:12:59,599
+Next time, we start Unit 2, the
+derivative. If this helped, subscribe to
+
+174
+00:12:59,599 --> 00:13:04,633
+School Math, Explained, and turn on
+notifications so you don't miss it. See
+
+175
+00:13:04,633 --> 00:13:05,305
+you there.
+

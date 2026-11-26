@@ -1,0 +1,769 @@
+1
+00:00:00,000 --> 00:00:04,422
+In this lesson, we'll define the
+derivative, the instantaneous rate of
+
+2
+00:00:04,422 --> 00:00:04,864
+change.
+
+3
+00:00:06,000 --> 00:00:13,378
+The slope of a secant line through x and x
+plus h is f of x plus h minus f of x, over
+
+4
+00:00:13,378 --> 00:00:13,552
+h.
+
+5
+00:00:14,002 --> 00:00:18,439
+As h shrinks to zero, the secant line
+turns into the tangent line.
+
+6
+00:00:19,567 --> 00:00:26,410
+The derivative of f at a is the limit as h
+approaches zero of f of a plus h minus f
+
+7
+00:00:26,410 --> 00:00:27,481
+of a, over h.
+
+8
+00:00:27,931 --> 00:00:31,686
+It's the slope of the tangent line at a,
+if that limit exists.
+
+9
+00:00:32,833 --> 00:00:39,023
+For f of x equals x squared at a equals
+three: three plus h squared minus nine,
+
+10
+00:00:39,023 --> 00:00:41,217
+over h, which is six plus h.
+
+11
+00:00:41,667 --> 00:00:44,953
+The limit is six. So f prime of three
+equals six.
+
+12
+00:00:46,100 --> 00:00:50,772
+We write f prime of a, or d y d x, or d d
+x of f.
+
+13
+00:00:51,222 --> 00:00:53,654
+They all mean the same thing: the
+derivative.
+
+14
+00:00:54,800 --> 00:01:00,999
+If s of t is position in meters and t is
+in seconds, then s prime of t is velocity
+
+15
+00:01:00,999 --> 00:01:02,587
+in meters per second.
+
+16
+00:01:03,037 --> 00:01:06,365
+The derivative always has units of output
+per input.
+
+17
+00:01:07,500 --> 00:01:13,487
+Your turn. Use the definition to find f
+prime of one for f of x equals three x
+
+18
+00:01:13,487 --> 00:01:14,177
+plus two.
+
+19
+00:01:14,627 --> 00:01:16,163
+Pause the video and try it.
+
+20
+00:01:16,613 --> 00:01:22,799
+Three times one plus h plus two minus
+five, over h, is three. So f prime of one
+
+21
+00:01:22,799 --> 00:01:23,504
+is three.
+
+22
+00:01:24,633 --> 00:01:29,774
+In this lesson, we'll find the derivative
+at every point at once, as a new function.
+
+23
+00:01:30,900 --> 00:01:38,383
+Replace a with x: f prime of x equals the
+limit as h approaches zero of f of x plus
+
+24
+00:01:38,383 --> 00:01:40,457
+h minus f of x, over h.
+
+25
+00:01:40,907 --> 00:01:42,635
+This gives the slope at any x.
+
+26
+00:01:43,766 --> 00:01:50,488
+For f of x equals x squared: x plus h
+squared minus x squared, over h, is two x
+
+27
+00:01:50,488 --> 00:01:51,084
+plus h.
+
+28
+00:01:51,534 --> 00:01:53,774
+So f prime of x equals two x.
+
+29
+00:01:54,900 --> 00:01:59,998
+For f of x equals the square root of x,
+multiply by the conjugate.
+
+30
+00:02:00,448 --> 00:02:07,638
+x plus h minus x, over h times the square
+root of x plus h plus the square root of
+
+31
+00:02:07,638 --> 00:02:10,795
+x. The limit is one over two root x.
+
+32
+00:02:11,933 --> 00:02:18,219
+We can sketch f prime from the graph of f:
+where f rises, f prime is positive; where
+
+33
+00:02:18,219 --> 00:02:21,661
+f falls, negative; at peaks and valleys,
+zero.
+
+34
+00:02:22,111 --> 00:02:27,060
+For a parabola opening up, f prime is a
+line crossing zero at the vertex.
+
+35
+00:02:28,200 --> 00:02:33,149
+Going backward, if f prime is positive on
+an interval, f is increasing there.
+
+36
+00:02:33,599 --> 00:02:36,500
+And the steeper f is, the larger f prime
+is.
+
+37
+00:02:36,633 --> 00:02:43,801
+Your turn. Use the definition to find the
+derivative of f of x equals x squared plus
+
+38
+00:02:43,801 --> 00:02:43,948
+x.
+
+39
+00:02:44,398 --> 00:02:45,934
+Pause the video and try it.
+
+40
+00:02:46,384 --> 00:02:51,440
+Two x plus h plus one, so f prime of x
+equals two x plus one.
+
+41
+00:02:52,566 --> 00:02:56,726
+In this lesson, we'll see where a function
+fails to have a derivative.
+
+42
+00:02:57,866 --> 00:03:03,443
+f is differentiable at a if f prime of a
+exists, meaning the graph has a single,
+
+43
+00:03:03,443 --> 00:03:05,674
+non-vertical tangent line there.
+
+44
+00:03:06,124 --> 00:03:08,556
+Smooth curves are differentiable
+everywhere.
+
+45
+00:03:09,699 --> 00:03:15,151
+At a corner, the left and right slopes
+differ. The absolute value of x at zero
+
+46
+00:03:15,151 --> 00:03:19,065
+has slope negative one on the left and one
+on the right.
+
+47
+00:03:19,515 --> 00:03:21,605
+So it isn't differentiable at zero.
+
+48
+00:03:22,733 --> 00:03:28,240
+A cusp is a very sharp point, like x to
+the two thirds at zero. A vertical
+
+49
+00:03:28,240 --> 00:03:32,781
+tangent, like the cube root of x at zero,
+has infinite slope.
+
+50
+00:03:33,231 --> 00:03:35,001
+Neither has a derivative there.
+
+51
+00:03:36,133 --> 00:03:39,951
+If f isn't continuous at a, it can't be
+differentiable at a.
+
+52
+00:03:40,401 --> 00:03:43,132
+A hole or a jump rules out a tangent line.
+
+53
+00:03:44,266 --> 00:03:48,767
+Differentiability implies continuity, but
+not the other way around.
+
+54
+00:03:49,217 --> 00:03:54,785
+The absolute value function is continuous
+at zero but not differentiable there.
+
+55
+00:03:55,933 --> 00:04:02,004
+Your turn. Is f of x equals the absolute
+value of x minus two differentiable at
+
+56
+00:04:02,004 --> 00:04:02,311
+two?
+
+57
+00:04:02,761 --> 00:04:04,297
+Pause the video and try it.
+
+58
+00:04:04,747 --> 00:04:07,115
+No. It has a corner at x equals two.
+
+59
+00:04:08,233 --> 00:04:12,756
+In this lesson, we'll learn the power
+rule, the fastest shortcut in calculus.
+
+60
+00:04:13,900 --> 00:04:19,020
+The derivative of a constant is zero. A
+horizontal line has slope zero.
+
+61
+00:04:19,470 --> 00:04:21,326
+And the derivative of x is one.
+
+62
+00:04:22,466 --> 00:04:27,501
+The power rule: the derivative of x to the
+n is n x to the n minus one.
+
+63
+00:04:27,951 --> 00:04:31,471
+The derivative of x to the fifth is five x
+to the fourth.
+
+64
+00:04:32,600 --> 00:04:34,562
+It works for negative exponents.
+
+65
+00:04:35,012 --> 00:04:40,974
+The derivative of x to the negative two is
+negative two x to the negative three, or
+
+66
+00:04:40,974 --> 00:04:42,842
+negative two over x cubed.
+
+67
+00:04:43,966 --> 00:04:45,716
+And for fractional exponents.
+
+68
+00:04:46,166 --> 00:04:51,952
+The derivative of x to the one half is one
+half x to the negative one half, one over
+
+69
+00:04:51,952 --> 00:04:55,190
+two root x, matching what we found with
+limits.
+
+70
+00:04:56,333 --> 00:04:58,936
+Rewrite roots and fractions as powers
+first.
+
+71
+00:04:59,386 --> 00:05:05,148
+One over the cube root of x is x to the
+negative one third. Its derivative is
+
+72
+00:05:05,148 --> 00:05:08,815
+negative one third x to the negative four
+thirds.
+
+73
+00:05:09,933 --> 00:05:13,474
+Your turn. Find the derivative of x to the
+seven halves.
+
+74
+00:05:13,924 --> 00:05:15,460
+Pause the video and try it.
+
+75
+00:05:15,910 --> 00:05:17,980
+Seven halves x to the five halves.
+
+76
+00:05:19,100 --> 00:05:23,606
+In this lesson, we'll combine the power
+rule with two simple rules to
+
+77
+00:05:23,606 --> 00:05:25,500
+differentiate any polynomial.
+
+78
+00:05:26,633 --> 00:05:30,047
+The derivative of c times f is c times f
+prime.
+
+79
+00:05:30,497 --> 00:05:34,358
+The derivative of seven x cubed is twenty
+one x squared.
+
+80
+00:05:35,500 --> 00:05:41,345
+The derivative of f plus g is f prime plus
+g prime, and the same for differences.
+
+81
+00:05:41,795 --> 00:05:43,566
+Differentiate term by term.
+
+82
+00:05:44,700 --> 00:05:50,996
+Differentiate f of x equals four x to the
+fifth minus three x squared plus six x
+
+83
+00:05:50,996 --> 00:05:51,783
+minus two.
+
+84
+00:05:52,233 --> 00:05:55,326
+Twenty x to the fourth minus six x plus
+six.
+
+85
+00:05:56,467 --> 00:06:02,227
+Find the tangent line to y equals x cubed
+minus two x at x equals two.
+
+86
+00:06:02,677 --> 00:06:09,252
+y prime is three x squared minus two,
+which is ten at x equals two. The point is
+
+87
+00:06:09,252 --> 00:06:13,855
+two, four. So y minus four equals ten
+times x minus two.
+
+88
+00:06:15,000 --> 00:06:19,800
+Where does y equals x cubed minus three x
+have horizontal tangents?
+
+89
+00:06:20,250 --> 00:06:26,245
+Set three x squared minus three equal to
+zero: x equals one or negative one.
+
+90
+00:06:27,367 --> 00:06:31,975
+Your turn. Differentiate y equals two over
+x plus five root x.
+
+91
+00:06:32,425 --> 00:06:33,961
+Pause the video and try it.
+
+92
+00:06:34,411 --> 00:06:40,627
+Rewrite as two x to the negative one plus
+five x to the one half. The derivative is
+
+93
+00:06:40,627 --> 00:06:44,672
+negative two over x squared plus five over
+two root x.
+
+94
+00:06:45,800 --> 00:06:50,247
+In this lesson, we'll learn the
+derivatives of four of the most important
+
+95
+00:06:50,247 --> 00:06:50,856
+functions.
+
+96
+00:06:52,000 --> 00:06:54,624
+The derivative of sine x is cosine x.
+
+97
+00:06:55,074 --> 00:06:59,746
+Look at the graphs: where sine is
+steepest, at zero, cosine is at its peak.
+
+98
+00:07:00,867 --> 00:07:04,280
+The derivative of cosine x is negative
+sine x.
+
+99
+00:07:04,730 --> 00:07:09,935
+Cosine starts at its top, slope zero, then
+falls, matching negative sine.
+
+100
+00:07:11,067 --> 00:07:14,459
+The derivative of e to the x is e to the x
+itself.
+
+101
+00:07:14,909 --> 00:07:18,855
+That's what makes e special: the slope
+equals the height everywhere.
+
+102
+00:07:20,000 --> 00:07:24,715
+The derivative of ln x is one over x, for
+x greater than zero.
+
+103
+00:07:25,165 --> 00:07:27,511
+The log grows, but more and more slowly.
+
+104
+00:07:28,633 --> 00:07:34,649
+Differentiate y equals three sine x minus
+two e to the x plus four ln x.
+
+105
+00:07:35,099 --> 00:07:39,302
+Three cosine x minus two e to the x plus
+four over x.
+
+106
+00:07:40,433 --> 00:07:46,833
+Your turn. Find the slope of y equals
+cosine x plus x at x equals pi over two.
+
+107
+00:07:47,283 --> 00:07:48,819
+Pause the video and try it.
+
+108
+00:07:49,269 --> 00:07:54,368
+y prime is negative sine x plus one, which
+is zero at pi over two.
+
+109
+00:07:55,500 --> 00:07:58,828
+In this lesson, we'll differentiate
+products of functions.
+
+110
+00:07:59,967 --> 00:08:04,127
+The derivative of a product is not the
+product of the derivatives.
+
+111
+00:08:04,577 --> 00:08:09,654
+x times x is x squared, with derivative
+two x, not one times one.
+
+112
+00:08:10,800 --> 00:08:16,155
+The product rule: the derivative of f g is
+f prime g plus f g prime.
+
+113
+00:08:16,605 --> 00:08:21,784
+Derivative of the first times the second,
+plus the first times the derivative of the
+
+114
+00:08:21,784 --> 00:08:22,215
+second.
+
+115
+00:08:23,333 --> 00:08:25,467
+Differentiate x squared sine x.
+
+116
+00:08:25,917 --> 00:08:29,053
+Two x sine x plus x squared cosine x.
+
+117
+00:08:30,200 --> 00:08:35,747
+For x e to the x ln x, apply the rule
+twice, or use the three-term version.
+
+118
+00:08:36,197 --> 00:08:43,559
+Each term differentiates one factor: e to
+the x ln x plus x e to the x ln x plus e
+
+119
+00:08:43,559 --> 00:08:44,367
+to the x.
+
+120
+00:08:45,500 --> 00:08:50,151
+Find the slope of y equals x e to the x at
+x equals zero.
+
+121
+00:08:50,601 --> 00:08:55,038
+y prime is e to the x plus x e to the x,
+which is one at zero.
+
+122
+00:08:56,167 --> 00:08:59,303
+Your turn. Differentiate x cubed cosine x.
+
+123
+00:08:59,753 --> 00:09:01,289
+Pause the video and try it.
+
+124
+00:09:01,739 --> 00:09:05,365
+Three x squared cosine x minus x cubed
+sine x.
+
+125
+00:09:05,500 --> 00:09:06,500
+Next time, we'll learn the quotient rule.
+If this helped, subscribe to School Math,
+
+126
+00:09:06,500 --> 00:09:09,103
+In this lesson, we'll differentiate
+quotients.
+
+127
+00:09:10,900 --> 00:09:17,535
+The derivative of f over g is g f prime
+minus f g prime, all over g squared.
+
+128
+00:09:17,985 --> 00:09:22,187
+Some remember low d high minus high d low,
+over low squared.
+
+129
+00:09:23,333 --> 00:09:27,003
+Differentiate x squared plus one, over x
+minus three.
+
+130
+00:09:27,453 --> 00:09:34,108
+x minus three times two x, minus x squared
+plus one times one, over x minus three
+
+131
+00:09:34,108 --> 00:09:40,598
+squared. That simplifies to x squared
+minus six x minus one, over x minus three
+
+132
+00:09:40,598 --> 00:09:41,255
+squared.
+
+133
+00:09:42,400 --> 00:09:44,427
+Differentiate sine x over x.
+
+134
+00:09:44,877 --> 00:09:48,247
+x cosine x minus sine x, over x squared.
+
+135
+00:09:49,367 --> 00:09:55,961
+Sometimes simplifying first is faster. x
+cubed plus x over x is just x squared plus
+
+136
+00:09:55,961 --> 00:09:56,279
+one.
+
+137
+00:09:56,729 --> 00:10:00,099
+Its derivative is two x, no quotient rule
+needed.
+
+138
+00:10:01,233 --> 00:10:07,129
+A constant on top can be rewritten. Five
+over x squared is five x to the negative
+
+139
+00:10:07,129 --> 00:10:07,420
+two.
+
+140
+00:10:07,870 --> 00:10:10,878
+The derivative is negative ten over x
+cubed.
+
+141
+00:10:12,000 --> 00:10:14,987
+Your turn. Differentiate e to the x over
+x.
+
+142
+00:10:15,437 --> 00:10:16,973
+Pause the video and try it.
+
+143
+00:10:17,423 --> 00:10:24,164
+x e to the x minus e to the x, over x
+squared, or e to the x times x minus one,
+
+144
+00:10:24,164 --> 00:10:25,444
+over x squared.
+
+145
+00:10:26,566 --> 00:10:31,079
+In this lesson, we'll use the quotient
+rule to find the derivatives of the
+
+146
+00:10:31,079 --> 00:10:32,603
+remaining trig functions.
+
+147
+00:10:33,733 --> 00:10:39,225
+Tangent is sine over cosine. By the
+quotient rule: cosine squared plus sine
+
+148
+00:10:39,225 --> 00:10:41,349
+squared, over cosine squared.
+
+149
+00:10:41,799 --> 00:10:47,252
+That's one over cosine squared, so the
+derivative of tangent x is secant squared
+
+150
+00:10:47,252 --> 00:10:47,388
+x.
+
+151
+00:10:48,533 --> 00:10:53,823
+Secant is one over cosine. Its derivative
+is sine over cosine squared.
+
+152
+00:10:54,273 --> 00:10:56,044
+That's secant x tangent x.
+
+153
+00:10:57,166 --> 00:11:02,969
+Similarly, the derivative of cosecant x is
+negative cosecant x cotangent x.
+
+154
+00:11:03,419 --> 00:11:07,920
+And the derivative of cotangent x is
+negative cosecant squared x.
+
+155
+00:11:09,066 --> 00:11:12,735
+Notice the pattern: the co functions get a
+negative sign.
+
+156
+00:11:13,185 --> 00:11:17,345
+tan pairs with sec squared, cot with
+negative csc squared.
+
+157
+00:11:18,466 --> 00:11:24,034
+Find the tangent line to y equals tangent
+x at x equals pi over four.
+
+158
+00:11:24,484 --> 00:11:30,848
+The slope is secant squared of pi over
+four, which is two. The point is pi over
+
+159
+00:11:30,848 --> 00:11:36,004
+four, one. So y minus one equals two times
+x minus pi over four.
+
+160
+00:11:37,133 --> 00:11:39,607
+Your turn. Differentiate x secant x.
+
+161
+00:11:40,057 --> 00:11:41,593
+Pause the video and try it.
+
+162
+00:11:42,043 --> 00:11:46,203
+By the product rule: secant x plus x
+secant x tangent x.
+
+163
+00:11:47,333 --> 00:11:52,829
+Next time, we start Unit 3, the chain rule
+and implicit differentiation. If this
+
+164
+00:11:52,829 --> 00:11:57,844
+helped, subscribe to School Math,
+Explained, and turn on notifications so
+
+165
+00:11:57,844 --> 00:12:00,111
+you don't miss it. See you there.
+

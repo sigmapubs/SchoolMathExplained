@@ -1,0 +1,739 @@
+1
+00:00:00,000 --> 00:00:04,800
+In this lesson, we'll learn the mean value
+theorem, which links average and
+
+2
+00:00:04,800 --> 00:00:06,080
+instantaneous rates.
+
+3
+00:00:07,200 --> 00:00:13,512
+If f is continuous on a closed interval
+from a to b and differentiable inside it,
+
+4
+00:00:13,512 --> 00:00:19,825
+then some c between a and b has f prime of
+c equal to f of b minus f of a, over b
+
+5
+00:00:19,825 --> 00:00:20,448
+minus a.
+
+6
+00:00:20,898 --> 00:00:24,439
+Somewhere, the instantaneous rate equals
+the average rate.
+
+7
+00:00:25,567 --> 00:00:30,536
+Geometrically, some tangent line is
+parallel to the secant line joining the
+
+8
+00:00:30,536 --> 00:00:31,199
+endpoints.
+
+9
+00:00:31,649 --> 00:00:35,809
+Slide a line parallel to the secant until
+it just touches the curve.
+
+10
+00:00:36,933 --> 00:00:43,064
+For f of x equals x squared on zero to
+two, the average rate is four minus zero,
+
+11
+00:00:43,064 --> 00:00:44,827
+over two, which is two.
+
+12
+00:00:45,277 --> 00:00:50,311
+Set f prime of c equal to two: two c
+equals two, so c equals one.
+
+13
+00:00:51,433 --> 00:00:57,722
+Both hypotheses matter. The absolute value
+of x on negative one to one has average
+
+14
+00:00:57,722 --> 00:01:00,713
+rate zero, but no point has slope zero.
+
+15
+00:01:01,163 --> 00:01:03,382
+It fails differentiability at zero.
+
+16
+00:01:04,500 --> 00:01:10,074
+A driver covers one hundred twenty miles
+in one and a half hours. The average speed
+
+17
+00:01:10,074 --> 00:01:11,753
+is eighty miles per hour.
+
+18
+00:01:12,203 --> 00:01:17,323
+By the mean value theorem, at some instant
+the speedometer read exactly eighty.
+
+19
+00:01:18,467 --> 00:01:23,309
+Your turn. Find c for f of x equals x
+cubed on zero to three.
+
+20
+00:01:23,759 --> 00:01:25,295
+Pause the video and try it.
+
+21
+00:01:25,745 --> 00:01:31,050
+The average rate is twenty seven over
+three, which is nine. Three c squared
+
+22
+00:01:31,050 --> 00:01:33,596
+equals nine, so c equals root three.
+
+23
+00:01:34,733 --> 00:01:39,512
+In this lesson, we'll find the largest and
+smallest values a function takes.
+
+24
+00:01:40,633 --> 00:01:45,731
+The extreme value theorem says a
+continuous function on a closed interval
+
+25
+00:01:45,731 --> 00:01:49,572
+always has an absolute maximum and an
+absolute minimum.
+
+26
+00:01:50,022 --> 00:01:53,392
+They occur either at critical points or at
+the endpoints.
+
+27
+00:01:54,533 --> 00:01:59,738
+A critical point is where f prime equals
+zero or f prime does not exist.
+
+28
+00:02:00,188 --> 00:02:05,628
+Every local max or min of a differentiable
+function happens at a critical point.
+
+29
+00:02:06,766 --> 00:02:11,576
+The closed interval method: find the
+critical points inside the interval,
+
+30
+00:02:11,576 --> 00:02:14,937
+evaluate f there and at the endpoints, and
+compare.
+
+31
+00:02:15,387 --> 00:02:18,736
+The biggest value is the max; the smallest
+is the min.
+
+32
+00:02:19,866 --> 00:02:26,224
+Find the extremes of f of x equals x cubed
+minus three x on negative two to three.
+
+33
+00:02:26,674 --> 00:02:32,783
+f prime is three x squared minus three,
+zero at plus or minus one. f of negative
+
+34
+00:02:32,783 --> 00:02:39,122
+two is negative two, f of negative one is
+two, f of one is negative two, f of three
+
+35
+00:02:39,122 --> 00:02:42,482
+is eighteen. Max eighteen, min negative
+two.
+
+36
+00:02:43,600 --> 00:02:47,916
+Don't forget the endpoints. On this
+interval, the max is at the right
+
+37
+00:02:47,916 --> 00:02:50,042
+endpoint, not at a critical point.
+
+38
+00:02:50,492 --> 00:02:52,498
+Critical points alone can miss it.
+
+39
+00:02:53,633 --> 00:02:58,518
+Your turn. Find the critical points of f
+of x equals x to the two thirds.
+
+40
+00:02:58,968 --> 00:03:00,504
+Pause the video and try it.
+
+41
+00:03:00,954 --> 00:03:07,394
+f prime is two thirds x to the negative
+one third, which never equals zero but is
+
+42
+00:03:07,394 --> 00:03:10,256
+undefined at zero. So x equals zero.
+
+43
+00:03:11,400 --> 00:03:16,449
+In this lesson, we'll use the derivative's
+sign to find where a function rises and
+
+44
+00:03:16,449 --> 00:03:16,819
+falls.
+
+45
+00:03:17,967 --> 00:03:23,337
+If f prime is positive on an interval, f
+is increasing there. If f prime is
+
+46
+00:03:23,337 --> 00:03:25,199
+negative, f is decreasing.
+
+47
+00:03:25,649 --> 00:03:28,529
+This is a consequence of the mean value
+theorem.
+
+48
+00:03:29,667 --> 00:03:34,829
+Find critical points, then test the sign
+of f prime in each interval between them.
+
+49
+00:03:35,279 --> 00:03:36,581
+That's a sign chart.
+
+50
+00:03:37,700 --> 00:03:43,755
+The first derivative test: if f prime
+changes from positive to negative at c, f
+
+51
+00:03:43,755 --> 00:03:48,431
+has a local max at c. From negative to
+positive, a local min.
+
+52
+00:03:48,881 --> 00:03:51,163
+No sign change means no extremum.
+
+53
+00:03:52,300 --> 00:03:58,679
+f of x equals x to the fourth minus four x
+cubed. f prime is four x cubed minus
+
+54
+00:03:58,679 --> 00:04:03,201
+twelve x squared, or four x squared times
+x minus three.
+
+55
+00:04:03,651 --> 00:04:09,534
+Critical points zero and three. f prime is
+negative, negative, positive. So no
+
+56
+00:04:09,534 --> 00:04:15,342
+extremum at zero, and a local min at
+three, where f is negative twenty seven.
+
+57
+00:04:16,467 --> 00:04:21,373
+From the graph of f prime: f increases
+where f prime is above the axis.
+
+58
+00:04:21,823 --> 00:04:25,791
+f has a local max where f prime crosses
+from above to below.
+
+59
+00:04:26,933 --> 00:04:31,733
+Your turn. Where is f of x equals x e to
+the negative x increasing?
+
+60
+00:04:32,183 --> 00:04:33,719
+Pause the video and try it.
+
+61
+00:04:34,169 --> 00:04:40,569
+f prime is e to the negative x times one
+minus x, positive when x is less than one.
+
+62
+00:04:41,700 --> 00:04:46,031
+In this lesson, we'll use the second
+derivative to see how a graph bends.
+
+63
+00:04:47,167 --> 00:04:53,016
+If f double prime is positive, f is
+concave up, like a cup. If it's negative,
+
+64
+00:04:53,016 --> 00:04:55,295
+f is concave down, like a cap.
+
+65
+00:04:55,745 --> 00:04:58,369
+Concave up means the slopes are
+increasing.
+
+66
+00:04:59,500 --> 00:05:02,593
+An inflection point is where concavity
+changes.
+
+67
+00:05:03,043 --> 00:05:05,347
+The tangent line crosses the curve there.
+
+68
+00:05:06,467 --> 00:05:13,058
+For f of x equals x cubed minus six x
+squared, f double prime equals six x minus
+
+69
+00:05:13,058 --> 00:05:13,635
+twelve.
+
+70
+00:05:14,085 --> 00:05:19,690
+It's zero at two and changes sign there,
+so two, negative sixteen is an inflection
+
+71
+00:05:19,690 --> 00:05:20,101
+point.
+
+72
+00:05:21,233 --> 00:05:26,822
+The second derivative test: at a critical
+point c, if f double prime of c is
+
+73
+00:05:26,822 --> 00:05:30,940
+positive, there's a local min. If
+negative, a local max.
+
+74
+00:05:31,390 --> 00:05:37,169
+For that same f, f prime is zero at zero
+and four. f double prime of zero is
+
+75
+00:05:37,169 --> 00:05:42,035
+negative twelve, a max. f double prime of
+four is twelve, a min.
+
+76
+00:05:43,167 --> 00:05:46,665
+If f double prime of c is zero, the test
+says nothing.
+
+77
+00:05:47,115 --> 00:05:52,839
+x to the fourth and x cubed both have f
+double prime of zero equal to zero, but
+
+78
+00:05:52,839 --> 00:05:58,273
+one has a min and the other doesn't. Use
+the first derivative test instead.
+
+79
+00:05:59,400 --> 00:06:03,475
+Your turn. Where is f of x equals ln x
+concave down?
+
+80
+00:06:03,925 --> 00:06:05,461
+Pause the video and try it.
+
+81
+00:06:05,911 --> 00:06:11,824
+f double prime is negative one over x
+squared, always negative. So it's concave
+
+82
+00:06:11,824 --> 00:06:14,295
+down for all x greater than zero.
+
+83
+00:06:15,433 --> 00:06:19,607
+In this lesson, we'll put all the
+derivative tools together to sketch a
+
+84
+00:06:19,607 --> 00:06:20,724
+graph from scratch.
+
+85
+00:06:21,866 --> 00:06:27,746
+A checklist: domain, intercepts, symmetry,
+asymptotes, then intervals of increase and
+
+86
+00:06:27,746 --> 00:06:31,274
+decrease, extrema, concavity and
+inflection points.
+
+87
+00:06:31,724 --> 00:06:35,628
+Let's sketch f of x equals x over x
+squared plus one.
+
+88
+00:06:36,766 --> 00:06:42,719
+The domain is all reals. It passes through
+the origin. It's odd, so symmetric about
+
+89
+00:06:42,719 --> 00:06:43,508
+the origin.
+
+90
+00:06:43,958 --> 00:06:50,614
+As x goes to infinity, f goes to zero, so
+y equals zero is a horizontal asymptote.
+
+91
+00:06:51,733 --> 00:06:56,704
+f prime equals one minus x squared, over x
+squared plus one squared.
+
+92
+00:06:57,154 --> 00:07:02,760
+It's positive between negative one and
+one. So a local min at negative one,
+
+93
+00:07:02,760 --> 00:07:06,647
+negative one half, and a local max at one,
+one half.
+
+94
+00:07:07,766 --> 00:07:13,460
+f double prime equals two x times x
+squared minus three, over x squared plus
+
+95
+00:07:13,460 --> 00:07:14,209
+one cubed.
+
+96
+00:07:14,659 --> 00:07:20,255
+It's zero at zero and plus or minus root
+three, and concavity changes at each:
+
+97
+00:07:20,255 --> 00:07:21,976
+three inflection points.
+
+98
+00:07:23,100 --> 00:07:27,281
+Plot the key points and connect them with
+the right shape on each interval.
+
+99
+00:07:27,731 --> 00:07:33,511
+The curve rises from zero on the left,
+dips to the min, climbs through the origin
+
+100
+00:07:33,511 --> 00:07:36,008
+to the max, then fades toward zero.
+
+101
+00:07:37,133 --> 00:07:42,893
+Your turn. For f of x equals x cubed minus
+three x, list the local max and min.
+
+102
+00:07:43,343 --> 00:07:44,879
+Pause the video and try it.
+
+103
+00:07:45,329 --> 00:07:51,868
+f prime is zero at plus or minus one.
+Local max at negative one, two. Local min
+
+104
+00:07:51,868 --> 00:07:53,606
+at one, negative two.
+
+105
+00:07:54,733 --> 00:07:59,320
+In this lesson, we'll use derivatives to
+find the best possible design.
+
+106
+00:08:00,466 --> 00:08:05,980
+Identify what to maximize or minimize,
+write it as a function of one variable
+
+107
+00:08:05,980 --> 00:08:09,704
+using the constraint, then find its
+critical points.
+
+108
+00:08:10,154 --> 00:08:13,652
+Check the endpoints or use a derivative
+test to confirm.
+
+109
+00:08:14,800 --> 00:08:20,224
+A farmer has two hundred meters of fence
+for a rectangle along a river, fencing
+
+110
+00:08:20,224 --> 00:08:21,392
+only three sides.
+
+111
+00:08:21,842 --> 00:08:27,745
+With width x, the length is two hundred
+minus two x. A equals two hundred x minus
+
+112
+00:08:27,745 --> 00:08:33,940
+two x squared. A prime is zero at x equals
+fifty, giving a fifty by one hundred field
+
+113
+00:08:33,940 --> 00:08:36,199
+of five thousand square meters.
+
+114
+00:08:37,333 --> 00:08:42,963
+A closed cylinder must hold one thousand
+cubic centimeters. What shape uses the
+
+115
+00:08:42,963 --> 00:08:44,032
+least material?
+
+116
+00:08:44,482 --> 00:08:50,644
+Surface area is two pi r squared plus two
+thousand over r. Setting the derivative to
+
+117
+00:08:50,644 --> 00:08:56,294
+zero gives r cubed equals five hundred
+over pi, so r is about five point four
+
+118
+00:08:56,294 --> 00:08:59,522
+two, and the height equals twice the
+radius.
+
+119
+00:09:00,666 --> 00:09:04,869
+Find the point on y equals root x closest
+to three, zero.
+
+120
+00:09:05,319 --> 00:09:11,882
+Minimize distance squared: x minus three
+squared plus x. The derivative two x minus
+
+121
+00:09:11,882 --> 00:09:18,287
+six plus one equals zero at x equals two
+point five. The point is two point five,
+
+122
+00:09:18,287 --> 00:09:19,868
+root two point five.
+
+123
+00:09:21,000 --> 00:09:23,496
+Always confirm it's really a max or min.
+
+124
+00:09:23,946 --> 00:09:29,357
+In the fence problem, A double prime is
+negative four, so x equals fifty is a
+
+125
+00:09:29,357 --> 00:09:29,919
+maximum.
+
+126
+00:09:31,066 --> 00:09:35,976
+Your turn. Two positive numbers add to
+twenty. What's the biggest possible
+
+127
+00:09:35,976 --> 00:09:36,506
+product?
+
+128
+00:09:36,956 --> 00:09:38,492
+Pause the video and try it.
+
+129
+00:09:38,942 --> 00:09:45,591
+P equals x times twenty minus x. P prime
+is zero at x equals ten, so the max
+
+130
+00:09:45,591 --> 00:09:47,604
+product is one hundred.
+
+131
+00:09:47,733 --> 00:09:48,733
+Next time, we'll analyze implicit curves.
+If this helped, subscribe to School Math,
+
+132
+00:09:48,733 --> 00:09:53,873
+In this lesson, we'll analyze curves
+defined implicitly, finding where they
+
+133
+00:09:53,873 --> 00:09:56,477
+have horizontal and vertical tangents.
+
+134
+00:09:57,600 --> 00:10:04,133
+A horizontal tangent occurs where d y d x
+is zero: the numerator of the implicit
+
+135
+00:10:04,133 --> 00:10:05,685
+derivative is zero.
+
+136
+00:10:06,135 --> 00:10:08,780
+Then check that the point is actually on
+the curve.
+
+137
+00:10:09,900 --> 00:10:16,077
+A vertical tangent occurs where the
+denominator of d y d x is zero, with a
+
+138
+00:10:16,077 --> 00:10:17,580
+nonzero numerator.
+
+139
+00:10:18,030 --> 00:10:19,779
+The slope is undefined there.
+
+140
+00:10:20,900 --> 00:10:27,232
+For x squared plus x y plus y squared
+equals three, implicit differentiation
+
+141
+00:10:27,232 --> 00:10:32,398
+gives y prime equals negative two x plus
+y, over x plus two y.
+
+142
+00:10:32,848 --> 00:10:39,439
+Horizontal tangents need y equals negative
+two x. Substituting gives three x squared
+
+143
+00:10:39,439 --> 00:10:44,539
+equals three: the points one, negative two
+and negative one, two.
+
+144
+00:10:45,666 --> 00:10:50,608
+To find the second derivative,
+differentiate y prime implicitly and
+
+145
+00:10:50,608 --> 00:10:52,600
+substitute y prime back in.
+
+146
+00:10:53,050 --> 00:10:58,981
+For x squared plus y squared equals twenty
+five, y double prime equals negative
+
+147
+00:10:58,981 --> 00:11:00,858
+twenty five over y cubed.
+
+148
+00:11:02,000 --> 00:11:06,416
+The sign of y double prime gives concavity
+on each part of the curve.
+
+149
+00:11:06,866 --> 00:11:12,620
+On the top half of the circle, y is
+positive, so y double prime is negative:
+
+150
+00:11:12,620 --> 00:11:14,588
+concave down, as expected.
+
+151
+00:11:14,733 --> 00:11:21,000
+Your turn. Where does x squared plus y
+squared equals twenty five have vertical
+
+152
+00:11:21,000 --> 00:11:21,600
+tangents?
+
+153
+00:11:22,050 --> 00:11:23,586
+Pause the video and try it.
+
+154
+00:11:24,036 --> 00:11:30,623
+y prime equals negative x over y. The
+denominator is zero when y is zero: at
+
+155
+00:11:30,623 --> 00:11:33,657
+five, zero and negative five, zero.
+
+156
+00:11:34,800 --> 00:11:39,918
+Next time, we start Unit 6, integration
+and accumulation. If this helped,
+
+157
+00:11:39,918 --> 00:11:45,527
+subscribe to School Math, Explained, and
+turn on notifications so you don't miss
+
+158
+00:11:45,527 --> 00:11:46,789
+it. See you there.
+

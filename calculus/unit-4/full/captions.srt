@@ -1,0 +1,555 @@
+1
+00:00:00,000 --> 00:00:04,053
+In this lesson, we'll interpret
+derivatives as real-world rates.
+
+2
+00:00:05,200 --> 00:00:11,441
+If V of t is the volume of water in a
+tank, V prime of t is how fast the volume
+
+3
+00:00:11,441 --> 00:00:13,179
+is changing at time t.
+
+4
+00:00:13,629 --> 00:00:19,444
+V prime of five equals negative two means:
+at five minutes, the water is draining at
+
+5
+00:00:19,444 --> 00:00:20,967
+two liters per minute.
+
+6
+00:00:22,100 --> 00:00:25,684
+Units of a derivative are output units per
+input unit.
+
+7
+00:00:26,134 --> 00:00:32,043
+If C of x is cost in dollars for x items,
+C prime of x is in dollars per item.
+
+8
+00:00:33,167 --> 00:00:38,104
+Average rate uses two points;
+instantaneous rate is the derivative at
+
+9
+00:00:38,104 --> 00:00:38,820
+one point.
+
+10
+00:00:39,270 --> 00:00:45,073
+For P of t equals t squared plus three t,
+the average rate from one to three is
+
+11
+00:00:45,073 --> 00:00:47,718
+seven, but P prime of three is nine.
+
+12
+00:00:48,867 --> 00:00:53,133
+From a table, estimate a derivative with a
+nearby difference quotient.
+
+13
+00:00:53,583 --> 00:00:59,278
+If temperature is sixty at t equals two
+hours and sixty eight at t equals four,
+
+14
+00:00:59,278 --> 00:01:03,098
+then T prime of three is about four
+degrees per hour.
+
+15
+00:01:04,233 --> 00:01:10,161
+In economics, C prime of x is the marginal
+cost, the approximate cost of one more
+
+16
+00:01:10,161 --> 00:01:10,527
+item.
+
+17
+00:01:10,977 --> 00:01:17,156
+If C of x equals five hundred plus ten x
+minus point zero one x squared, then C
+
+18
+00:01:17,156 --> 00:01:20,833
+prime of one hundred is eight dollars per
+item.
+
+19
+00:01:21,967 --> 00:01:28,457
+Your turn. h of t is a plant's height in
+centimeters, t in days. Interpret h prime
+
+20
+00:01:28,457 --> 00:01:30,436
+of ten equals point five.
+
+21
+00:01:30,886 --> 00:01:32,422
+Pause the video and try it.
+
+22
+00:01:32,872 --> 00:01:36,627
+On day ten, the plant is growing at half a
+centimeter per day.
+
+23
+00:01:37,766 --> 00:01:41,755
+In this lesson, we'll analyze
+straight-line motion with derivatives.
+
+24
+00:01:42,899 --> 00:01:49,776
+If s of t is position, then v of t equals
+s prime of t, and a of t equals v prime of
+
+25
+00:01:49,776 --> 00:01:49,939
+t.
+
+26
+00:01:50,389 --> 00:01:55,573
+Positive velocity means moving right or
+up; negative means left or down.
+
+27
+00:01:56,699 --> 00:01:59,387
+Speed is the absolute value of velocity.
+
+28
+00:01:59,837 --> 00:02:04,765
+A velocity of negative five and a velocity
+of five have the same speed.
+
+29
+00:02:05,899 --> 00:02:11,237
+An object speeds up when velocity and
+acceleration have the same sign, and slows
+
+30
+00:02:11,237 --> 00:02:12,705
+down when they differ.
+
+31
+00:02:13,155 --> 00:02:15,544
+It's like pressing the gas versus the
+brake.
+
+32
+00:02:16,666 --> 00:02:23,427
+s of t equals t cubed minus six t squared
+plus nine t. Then v equals three t squared
+
+33
+00:02:23,427 --> 00:02:29,786
+minus twelve t plus nine, which is three
+times t minus one times t minus three.
+
+34
+00:02:30,236 --> 00:02:36,970
+The particle stops at t equals one and t
+equals three. a equals six t minus twelve,
+
+35
+00:02:36,970 --> 00:02:41,351
+so at t equals two, v is negative three
+and a is zero.
+
+36
+00:02:42,499 --> 00:02:46,830
+For total distance from zero to four, add
+the distance of each leg.
+
+37
+00:02:47,280 --> 00:02:54,007
+s of zero is zero, s of one is four, s of
+three is zero, s of four is four. Distance
+
+38
+00:02:54,007 --> 00:02:57,371
+is four plus four plus four, twelve units.
+
+39
+00:02:58,499 --> 00:03:04,457
+Your turn. For s of t equals t squared
+minus four t, is the particle speeding up
+
+40
+00:03:04,457 --> 00:03:06,841
+or slowing down at t equals one?
+
+41
+00:03:07,291 --> 00:03:08,827
+Pause the video and try it.
+
+42
+00:03:09,277 --> 00:03:14,738
+v of one is negative two, and a is two.
+Opposite signs, so it's slowing down.
+
+43
+00:03:15,866 --> 00:03:20,635
+In this lesson, we'll find how fast one
+quantity changes when it's linked to
+
+44
+00:03:20,635 --> 00:03:22,266
+another changing quantity.
+
+45
+00:03:23,399 --> 00:03:28,900
+Draw a picture, write an equation relating
+the quantities, differentiate both sides
+
+46
+00:03:28,900 --> 00:03:31,485
+with respect to t, then plug in values.
+
+47
+00:03:31,935 --> 00:03:34,964
+Substitute numbers only after
+differentiating.
+
+48
+00:03:36,099 --> 00:03:42,235
+A ripple's radius grows at two centimeters
+per second. How fast is the area growing
+
+49
+00:03:42,235 --> 00:03:43,566
+when r equals ten?
+
+50
+00:03:44,016 --> 00:03:50,957
+A equals pi r squared, so d A d t equals
+two pi r d r d t, which is two pi times
+
+51
+00:03:50,957 --> 00:03:55,643
+ten times two: forty pi square centimeters
+per second.
+
+52
+00:03:56,766 --> 00:04:02,359
+A ten foot ladder slides down a wall. The
+bottom moves out at one foot per second.
+
+53
+00:04:02,359 --> 00:04:06,793
+How fast does the top slide down when the
+bottom is six feet out?
+
+54
+00:04:07,243 --> 00:04:12,529
+x squared plus y squared equals one
+hundred, so two x x prime plus two y y
+
+55
+00:04:12,529 --> 00:04:18,315
+prime equals zero. With x equals six, y
+equals eight: twelve plus sixteen y prime
+
+56
+00:04:18,315 --> 00:04:23,029
+equals zero, so y prime is negative three
+fourths foot per second.
+
+57
+00:04:24,166 --> 00:04:29,804
+Water fills a cone, point down, with
+height twelve and radius six, at two cubic
+
+58
+00:04:29,804 --> 00:04:34,086
+feet per minute. How fast is the level
+rising at depth four?
+
+59
+00:04:34,536 --> 00:04:40,852
+r equals h over two, so V equals pi h
+cubed over twelve. Then d V d t equals pi
+
+60
+00:04:40,852 --> 00:04:47,168
+h squared over four times d h d t. Two
+equals four pi times d h d t, so d h d t
+
+61
+00:04:47,168 --> 00:04:51,965
+equals one over two pi, about point one
+six feet per minute.
+
+62
+00:04:53,099 --> 00:04:58,679
+One car drives north at sixty miles per
+hour, another east at eighty, from the
+
+63
+00:04:58,679 --> 00:05:02,827
+same point. How fast is the distance
+between them growing?
+
+64
+00:05:03,277 --> 00:05:08,839
+At any time, the distance is one hundred
+t, so it grows at one hundred miles per
+
+65
+00:05:08,839 --> 00:05:09,187
+hour.
+
+66
+00:05:10,333 --> 00:05:15,785
+Your turn. A square's side grows at three
+centimeters per second. How fast is its
+
+67
+00:05:15,785 --> 00:05:18,141
+area growing when the side is five?
+
+68
+00:05:18,591 --> 00:05:20,127
+Pause the video and try it.
+
+69
+00:05:20,577 --> 00:05:25,801
+A equals s squared, so A prime equals two
+s s prime, which is thirty square
+
+70
+00:05:25,801 --> 00:05:27,403
+centimeters per second.
+
+71
+00:05:28,533 --> 00:05:33,994
+In this lesson, we'll use tangent lines to
+estimate values that are hard to compute.
+
+72
+00:05:35,133 --> 00:05:41,673
+Near a point a, a curve looks like its
+tangent line. L of x equals f of a plus f
+
+73
+00:05:41,673 --> 00:05:43,880
+prime of a times x minus a.
+
+74
+00:05:44,330 --> 00:05:46,314
+That's the linearization of f at a.
+
+75
+00:05:47,433 --> 00:05:53,577
+Estimate the square root of four point
+one. Use f of x equals root x at a equals
+
+76
+00:05:53,577 --> 00:05:53,961
+four.
+
+77
+00:05:54,411 --> 00:06:00,548
+f of four is two, f prime of four is one
+fourth. L of four point one is two plus
+
+78
+00:06:00,548 --> 00:06:05,227
+one fourth times point one, which is two
+point zero two five.
+
+79
+00:06:06,366 --> 00:06:12,190
+If the curve is concave down, the tangent
+line lies above it, so the estimate is too
+
+80
+00:06:12,190 --> 00:06:12,468
+big.
+
+81
+00:06:12,918 --> 00:06:18,235
+The square root is concave down, so two
+point zero two five is a slight
+
+82
+00:06:18,235 --> 00:06:23,328
+overestimate. The true value is about two
+point zero two four eight.
+
+83
+00:06:24,466 --> 00:06:28,520
+In differential form: d y equals f prime
+of x d x.
+
+84
+00:06:28,970 --> 00:06:33,322
+It estimates the change in y caused by a
+small change d x.
+
+85
+00:06:34,466 --> 00:06:39,677
+A sphere's radius is measured as ten
+centimeters, with possible error point
+
+86
+00:06:39,677 --> 00:06:42,040
+one. Estimate the error in volume.
+
+87
+00:06:42,490 --> 00:06:48,585
+V equals four thirds pi r cubed, so d V
+equals four pi r squared d r: four pi
+
+88
+00:06:48,585 --> 00:06:55,076
+times one hundred times point one, about
+one hundred twenty six cubic centimeters.
+
+89
+00:06:56,200 --> 00:07:00,872
+Your turn. Use linearization to estimate
+the cube root of eight point three.
+
+90
+00:07:01,322 --> 00:07:02,858
+Pause the video and try it.
+
+91
+00:07:03,308 --> 00:07:09,703
+At a equals eight, f is two and f prime is
+one twelfth. So two plus point three over
+
+92
+00:07:09,703 --> 00:07:12,140
+twelve, two point zero two five.
+
+93
+00:07:13,266 --> 00:07:18,538
+In this lesson, we'll learn L'Hôpital's
+rule, a powerful way to evaluate tricky
+
+94
+00:07:18,538 --> 00:07:19,005
+limits.
+
+95
+00:07:20,133 --> 00:07:25,317
+Zero over zero and infinity over infinity
+are indeterminate forms.
+
+96
+00:07:25,767 --> 00:07:29,841
+The answer depends on how fast the top and
+bottom go to their limits.
+
+97
+00:07:30,966 --> 00:07:37,806
+L'Hôpital's rule: if f over g gives zero
+over zero or infinity over infinity, then
+
+98
+00:07:37,806 --> 00:07:43,062
+the limit of f over g equals the limit of
+f prime over g prime.
+
+99
+00:07:43,512 --> 00:07:47,651
+Differentiate top and bottom separately.
+Not the quotient rule!
+
+100
+00:07:48,799 --> 00:07:55,652
+The limit as x approaches zero of e to the
+x minus one minus x, over x squared, is
+
+101
+00:07:55,652 --> 00:07:56,906
+zero over zero.
+
+102
+00:07:57,356 --> 00:08:03,668
+Apply the rule: e to the x minus one, over
+two x. Still zero over zero, so apply
+
+103
+00:08:03,668 --> 00:08:07,297
+again: e to the x over two, which is one
+half.
+
+104
+00:08:08,433 --> 00:08:14,607
+The limit as x approaches infinity of x
+squared over e to the x is infinity over
+
+105
+00:08:14,607 --> 00:08:15,302
+infinity.
+
+106
+00:08:15,752 --> 00:08:22,206
+Two x over e to the x, then two over e to
+the x, which goes to zero. Exponentials
+
+107
+00:08:22,206 --> 00:08:23,560
+beat polynomials.
+
+108
+00:08:24,699 --> 00:08:29,905
+Other forms, like zero times infinity,
+must be rewritten as a fraction first.
+
+109
+00:08:30,355 --> 00:08:37,300
+x ln x as x approaches zero from the right
+becomes ln x over one over x. L'Hôpital
+
+110
+00:08:37,300 --> 00:08:44,075
+gives one over x over negative one over x
+squared, which is negative x, going to
+
+111
+00:08:44,075 --> 00:08:44,499
+zero.
+
+112
+00:08:45,633 --> 00:08:50,859
+Your turn. Find the limit as x approaches
+zero of sine three x over x.
+
+113
+00:08:51,309 --> 00:08:52,845
+Pause the video and try it.
+
+114
+00:08:53,295 --> 00:08:59,060
+Zero over zero. Differentiate: three
+cosine three x over one, which approaches
+
+115
+00:08:59,060 --> 00:08:59,503
+three.
+
+116
+00:09:00,633 --> 00:09:05,670
+Next time, we start Unit 5, analyzing
+functions with derivatives. If this
+
+117
+00:09:05,670 --> 00:09:10,707
+helped, subscribe to School Math,
+Explained, and turn on notifications so
+
+118
+00:09:10,707 --> 00:09:12,985
+you don't miss it. See you there.
+

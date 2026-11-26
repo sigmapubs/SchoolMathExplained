@@ -1,0 +1,511 @@
+1
+00:00:00,000 --> 00:00:05,082
+In this lesson, we'll learn the chain
+rule, for differentiating functions inside
+
+2
+00:00:05,082 --> 00:00:05,717
+functions.
+
+3
+00:00:06,867 --> 00:00:13,008
+A composite function has an outside and an
+inside. In sine of x squared, sine is
+
+4
+00:00:13,008 --> 00:00:15,464
+outside and x squared is inside.
+
+5
+00:00:15,914 --> 00:00:17,834
+Rates multiply through the chain.
+
+6
+00:00:18,967 --> 00:00:25,939
+The chain rule: the derivative of f of g
+of x is f prime of g of x, times g prime
+
+7
+00:00:25,939 --> 00:00:26,369
+of x.
+
+8
+00:00:26,819 --> 00:00:32,279
+Differentiate the outside, keep the
+inside, then multiply by the derivative of
+
+9
+00:00:32,279 --> 00:00:33,049
+the inside.
+
+10
+00:00:34,167 --> 00:00:37,495
+Differentiate three x squared plus one, to
+the fifth.
+
+11
+00:00:37,945 --> 00:00:44,025
+Five times three x squared plus one to the
+fourth, times six x: thirty x times three
+
+12
+00:00:44,025 --> 00:00:46,414
+x squared plus one to the fourth.
+
+13
+00:00:47,533 --> 00:00:52,611
+The derivative of sine of x squared is
+cosine of x squared times two x.
+
+14
+00:00:53,061 --> 00:00:59,421
+The derivative of e to the three x is
+three e to the three x. The derivative of
+
+15
+00:00:59,421 --> 00:01:04,090
+ln of x squared plus one is two x over x
+squared plus one.
+
+16
+00:01:05,233 --> 00:01:08,839
+For several layers, multiply a derivative
+for each layer.
+
+17
+00:01:09,289 --> 00:01:16,057
+The derivative of sine cubed of four x is
+three sine squared of four x, times cosine
+
+18
+00:01:16,057 --> 00:01:17,587
+four x, times four.
+
+19
+00:01:18,733 --> 00:01:22,659
+Your turn. Differentiate the square root
+of one plus x squared.
+
+20
+00:01:23,109 --> 00:01:24,645
+Pause the video and try it.
+
+21
+00:01:25,095 --> 00:01:31,239
+One half times one plus x squared to the
+negative one half, times two x: x over the
+
+22
+00:01:31,239 --> 00:01:33,756
+square root of one plus x squared.
+
+23
+00:01:34,900 --> 00:01:40,117
+In this lesson, we'll find slopes on
+curves where y isn't written as a function
+
+24
+00:01:40,117 --> 00:01:40,447
+of x.
+
+25
+00:01:41,567 --> 00:01:46,729
+Some curves, like a circle, can't be
+written as a single y equals f of x.
+
+26
+00:01:47,179 --> 00:01:49,142
+But they still have tangent lines.
+
+27
+00:01:50,267 --> 00:01:55,621
+Differentiate both sides with respect to
+x, treating y as a function of x.
+
+28
+00:01:56,071 --> 00:02:02,720
+Whenever you differentiate a y term,
+multiply by d y d x, by the chain rule.
+
+29
+00:02:02,720 --> 00:02:04,733
+Then solve for d y d x.
+
+30
+00:02:05,867 --> 00:02:12,693
+For x squared plus y squared equals twenty
+five: two x plus two y d y d x equals
+
+31
+00:02:12,693 --> 00:02:13,120
+zero.
+
+32
+00:02:13,570 --> 00:02:20,086
+So d y d x equals negative x over y. At
+three, four, the slope is negative three
+
+33
+00:02:20,086 --> 00:02:20,738
+fourths.
+
+34
+00:02:21,867 --> 00:02:28,594
+For x cubed plus y cubed equals six x y:
+three x squared plus three y squared y
+
+35
+00:02:28,594 --> 00:02:31,829
+prime equals six y plus six x y prime.
+
+36
+00:02:32,279 --> 00:02:38,913
+Collect y prime terms: y prime equals two
+y minus x squared, over y squared minus
+
+37
+00:02:38,913 --> 00:02:39,405
+two x.
+
+38
+00:02:40,533 --> 00:02:43,435
+Find the tangent line to that curve at
+three, three.
+
+39
+00:02:43,885 --> 00:02:50,201
+y prime equals six minus nine, over nine
+minus six, which is negative one. So y
+
+40
+00:02:50,201 --> 00:02:54,359
+minus three equals negative one times x
+minus three.
+
+41
+00:02:55,500 --> 00:02:59,319
+Your turn. Find d y d x for x y equals
+eight.
+
+42
+00:02:59,769 --> 00:03:01,305
+Pause the video and try it.
+
+43
+00:03:01,755 --> 00:03:07,643
+y plus x y prime equals zero, so y prime
+equals negative y over x.
+
+44
+00:03:08,766 --> 00:03:13,878
+In this lesson, we'll find the derivative
+of an inverse function, even without its
+
+45
+00:03:13,878 --> 00:03:14,377
+formula.
+
+46
+00:03:15,499 --> 00:03:21,725
+The graph of an inverse is a reflection
+across y equals x. Reflection swaps rise
+
+47
+00:03:21,725 --> 00:03:22,347
+and run.
+
+48
+00:03:22,797 --> 00:03:25,549
+So slopes at matching points are
+reciprocals.
+
+49
+00:03:26,699 --> 00:03:33,441
+If g is the inverse of f, then g prime of
+x equals one over f prime of g of x.
+
+50
+00:03:33,891 --> 00:03:38,072
+Find the matching input, then take the
+reciprocal of f's slope there.
+
+51
+00:03:39,199 --> 00:03:45,343
+Let f of x equal x cubed plus x, and g its
+inverse. Find g prime of two.
+
+52
+00:03:45,793 --> 00:03:52,309
+f of one equals two, so g of two is one. f
+prime of one is three plus one, which is
+
+53
+00:03:52,309 --> 00:03:55,607
+four. So g prime of two equals one fourth.
+
+54
+00:03:56,733 --> 00:04:03,443
+This explains the derivative of ln x.
+Since ln is the inverse of e to the x, its
+
+55
+00:04:03,443 --> 00:04:06,546
+derivative is one over e to the ln x.
+
+56
+00:04:06,996 --> 00:04:08,191
+That's one over x.
+
+57
+00:04:09,333 --> 00:04:14,410
+For other bases: the derivative of a to
+the x is a to the x times ln a.
+
+58
+00:04:14,860 --> 00:04:19,212
+And the derivative of log base a of x is
+one over x ln a.
+
+59
+00:04:20,333 --> 00:04:26,408
+Your turn. If f of two is five and f prime
+of two is three, find the derivative of f
+
+60
+00:04:26,408 --> 00:04:27,565
+inverse at five.
+
+61
+00:04:28,015 --> 00:04:29,551
+Pause the video and try it.
+
+62
+00:04:30,001 --> 00:04:32,817
+One over f prime of two, which is one
+third.
+
+63
+00:04:33,966 --> 00:04:38,710
+In this lesson, we'll find the derivatives
+of arcsine, arctangent and their
+
+64
+00:04:38,710 --> 00:04:39,342
+relatives.
+
+65
+00:04:40,466 --> 00:04:47,893
+Let y equal arcsine x, so sine y equals x.
+Differentiate: cosine y times y prime
+
+66
+00:04:47,893 --> 00:04:48,914
+equals one.
+
+67
+00:04:49,364 --> 00:04:55,690
+Cosine y is the square root of one minus x
+squared, so the derivative of arcsine x is
+
+68
+00:04:55,690 --> 00:04:59,263
+one over the square root of one minus x
+squared.
+
+69
+00:05:00,399 --> 00:05:04,837
+The derivative of arctangent x is one over
+one plus x squared.
+
+70
+00:05:05,287 --> 00:05:11,450
+From tangent y equals x: secant squared y
+times y prime equals one, and secant
+
+71
+00:05:11,450 --> 00:05:13,820
+squared is one plus x squared.
+
+72
+00:05:14,966 --> 00:05:20,868
+The derivative of arccosine x is negative
+one over the square root of one minus x
+
+73
+00:05:20,868 --> 00:05:21,451
+squared.
+
+74
+00:05:21,901 --> 00:05:27,424
+And arcsecant has derivative one over
+absolute x times the square root of x
+
+75
+00:05:27,424 --> 00:05:28,749
+squared minus one.
+
+76
+00:05:29,899 --> 00:05:35,043
+Combine with the chain rule. The
+derivative of arctangent of three x is
+
+77
+00:05:35,043 --> 00:05:37,579
+three over one plus nine x squared.
+
+78
+00:05:38,029 --> 00:05:43,761
+The derivative of arcsine of x squared is
+two x over the square root of one minus x
+
+79
+00:05:43,761 --> 00:05:44,728
+to the fourth.
+
+80
+00:05:45,866 --> 00:05:51,644
+A camera tracks a rocket. The angle is
+theta equals arctangent of h over five
+
+81
+00:05:51,644 --> 00:05:52,245
+hundred.
+
+82
+00:05:52,695 --> 00:05:58,619
+Its rate of change is one over five
+hundred, times one over one plus h over
+
+83
+00:05:58,619 --> 00:06:01,463
+five hundred squared, times d h d t.
+
+84
+00:06:02,599 --> 00:06:05,714
+Your turn. Differentiate arcsine of x over
+two.
+
+85
+00:06:06,164 --> 00:06:07,700
+Pause the video and try it.
+
+86
+00:06:08,150 --> 00:06:13,946
+One half times one over the square root of
+one minus x squared over four, which is
+
+87
+00:06:13,946 --> 00:06:17,409
+one over the square root of four minus x
+squared.
+
+88
+00:06:18,533 --> 00:06:21,818
+In this lesson, we'll take derivatives of
+derivatives.
+
+89
+00:06:22,966 --> 00:06:26,956
+The second derivative is the derivative of
+the first derivative.
+
+90
+00:06:27,406 --> 00:06:33,507
+For f of x equals x to the fourth, f prime
+is four x cubed, and f double prime is
+
+91
+00:06:33,507 --> 00:06:34,787
+twelve x squared.
+
+92
+00:06:35,933 --> 00:06:41,964
+We write f double prime, or d squared y
+over d x squared. Then come the third and
+
+93
+00:06:41,964 --> 00:06:43,378
+higher derivatives.
+
+94
+00:06:43,828 --> 00:06:49,032
+The fourth derivative of x to the fourth
+is twenty four, and every one after that
+
+95
+00:06:49,032 --> 00:06:49,546
+is zero.
+
+96
+00:06:50,666 --> 00:06:56,490
+If s is position, the first derivative is
+velocity, and the second is acceleration.
+
+97
+00:06:56,940 --> 00:07:03,462
+For s equals t cubed minus six t squared,
+v equals three t squared minus twelve t,
+
+98
+00:07:03,462 --> 00:07:06,007
+and a equals six t minus twelve.
+
+99
+00:07:07,133 --> 00:07:13,173
+Some functions repeat. The derivatives of
+sine x cycle: cosine, negative sine,
+
+100
+00:07:13,173 --> 00:07:14,877
+negative cosine, sine.
+
+101
+00:07:15,327 --> 00:07:21,177
+So the forty second derivative of sine x
+is the same as the second: negative sine
+
+102
+00:07:21,177 --> 00:07:21,322
+x.
+
+103
+00:07:22,466 --> 00:07:28,141
+For x squared plus y squared equals one, y
+prime is negative x over y.
+
+104
+00:07:28,591 --> 00:07:34,452
+Differentiate again with the quotient rule
+and substitute: y double prime equals
+
+105
+00:07:34,452 --> 00:07:36,356
+negative one over y cubed.
+
+106
+00:07:37,500 --> 00:07:41,126
+Your turn. Find the second derivative of e
+to the two x.
+
+107
+00:07:41,576 --> 00:07:43,112
+Pause the video and try it.
+
+108
+00:07:43,562 --> 00:07:44,906
+Four e to the two x.
+
+109
+00:07:46,033 --> 00:07:51,639
+Next time, we start Unit 4, derivatives in
+context. If this helped, subscribe to
+
+110
+00:07:51,639 --> 00:07:56,895
+School Math, Explained, and turn on
+notifications so you don't miss it. See
+
+111
+00:07:56,895 --> 00:07:57,596
+you there.
+

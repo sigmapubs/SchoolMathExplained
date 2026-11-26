@@ -1,0 +1,395 @@
+1
+00:00:00,000 --> 00:00:05,056
+In this lesson, we'll learn what matrices
+are and how to add and multiply them.
+
+2
+00:00:06,200 --> 00:00:11,555
+A matrix is a rectangular array of
+numbers. Its size is rows by columns.
+
+3
+00:00:12,005 --> 00:00:15,439
+A two by three matrix has two rows and
+three columns.
+
+4
+00:00:16,567 --> 00:00:23,367
+Add matrices of the same size entry by
+entry. Multiply by a scalar by multiplying
+
+5
+00:00:23,367 --> 00:00:24,375
+every entry.
+
+6
+00:00:24,825 --> 00:00:29,262
+Two times the matrix one, two, three, four
+is two, four, six, eight.
+
+7
+00:00:30,400 --> 00:00:35,925
+To multiply A times B, each entry is a row
+of A dotted with a column of B.
+
+8
+00:00:36,375 --> 00:00:41,758
+One, two; three, four times five, six;
+seven, eight gives nineteen, twenty two;
+
+9
+00:00:41,758 --> 00:00:43,053
+forty three, fifty.
+
+10
+00:00:44,200 --> 00:00:50,792
+A times B needs A's columns to match B's
+rows. And usually A B does not equal B A.
+
+11
+00:00:51,242 --> 00:00:57,537
+The identity matrix, ones on the diagonal,
+acts like the number one: A times I equals
+
+12
+00:00:57,537 --> 00:00:57,685
+A.
+
+13
+00:00:58,833 --> 00:01:04,437
+A store sells shirts at twenty dollars and
+hats at fifteen. Monday it sold three
+
+14
+00:01:04,437 --> 00:01:08,220
+shirts and two hats; Tuesday, one shirt
+and four hats.
+
+15
+00:01:08,670 --> 00:01:13,768
+The sales matrix times the price vector
+gives ninety dollars Monday and eighty
+
+16
+00:01:13,768 --> 00:01:14,814
+dollars Tuesday.
+
+17
+00:01:15,933 --> 00:01:19,816
+Your turn. Multiply two, zero; one, three
+times one; four.
+
+18
+00:01:20,266 --> 00:01:21,802
+Pause the video and try it.
+
+19
+00:01:22,252 --> 00:01:28,524
+Two times one plus zero times four is two.
+One times one plus three times four is
+
+20
+00:01:28,524 --> 00:01:30,615
+thirteen. So two; thirteen.
+
+21
+00:01:31,733 --> 00:01:36,725
+In this lesson, we'll use inverse matrices
+to solve systems of equations.
+
+22
+00:01:37,866 --> 00:01:43,200
+The inverse of A, written A inverse,
+satisfies A times A inverse equals the
+
+23
+00:01:43,200 --> 00:01:43,840
+identity.
+
+24
+00:01:44,290 --> 00:01:46,871
+It plays the role of one over a for
+numbers.
+
+25
+00:01:48,000 --> 00:01:55,108
+For a two by two matrix a, b; c, d, the
+inverse is one over a d minus b c, times
+
+26
+00:01:55,108 --> 00:01:57,685
+d, negative b; negative c, a.
+
+27
+00:01:58,135 --> 00:02:02,807
+Swap the diagonal, negate the off
+diagonal, divide by the determinant.
+
+28
+00:02:03,933 --> 00:02:10,452
+The system two x plus y equals five, and
+three x plus two y equals eight, becomes A
+
+29
+00:02:10,452 --> 00:02:12,808
+times x, y equals five, eight.
+
+30
+00:02:13,258 --> 00:02:14,815
+A is two, one; three, two.
+
+31
+00:02:15,933 --> 00:02:21,731
+Here, a d minus b c is four minus three,
+which is one. So A inverse is two,
+
+32
+00:02:21,731 --> 00:02:24,360
+negative one; negative three, two.
+
+33
+00:02:24,810 --> 00:02:31,006
+Multiply A inverse by five, eight: ten
+minus eight is two, and negative fifteen
+
+34
+00:02:31,006 --> 00:02:35,242
+plus sixteen is one. So x equals two and y
+equals one.
+
+35
+00:02:36,366 --> 00:02:39,588
+If a d minus b c is zero, there's no
+inverse.
+
+36
+00:02:40,038 --> 00:02:43,280
+Then the system has no solution or
+infinitely many.
+
+37
+00:02:44,400 --> 00:02:47,813
+Your turn. Find the inverse of four,
+seven; two, six.
+
+38
+00:02:48,263 --> 00:02:49,799
+Pause the video and try it.
+
+39
+00:02:50,249 --> 00:02:55,773
+The determinant is ten, so the inverse is
+one tenth times six, negative seven;
+
+40
+00:02:55,773 --> 00:02:57,118
+negative two, four.
+
+41
+00:02:58,266 --> 00:03:02,063
+In this lesson, we'll compute determinants
+and see what they tell us.
+
+42
+00:03:03,199 --> 00:03:06,869
+The determinant of a, b; c, d is a d minus
+b c.
+
+43
+00:03:07,319 --> 00:03:12,097
+The determinant of three, five; one, two
+is six minus five, which is one.
+
+44
+00:03:13,233 --> 00:03:18,481
+For a three by three matrix, expand along
+the top row: each entry times the
+
+45
+00:03:18,481 --> 00:03:22,470
+determinant of what's left, with signs
+plus, minus, plus.
+
+46
+00:03:22,920 --> 00:03:25,459
+These smaller determinants are called
+minors.
+
+47
+00:03:26,599 --> 00:03:31,975
+Find the determinant of one, two, three;
+zero, four, five; one, zero, six.
+
+48
+00:03:32,425 --> 00:03:37,842
+One times twenty four, minus two times
+negative five, plus three times negative
+
+49
+00:03:37,842 --> 00:03:42,025
+four: twenty four plus ten minus twelve,
+which is twenty two.
+
+50
+00:03:43,166 --> 00:03:49,387
+The determinant measures area. A triangle
+with vertices zero, zero; four, one; and
+
+51
+00:03:49,387 --> 00:03:55,684
+one, three has area one half the absolute
+value of four times three minus one times
+
+52
+00:03:55,684 --> 00:03:55,987
+one.
+
+53
+00:03:56,437 --> 00:03:57,696
+That's eleven halves.
+
+54
+00:03:58,833 --> 00:04:04,633
+Cramer's rule solves a system with
+determinants. For two x plus y equals five
+
+55
+00:04:04,633 --> 00:04:07,345
+and three x plus two y equals eight:
+
+56
+00:04:07,795 --> 00:04:13,157
+x equals the determinant of five, one;
+eight, two over one, which is two. y
+
+57
+00:04:13,157 --> 00:04:18,376
+equals the determinant of two, five;
+three, eight over one, which is one.
+
+58
+00:04:19,499 --> 00:04:23,553
+Your turn. Find the determinant of six,
+negative two; three, one.
+
+59
+00:04:24,003 --> 00:04:25,539
+Pause the video and try it.
+
+60
+00:04:25,989 --> 00:04:27,951
+Six plus six equals twelve.
+
+61
+00:04:29,100 --> 00:04:34,419
+In this lesson, we'll split a complicated
+fraction into simple ones. It's a tool
+
+62
+00:04:34,419 --> 00:04:35,948
+you'll use in calculus.
+
+63
+00:04:37,067 --> 00:04:44,043
+Adding one over x minus one plus two over
+x plus two gives three x over x minus one
+
+64
+00:04:44,043 --> 00:04:45,472
+times x plus two.
+
+65
+00:04:45,922 --> 00:04:48,162
+Partial fractions runs that backward.
+
+66
+00:04:49,300 --> 00:04:56,951
+Decompose five x minus one over x minus
+one times x plus one. Write it as A over x
+
+67
+00:04:56,951 --> 00:05:00,031
+minus one plus B over x plus one.
+
+68
+00:05:00,481 --> 00:05:07,014
+Clear denominators: five x minus one
+equals A times x plus one plus B times x
+
+69
+00:05:07,014 --> 00:05:07,862
+minus one.
+
+70
+00:05:09,000 --> 00:05:15,509
+Plug in x equals one: four equals two A,
+so A equals two. Plug in x equals negative
+
+71
+00:05:15,509 --> 00:05:20,136
+one: negative six equals negative two B,
+so B equals three.
+
+72
+00:05:20,586 --> 00:05:24,746
+So it's two over x minus one plus three
+over x plus one.
+
+73
+00:05:25,867 --> 00:05:31,808
+For a repeated factor, include every
+power. x plus three over x minus one
+
+74
+00:05:31,808 --> 00:05:36,853
+squared is A over x minus one plus B over
+x minus one squared.
+
+75
+00:05:37,303 --> 00:05:40,205
+Matching gives A equals one and B equals
+four.
+
+76
+00:05:41,333 --> 00:05:47,965
+For an irreducible quadratic factor, use a
+linear top. One over x times x squared
+
+77
+00:05:47,965 --> 00:05:52,960
+plus one is A over x plus B x plus C over
+x squared plus one.
+
+78
+00:05:53,410 --> 00:05:58,530
+Solving gives A equals one, B equals
+negative one, and C equals zero.
+
+79
+00:05:59,667 --> 00:06:03,549
+Your turn. Decompose one over x times x
+minus one.
+
+80
+00:06:03,999 --> 00:06:05,535
+Pause the video and try it.
+
+81
+00:06:05,985 --> 00:06:09,676
+Negative one over x plus one over x minus
+one.
+
+82
+00:06:10,800 --> 00:06:15,829
+Next time, we start Unit 9, conic
+sections. If this helped, subscribe to
+
+83
+00:06:15,829 --> 00:06:21,067
+School Math, Explained, and turn on
+notifications so you don't miss it. See
+
+84
+00:06:21,067 --> 00:06:21,765
+you there.
+
