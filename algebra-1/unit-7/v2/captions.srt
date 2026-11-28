@@ -1,0 +1,1342 @@
+1
+00:00:00,000 --> 00:00:05,013
+Welcome to Unit Seven of Algebra One:
+exponents and exponential functions.
+
+2
+00:00:05,463 --> 00:00:08,471
+In this lesson, we'll learn the three main
+exponent rules.
+
+3
+00:00:09,600 --> 00:00:14,140
+An exponent counts repeated
+multiplication. Two to the fourth means
+
+4
+00:00:14,140 --> 00:00:17,664
+two times two times two times two, which
+is sixteen.
+
+5
+00:00:18,114 --> 00:00:20,845
+The two is the base, and the four is the
+exponent.
+
+6
+00:00:21,967 --> 00:00:26,596
+Product rule: when you multiply powers
+with the same base, add the exponents.
+
+7
+00:00:27,046 --> 00:00:33,425
+x squared times x cubed is x times x,
+times x times x times x. That's x to the
+
+8
+00:00:33,425 --> 00:00:33,915
+fifth.
+
+9
+00:00:35,033 --> 00:00:39,769
+Quotient rule: when you divide powers with
+the same base, subtract the exponents.
+
+10
+00:00:40,219 --> 00:00:45,147
+x to the seventh over x squared is x to
+the fifth, because two of the x's cancel.
+
+11
+00:00:46,267 --> 00:00:50,405
+Power rule: when you raise a power to a
+power, multiply the exponents.
+
+12
+00:00:50,855 --> 00:00:55,378
+x squared, all cubed, is x squared three
+times, which is x to the sixth.
+
+13
+00:00:56,500 --> 00:01:00,980
+Now combine them. Simplify two x cubed,
+times three x to the fourth.
+
+14
+00:01:01,430 --> 00:01:06,932
+Multiply the numbers: two times three is
+six. Add the exponents: x to the seventh.
+
+15
+00:01:06,932 --> 00:01:09,281
+The answer is six x to the seventh.
+
+16
+00:01:10,400 --> 00:01:15,328
+Your turn. Simplify x to the fifth times x
+cubed, all over x to the fourth.
+
+17
+00:01:15,778 --> 00:01:17,229
+Pause the video and try it.
+
+18
+00:01:17,679 --> 00:01:22,529
+The top is x to the eighth. Then eight
+minus four is four. The answer is x to the
+
+19
+00:01:22,529 --> 00:01:22,948
+fourth.
+
+20
+00:01:24,066 --> 00:01:28,183
+Let's simplify an expression using several
+exponent rules in a row.
+
+21
+00:01:29,633 --> 00:01:35,350
+Simplify: two x cubed y, all squared,
+times three x y to the fourth, over six x
+
+22
+00:01:35,350 --> 00:01:37,014
+to the fifth y squared.
+
+23
+00:01:38,133 --> 00:01:43,139
+First the power of a product. Square each
+factor: two squared is four, x cubed
+
+24
+00:01:43,139 --> 00:01:45,770
+squared is x to the sixth, and y squared.
+
+25
+00:01:46,899 --> 00:01:52,578
+Multiply by three x y to the fourth. Four
+times three is twelve, and add exponents:
+
+26
+00:01:52,578 --> 00:01:54,835
+x to the seventh, y to the sixth.
+
+27
+00:01:55,966 --> 00:01:58,654
+Now divide by six x to the fifth y
+squared.
+
+28
+00:01:59,799 --> 00:02:02,807
+Twelve over six is two, and subtract
+exponents.
+
+29
+00:02:03,933 --> 00:02:06,279
+That leaves two x squared y to the fourth.
+
+30
+00:02:07,399 --> 00:02:11,047
+The expression simplifies to two x squared
+y to the fourth.
+
+31
+00:02:12,166 --> 00:02:17,257
+Watch out. When you raise a product to a
+power, raise every factor, including the
+
+32
+00:02:17,257 --> 00:02:22,410
+coefficient. Multiplying adds exponents,
+dividing subtracts them, and a power of a
+
+33
+00:02:22,410 --> 00:02:23,793
+power multiplies them.
+
+34
+00:02:24,933 --> 00:02:30,103
+Your turn. Simplify three a squared b,
+cubed, over nine a to the fourth b. Pause
+
+35
+00:02:30,103 --> 00:02:31,461
+the video and try it.
+
+36
+00:02:35,999 --> 00:02:41,226
+The top is twenty seven a to the sixth b
+cubed. Divide: three a squared b squared.
+
+37
+00:02:42,366 --> 00:02:47,055
+What could two to the zero, or two to the
+negative three, possibly mean? In this
+
+38
+00:02:47,055 --> 00:02:48,403
+lesson, we'll find out.
+
+39
+00:02:49,533 --> 00:02:53,903
+Look at the pattern. Two cubed is eight,
+two squared is four, two to the first is
+
+40
+00:02:53,903 --> 00:02:54,119
+two.
+
+41
+00:02:54,569 --> 00:03:00,212
+Each step down divides by two. So two to
+the zero is one. In fact, any nonzero
+
+42
+00:03:00,212 --> 00:03:02,527
+number to the zero power is one.
+
+43
+00:03:03,666 --> 00:03:08,387
+Keep going down the pattern. Two to the
+negative one is one half, and two to the
+
+44
+00:03:08,387 --> 00:03:09,981
+negative two is one fourth.
+
+45
+00:03:10,431 --> 00:03:15,853
+A negative exponent means take the
+reciprocal. x to the negative n equals one
+
+46
+00:03:15,853 --> 00:03:16,980
+over x to the n.
+
+47
+00:03:18,099 --> 00:03:21,065
+Five to the negative two is one over
+twenty-five.
+
+48
+00:03:21,515 --> 00:03:26,895
+And one over three to the negative two is
+three squared, which is nine. A negative
+
+49
+00:03:26,895 --> 00:03:29,323
+exponent in the denominator moves up.
+
+50
+00:03:30,466 --> 00:03:33,815
+Simplify x to the negative three times x
+to the fifth.
+
+51
+00:03:34,265 --> 00:03:38,489
+Add the exponents: negative three plus
+five is two. So it's x squared.
+
+52
+00:03:39,633 --> 00:03:44,070
+A common mistake: a negative exponent does
+not make the number negative.
+
+53
+00:03:44,520 --> 00:03:47,784
+Two to the negative one is one half, not
+negative two.
+
+54
+00:03:48,933 --> 00:03:53,178
+Your turn. Simplify four to the negative
+one, plus seven to the zero.
+
+55
+00:03:53,628 --> 00:03:55,079
+Pause the video and try it.
+
+56
+00:03:55,529 --> 00:04:00,985
+Four to the negative one is one fourth,
+and seven to the zero is one. The total is
+
+57
+00:04:00,985 --> 00:04:02,249
+one and one fourth.
+
+58
+00:04:02,366 --> 00:04:03,366
+Next time, we'll look at fractional
+exponents. If this helped, subscribe to
+
+59
+00:04:03,366 --> 00:04:07,206
+Here's a worked example that clears zero
+and negative exponents.
+
+60
+00:04:08,633 --> 00:04:14,074
+Simplify, using only positive exponents:
+four a to the negative three b to the
+
+61
+00:04:14,074 --> 00:04:17,422
+zero, over two a squared b to the negative
+four.
+
+62
+00:04:18,566 --> 00:04:20,315
+First, b to the zero is one.
+
+63
+00:04:21,433 --> 00:04:22,755
+Four over two is two.
+
+64
+00:04:23,899 --> 00:04:28,571
+For a, subtract exponents: negative three
+minus two is negative five.
+
+65
+00:04:29,699 --> 00:04:34,497
+A negative exponent in the denominator
+moves to the numerator and becomes
+
+66
+00:04:34,497 --> 00:04:36,206
+positive: b to the fourth.
+
+67
+00:04:37,333 --> 00:04:41,194
+Finally, a to the negative five moves down
+to become a to the fifth.
+
+68
+00:04:42,333 --> 00:04:45,319
+The answer is two b to the fourth over a
+to the fifth.
+
+69
+00:04:46,466 --> 00:04:51,291
+Watch out. A negative exponent means take
+the reciprocal, not make the number
+
+70
+00:04:51,291 --> 00:04:56,179
+negative. Only the factor with that
+exponent moves, not the coefficient. And x
+
+71
+00:04:56,179 --> 00:04:59,501
+to the zero is one, but three x to the
+zero is three.
+
+72
+00:05:00,633 --> 00:05:05,242
+Your turn. Simplify three x to the
+negative two, all to the negative two.
+
+73
+00:05:05,242 --> 00:05:06,947
+Pause the video and try it.
+
+74
+00:05:11,466 --> 00:05:16,578
+Multiply exponents: three to the negative
+two times x to the fourth, which is x to
+
+75
+00:05:16,578 --> 00:05:17,887
+the fourth over nine.
+
+76
+00:05:19,033 --> 00:05:23,948
+Exponents don't have to be whole numbers.
+In this lesson, we'll see what fractional
+
+77
+00:05:23,948 --> 00:05:24,836
+exponents mean.
+
+78
+00:05:25,966 --> 00:05:30,988
+Nine to the one half, squared, is nine to
+the first, which is nine. So nine to the
+
+79
+00:05:30,988 --> 00:05:34,478
+one half must be the square root of nine,
+which is three.
+
+80
+00:05:34,928 --> 00:05:38,107
+In general, x to the one half is the
+square root of x.
+
+81
+00:05:39,233 --> 00:05:43,902
+The same idea works for cube roots. Eight
+to the one third is the cube root of
+
+82
+00:05:43,902 --> 00:05:45,100
+eight, which is two.
+
+83
+00:05:46,233 --> 00:05:51,566
+In general, x to the m over n is the n-th
+root of x, raised to the m.
+
+84
+00:05:52,016 --> 00:05:55,430
+The bottom of the fraction is the root,
+and the top is the power.
+
+85
+00:05:56,566 --> 00:05:58,337
+Evaluate eight to the two thirds.
+
+86
+00:05:58,787 --> 00:06:03,054
+The cube root of eight is two, and two
+squared is four. So eight to the two
+
+87
+00:06:03,054 --> 00:06:03,907
+thirds is four.
+
+88
+00:06:04,357 --> 00:06:06,661
+Taking the root first keeps the numbers
+small.
+
+89
+00:06:07,800 --> 00:06:13,168
+The exponent rules still apply. x to the
+one half times x to the one half is x to
+
+90
+00:06:13,168 --> 00:06:14,626
+the first, which is x.
+
+91
+00:06:15,766 --> 00:06:18,774
+Your turn. Evaluate twenty-seven to the
+two thirds.
+
+92
+00:06:19,224 --> 00:06:20,675
+Pause the video and try it.
+
+93
+00:06:21,125 --> 00:06:24,688
+The cube root of twenty-seven is three,
+and three squared is nine.
+
+94
+00:06:25,833 --> 00:06:29,780
+Let's evaluate rational exponents by
+turning them into radicals.
+
+95
+00:06:31,200 --> 00:06:36,085
+Evaluate twenty seven to the two thirds,
+and sixteen to the negative three fourths.
+
+96
+00:06:37,233 --> 00:06:41,853
+The denominator is the root and the
+numerator is the power. So take the cube
+
+97
+00:06:41,853 --> 00:06:44,102
+root of twenty seven, then square it.
+
+98
+00:06:45,233 --> 00:06:47,836
+The cube root is three, and three squared
+is nine.
+
+99
+00:06:48,966 --> 00:06:53,425
+For the second, the negative means
+reciprocal: one over sixteen to the three
+
+100
+00:06:53,425 --> 00:06:53,894
+fourths.
+
+101
+00:06:55,033 --> 00:06:58,126
+The fourth root of sixteen is two, and two
+cubed is eight.
+
+102
+00:06:59,266 --> 00:07:02,488
+So sixteen to the negative three fourths
+is one eighth.
+
+103
+00:07:03,633 --> 00:07:08,544
+Twenty seven to the two thirds is nine,
+and sixteen to the negative three fourths
+
+104
+00:07:08,544 --> 00:07:09,393
+is one eighth.
+
+105
+00:07:10,533 --> 00:07:16,055
+Watch out. x to the m over n is the nth
+root of x, to the m. Take the root first
+
+106
+00:07:16,055 --> 00:07:21,439
+to keep the numbers small. And a negative
+exponent gives a reciprocal, never a
+
+107
+00:07:21,439 --> 00:07:22,544
+negative answer.
+
+108
+00:07:23,666 --> 00:07:28,317
+Your turn. Evaluate thirty two to the
+three fifths. Pause the video and try it.
+
+109
+00:07:32,866 --> 00:07:36,045
+The fifth root of thirty two is two, and
+two cubed is eight.
+
+110
+00:07:37,166 --> 00:07:42,528
+Scientists write huge and tiny numbers
+with powers of ten. In this lesson, we'll
+
+111
+00:07:42,528 --> 00:07:44,270
+learn scientific notation.
+
+112
+00:07:45,399 --> 00:07:49,410
+A number in scientific notation looks like
+a times ten to the n.
+
+113
+00:07:49,860 --> 00:07:53,935
+The number a is at least one and less than
+ten, and n is an integer.
+
+114
+00:07:55,066 --> 00:07:58,522
+Write three hundred forty thousand in
+scientific notation.
+
+115
+00:07:58,972 --> 00:08:04,155
+Move the decimal point five places to the
+left to get three point four. So it's
+
+116
+00:08:04,155 --> 00:08:06,780
+three point four times ten to the fifth.
+
+117
+00:08:07,899 --> 00:08:11,206
+Now write zero point zero zero zero six
+two.
+
+118
+00:08:11,656 --> 00:08:16,958
+Move the decimal four places to the right
+to get six point two. Small numbers get
+
+119
+00:08:16,958 --> 00:08:21,213
+negative exponents: six point two times
+ten to the negative four.
+
+120
+00:08:22,333 --> 00:08:25,746
+To multiply, multiply the numbers and add
+the exponents.
+
+121
+00:08:26,196 --> 00:08:31,159
+Three times ten to the fourth, times two
+times ten to the fifth, is six times ten
+
+122
+00:08:31,159 --> 00:08:31,956
+to the ninth.
+
+123
+00:08:33,099 --> 00:08:36,406
+To divide, divide the numbers and subtract
+the exponents.
+
+124
+00:08:36,856 --> 00:08:42,098
+Eight times ten to the sixth, divided by
+four times ten to the two, is two times
+
+125
+00:08:42,098 --> 00:08:43,277
+ten to the fourth.
+
+126
+00:08:44,399 --> 00:08:50,254
+Your turn. Multiply five times ten cubed
+by four times ten to the sixth. Remember,
+
+127
+00:08:50,254 --> 00:08:53,253
+the answer must be in scientific notation.
+
+128
+00:08:53,703 --> 00:08:55,153
+Pause the video and try it.
+
+129
+00:08:55,603 --> 00:09:01,247
+Five times four is twenty, and three plus
+six is nine. Twenty times ten to the ninth
+
+130
+00:09:01,247 --> 00:09:03,262
+is two times ten to the tenth.
+
+131
+00:09:04,400 --> 00:09:09,264
+Here's a worked example of multiplying and
+dividing in scientific notation.
+
+132
+00:09:10,700 --> 00:09:16,270
+Light travels about three times ten to the
+eighth meters per second. The Sun is about
+
+133
+00:09:16,270 --> 00:09:21,578
+one point five times ten to the eleventh
+meters away. How long does sunlight take
+
+134
+00:09:21,578 --> 00:09:22,561
+to reach Earth?
+
+135
+00:09:23,700 --> 00:09:26,132
+Time equals distance divided by rate.
+
+136
+00:09:27,267 --> 00:09:31,384
+Divide the numbers: one point five over
+three is zero point five.
+
+137
+00:09:32,533 --> 00:09:36,501
+Divide the powers: ten to the eleven minus
+eight, which is ten cubed.
+
+138
+00:09:37,633 --> 00:09:42,817
+Zero point five is less than one, so shift
+the decimal: five times ten squared.
+
+139
+00:09:43,967 --> 00:09:46,889
+That's five hundred seconds, a little over
+eight minutes.
+
+140
+00:09:48,033 --> 00:09:52,253
+Sunlight takes about five times ten
+squared seconds, which is about eight
+
+141
+00:09:52,253 --> 00:09:53,409
+point three minutes.
+
+142
+00:09:54,533 --> 00:09:59,213
+Watch out. Group the numbers together and
+the powers of ten together. The front
+
+143
+00:09:59,213 --> 00:10:04,188
+number must be at least one and less than
+ten. And moving the decimal one place left
+
+144
+00:10:04,188 --> 00:10:05,669
+adds one to the exponent.
+
+145
+00:10:06,800 --> 00:10:12,131
+Your turn. Multiply four times ten to the
+fifth by six times ten cubed, in
+
+146
+00:10:12,131 --> 00:10:15,589
+scientific notation. Pause the video and
+try it.
+
+147
+00:10:20,133 --> 00:10:25,527
+Four times six is twenty four, and ten to
+the eighth. Adjust to two point four times
+
+148
+00:10:25,527 --> 00:10:26,619
+ten to the ninth.
+
+149
+00:10:27,766 --> 00:10:32,299
+In this lesson, we'll meet exponential
+functions, where the variable is in the
+
+150
+00:10:32,299 --> 00:10:32,822
+exponent.
+
+151
+00:10:33,966 --> 00:10:38,830
+An exponential function has the form f of
+x equals a times b to the x.
+
+152
+00:10:39,280 --> 00:10:43,888
+a is the starting value, and b is the
+base, a positive number that isn't one.
+
+153
+00:10:45,033 --> 00:10:47,955
+Make a table for f of x equals two to the
+x.
+
+154
+00:10:48,405 --> 00:10:54,101
+At x equals zero, the value is one. Then
+two, four, eight. Each step multiplies by
+
+155
+00:10:54,101 --> 00:10:54,379
+two.
+
+156
+00:10:55,499 --> 00:11:00,398
+Plot the points and connect them. The
+curve rises slowly at first, then faster
+
+157
+00:11:00,398 --> 00:11:01,089
+and faster.
+
+158
+00:11:01,539 --> 00:11:05,549
+On the left, it gets close to zero but
+never touches the x axis.
+
+159
+00:11:06,666 --> 00:11:12,618
+Take f of x equals three times two to the
+x. At x equals zero, f equals three.
+
+160
+00:11:13,068 --> 00:11:16,460
+So a is the y intercept: the value where
+the graph starts.
+
+161
+00:11:17,599 --> 00:11:19,882
+Here's the key difference from linear
+functions.
+
+162
+00:11:20,332 --> 00:11:25,073
+A linear function adds the same amount
+each step. An exponential function
+
+163
+00:11:25,073 --> 00:11:27,671
+multiplies by the same factor each step.
+
+164
+00:11:28,799 --> 00:11:34,546
+Your turn. For f of x equals five times
+three to the x, find f of zero and f of
+
+165
+00:11:34,546 --> 00:11:34,837
+two.
+
+166
+00:11:35,287 --> 00:11:36,737
+Pause the video and try it.
+
+167
+00:11:37,187 --> 00:11:41,923
+f of zero is five. f of two is five times
+nine, which is forty-five.
+
+168
+00:11:43,066 --> 00:11:46,458
+Let's write an exponential function from a
+table and graph it.
+
+169
+00:11:48,166 --> 00:11:54,093
+Write y equals a times b to the x for this
+table: x zero, one, two, three gives y
+
+170
+00:11:54,093 --> 00:11:57,019
+five, ten, twenty, forty. Then graph it.
+
+171
+00:11:58,166 --> 00:12:02,731
+First check the differences: five, then
+ten. Not constant, so it's not linear.
+
+172
+00:12:03,866 --> 00:12:09,494
+Check the ratios: each is two. A constant
+ratio means exponential, with b equals
+
+173
+00:12:09,494 --> 00:12:09,775
+two.
+
+174
+00:12:10,899 --> 00:12:15,230
+The value at x equals zero is the initial
+value, a equals five.
+
+175
+00:12:16,366 --> 00:12:18,798
+So y equals five times two to the x.
+
+176
+00:12:19,933 --> 00:12:25,490
+The function is y equals five times two to
+the x. It starts at five and doubles each
+
+177
+00:12:25,490 --> 00:12:25,821
+step.
+
+178
+00:12:26,966 --> 00:12:31,754
+Watch out. A constant difference means
+linear, and a constant ratio means
+
+179
+00:12:31,754 --> 00:12:37,132
+exponential. a is the y value when x is
+zero. And b greater than one means growth,
+
+180
+00:12:37,132 --> 00:12:39,297
+between zero and one means decay.
+
+181
+00:12:40,433 --> 00:12:45,404
+Your turn. x zero, one, two gives y eighty
+one, twenty seven, nine. Write the
+
+182
+00:12:45,404 --> 00:12:47,793
+function. Pause the video and try it.
+
+183
+00:12:52,333 --> 00:12:58,133
+Each ratio is one third, and the start is
+eighty one. y equals eighty one times one
+
+184
+00:12:58,133 --> 00:12:59,181
+third to the x.
+
+185
+00:13:00,300 --> 00:13:05,178
+Exponential functions model things that
+grow or shrink by a percent. In this
+
+186
+00:13:05,178 --> 00:13:07,681
+lesson, we'll look at growth and decay.
+
+187
+00:13:08,800 --> 00:13:11,808
+When the base b is greater than one, the
+function grows.
+
+188
+00:13:12,258 --> 00:13:17,444
+A population of one hundred that doubles
+each year is one hundred times two to the
+
+189
+00:13:17,444 --> 00:13:17,570
+t.
+
+190
+00:13:18,700 --> 00:13:21,921
+When b is between zero and one, the
+function decays.
+
+191
+00:13:22,371 --> 00:13:27,406
+A forty milligram dose that halves every
+hour is forty times one half to the t.
+
+192
+00:13:28,533 --> 00:13:31,989
+For growth by a percent r, use b equals
+one plus r.
+
+193
+00:13:32,439 --> 00:13:38,011
+A two thousand dollar investment growing
+five percent a year is two thousand times
+
+194
+00:13:38,011 --> 00:13:43,311
+one point zero five to the t. After two
+years, that's two thousand two hundred
+
+195
+00:13:43,311 --> 00:13:44,194
+five dollars.
+
+196
+00:13:45,333 --> 00:13:48,960
+For decay by a percent r, use b equals one
+minus r.
+
+197
+00:13:49,410 --> 00:13:53,954
+A twenty thousand dollar car losing
+fifteen percent each year is twenty
+
+198
+00:13:53,954 --> 00:13:56,898
+thousand times zero point eight five to
+the t.
+
+199
+00:13:58,033 --> 00:14:00,401
+To decide growth or decay, look at the
+base.
+
+200
+00:14:00,851 --> 00:14:06,504
+One point zero three is greater than one:
+growth of three percent. Zero point nine
+
+201
+00:14:06,504 --> 00:14:09,193
+is less than one: decay of ten percent.
+
+202
+00:14:10,333 --> 00:14:15,402
+Your turn. A town of eight thousand grows
+four percent per year. Write the model,
+
+203
+00:14:15,402 --> 00:14:17,843
+and find the population after one year.
+
+204
+00:14:18,293 --> 00:14:19,743
+Pause the video and try it.
+
+205
+00:14:20,193 --> 00:14:25,374
+The model is eight thousand times one
+point zero four to the t. After one year,
+
+206
+00:14:25,374 --> 00:14:28,193
+that's eight thousand three hundred
+twenty.
+
+207
+00:14:29,333 --> 00:14:33,237
+Here's a worked example of exponential
+decay with a real price.
+
+208
+00:14:34,666 --> 00:14:39,855
+A car costs twenty four thousand dollars
+and loses fifteen percent of its value
+
+209
+00:14:39,855 --> 00:14:43,861
+each year. Write a model and find its
+value after four years.
+
+210
+00:14:45,000 --> 00:14:48,669
+Decay uses y equals a times one minus r,
+to the t.
+
+211
+00:14:49,800 --> 00:14:54,704
+The starting value a is twenty four
+thousand, and r is fifteen percent, or
+
+212
+00:14:54,704 --> 00:14:56,029
+zero point one five.
+
+213
+00:14:57,166 --> 00:15:02,692
+The decay factor is one minus zero point
+one five, which is zero point eight five.
+
+214
+00:15:03,833 --> 00:15:08,206
+Zero point eight five to the fourth is
+about zero point five two two.
+
+215
+00:15:09,333 --> 00:15:14,303
+Multiply by twenty four thousand: about
+twelve thousand five hundred twenty eight
+
+216
+00:15:14,303 --> 00:15:14,794
+dollars.
+
+217
+00:15:15,933 --> 00:15:21,237
+The model is y equals twenty four thousand
+times zero point eight five to the t.
+
+218
+00:15:21,237 --> 00:15:26,408
+After four years, the car is worth about
+twelve thousand five hundred dollars.
+
+219
+00:15:27,533 --> 00:15:32,601
+Watch out. Growth uses one plus r, decay
+uses one minus r. Convert percents to
+
+220
+00:15:32,601 --> 00:15:37,603
+decimals. And losing fifteen percent a
+year for four years is not the same as
+
+221
+00:15:37,603 --> 00:15:41,826
+losing sixty percent, because each loss is
+from a smaller amount.
+
+222
+00:15:42,966 --> 00:15:48,317
+Your turn. A town of eight thousand people
+grows three percent per year. What is the
+
+223
+00:15:48,317 --> 00:15:51,884
+population after five years? Pause the
+video and try it.
+
+224
+00:15:56,433 --> 00:16:01,583
+Eight thousand times one point zero three
+to the fifth is about nine thousand two
+
+225
+00:16:01,583 --> 00:16:02,918
+hundred seventy four.
+
+226
+00:16:04,066 --> 00:16:09,543
+In Unit Four we saw arithmetic sequences,
+which add the same number each time. In
+
+227
+00:16:09,543 --> 00:16:14,818
+this last lesson of Unit Seven, we'll see
+geometric sequences, which multiply.
+
+228
+00:16:15,966 --> 00:16:20,083
+In three, six, twelve, twenty-four, each
+term is twice the one before.
+
+229
+00:16:20,533 --> 00:16:25,483
+The constant multiplier is called the
+common ratio, r. Here r equals two.
+
+230
+00:16:26,633 --> 00:16:32,931
+The formula for the n-th term is a sub n
+equals a sub one times r to the n minus
+
+231
+00:16:32,931 --> 00:16:33,246
+one.
+
+232
+00:16:33,696 --> 00:16:37,920
+For our sequence, a sub n equals three
+times two to the n minus one.
+
+233
+00:16:39,066 --> 00:16:40,346
+Find the seventh term.
+
+234
+00:16:40,796 --> 00:16:45,362
+Three times two to the sixth is three
+times sixty-four, which is one hundred
+
+235
+00:16:45,362 --> 00:16:46,023
+ninety-two.
+
+236
+00:16:47,166 --> 00:16:51,625
+Compare. Two, five, eight, eleven adds
+three each time, so it's arithmetic.
+
+237
+00:16:52,075 --> 00:16:57,863
+Two, six, eighteen, fifty-four multiplies
+by three each time, so it's geometric. A
+
+238
+00:16:57,863 --> 00:17:02,592
+geometric sequence is an exponential
+function on the whole numbers.
+
+239
+00:17:03,733 --> 00:17:09,186
+The ratio can be a fraction. In eighty,
+forty, twenty, ten, the ratio is one half,
+
+240
+00:17:09,186 --> 00:17:10,517
+so the terms shrink.
+
+241
+00:17:11,666 --> 00:17:16,061
+Your turn. Find the sixth term of five,
+fifteen, forty-five, and so on.
+
+242
+00:17:16,511 --> 00:17:17,961
+Pause the video and try it.
+
+243
+00:17:18,411 --> 00:17:23,113
+The ratio is three. Five times three to
+the fifth is five times two hundred
+
+244
+00:17:23,113 --> 00:17:26,561
+forty-three, which is one thousand two
+hundred fifteen.
+
+245
+00:17:27,700 --> 00:17:31,711
+Let's write the rule for a geometric
+sequence and find a later term.
+
+246
+00:17:33,133 --> 00:17:37,980
+For the sequence three, negative six,
+twelve, negative twenty four, and so on,
+
+247
+00:17:37,980 --> 00:17:40,963
+write an explicit rule and find the eighth
+term.
+
+248
+00:17:42,100 --> 00:17:46,495
+The common ratio is negative six over
+three, which is negative two.
+
+249
+00:17:47,633 --> 00:17:48,892
+The first term is three.
+
+250
+00:17:50,033 --> 00:17:55,580
+The explicit rule is a sub n equals three
+times negative two to the n minus one.
+
+251
+00:17:56,700 --> 00:17:58,855
+For the eighth term, the exponent is
+seven.
+
+252
+00:18:00,000 --> 00:18:05,149
+Negative two to the seventh is negative
+one twenty eight. Times three is negative
+
+253
+00:18:05,149 --> 00:18:06,293
+three eighty four.
+
+254
+00:18:07,433 --> 00:18:12,223
+The rule is three times negative two to
+the n minus one, and the eighth term is
+
+255
+00:18:12,223 --> 00:18:14,345
+negative three hundred eighty four.
+
+256
+00:18:15,467 --> 00:18:21,173
+Watch out. The exponent is n minus one,
+not n. Put a negative ratio in parentheses
+
+257
+00:18:21,173 --> 00:18:26,810
+so the sign is raised too. And remember
+arithmetic sequences add a constant while
+
+258
+00:18:26,810 --> 00:18:28,480
+geometric ones multiply.
+
+259
+00:18:29,600 --> 00:18:34,808
+Your turn. Find the sixth term of one
+sixty, eighty, forty, and so on. Pause the
+
+260
+00:18:34,808 --> 00:18:35,915
+video and try it.
+
+261
+00:18:40,433 --> 00:18:44,977
+The ratio is one half. One sixty times one
+half to the fifth is five.
+
+262
+00:18:46,100 --> 00:18:50,766
+Let's finish Unit Seven by comparing
+linear and exponential growth with real
+
+263
+00:18:50,766 --> 00:18:51,135
+money.
+
+264
+00:18:52,567 --> 00:18:57,404
+Plan A starts with one thousand dollars
+and adds one hundred per year. Plan B
+
+265
+00:18:57,404 --> 00:19:02,367
+starts with one thousand and earns six
+percent per year. Write both models, and
+
+266
+00:19:02,367 --> 00:19:06,263
+decide which is ahead after five years and
+after twenty years.
+
+267
+00:19:07,400 --> 00:19:12,200
+Plan A adds a constant amount, so it's
+linear: one thousand plus one hundred t.
+
+268
+00:19:13,333 --> 00:19:18,717
+Plan B grows by a constant percent, so
+it's exponential: one thousand times one
+
+269
+00:19:18,717 --> 00:19:20,352
+point zero six to the t.
+
+270
+00:19:21,500 --> 00:19:24,103
+After five years, A has fifteen hundred
+dollars.
+
+271
+00:19:25,233 --> 00:19:28,263
+B has about thirteen hundred thirty eight.
+A is ahead.
+
+272
+00:19:29,400 --> 00:19:31,597
+After twenty years, A has three thousand.
+
+273
+00:19:32,733 --> 00:19:36,232
+B has about thirty two hundred seven. Now
+B is ahead.
+
+274
+00:19:37,367 --> 00:19:43,041
+Plan A is ahead after five years, but plan
+B overtakes it and is ahead after twenty.
+
+275
+00:19:43,041 --> 00:19:45,879
+Exponential growth always wins eventually.
+
+276
+00:19:47,000 --> 00:19:52,433
+Watch out. A constant amount means linear,
+a constant percent means exponential. In
+
+277
+00:19:52,433 --> 00:19:57,735
+the short term, the linear plan can be
+ahead. In the long run, exponential growth
+
+278
+00:19:57,735 --> 00:19:58,520
+always wins.
+
+279
+00:19:59,667 --> 00:20:04,832
+Your turn. Plan C starts with one thousand
+and earns ten percent per year. What's it
+
+280
+00:20:04,832 --> 00:20:09,629
+worth after five years, and is it ahead of
+plan A? Pause the video and try it.
+
+281
+00:20:14,167 --> 00:20:19,123
+One thousand times one point one to the
+fifth is about sixteen hundred eleven.
+
+282
+00:20:19,123 --> 00:20:22,999
+That's more than fifteen hundred, so yes,
+it's already ahead.
+
+283
+00:20:24,133 --> 00:20:29,584
+That completes this unit. Next up: Algebra
+I, Unit 8: Polynomials and Factoring. If
+
+284
+00:20:29,584 --> 00:20:34,706
+this helped, subscribe to School STEM,
+Explained, and turn on notifications so
+
+285
+00:20:34,706 --> 00:20:35,888
+you don't miss it.
+

@@ -1,0 +1,826 @@
+1
+00:00:00,000 --> 00:00:05,102
+Welcome to Unit Ten, the last unit of
+Algebra One: radicals and data. In this
+
+2
+00:00:05,102 --> 00:00:07,488
+lesson, we'll simplify square roots.
+
+3
+00:00:08,633 --> 00:00:13,535
+The key rule: the square root of a times b
+equals the square root of a, times the
+
+4
+00:00:13,535 --> 00:00:14,564
+square root of b.
+
+5
+00:00:15,014 --> 00:00:19,886
+So look for perfect square factors, like
+four, nine, sixteen, twenty-five and
+
+6
+00:00:19,886 --> 00:00:20,582
+thirty-six.
+
+7
+00:00:21,700 --> 00:00:23,577
+Simplify the square root of fifty.
+
+8
+00:00:24,027 --> 00:00:28,960
+Fifty is twenty-five times two. So it's
+the square root of twenty-five, times the
+
+9
+00:00:28,960 --> 00:00:31,579
+square root of two, which is five root
+two.
+
+10
+00:00:32,700 --> 00:00:37,505
+Variables work the same way. The square
+root of x squared is x, for x not
+
+11
+00:00:37,505 --> 00:00:38,097
+negative.
+
+12
+00:00:38,547 --> 00:00:44,180
+The square root of eighteen x cubed is the
+square root of nine x squared times two x,
+
+13
+00:00:44,180 --> 00:00:46,035
+which is three x root two x.
+
+14
+00:00:47,167 --> 00:00:51,199
+To multiply radicals, multiply what's
+inside, then simplify.
+
+15
+00:00:51,649 --> 00:00:57,089
+Root six times root ten is root sixty,
+which is root four times fifteen, or two
+
+16
+00:00:57,089 --> 00:00:57,985
+root fifteen.
+
+17
+00:00:59,133 --> 00:01:04,880
+A simplified answer has no radical in the
+denominator. To fix one, multiply top and
+
+18
+00:01:04,880 --> 00:01:06,472
+bottom by that radical.
+
+19
+00:01:06,922 --> 00:01:09,781
+Three over root two becomes three root two
+over two.
+
+20
+00:01:10,900 --> 00:01:13,844
+Your turn. Simplify the square root of
+seventy-two.
+
+21
+00:01:14,294 --> 00:01:15,745
+Pause the video and try it.
+
+22
+00:01:16,195 --> 00:01:20,333
+Seventy-two is thirty-six times two, so
+the answer is six root two.
+
+23
+00:01:21,466 --> 00:01:25,839
+Let's simplify radicals with variables and
+rationalize a denominator.
+
+24
+00:01:27,266 --> 00:01:33,165
+Simplify the square root of seventy two x
+to the fifth, assuming x is positive. Then
+
+25
+00:01:33,165 --> 00:01:35,202
+simplify six over root three.
+
+26
+00:01:36,333 --> 00:01:41,538
+Find the largest perfect square factor of
+seventy two. That's thirty six, times two.
+
+27
+00:01:42,666 --> 00:01:46,954
+Split x to the fifth into x to the fourth,
+a perfect square, times x.
+
+28
+00:01:48,099 --> 00:01:52,913
+Take out the squares: root thirty six is
+six, and root x to the fourth is x
+
+29
+00:01:52,913 --> 00:01:55,865
+squared. That leaves six x squared root
+two x.
+
+30
+00:01:56,999 --> 00:02:02,717
+For part b, rationalize the denominator by
+multiplying top and bottom by root three.
+
+31
+00:02:03,866 --> 00:02:08,090
+That gives six root three over three,
+which simplifies to two root three.
+
+32
+00:02:09,233 --> 00:02:13,542
+Part a is six x squared root two x, and
+part b is two root three.
+
+33
+00:02:14,666 --> 00:02:19,905
+Watch out. Use the largest perfect square
+factor, or you'll have to simplify again.
+
+34
+00:02:19,905 --> 00:02:24,575
+Even powers come out halved. And a
+simplified answer has no radical in the
+
+35
+00:02:24,575 --> 00:02:25,333
+denominator.
+
+36
+00:02:25,466 --> 00:02:31,607
+Your turn. Simplify the square root of
+fifty y cubed. Pause the video and try it.
+
+37
+00:02:36,133 --> 00:02:42,179
+Fifty is twenty five times two, and y
+cubed is y squared times y. The answer is
+
+38
+00:02:42,179 --> 00:02:43,557
+five y root two y.
+
+39
+00:02:44,700 --> 00:02:50,140
+Adding radicals works a lot like combining
+like terms. In this lesson, we'll see how.
+
+40
+00:02:51,267 --> 00:02:53,869
+Like radicals have the same number under
+the root.
+
+41
+00:02:54,319 --> 00:03:00,607
+Three root five plus two root five is five
+root five, just like three x plus two x is
+
+42
+00:03:00,607 --> 00:03:01,125
+five x.
+
+43
+00:03:02,267 --> 00:03:06,917
+Sometimes you need to simplify first. Root
+twelve plus root twenty-seven.
+
+44
+00:03:07,367 --> 00:03:11,866
+Root twelve is two root three, and root
+twenty-seven is three root three.
+
+45
+00:03:11,866 --> 00:03:13,469
+Together, five root three.
+
+46
+00:03:14,600 --> 00:03:18,781
+You can distribute too. Root two times the
+quantity three plus root eight.
+
+47
+00:03:19,231 --> 00:03:23,434
+That's three root two plus root sixteen,
+which is three root two plus four.
+
+48
+00:03:24,567 --> 00:03:29,371
+Radicals appear when you use the
+Pythagorean theorem. A right triangle has
+
+49
+00:03:29,371 --> 00:03:30,540
+legs two and four.
+
+50
+00:03:30,990 --> 00:03:36,404
+The hypotenuse is the square root of four
+plus sixteen, which is root twenty, or two
+
+51
+00:03:36,404 --> 00:03:37,049
+root five.
+
+52
+00:03:38,167 --> 00:03:41,345
+Watch out: root two plus root three is not
+root five.
+
+53
+00:03:41,795 --> 00:03:43,779
+You can only combine like radicals.
+
+54
+00:03:44,900 --> 00:03:47,887
+Your turn. Simplify root eighteen plus
+root fifty.
+
+55
+00:03:48,337 --> 00:03:49,787
+Pause the video and try it.
+
+56
+00:03:50,237 --> 00:03:55,613
+Root eighteen is three root two, and root
+fifty is five root two. The total is eight
+
+57
+00:03:55,613 --> 00:03:56,189
+root two.
+
+58
+00:03:57,333 --> 00:04:02,346
+Here's a worked example where radicals
+only become like terms after simplifying.
+
+59
+00:04:03,766 --> 00:04:08,801
+Simplify three root twelve minus root
+seventy five plus two root twenty seven.
+
+60
+00:04:09,933 --> 00:04:15,444
+Simplify each radical first. Root twelve
+is two root three, so three root twelve is
+
+61
+00:04:15,444 --> 00:04:16,440
+six root three.
+
+62
+00:04:17,566 --> 00:04:22,110
+Root seventy five is root twenty five
+times root three, five root three.
+
+63
+00:04:23,233 --> 00:04:28,140
+Root twenty seven is three root three, so
+two root twenty seven is six root three.
+
+64
+00:04:29,266 --> 00:04:32,338
+Now all three are like terms, multiples of
+root three.
+
+65
+00:04:33,466 --> 00:04:38,608
+Combine the coefficients: six minus five
+plus six is seven. Seven root three.
+
+66
+00:04:39,733 --> 00:04:42,442
+The expression simplifies to seven root
+three.
+
+67
+00:04:43,566 --> 00:04:48,868
+Watch out. Simplify every radical before
+you try to combine. You can only combine
+
+68
+00:04:48,868 --> 00:04:54,105
+radicals with the same radicand. And root
+a plus root b is not root of a plus b.
+
+69
+00:04:55,233 --> 00:05:00,388
+Your turn. Simplify root eighteen plus
+four root two minus root eight. Pause the
+
+70
+00:05:00,388 --> 00:05:01,484
+video and try it.
+
+71
+00:05:06,033 --> 00:05:10,342
+Three root two plus four root two minus
+two root two is five root two.
+
+72
+00:05:11,466 --> 00:05:16,733
+Now we turn to statistics. In this lesson,
+we'll describe a data set with its center
+
+73
+00:05:16,733 --> 00:05:17,674
+and its spread.
+
+74
+00:05:18,799 --> 00:05:22,959
+The mean is the average: add the values
+and divide by how many there are.
+
+75
+00:05:23,409 --> 00:05:28,711
+For two, four, four, five and ten, the sum
+is twenty-five, and there are five values,
+
+76
+00:05:28,711 --> 00:05:29,959
+so the mean is five.
+
+77
+00:05:31,099 --> 00:05:34,363
+The median is the middle value when the
+data is in order.
+
+78
+00:05:34,813 --> 00:05:39,982
+For two, four, four, five, ten, the median
+is four. With an even number of values,
+
+79
+00:05:39,982 --> 00:05:41,747
+average the two middle ones.
+
+80
+00:05:42,866 --> 00:05:47,154
+The range is the largest minus the
+smallest: ten minus two is eight.
+
+81
+00:05:47,604 --> 00:05:52,365
+The interquartile range, or IQR, is the
+spread of the middle half: the third
+
+82
+00:05:52,365 --> 00:05:54,495
+quartile minus the first quartile.
+
+83
+00:05:55,633 --> 00:06:01,461
+An outlier is a value far from the rest. A
+common rule flags anything more than one
+
+84
+00:06:01,461 --> 00:06:04,059
+and a half IQRs beyond the quartiles.
+
+85
+00:06:04,509 --> 00:06:08,093
+Outliers pull the mean toward them, but
+barely move the median.
+
+86
+00:06:09,233 --> 00:06:13,883
+So for skewed data or data with outliers,
+use the median and IQR.
+
+87
+00:06:14,333 --> 00:06:19,448
+For symmetric data, the mean and standard
+deviation work well. Standard deviation
+
+88
+00:06:19,448 --> 00:06:22,227
+measures the typical distance from the
+mean.
+
+89
+00:06:23,366 --> 00:06:27,414
+Your turn. Find the mean and median of
+three, seven, eight, nine and
+
+90
+00:06:27,414 --> 00:06:28,187
+twenty-three.
+
+91
+00:06:28,637 --> 00:06:30,088
+Pause the video and try it.
+
+92
+00:06:30,538 --> 00:06:34,817
+The sum is fifty, so the mean is ten. The
+median is eight. The outlier,
+
+93
+00:06:34,817 --> 00:06:36,746
+twenty-three, pulls the mean up.
+
+94
+00:06:37,866 --> 00:06:41,941
+Let's compute center and spread, and see
+how an outlier changes them.
+
+95
+00:06:43,366 --> 00:06:48,627
+Eight students worked these weekly hours:
+six, eight, eight, ten, eleven, twelve,
+
+96
+00:06:48,627 --> 00:06:53,888
+fourteen and forty three. Find the mean,
+median and interquartile range. Is forty
+
+97
+00:06:53,888 --> 00:06:54,993
+three an outlier?
+
+98
+00:06:56,133 --> 00:07:00,507
+The sum is one hundred twelve, so the mean
+is one twelve over eight, which is
+
+99
+00:07:00,507 --> 00:07:01,018
+fourteen.
+
+100
+00:07:02,166 --> 00:07:06,946
+With eight values, the median is the
+average of the fourth and fifth, ten and
+
+101
+00:07:06,946 --> 00:07:08,374
+eleven. Ten point five.
+
+102
+00:07:09,499 --> 00:07:14,432
+The lower half is six, eight, eight, ten,
+so Q one is eight. The upper half is
+
+103
+00:07:14,432 --> 00:07:18,353
+eleven, twelve, fourteen, forty three, so
+Q three is thirteen.
+
+104
+00:07:19,499 --> 00:07:22,081
+The I Q R is thirteen minus eight, five.
+
+105
+00:07:23,199 --> 00:07:29,130
+The upper fence is Q three plus one point
+five times the I Q R: twenty point five.
+
+106
+00:07:30,266 --> 00:07:33,594
+Forty three is above twenty point five, so
+it's an outlier.
+
+107
+00:07:34,733 --> 00:07:39,934
+The mean is fourteen, the median is ten
+point five, and the I Q R is five. Forty
+
+108
+00:07:39,934 --> 00:07:44,226
+three is an outlier, and it pulls the mean
+above most of the data.
+
+109
+00:07:45,366 --> 00:07:51,022
+Watch out. Always sort the data first.
+Outliers pull the mean but barely move the
+
+110
+00:07:51,022 --> 00:07:55,841
+median. So with outliers or skewed data,
+report the median and I Q R.
+
+111
+00:07:56,966 --> 00:08:02,085
+Your turn. For two, four, five, seven,
+nine, find the mean and median. Then add
+
+112
+00:08:02,085 --> 00:08:05,649
+thirty. Which changes more? Pause the
+video and try it.
+
+113
+00:08:10,166 --> 00:08:15,895
+The mean is five point four and the median
+is five. Adding thirty makes the mean nine
+
+114
+00:08:15,895 --> 00:08:19,467
+point five and the median six. The mean
+changes more.
+
+115
+00:08:20,600 --> 00:08:25,635
+In this last lesson of Algebra One, we'll
+display data so its shape is easy to see.
+
+116
+00:08:26,767 --> 00:08:30,479
+A dot plot puts one dot above the number
+line for each value.
+
+117
+00:08:30,929 --> 00:08:32,827
+It works well for small data sets.
+
+118
+00:08:33,967 --> 00:08:39,104
+A histogram groups values into equal-width
+intervals, and draws a bar for how many
+
+119
+00:08:39,104 --> 00:08:39,919
+fall in each.
+
+120
+00:08:40,369 --> 00:08:44,209
+Its shape shows if the data is symmetric,
+or skewed to one side.
+
+121
+00:08:45,333 --> 00:08:50,640
+The five-number summary is the minimum,
+first quartile, median, third quartile and
+
+122
+00:08:50,640 --> 00:08:51,157
+maximum.
+
+123
+00:08:51,607 --> 00:08:56,865
+For one, three, four, six, seven, eight,
+ten, eleven and fifteen, that's one, three
+
+124
+00:08:56,865 --> 00:08:59,842
+and a half, seven, ten and a half, and
+fifteen.
+
+125
+00:09:00,967 --> 00:09:03,121
+A box plot draws those five numbers.
+
+126
+00:09:03,571 --> 00:09:08,554
+The box runs from the first to the third
+quartile, with a line at the median. The
+
+127
+00:09:08,554 --> 00:09:10,953
+whiskers reach the minimum and maximum.
+
+128
+00:09:12,100 --> 00:09:14,233
+Box plots make comparisons easy.
+
+129
+00:09:14,683 --> 00:09:19,283
+If one class's box sits higher and is
+narrower, that class scored higher, and
+
+130
+00:09:19,283 --> 00:09:20,358
+more consistently.
+
+131
+00:09:21,500 --> 00:09:26,727
+Your turn. In a box plot, the box runs
+from twelve to twenty. What is the IQR?
+
+132
+00:09:27,177 --> 00:09:28,627
+Pause the video and try it.
+
+133
+00:09:29,077 --> 00:09:30,656
+Twenty minus twelve is eight.
+
+134
+00:09:31,800 --> 00:09:35,320
+Here's a worked example comparing two
+groups with box plots.
+
+135
+00:09:36,900 --> 00:09:41,573
+Two classes have these five number
+summaries. Class A: fifty five, seventy,
+
+136
+00:09:41,573 --> 00:09:46,621
+seventy eight, eighty five, ninety five.
+Class B: sixty two, seventy two, seventy
+
+137
+00:09:46,621 --> 00:09:51,169
+six, eighty, eighty eight. Compare center
+and spread. Which class is more
+
+138
+00:09:51,169 --> 00:09:51,855
+consistent?
+
+139
+00:09:53,000 --> 00:09:58,077
+A box plot shows the minimum, Q one, the
+median, Q three and the maximum.
+
+140
+00:09:59,200 --> 00:10:03,509
+The medians are seventy eight and seventy
+six. Class A is slightly higher.
+
+141
+00:10:04,633 --> 00:10:10,091
+The I Q Rs are eighty five minus seventy,
+fifteen, and eighty minus seventy two,
+
+142
+00:10:10,091 --> 00:10:10,500
+eight.
+
+143
+00:10:11,633 --> 00:10:13,831
+The ranges are forty and twenty six.
+
+144
+00:10:14,967 --> 00:10:20,087
+Class B has the smaller I Q R and range,
+so its scores are more consistent.
+
+145
+00:10:21,233 --> 00:10:25,727
+The centers are similar, with A slightly
+higher, but class B is much more
+
+146
+00:10:25,727 --> 00:10:27,697
+consistent, with half the I Q R.
+
+147
+00:10:28,833 --> 00:10:34,001
+Watch out. When comparing, talk about both
+center and spread. Each section of a box
+
+148
+00:10:34,001 --> 00:10:38,920
+plot holds about a quarter of the data.
+And a longer box means more spread, not
+
+149
+00:10:38,920 --> 00:10:39,543
+more data.
+
+150
+00:10:40,667 --> 00:10:45,563
+Your turn. In class A, about what percent
+of students scored above seventy? Pause
+
+151
+00:10:45,563 --> 00:10:46,832
+the video and try it.
+
+152
+00:10:51,367 --> 00:10:55,356
+Seventy is Q one, so about seventy five
+percent scored above it.
+
+153
+00:10:56,500 --> 00:11:01,334
+Let's finish Unit Ten and Algebra One with
+a problem that uses radicals and a
+
+154
+00:11:01,334 --> 00:11:01,961
+quadratic.
+
+155
+00:11:03,400 --> 00:11:08,847
+A square patio has an area of fifty square
+meters, with a diagonal walkway across it.
+
+156
+00:11:08,847 --> 00:11:14,167
+Find the side and the diagonal in simplest
+radical form. Then, if edging costs four
+
+157
+00:11:14,167 --> 00:11:19,229
+dollars a meter, how much does it cost to
+edge all four sides and the diagonal?
+
+158
+00:11:20,367 --> 00:11:25,273
+The area of a square is s squared, so s
+squared is fifty and s is root fifty.
+
+159
+00:11:26,400 --> 00:11:29,280
+Root fifty simplifies to five root two
+meters.
+
+160
+00:11:30,400 --> 00:11:35,495
+The diagonal makes a right triangle with
+two sides, so d squared is fifty plus
+
+161
+00:11:35,495 --> 00:11:36,736
+fifty, one hundred.
+
+162
+00:11:37,867 --> 00:11:39,573
+The diagonal is ten meters.
+
+163
+00:11:40,700 --> 00:11:46,097
+The total edging is four sides plus the
+diagonal: twenty root two plus ten meters.
+
+164
+00:11:47,233 --> 00:11:51,672
+Twenty root two is about twenty eight
+point two eight, so about thirty eight
+
+165
+00:11:51,672 --> 00:11:53,015
+point two eight meters.
+
+166
+00:11:54,133 --> 00:11:57,803
+At four dollars a meter, that's about one
+hundred fifty three dollars.
+
+167
+00:11:58,933 --> 00:12:04,122
+The side is five root two meters, the
+diagonal is exactly ten meters, and edging
+
+168
+00:12:04,122 --> 00:12:06,976
+costs about one hundred fifty three
+dollars.
+
+169
+00:12:08,100 --> 00:12:13,616
+Watch out. Keep exact radicals until the
+very end. A square's diagonal is always
+
+170
+00:12:13,616 --> 00:12:17,615
+the side times root two. And round only at
+the final step.
+
+171
+00:12:18,733 --> 00:12:23,633
+Your turn. A square has area eighteen
+square centimeters. Find its side and
+
+172
+00:12:23,633 --> 00:12:26,051
+diagonal. Pause the video and try it.
+
+173
+00:12:30,600 --> 00:12:35,706
+The side is root eighteen, which is three
+root two. The diagonal is three root two
+
+174
+00:12:35,706 --> 00:12:38,259
+times root two, which is six centimeters.
+
+175
+00:12:39,400 --> 00:12:44,942
+That completes this unit. Next up: Algebra
+II, Unit 1. If this helped, subscribe to
+
+176
+00:12:44,942 --> 00:12:49,683
+School STEM, Explained, and turn on
+notifications so you don't miss it.
+

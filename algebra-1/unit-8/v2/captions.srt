@@ -1,0 +1,1396 @@
+1
+00:00:00,000 --> 00:00:04,096
+Welcome to Unit Eight of Algebra One:
+polynomials and factoring.
+
+2
+00:00:04,546 --> 00:00:08,926
+In this lesson, we'll learn the
+vocabulary, and how to add and subtract
+
+3
+00:00:08,926 --> 00:00:09,666
+polynomials.
+
+4
+00:00:10,800 --> 00:00:15,915
+A polynomial is a sum of terms, where each
+term is a number times a variable to a
+
+5
+00:00:15,915 --> 00:00:17,115
+whole-number power.
+
+6
+00:00:17,565 --> 00:00:22,962
+One term is a monomial, two terms is a
+binomial, and three terms is a trinomial.
+
+7
+00:00:24,100 --> 00:00:27,428
+Standard form lists the terms from highest
+power to lowest.
+
+8
+00:00:27,878 --> 00:00:33,122
+The degree is the highest power. Three x
+squared minus five x plus two has degree
+
+9
+00:00:33,122 --> 00:00:35,387
+two, and leading coefficient three.
+
+10
+00:00:36,533 --> 00:00:38,923
+To add polynomials, combine like terms.
+
+11
+00:00:39,373 --> 00:00:45,049
+Two x squared plus three x minus four,
+plus x squared minus five x plus seven.
+
+12
+00:00:45,049 --> 00:00:48,397
+That's three x squared minus two x plus
+three.
+
+13
+00:00:49,533 --> 00:00:54,787
+To subtract, distribute the minus sign to
+every term of the second polynomial, then
+
+14
+00:00:54,787 --> 00:00:55,293
+combine.
+
+15
+00:00:55,743 --> 00:01:01,830
+Five x squared plus x minus two, minus the
+quantity two x squared minus three x plus
+
+16
+00:01:01,830 --> 00:01:07,772
+four. That becomes five x squared plus x
+minus two, minus two x squared plus three
+
+17
+00:01:07,772 --> 00:01:08,714
+x minus four.
+
+18
+00:01:09,833 --> 00:01:12,841
+Combine: three x squared plus four x minus
+six.
+
+19
+00:01:13,291 --> 00:01:18,219
+The most common mistake is changing only
+the first sign. Every term must flip.
+
+20
+00:01:19,367 --> 00:01:24,828
+Your turn. Subtract: four x squared minus
+two x plus one, minus the quantity x
+
+21
+00:01:24,828 --> 00:01:27,068
+squared plus three x minus five.
+
+22
+00:01:27,518 --> 00:01:28,969
+Pause the video and try it.
+
+23
+00:01:29,419 --> 00:01:35,555
+Flip every sign: four x squared minus two
+x plus one, minus x squared minus three x
+
+24
+00:01:35,555 --> 00:01:40,213
+plus five. The answer is three x squared
+minus five x plus six.
+
+25
+00:01:41,333 --> 00:01:45,984
+Let's subtract two polynomials, the place
+where sign mistakes usually happen.
+
+26
+00:01:47,433 --> 00:01:53,227
+Simplify five x cubed minus two x squared
+plus seven, minus the quantity three x
+
+27
+00:01:53,227 --> 00:01:56,414
+cubed plus four x squared minus x plus
+nine.
+
+28
+00:01:57,533 --> 00:02:02,909
+Distribute the minus sign to every term in
+the second polynomial. Every sign flips.
+
+29
+00:02:04,033 --> 00:02:07,916
+Combine the x cubed terms: five minus
+three is two x cubed.
+
+30
+00:02:09,033 --> 00:02:13,790
+The x squared terms: negative two minus
+four is negative six x squared.
+
+31
+00:02:14,933 --> 00:02:16,917
+There's only one x term, plus x.
+
+32
+00:02:18,066 --> 00:02:21,202
+And the constants: seven minus nine is
+negative two.
+
+33
+00:02:22,333 --> 00:02:27,867
+The result is two x cubed minus six x
+squared plus x minus two. It's a cubic
+
+34
+00:02:27,867 --> 00:02:29,032
+with four terms.
+
+35
+00:02:30,166 --> 00:02:35,542
+Watch out. The minus sign applies to every
+term inside the parentheses, not just the
+
+36
+00:02:35,542 --> 00:02:40,598
+first. Only combine like terms, with the
+same variable and power. And write the
+
+37
+00:02:40,598 --> 00:02:42,902
+answer with the highest power first.
+
+38
+00:02:44,033 --> 00:02:49,773
+Your turn. Simplify four x squared minus
+three x plus one, minus the quantity x
+
+39
+00:02:49,773 --> 00:02:54,060
+squared minus five x minus six. Pause the
+video and try it.
+
+40
+00:02:58,600 --> 00:03:02,866
+Flip the signs and combine: three x
+squared plus two x plus seven.
+
+41
+00:03:04,000 --> 00:03:08,273
+In this lesson, we'll multiply
+polynomials, using the distributive
+
+42
+00:03:08,273 --> 00:03:09,568
+property every time.
+
+43
+00:03:10,700 --> 00:03:14,177
+To multiply a monomial by a polynomial,
+distribute.
+
+44
+00:03:14,627 --> 00:03:20,255
+Three x times the quantity two x squared
+minus x plus four is six x cubed minus
+
+45
+00:03:20,255 --> 00:03:22,393
+three x squared plus twelve x.
+
+46
+00:03:23,533 --> 00:03:28,545
+To multiply two binomials, multiply each
+term of the first by each term of the
+
+47
+00:03:28,545 --> 00:03:28,995
+second.
+
+48
+00:03:29,445 --> 00:03:36,055
+x plus three, times x plus five. x times x
+is x squared. x times five is five x.
+
+49
+00:03:36,055 --> 00:03:40,517
+Three times x is three x. Three times five
+is fifteen.
+
+50
+00:03:40,967 --> 00:03:44,465
+Combine like terms: x squared plus eight x
+plus fifteen.
+
+51
+00:03:45,600 --> 00:03:50,950
+An area model keeps it organized. Put one
+binomial along the top and the other down
+
+52
+00:03:50,950 --> 00:03:51,531
+the side.
+
+53
+00:03:51,981 --> 00:03:57,385
+Fill in each box with a product, then add
+the boxes. For two x minus one times x
+
+54
+00:03:57,385 --> 00:04:02,722
+plus four, the boxes are two x squared,
+eight x, negative x, and negative four.
+
+55
+00:04:02,722 --> 00:04:05,762
+That's two x squared plus seven x minus
+four.
+
+56
+00:04:06,900 --> 00:04:09,545
+The same idea works for bigger
+polynomials.
+
+57
+00:04:09,995 --> 00:04:16,170
+x plus two, times x squared minus x plus
+three. Distribute x, then distribute two,
+
+58
+00:04:16,170 --> 00:04:20,086
+and combine: x cubed plus x squared plus x
+plus six.
+
+59
+00:04:21,233 --> 00:04:24,561
+Quick check: the degree of a product is
+the sum of the degrees.
+
+60
+00:04:25,011 --> 00:04:27,657
+Degree one times degree two gives degree
+three.
+
+61
+00:04:28,800 --> 00:04:32,277
+Your turn. Multiply x minus four by x plus
+six.
+
+62
+00:04:32,727 --> 00:04:34,178
+Pause the video and try it.
+
+63
+00:04:34,628 --> 00:04:40,523
+x squared plus six x minus four x minus
+twenty-four, which is x squared plus two x
+
+64
+00:04:40,523 --> 00:04:41,817
+minus twenty-four.
+
+65
+00:04:42,966 --> 00:04:47,126
+Here's a worked example of multiplying a
+binomial by a trinomial.
+
+66
+00:04:48,566 --> 00:04:53,153
+Multiply two x minus three by x squared
+plus four x minus five.
+
+67
+00:04:54,299 --> 00:04:59,803
+Distribute two x to every term: two x
+cubed plus eight x squared minus ten x.
+
+68
+00:05:00,933 --> 00:05:06,245
+Distribute negative three: negative three
+x squared minus twelve x plus fifteen.
+
+69
+00:05:07,366 --> 00:05:08,625
+Line up the like terms.
+
+70
+00:05:09,766 --> 00:05:14,843
+Combine: two x cubed plus five x squared
+minus twenty two x plus fifteen.
+
+71
+00:05:15,966 --> 00:05:21,235
+The product is two x cubed plus five x
+squared minus twenty two x plus fifteen.
+
+72
+00:05:22,366 --> 00:05:27,673
+Watch out. Multiply every term by every
+term. Count your products: two terms times
+
+73
+00:05:27,673 --> 00:05:32,009
+three terms means six products. And carry
+each term's sign with it.
+
+74
+00:05:33,133 --> 00:05:39,093
+Your turn. Multiply x plus two by three x
+squared minus x plus four. Pause the video
+
+75
+00:05:39,093 --> 00:05:39,874
+and try it.
+
+76
+00:05:44,399 --> 00:05:50,464
+Three x cubed minus x squared plus four x,
+plus six x squared minus two x plus eight.
+
+77
+00:05:50,464 --> 00:05:54,959
+That's three x cubed plus five x squared
+plus two x plus eight.
+
+78
+00:05:56,100 --> 00:06:00,676
+Some products show up so often that it's
+worth knowing their patterns. In this
+
+79
+00:06:00,676 --> 00:06:02,201
+lesson, we'll learn three.
+
+80
+00:06:03,333 --> 00:06:08,255
+The square of a sum: a plus b, squared,
+equals a squared plus two a b plus b
+
+81
+00:06:08,255 --> 00:06:08,773
+squared.
+
+82
+00:06:09,223 --> 00:06:14,365
+For example, x plus five, squared, is x
+squared plus ten x plus twenty-five.
+
+83
+00:06:15,500 --> 00:06:20,510
+The square of a difference: a minus b,
+squared, equals a squared minus two a b
+
+84
+00:06:20,510 --> 00:06:21,473
+plus b squared.
+
+85
+00:06:21,923 --> 00:06:26,787
+Three x minus two, squared, is nine x
+squared minus twelve x plus four.
+
+86
+00:06:27,933 --> 00:06:33,117
+A common mistake is to write x plus five
+squared as x squared plus twenty-five.
+
+87
+00:06:33,567 --> 00:06:38,111
+That forgets the middle term. Squaring a
+binomial always gives three terms.
+
+88
+00:06:39,233 --> 00:06:44,844
+The sum times the difference: a plus b,
+times a minus b, equals a squared minus b
+
+89
+00:06:44,844 --> 00:06:45,399
+squared.
+
+90
+00:06:45,849 --> 00:06:51,216
+The middle terms cancel. x plus seven
+times x minus seven is x squared minus
+
+91
+00:06:51,216 --> 00:06:51,993
+forty-nine.
+
+92
+00:06:53,133 --> 00:06:55,821
+These patterns also make mental math
+faster.
+
+93
+00:06:56,271 --> 00:07:01,801
+Twenty-one times nineteen is twenty plus
+one, times twenty minus one. That's four
+
+94
+00:07:01,801 --> 00:07:05,487
+hundred minus one, which is three hundred
+ninety-nine.
+
+95
+00:07:06,633 --> 00:07:09,300
+Your turn. Expand two x plus three,
+squared.
+
+96
+00:07:09,750 --> 00:07:11,201
+Pause the video and try it.
+
+97
+00:07:11,651 --> 00:07:17,578
+Four x squared, plus two times two x times
+three, which is twelve x, plus nine. So
+
+98
+00:07:17,578 --> 00:07:20,397
+four x squared plus twelve x plus nine.
+
+99
+00:07:21,533 --> 00:07:24,904
+Let's use the special product patterns to
+multiply quickly.
+
+100
+00:07:26,633 --> 00:07:32,681
+Use patterns to multiply three x minus
+five, squared, and four y plus seven times
+
+101
+00:07:32,681 --> 00:07:34,100
+four y minus seven.
+
+102
+00:07:35,233 --> 00:07:39,853
+For part a, use the square of a
+difference: a squared minus two a b plus b
+
+103
+00:07:39,853 --> 00:07:40,353
+squared.
+
+104
+00:07:41,500 --> 00:07:43,334
+Here a is three x and b is five.
+
+105
+00:07:44,466 --> 00:07:49,544
+a squared is nine x squared, two a b is
+thirty x, and b squared is twenty five.
+
+106
+00:07:50,666 --> 00:07:54,805
+For part b, a sum times a difference is a
+squared minus b squared.
+
+107
+00:07:55,933 --> 00:07:59,858
+Sixteen y squared minus forty nine. The
+middle terms cancel.
+
+108
+00:08:01,000 --> 00:08:06,754
+Part a is nine x squared minus thirty x
+plus twenty five, and part b is sixteen y
+
+109
+00:08:06,754 --> 00:08:08,530
+squared minus forty nine.
+
+110
+00:08:09,666 --> 00:08:14,884
+Watch out. A binomial squared is not just
+the squares; don't forget the middle term.
+
+111
+00:08:14,884 --> 00:08:19,792
+Square the coefficient too, so three x
+squared is nine x squared. And sum times
+
+112
+00:08:19,792 --> 00:08:21,656
+difference has no middle term.
+
+113
+00:08:22,800 --> 00:08:27,365
+Your turn. Multiply two x plus three,
+squared. Pause the video and try it.
+
+114
+00:08:31,900 --> 00:08:37,020
+Four x squared, plus two times two x times
+three which is twelve x, plus nine.
+
+115
+00:08:38,166 --> 00:08:43,341
+Factoring is multiplying in reverse. In
+this lesson, we'll start with the greatest
+
+116
+00:08:43,341 --> 00:08:44,225
+common factor.
+
+117
+00:08:45,366 --> 00:08:50,550
+Multiplying turns three times the quantity
+x plus two into three x plus six.
+
+118
+00:08:51,000 --> 00:08:56,244
+Factoring goes the other way: from three x
+plus six back to three times the quantity
+
+119
+00:08:56,244 --> 00:08:56,931
+x plus two.
+
+120
+00:08:58,066 --> 00:09:01,821
+The GCF is the largest factor that divides
+every term.
+
+121
+00:09:02,271 --> 00:09:07,906
+For six x cubed plus nine x squared, the
+number part is three, and the variable
+
+122
+00:09:07,906 --> 00:09:11,401
+part is x squared. So the GCF is three x
+squared.
+
+123
+00:09:12,533 --> 00:09:16,757
+Divide each term by the GCF and write
+what's left in parentheses.
+
+124
+00:09:17,207 --> 00:09:22,712
+Six x cubed plus nine x squared equals
+three x squared times the quantity two x
+
+125
+00:09:22,712 --> 00:09:23,479
+plus three.
+
+126
+00:09:24,599 --> 00:09:26,498
+When there are four terms, try grouping.
+
+127
+00:09:26,948 --> 00:09:33,004
+x cubed plus three x squared plus two x
+plus six. Group the first two and the last
+
+128
+00:09:33,004 --> 00:09:37,657
+two: x squared times x plus three, plus
+two times x plus three.
+
+129
+00:09:38,107 --> 00:09:43,404
+Now x plus three is common: the quantity x
+squared plus two, times the quantity x
+
+130
+00:09:43,404 --> 00:09:44,123
+plus three.
+
+131
+00:09:45,266 --> 00:09:47,485
+Always check by multiplying back out.
+
+132
+00:09:47,935 --> 00:09:53,418
+Three x squared times two x is six x
+cubed, and three x squared times three is
+
+133
+00:09:53,418 --> 00:09:55,316
+nine x squared. It matches.
+
+134
+00:09:56,466 --> 00:10:00,242
+Your turn. Factor eight x to the fourth
+minus twelve x squared.
+
+135
+00:10:00,692 --> 00:10:02,143
+Pause the video and try it.
+
+136
+00:10:02,593 --> 00:10:08,208
+The GCF is four x squared. The answer is
+four x squared times the quantity two x
+
+137
+00:10:08,208 --> 00:10:09,611
+squared minus three.
+
+138
+00:10:10,733 --> 00:10:15,533
+Here's a worked example that factors out a
+GCF, then factors by grouping.
+
+139
+00:10:16,966 --> 00:10:22,321
+Factor completely: six x cubed minus nine
+x squared plus four x minus six.
+
+140
+00:10:23,466 --> 00:10:28,309
+First check for a GCF of all four terms.
+There isn't one, so try grouping.
+
+141
+00:10:29,433 --> 00:10:31,609
+Group the first two terms and the last
+two.
+
+142
+00:10:32,733 --> 00:10:38,109
+Factor three x squared from the first pair
+and two from the second. Both leave two x
+
+143
+00:10:38,109 --> 00:10:38,877
+minus three.
+
+144
+00:10:40,000 --> 00:10:43,136
+Factor out the common binomial, two x
+minus three.
+
+145
+00:10:44,266 --> 00:10:48,789
+The factored form is two x minus three,
+times three x squared plus two.
+
+146
+00:10:49,933 --> 00:10:54,912
+Watch out. Always look for a GCF of all
+the terms first. When grouping, both
+
+147
+00:10:54,912 --> 00:11:00,219
+groups must leave the same binomial; if
+they don't, try factoring a negative. And
+
+148
+00:11:00,219 --> 00:11:01,922
+check by multiplying back.
+
+149
+00:11:03,066 --> 00:11:08,619
+Your turn. Factor x cubed plus five x
+squared minus two x minus ten. Pause the
+
+150
+00:11:08,619 --> 00:11:09,829
+video and try it.
+
+151
+00:11:14,366 --> 00:11:20,264
+x squared times x plus five, minus two
+times x plus five. That's x plus five
+
+152
+00:11:20,264 --> 00:11:22,281
+times x squared minus two.
+
+153
+00:11:23,400 --> 00:11:28,115
+In this lesson, we'll factor trinomials
+like x squared plus b x plus c.
+
+154
+00:11:29,233 --> 00:11:35,765
+When you multiply x plus p by x plus q,
+you get x squared plus the quantity p plus
+
+155
+00:11:35,765 --> 00:11:37,916
+q, times x, plus p times q.
+
+156
+00:11:38,366 --> 00:11:42,441
+So to factor, find two numbers that
+multiply to c and add to b.
+
+157
+00:11:43,567 --> 00:11:46,255
+Factor x squared plus seven x plus twelve.
+
+158
+00:11:46,705 --> 00:11:51,248
+We need two numbers that multiply to
+twelve and add to seven. Three and four
+
+159
+00:11:51,248 --> 00:11:51,547
+work.
+
+160
+00:11:51,997 --> 00:11:54,579
+So it's x plus three, times x plus four.
+
+161
+00:11:55,700 --> 00:11:58,431
+Factor x squared plus two x minus fifteen.
+
+162
+00:11:58,881 --> 00:12:04,483
+The product is negative, so one number is
+negative. Five and negative three multiply
+
+163
+00:12:04,483 --> 00:12:06,817
+to negative fifteen and add to two.
+
+164
+00:12:07,267 --> 00:12:09,976
+So it's x plus five, times x minus three.
+
+165
+00:12:11,100 --> 00:12:13,873
+Factor x squared minus nine x plus twenty.
+
+166
+00:12:14,323 --> 00:12:19,561
+The product is positive but the sum is
+negative, so both numbers are negative.
+
+167
+00:12:19,561 --> 00:12:22,046
+Negative four and negative five work.
+
+168
+00:12:22,496 --> 00:12:25,355
+So it's x minus four, times x minus five.
+
+169
+00:12:26,500 --> 00:12:32,038
+Sometimes no pair works. For x squared
+plus x plus one, no two integers multiply
+
+170
+00:12:32,038 --> 00:12:33,561
+to one and add to one.
+
+171
+00:12:34,011 --> 00:12:36,721
+We call that trinomial prime over the
+integers.
+
+172
+00:12:37,867 --> 00:12:41,131
+Your turn. Factor x squared minus x minus
+twenty.
+
+173
+00:12:41,581 --> 00:12:43,031
+Pause the video and try it.
+
+174
+00:12:43,481 --> 00:12:49,074
+We need a product of negative twenty and a
+sum of negative one: negative five and
+
+175
+00:12:49,074 --> 00:12:52,249
+four. So it's x minus five, times x plus
+four.
+
+176
+00:12:53,366 --> 00:12:56,545
+Let's factor a trinomial where the
+constant is negative.
+
+177
+00:12:58,466 --> 00:13:01,581
+Factor x squared minus four x minus twenty
+one.
+
+178
+00:13:02,699 --> 00:13:07,543
+We need two numbers that multiply to
+negative twenty one and add to negative
+
+179
+00:13:07,543 --> 00:13:07,862
+four.
+
+180
+00:13:08,999 --> 00:13:12,455
+The product is negative, so the numbers
+have opposite signs.
+
+181
+00:13:13,599 --> 00:13:17,589
+List pairs: one and negative twenty one,
+three and negative seven.
+
+182
+00:13:18,733 --> 00:13:22,338
+Three plus negative seven is negative
+four. That's our pair.
+
+183
+00:13:23,466 --> 00:13:26,730
+So the factors are x plus three and x
+minus seven.
+
+184
+00:13:27,866 --> 00:13:33,586
+x squared minus four x minus twenty one
+factors as x plus three times x minus
+
+185
+00:13:33,586 --> 00:13:34,031
+seven.
+
+186
+00:13:35,166 --> 00:13:40,844
+Watch out. If c is positive, both numbers
+have the same sign as b. If c is negative,
+
+187
+00:13:40,844 --> 00:13:46,049
+the signs are opposite, and the larger
+number takes b's sign. Always check by
+
+188
+00:13:46,049 --> 00:13:47,198
+multiplying back.
+
+189
+00:13:48,333 --> 00:13:53,620
+Your turn. Factor x squared plus two x
+minus thirty five. Pause the video and try
+
+190
+00:13:53,620 --> 00:13:53,815
+it.
+
+191
+00:13:58,333 --> 00:14:03,934
+Seven and negative five multiply to
+negative thirty five and add to two. x
+
+192
+00:14:03,934 --> 00:14:06,205
+plus seven times x minus five.
+
+193
+00:14:07,333 --> 00:14:12,025
+When the leading coefficient isn't one,
+factoring takes one more step. In this
+
+194
+00:14:12,025 --> 00:14:14,010
+lesson, we'll use the a c method.
+
+195
+00:14:15,133 --> 00:14:20,530
+Multiply a times c. Then find two numbers
+that multiply to a c and add to b.
+
+196
+00:14:20,980 --> 00:14:27,094
+For two x squared plus seven x plus three,
+a c is six. One and six multiply to six
+
+197
+00:14:27,094 --> 00:14:28,362
+and add to seven.
+
+198
+00:14:29,500 --> 00:14:31,740
+Use those numbers to split the middle
+term.
+
+199
+00:14:32,190 --> 00:14:35,155
+Two x squared plus x plus six x plus
+three.
+
+200
+00:14:36,300 --> 00:14:41,681
+Now factor by grouping. x times the
+quantity two x plus one, plus three times
+
+201
+00:14:41,681 --> 00:14:43,638
+the quantity two x plus one.
+
+202
+00:14:44,088 --> 00:14:47,480
+So the answer is two x plus one, times x
+plus three.
+
+203
+00:14:48,600 --> 00:14:51,373
+Factor three x squared minus x minus ten.
+
+204
+00:14:51,823 --> 00:14:57,809
+a c is negative thirty. Negative six and
+five multiply to negative thirty and add
+
+205
+00:14:57,809 --> 00:14:58,991
+to negative one.
+
+206
+00:14:59,441 --> 00:15:05,807
+Split: three x squared minus six x plus
+five x minus ten. Group: three x times x
+
+207
+00:15:05,807 --> 00:15:12,093
+minus two, plus five times x minus two.
+That's three x plus five, times x minus
+
+208
+00:15:12,093 --> 00:15:12,412
+two.
+
+209
+00:15:13,533 --> 00:15:15,453
+Always look for a GCF first.
+
+210
+00:15:15,903 --> 00:15:21,589
+Four x squared plus fourteen x plus six is
+two times the quantity two x squared plus
+
+211
+00:15:21,589 --> 00:15:24,500
+seven x plus three, which we just
+factored.
+
+212
+00:15:25,633 --> 00:15:29,238
+Your turn. Factor two x squared plus five
+x minus three.
+
+213
+00:15:29,688 --> 00:15:31,139
+Pause the video and try it.
+
+214
+00:15:31,589 --> 00:15:37,755
+a c is negative six: six and negative one.
+Split and group to get two x minus one,
+
+215
+00:15:37,755 --> 00:15:39,184
+times x plus three.
+
+216
+00:15:39,333 --> 00:15:40,333
+Next time, we'll factor special products.
+If this helped, subscribe to School STEM,
+
+217
+00:15:40,333 --> 00:15:45,133
+Here's a worked example of the A C method
+for a leading coefficient other than one.
+
+218
+00:15:46,566 --> 00:15:49,702
+Factor six x squared plus seven x minus
+five.
+
+219
+00:15:50,833 --> 00:15:55,249
+Multiply a and c: six times negative five
+is negative thirty.
+
+220
+00:15:56,366 --> 00:16:01,922
+Find two numbers that multiply to negative
+thirty and add to seven: ten and negative
+
+221
+00:16:01,922 --> 00:16:02,318
+three.
+
+222
+00:16:03,466 --> 00:16:06,517
+Split the middle term: plus ten x minus
+three x.
+
+223
+00:16:07,666 --> 00:16:13,512
+Group and factor: two x times three x plus
+five, minus one times three x plus five.
+
+224
+00:16:14,633 --> 00:16:16,489
+Factor out three x plus five.
+
+225
+00:16:17,633 --> 00:16:23,608
+Six x squared plus seven x minus five
+factors as three x plus five times two x
+
+226
+00:16:23,608 --> 00:16:24,374
+minus one.
+
+227
+00:16:25,500 --> 00:16:30,026
+Watch out. Check for a GCF before
+starting. Split the middle term using the
+
+228
+00:16:30,026 --> 00:16:35,036
+pair you found, then group. If the groups
+don't match, recheck your pair and signs.
+
+229
+00:16:36,166 --> 00:16:41,412
+Your turn. Factor three x squared minus
+ten x plus eight. Pause the video and try
+
+230
+00:16:41,412 --> 00:16:41,606
+it.
+
+231
+00:16:46,133 --> 00:16:51,716
+a c is twenty four. Negative six and
+negative four work. The answer is three x
+
+232
+00:16:51,716 --> 00:16:53,792
+minus four times x minus two.
+
+233
+00:16:54,933 --> 00:16:59,680
+The special products from Lesson Three
+work backward too. In this last lesson of
+
+234
+00:16:59,680 --> 00:17:01,994
+Unit Eight, we'll factor them on sight.
+
+235
+00:17:03,133 --> 00:17:08,379
+A difference of squares factors as a
+squared minus b squared equals a plus b,
+
+236
+00:17:08,379 --> 00:17:09,469
+times a minus b.
+
+237
+00:17:09,919 --> 00:17:14,399
+x squared minus thirty-six is x plus six,
+times x minus six.
+
+238
+00:17:15,533 --> 00:17:17,645
+Look for perfect squares in both terms.
+
+239
+00:17:18,095 --> 00:17:23,905
+Nine x squared minus twenty-five is three
+x squared minus five squared. So it's
+
+240
+00:17:23,905 --> 00:17:27,140
+three x plus five, times three x minus
+five.
+
+241
+00:17:28,266 --> 00:17:33,080
+A perfect square trinomial has a squared
+first term, a squared last term, and a
+
+242
+00:17:33,080 --> 00:17:35,456
+middle term that's twice their product.
+
+243
+00:17:35,906 --> 00:17:42,224
+x squared plus ten x plus twenty-five is x
+plus five, squared. Four x squared minus
+
+244
+00:17:42,224 --> 00:17:45,954
+twelve x plus nine is two x minus three,
+squared.
+
+245
+00:17:47,100 --> 00:17:50,748
+Factor completely means keep going until
+nothing more factors.
+
+246
+00:17:51,198 --> 00:17:56,847
+Two x squared minus fifty: first take out
+two to get two times x squared minus
+
+247
+00:17:56,847 --> 00:18:02,206
+twenty-five. Then factor again: two times
+x plus five, times x minus five.
+
+248
+00:18:03,333 --> 00:18:07,907
+Watch out: a sum of squares, like x
+squared plus nine, does not factor over
+
+249
+00:18:07,907 --> 00:18:08,944
+the real numbers.
+
+250
+00:18:10,066 --> 00:18:13,586
+Your turn. Factor completely: three x
+squared minus twelve.
+
+251
+00:18:14,036 --> 00:18:15,487
+Pause the video and try it.
+
+252
+00:18:15,937 --> 00:18:21,449
+Take out three: three times x squared
+minus four. Then three times x plus two,
+
+253
+00:18:21,449 --> 00:18:22,721
+times x minus two.
+
+254
+00:18:23,866 --> 00:18:28,047
+Let's factor completely, using more than
+one method on the same problem.
+
+255
+00:18:29,466 --> 00:18:32,730
+Factor two x to the fourth minus thirty
+two completely.
+
+256
+00:18:32,866 --> 00:18:35,893
+First factor out the GCF, two.
+
+257
+00:18:37,033 --> 00:18:41,772
+x to the fourth minus sixteen is a
+difference of squares: x squared, squared,
+
+258
+00:18:41,772 --> 00:18:42,942
+minus four squared.
+
+259
+00:18:44,066 --> 00:18:48,141
+That factors as x squared plus four times
+x squared minus four.
+
+260
+00:18:49,266 --> 00:18:52,530
+But x squared minus four is another
+difference of squares.
+
+261
+00:18:53,666 --> 00:18:58,080
+x squared plus four is a sum of squares,
+which doesn't factor over the real
+
+262
+00:18:58,080 --> 00:18:58,551
+numbers.
+
+263
+00:18:59,699 --> 00:19:05,540
+Factored completely: two times x squared
+plus four, times x plus two, times x minus
+
+264
+00:19:05,540 --> 00:19:05,822
+two.
+
+265
+00:19:06,966 --> 00:19:11,861
+Watch out. Factor out the GCF first,
+always. Keep going until no factor can be
+
+266
+00:19:11,861 --> 00:19:16,694
+factored further. And a sum of squares
+does not factor over the real numbers.
+
+267
+00:19:17,833 --> 00:19:23,176
+Your turn. Factor three x cubed minus
+twelve x squared plus twelve x completely.
+
+268
+00:19:23,176 --> 00:19:24,979
+Pause the video and try it.
+
+269
+00:19:29,499 --> 00:19:35,523
+Take out three x, leaving x squared minus
+four x plus four, a perfect square. Three
+
+270
+00:19:35,523 --> 00:19:37,627
+x times x minus two, squared.
+
+271
+00:19:38,766 --> 00:19:42,917
+Let's finish Unit Eight with an area
+problem that needs multiplying and
+
+272
+00:19:42,917 --> 00:19:43,502
+factoring.
+
+273
+00:19:44,933 --> 00:19:50,509
+A rectangular garden is ten meters by six
+meters. A path of width x surrounds it on
+
+274
+00:19:50,509 --> 00:19:55,681
+every side. Write the path's area as a
+polynomial and factor it. Then, if the
+
+275
+00:19:55,681 --> 00:19:58,906
+path's area is sixty four square meters,
+find x.
+
+276
+00:20:00,033 --> 00:20:05,835
+The outer rectangle adds x on each side,
+so it's ten plus two x by six plus two x.
+
+277
+00:20:06,966 --> 00:20:11,403
+Multiply: sixty plus twenty x plus twelve
+x plus four x squared.
+
+278
+00:20:12,533 --> 00:20:17,900
+Subtract the garden's sixty square meters.
+The path's area is four x squared plus
+
+279
+00:20:17,900 --> 00:20:18,762
+thirty two x.
+
+280
+00:20:19,899 --> 00:20:23,953
+Factor out the GCF, four x: four x times x
+plus eight.
+
+281
+00:20:25,099 --> 00:20:30,084
+Setting it equal to sixty four and
+dividing by four gives x squared plus
+
+282
+00:20:30,084 --> 00:20:32,438
+eight x minus sixteen equals zero.
+
+283
+00:20:33,566 --> 00:20:39,212
+Test easy widths. x equals one gives
+thirty six, and x equals two gives eighty.
+
+284
+00:20:39,212 --> 00:20:43,571
+Sixty four is in between, so x is between
+one and two meters.
+
+285
+00:20:44,699 --> 00:20:49,429
+The path area is four x squared plus
+thirty two x, which factors as four x
+
+286
+00:20:49,429 --> 00:20:54,670
+times x plus eight. For sixty four square
+meters, the width is between one and two
+
+287
+00:20:54,670 --> 00:20:59,847
+meters. In the next unit you'll learn to
+find it exactly, about one point six six
+
+288
+00:20:59,847 --> 00:21:00,294
+meters.
+
+289
+00:21:01,433 --> 00:21:06,699
+Watch out. The path adds x on both sides,
+so each dimension grows by two x. The
+
+290
+00:21:06,699 --> 00:21:11,833
+path's area is the outer area minus the
+inner area. And factoring reveals the
+
+291
+00:21:11,833 --> 00:21:13,699
+structure of the expression.
+
+292
+00:21:14,833 --> 00:21:19,960
+Your turn. The garden is eight by five
+with a path of width x. Write the path's
+
+293
+00:21:19,960 --> 00:21:24,049
+area as a polynomial and factor it. Pause
+the video and try it.
+
+294
+00:21:28,566 --> 00:21:34,600
+Eight plus two x times five plus two x,
+minus forty, is four x squared plus twenty
+
+295
+00:21:34,600 --> 00:21:38,721
+six x, which factors as two x times two x
+plus thirteen.
+
+296
+00:21:39,866 --> 00:21:44,926
+That completes this unit. Next up: Algebra
+I, Unit 9: Quadratic Functions and
+
+297
+00:21:44,926 --> 00:21:49,854
+Equations. If this helped, subscribe to
+School STEM, Explained, and turn on
+
+298
+00:21:49,854 --> 00:21:52,154
+notifications so you don't miss it.
+

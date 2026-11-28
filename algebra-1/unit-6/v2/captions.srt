@@ -1,0 +1,1234 @@
+1
+00:00:00,000 --> 00:00:03,989
+Welcome to Unit Six of Algebra One:
+systems of equations.
+
+2
+00:00:04,439 --> 00:00:09,773
+A system is two or more equations that
+share the same variables. In this lesson,
+
+3
+00:00:09,773 --> 00:00:11,906
+we'll solve systems by graphing.
+
+4
+00:00:13,033 --> 00:00:16,980
+A solution of a system is a point that
+makes every equation true.
+
+5
+00:00:17,430 --> 00:00:19,243
+On a graph, it's where the lines cross.
+
+6
+00:00:20,367 --> 00:00:25,273
+Solve y equals x plus one, and y equals
+negative x plus five.
+
+7
+00:00:25,723 --> 00:00:31,294
+Graph both lines. They cross at two comma
+three. So the solution is x equals two, y
+
+8
+00:00:31,294 --> 00:00:32,166
+equals three.
+
+9
+00:00:33,300 --> 00:00:34,836
+Check it in both equations.
+
+10
+00:00:35,286 --> 00:00:39,681
+Two plus one is three. Negative two plus
+five is three. Both are true.
+
+11
+00:00:40,800 --> 00:00:47,018
+If the equations are in standard form, use
+intercepts. x plus y equals four crosses
+
+12
+00:00:47,018 --> 00:00:50,613
+the axes at four comma zero and zero comma
+four.
+
+13
+00:00:51,063 --> 00:00:57,016
+x minus y equals two crosses at two comma
+zero and zero comma negative two. The
+
+14
+00:00:57,016 --> 00:00:59,277
+lines meet at three comma one.
+
+15
+00:01:00,400 --> 00:01:03,685
+Graphing works well when the answer is
+made of whole numbers.
+
+16
+00:01:04,135 --> 00:01:09,530
+If the lines cross at a messy point, like
+one third comma five sevenths, it's hard
+
+17
+00:01:09,530 --> 00:01:12,754
+to read. The next two lessons give exact
+methods.
+
+18
+00:01:13,900 --> 00:01:20,162
+Your turn. Solve by graphing: y equals two
+x minus one, and y equals negative x plus
+
+19
+00:01:20,162 --> 00:01:20,535
+five.
+
+20
+00:01:20,985 --> 00:01:22,435
+Pause the video and try it.
+
+21
+00:01:22,885 --> 00:01:28,188
+The lines cross at two comma three. Check:
+two times two minus one is three, and
+
+22
+00:01:28,188 --> 00:01:30,309
+negative two plus five is three.
+
+23
+00:01:31,433 --> 00:01:35,657
+Let's solve a system of two lines by
+graphing and checking the intersection.
+
+24
+00:01:37,100 --> 00:01:42,924
+Solve this system by graphing: y equals
+two x minus three, and x plus y equals
+
+25
+00:01:42,924 --> 00:01:43,372
+three.
+
+26
+00:01:44,500 --> 00:01:49,449
+The first line is already in slope
+intercept form. Start at negative three
+
+27
+00:01:49,449 --> 00:01:50,921
+and rise two, run one.
+
+28
+00:01:52,066 --> 00:01:57,314
+Rewrite the second line by subtracting x.
+y equals negative x plus three.
+
+29
+00:01:58,433 --> 00:02:01,057
+Start at three, then go down one and right
+one.
+
+30
+00:02:02,200 --> 00:02:03,821
+The lines cross at two, one.
+
+31
+00:02:04,966 --> 00:02:10,052
+Check in both equations. One equals four
+minus three, and two plus one equals
+
+32
+00:02:10,052 --> 00:02:11,174
+three. Both work.
+
+33
+00:02:12,300 --> 00:02:15,585
+The solution is two, one, the point where
+the lines intersect.
+
+34
+00:02:16,733 --> 00:02:21,281
+Watch out. Put both lines in slope
+intercept form before graphing. Always
+
+35
+00:02:21,281 --> 00:02:26,204
+check the point in both equations. And
+remember graphing only gives an estimate
+
+36
+00:02:26,204 --> 00:02:28,509
+when the answer isn't a whole number.
+
+37
+00:02:29,633 --> 00:02:35,702
+Your turn. Solve by graphing: y equals x
+plus one, and y equals negative two x plus
+
+38
+00:02:35,702 --> 00:02:38,188
+seven. Pause the video and try it.
+
+39
+00:02:42,733 --> 00:02:47,837
+The lines meet at two, three. Check: two
+plus one is three, and negative four plus
+
+40
+00:02:47,837 --> 00:02:48,770
+seven is three.
+
+41
+00:02:49,900 --> 00:02:55,383
+Substitution solves a system exactly, by
+replacing one variable with an expression.
+
+42
+00:02:56,500 --> 00:03:01,366
+Step one: solve one equation for one
+variable. Step two: substitute that
+
+43
+00:03:01,366 --> 00:03:03,732
+expression into the other equation.
+
+44
+00:03:04,182 --> 00:03:07,830
+Step three: solve, then plug back in to
+find the other variable.
+
+45
+00:03:08,967 --> 00:03:12,636
+Solve y equals two x, and x plus y equals
+nine.
+
+46
+00:03:13,086 --> 00:03:19,292
+y is already alone, so replace y with two
+x in the second equation. x plus two x
+
+47
+00:03:19,292 --> 00:03:23,326
+equals nine. Three x equals nine, so x
+equals three.
+
+48
+00:03:24,467 --> 00:03:27,731
+Plug back in: y equals two times three,
+which is six.
+
+49
+00:03:28,181 --> 00:03:29,973
+The solution is three comma six.
+
+50
+00:03:31,100 --> 00:03:36,305
+Next: x minus two y equals one, and three
+x plus y equals seventeen.
+
+51
+00:03:36,755 --> 00:03:40,787
+Solve the first equation for x: x equals
+two y plus one.
+
+52
+00:03:41,237 --> 00:03:47,689
+Substitute: three times the quantity two y
+plus one, plus y, equals seventeen. Seven
+
+53
+00:03:47,689 --> 00:03:52,757
+y plus three equals seventeen, so y equals
+two, and x equals five.
+
+54
+00:03:52,900 --> 00:03:59,169
+Here's a tip. Solve for whichever variable
+has a coefficient of one or negative one.
+
+55
+00:03:59,619 --> 00:04:01,262
+That way, you avoid fractions.
+
+56
+00:04:02,400 --> 00:04:07,733
+Your turn. Solve y equals x minus four,
+and two x plus y equals eleven.
+
+57
+00:04:08,183 --> 00:04:09,634
+Pause the video and try it.
+
+58
+00:04:10,084 --> 00:04:16,555
+Substitute: two x plus x minus four equals
+eleven, so three x equals fifteen and x
+
+59
+00:04:16,555 --> 00:04:19,001
+equals five. Then y equals one.
+
+60
+00:04:20,133 --> 00:04:23,845
+Here's a worked example of solving a
+system by substitution.
+
+61
+00:04:25,266 --> 00:04:31,496
+Solve by substitution: three x plus two y
+equals sixteen, and x minus y equals two.
+
+62
+00:04:32,633 --> 00:04:38,137
+Pick the easier equation. From x minus y
+equals two, x equals y plus two.
+
+63
+00:04:39,266 --> 00:04:42,466
+Substitute y plus two for x in the other
+equation.
+
+64
+00:04:43,600 --> 00:04:44,837
+Distribute the three.
+
+65
+00:04:45,966 --> 00:04:52,132
+Combine like terms: five y plus six equals
+sixteen, so five y is ten and y is two.
+
+66
+00:04:53,266 --> 00:04:56,680
+Back substitute: x equals two plus two,
+which is four.
+
+67
+00:04:57,800 --> 00:04:59,293
+The solution is four, two.
+
+68
+00:05:00,600 --> 00:05:05,426
+Watch out. Isolate a variable whose
+coefficient is one or negative one to
+
+69
+00:05:05,426 --> 00:05:10,584
+avoid fractions. Use parentheses when you
+substitute. And don't stop after one
+
+70
+00:05:10,584 --> 00:05:11,906
+variable; find both.
+
+71
+00:05:13,033 --> 00:05:18,979
+Your turn. Solve: y equals three x minus
+one, and two x plus y equals nine. Pause
+
+72
+00:05:18,979 --> 00:05:20,521
+the video and try it.
+
+73
+00:05:25,066 --> 00:05:31,179
+Substitute: two x plus three x minus one
+equals nine, so five x is ten and x is
+
+74
+00:05:31,179 --> 00:05:34,816
+two. Then y is five. The solution is two,
+five.
+
+75
+00:05:35,933 --> 00:05:41,239
+Elimination solves a system by adding the
+equations, so that one variable cancels
+
+76
+00:05:41,239 --> 00:05:41,501
+out.
+
+77
+00:05:42,633 --> 00:05:46,772
+Solve x plus y equals ten, and x minus y
+equals two.
+
+78
+00:05:47,222 --> 00:05:52,662
+Add the equations. The y terms cancel: two
+x equals twelve, so x equals six.
+
+79
+00:05:53,112 --> 00:05:56,546
+Then six plus y equals ten, so y equals
+four.
+
+80
+00:05:57,666 --> 00:06:03,694
+Sometimes you need to multiply first. Take
+two x plus three y equals twelve, and x
+
+81
+00:06:03,694 --> 00:06:05,090
+plus y equals five.
+
+82
+00:06:05,540 --> 00:06:11,622
+Multiply the second equation by negative
+two: negative two x minus two y equals
+
+83
+00:06:11,622 --> 00:06:12,623
+negative ten.
+
+84
+00:06:13,766 --> 00:06:17,713
+Now add the equations. The x terms cancel,
+and y equals two.
+
+85
+00:06:18,163 --> 00:06:21,192
+Then x plus two equals five, so x equals
+three.
+
+86
+00:06:22,333 --> 00:06:28,194
+Sometimes you multiply both equations.
+Take three x plus two y equals sixteen,
+
+87
+00:06:28,194 --> 00:06:30,824
+and two x minus three y equals two.
+
+88
+00:06:31,274 --> 00:06:37,274
+Multiply the first by three and the second
+by two. Now the y terms are six y and
+
+89
+00:06:37,274 --> 00:06:38,399
+negative six y.
+
+90
+00:06:38,849 --> 00:06:44,460
+Adding gives thirteen x equals fifty-two,
+so x equals four. Then y equals two.
+
+91
+00:06:45,600 --> 00:06:47,008
+Which method should you use?
+
+92
+00:06:47,458 --> 00:06:53,302
+Substitution is easiest when a variable is
+already alone. Elimination is easiest when
+
+93
+00:06:53,302 --> 00:06:55,778
+both equations are in standard form.
+
+94
+00:06:56,900 --> 00:07:02,340
+Your turn. Solve three x plus y equals
+eleven, and x minus y equals one.
+
+95
+00:07:02,790 --> 00:07:04,240
+Pause the video and try it.
+
+96
+00:07:04,690 --> 00:07:09,469
+Add them: four x equals twelve, so x
+equals three. Then y equals two.
+
+97
+00:07:10,600 --> 00:07:14,653
+Let's solve a system by elimination when
+we need to multiply first.
+
+98
+00:07:16,100 --> 00:07:21,906
+Solve by elimination: two x plus three y
+equals twelve, and five x minus two y
+
+99
+00:07:21,906 --> 00:07:22,948
+equals eleven.
+
+100
+00:07:24,067 --> 00:07:29,696
+To eliminate y, make the coefficients six
+and negative six. Multiply the first
+
+101
+00:07:29,696 --> 00:07:30,851
+equation by two.
+
+102
+00:07:32,000 --> 00:07:34,240
+Multiply the second equation by three.
+
+103
+00:07:35,367 --> 00:07:40,593
+Add the equations. The y terms cancel,
+leaving nineteen x equals fifty seven.
+
+104
+00:07:41,733 --> 00:07:44,080
+Divide by nineteen: x equals three.
+
+105
+00:07:45,200 --> 00:07:50,998
+Back substitute into the first original
+equation: six plus three y is twelve, so y
+
+106
+00:07:50,998 --> 00:07:51,493
+is two.
+
+107
+00:07:52,633 --> 00:07:54,127
+The solution is three, two.
+
+108
+00:07:55,267 --> 00:07:59,909
+Watch out. When you multiply an equation,
+multiply every term, including the
+
+109
+00:07:59,909 --> 00:08:04,979
+constant. If coefficients are opposites,
+add; if they're equal, subtract. And check
+
+110
+00:08:04,979 --> 00:08:08,216
+in the equation you didn't use for back
+substitution.
+
+111
+00:08:09,333 --> 00:08:14,683
+Your turn. Solve: three x plus four y
+equals ten, and two x minus y equals
+
+112
+00:08:14,683 --> 00:08:17,141
+three. Pause the video and try it.
+
+113
+00:08:21,667 --> 00:08:28,340
+Multiply the second by four: eight x minus
+four y equals twelve. Add: eleven x equals
+
+114
+00:08:28,340 --> 00:08:31,245
+twenty two, so x is two and y is one.
+
+115
+00:08:32,366 --> 00:08:38,052
+Most systems have exactly one solution. In
+this lesson, we'll meet the special cases:
+
+116
+00:08:38,052 --> 00:08:40,259
+no solution, and infinitely many.
+
+117
+00:08:41,399 --> 00:08:44,727
+When the lines have different slopes, they
+cross exactly once.
+
+118
+00:08:45,177 --> 00:08:46,415
+That's one solution.
+
+119
+00:08:47,533 --> 00:08:52,136
+When the lines are parallel, with the same
+slope but different y intercepts, they
+
+120
+00:08:52,136 --> 00:08:53,954
+never meet. There's no solution.
+
+121
+00:08:54,404 --> 00:09:00,282
+Algebraically, you get a false statement.
+Substitute y equals two x plus one into y
+
+122
+00:09:00,282 --> 00:09:04,815
+equals two x minus three, and you get one
+equals negative three.
+
+123
+00:09:05,933 --> 00:09:10,654
+When both equations describe the same
+line, every point on it is a solution.
+
+124
+00:09:10,654 --> 00:09:12,269
+There are infinitely many.
+
+125
+00:09:12,719 --> 00:09:18,503
+Algebraically, you get a true statement.
+For x plus y equals three and two x plus
+
+126
+00:09:18,503 --> 00:09:24,287
+two y equals six, multiply the first by
+negative two and add. You get zero equals
+
+127
+00:09:24,287 --> 00:09:24,644
+zero.
+
+128
+00:09:25,766 --> 00:09:31,155
+To classify a system without solving,
+write both equations in slope-intercept
+
+129
+00:09:31,155 --> 00:09:31,505
+form.
+
+130
+00:09:31,955 --> 00:09:36,880
+Different slopes: one solution. Same
+slope, different intercepts: no solution.
+
+131
+00:09:36,880 --> 00:09:39,848
+Same slope and same intercept: infinitely
+many.
+
+132
+00:09:40,966 --> 00:09:46,918
+Classify y equals negative three x plus
+four, and six x plus two y equals eight.
+
+133
+00:09:47,368 --> 00:09:52,873
+Solve the second for y: y equals negative
+three x plus four. It's the same line, so
+
+134
+00:09:52,873 --> 00:09:55,261
+there are infinitely many solutions.
+
+135
+00:09:56,399 --> 00:10:02,215
+Your turn. How many solutions does this
+system have? y equals one half x plus two,
+
+136
+00:10:02,215 --> 00:10:04,271
+and x minus two y equals six.
+
+137
+00:10:04,721 --> 00:10:06,172
+Pause the video and try it.
+
+138
+00:10:06,622 --> 00:10:12,049
+The second equation becomes y equals one
+half x minus three. Same slope, different
+
+139
+00:10:12,049 --> 00:10:13,366
+intercepts, so there's no solution.
+
+140
+00:10:15,500 --> 00:10:20,449
+Let's identify special systems, ones with
+no solution or infinitely many.
+
+141
+00:10:21,867 --> 00:10:28,125
+How many solutions does each system have?
+System a: six x minus three y equals nine,
+
+142
+00:10:28,125 --> 00:10:33,936
+and y equals two x minus three. System b:
+four x plus two y equals five, and y
+
+143
+00:10:33,936 --> 00:10:36,245
+equals negative two x plus one.
+
+144
+00:10:37,367 --> 00:10:40,887
+For system a, substitute two x minus three
+for y.
+
+145
+00:10:42,033 --> 00:10:46,428
+The x terms cancel and we get nine equals
+nine, which is always true.
+
+146
+00:10:47,567 --> 00:10:52,452
+Always true means the equations are the
+same line. Infinitely many solutions.
+
+147
+00:10:53,600 --> 00:10:56,992
+For system b, substitute negative two x
+plus one.
+
+148
+00:10:58,133 --> 00:11:02,613
+The x terms cancel again, but now two
+equals five, which is never true.
+
+149
+00:11:03,733 --> 00:11:06,933
+Never true means the lines are parallel.
+No solution.
+
+150
+00:11:08,067 --> 00:11:12,717
+System a has infinitely many solutions,
+and system b has no solution.
+
+151
+00:11:13,867 --> 00:11:18,590
+Watch out. If the variables disappear and
+you get a true statement, there are
+
+152
+00:11:18,590 --> 00:11:22,762
+infinitely many solutions. A false
+statement means no solution. As a
+
+153
+00:11:22,762 --> 00:11:25,216
+shortcut, compare slopes and intercepts.
+
+154
+00:11:26,333 --> 00:11:32,275
+Your turn. How many solutions: y equals
+three x plus two, and nine x minus three y
+
+155
+00:11:32,275 --> 00:11:35,101
+equals six? Pause the video and try it.
+
+156
+00:11:39,633 --> 00:11:45,133
+The second becomes y equals three x minus
+two. Same slope, different intercepts, so
+
+157
+00:11:45,133 --> 00:11:46,524
+there is no solution.
+
+158
+00:11:47,666 --> 00:11:53,074
+Systems are perfect for word problems with
+two unknowns. In this lesson, we'll set up
+
+159
+00:11:53,074 --> 00:11:54,855
+and solve two classic types.
+
+160
+00:11:55,999 --> 00:12:01,301
+Use the same plan as before: define two
+variables, write two equations, solve, and
+
+161
+00:12:01,301 --> 00:12:02,335
+answer in words.
+
+162
+00:12:03,466 --> 00:12:08,802
+A theater sold one hundred tickets. Adult
+tickets cost eight dollars, child tickets
+
+163
+00:12:08,802 --> 00:12:12,917
+cost five dollars, and sales totaled six
+hundred eighty dollars.
+
+164
+00:12:13,367 --> 00:12:17,228
+Let a be the number of adult tickets, and
+c the number of child tickets.
+
+165
+00:12:17,678 --> 00:12:22,444
+Then a plus c equals one hundred, and
+eight a plus five c equals six hundred
+
+166
+00:12:22,444 --> 00:12:22,883
+eighty.
+
+167
+00:12:24,033 --> 00:12:28,406
+Substitute a equals one hundred minus c
+into the second equation.
+
+168
+00:12:28,856 --> 00:12:34,237
+Eight hundred minus eight c plus five c
+equals six hundred eighty, so negative
+
+169
+00:12:34,237 --> 00:12:38,584
+three c equals negative one hundred
+twenty, and c equals forty.
+
+170
+00:12:39,034 --> 00:12:43,879
+Then a equals sixty. So the theater sold
+sixty adult tickets and forty child
+
+171
+00:12:43,879 --> 00:12:44,389
+tickets.
+
+172
+00:12:45,533 --> 00:12:49,330
+Another classic: two numbers add to
+thirty, and their difference is eight.
+
+173
+00:12:49,780 --> 00:12:55,373
+x plus y equals thirty, and x minus y
+equals eight. Add them: two x equals
+
+174
+00:12:55,373 --> 00:12:59,529
+thirty-eight, so x equals nineteen and y
+equals eleven.
+
+175
+00:12:59,666 --> 00:13:02,885
+Always check your answer against the
+story.
+
+176
+00:13:03,335 --> 00:13:08,554
+Sixty plus forty is one hundred tickets,
+and sixty times eight plus forty times
+
+177
+00:13:08,554 --> 00:13:11,527
+five is six hundred eighty dollars. It
+works.
+
+178
+00:13:11,666 --> 00:13:17,819
+Your turn. A farm has chickens and cows,
+with twenty heads and fifty-six legs in
+
+179
+00:13:17,819 --> 00:13:19,365
+total. How many of each?
+
+180
+00:13:19,815 --> 00:13:21,265
+Pause the video and try it.
+
+181
+00:13:21,715 --> 00:13:27,549
+Chickens plus cows equals twenty, and two
+times chickens plus four times cows equals
+
+182
+00:13:27,549 --> 00:13:31,230
+fifty-six. That gives twelve chickens and
+eight cows.
+
+183
+00:13:32,366 --> 00:13:36,611
+Here's a worked example of a classic word
+problem solved with a system.
+
+184
+00:13:38,033 --> 00:13:43,292
+A café sells coffee for three dollars and
+tea for two. One morning it sold seventy
+
+185
+00:13:43,292 --> 00:13:47,846
+drinks and made one hundred eighty
+dollars. How many of each were sold?
+
+186
+00:13:48,966 --> 00:13:53,147
+Define variables. c is the number of
+coffees and t the number of teas.
+
+187
+00:13:54,266 --> 00:13:57,103
+The count equation: c plus t equals
+seventy.
+
+188
+00:13:58,233 --> 00:14:01,881
+The money equation: three c plus two t
+equals one eighty.
+
+189
+00:14:02,999 --> 00:14:05,687
+Multiply the count equation by negative
+two.
+
+190
+00:14:06,833 --> 00:14:09,627
+Add it to the money equation: c equals
+forty.
+
+191
+00:14:10,766 --> 00:14:13,667
+Then t is seventy minus forty, which is
+thirty.
+
+192
+00:14:14,799 --> 00:14:17,402
+The café sold forty coffees and thirty
+teas.
+
+193
+00:14:18,533 --> 00:14:23,598
+Watch out. Mixture problems usually need
+one equation for the count and one for the
+
+194
+00:14:23,598 --> 00:14:28,175
+value. Say what each variable means. And
+answer the question in a sentence.
+
+195
+00:14:29,299 --> 00:14:33,702
+Your turn. A test has twenty five
+questions worth either three or five
+
+196
+00:14:33,702 --> 00:14:38,985
+points, for ninety five points in all. How
+many of each? Pause the video and try it.
+
+197
+00:14:43,533 --> 00:14:49,331
+x plus y equals twenty five, and three x
+plus five y equals ninety five. That gives
+
+198
+00:14:49,331 --> 00:14:53,453
+fifteen three point questions and ten five
+point questions.
+
+199
+00:14:54,600 --> 00:14:59,529
+In this last lesson of Unit Six, we'll
+graph systems of inequalities, where the
+
+200
+00:14:59,529 --> 00:15:01,213
+solution is a whole region.
+
+201
+00:15:02,333 --> 00:15:06,067
+First, graph one inequality: y is greater
+than x plus one.
+
+202
+00:15:06,517 --> 00:15:11,558
+Draw the line y equals x plus one, dashed,
+because points on the line aren't
+
+203
+00:15:11,558 --> 00:15:15,007
+included. Then shade above it, because y
+is greater.
+
+204
+00:15:16,133 --> 00:15:21,751
+For less than or equal to, or greater than
+or equal to, use a solid line, because the
+
+205
+00:15:21,751 --> 00:15:22,875
+line is included.
+
+206
+00:15:23,325 --> 00:15:28,679
+y is less than or equal to negative x plus
+three: solid line, shade below.
+
+207
+00:15:29,800 --> 00:15:33,000
+The solution of the system is where the
+shadings overlap.
+
+208
+00:15:33,450 --> 00:15:36,565
+Every point in this region works in both
+inequalities.
+
+209
+00:15:37,700 --> 00:15:42,526
+To check which side to shade, test a point
+that isn't on the line, like zero comma
+
+210
+00:15:42,526 --> 00:15:42,820
+zero.
+
+211
+00:15:43,270 --> 00:15:48,603
+Is zero greater than zero plus one? No. So
+shade the side without the origin.
+
+212
+00:15:49,733 --> 00:15:51,973
+Systems of inequalities model limits.
+
+213
+00:15:52,423 --> 00:15:56,989
+If you can spend at most twenty dollars,
+and you need at least five items, the
+
+214
+00:15:56,989 --> 00:15:59,506
+overlap shows every combination that
+works.
+
+215
+00:16:00,633 --> 00:16:06,468
+Your turn. Is the point one comma three a
+solution of y greater than x plus one, and
+
+216
+00:16:06,468 --> 00:16:09,593
+y less than or equal to negative x plus
+five?
+
+217
+00:16:10,043 --> 00:16:11,494
+Pause the video and try it.
+
+218
+00:16:11,944 --> 00:16:17,141
+Three is greater than two: yes. Three is
+at most four: yes. So one comma three is a
+
+219
+00:16:17,141 --> 00:16:17,704
+solution.
+
+220
+00:16:18,833 --> 00:16:23,292
+Let's graph a system of inequalities and
+test points in the solution region.
+
+221
+00:16:24,733 --> 00:16:30,201
+Graph the system y is at least x minus
+two, and y is less than negative one half
+
+222
+00:16:30,201 --> 00:16:35,122
+x plus three. Then decide whether one, one
+and four, zero are solutions.
+
+223
+00:16:36,266 --> 00:16:41,453
+The first boundary is y equals x minus
+two. It's greater than or equal, so the
+
+224
+00:16:41,453 --> 00:16:43,648
+line is solid and we shade above.
+
+225
+00:16:44,766 --> 00:16:50,341
+The second boundary is y equals negative
+one half x plus three. Strictly less than,
+
+226
+00:16:50,341 --> 00:16:52,020
+so dashed, shading below.
+
+227
+00:16:53,166 --> 00:16:58,331
+Test one, one. One is at least negative
+one, and one is less than two point five.
+
+228
+00:16:58,331 --> 00:16:58,969
+Both true.
+
+229
+00:17:00,100 --> 00:17:02,852
+Test four, zero. Zero is at least two?
+False.
+
+230
+00:17:04,000 --> 00:17:09,423
+One, one is in the overlapping region, so
+it's a solution. Four, zero fails the
+
+231
+00:17:09,423 --> 00:17:11,552
+first inequality, so it is not.
+
+232
+00:17:12,700 --> 00:17:17,847
+Watch out. Less than or equal and greater
+than or equal get solid lines; strict
+
+233
+00:17:17,847 --> 00:17:22,344
+inequalities get dashed lines. The
+solution is only where the shading
+
+234
+00:17:22,344 --> 00:17:25,862
+overlaps. And a point has to satisfy every
+inequality.
+
+235
+00:17:27,000 --> 00:17:32,344
+Your turn. Is two, three a solution of y
+greater than two x minus two, and y at
+
+236
+00:17:32,344 --> 00:17:34,914
+most four? Pause the video and try it.
+
+237
+00:17:39,433 --> 00:17:43,913
+Three is greater than two, and three is at
+most four. Both are true, so yes.
+
+238
+00:17:45,033 --> 00:17:49,623
+Let's finish Unit Six with a bake sale
+that uses equations and inequalities
+
+239
+00:17:49,623 --> 00:17:50,174
+together.
+
+240
+00:17:51,600 --> 00:17:56,117
+At a bake sale, cookies sell for one
+dollar and brownies for two. Each cookie
+
+241
+00:17:56,117 --> 00:18:00,752
+costs twenty five cents to make and each
+brownie seventy five cents. The supply
+
+242
+00:18:00,752 --> 00:18:05,269
+budget is thirty dollars. The goal is to
+sell exactly sixty items for exactly
+
+243
+00:18:05,269 --> 00:18:08,965
+eighty five dollars. How many of each, and
+is it within budget?
+
+244
+00:18:10,100 --> 00:18:12,254
+The count: c plus b equals sixty.
+
+245
+00:18:13,400 --> 00:18:16,514
+The sales: one c plus two b equals eighty
+five.
+
+246
+00:18:17,633 --> 00:18:21,793
+Subtract the first equation from the
+second. b equals twenty five.
+
+247
+00:18:22,933 --> 00:18:26,389
+Then c is sixty minus twenty five, which
+is thirty five.
+
+248
+00:18:27,533 --> 00:18:32,863
+Now the cost: twenty five cents times
+thirty five, plus seventy five cents times
+
+249
+00:18:32,863 --> 00:18:37,261
+twenty five. That's eight seventy five
+plus eighteen seventy five.
+
+250
+00:18:38,400 --> 00:18:42,730
+That's twenty seven fifty, which is at
+most thirty dollars. Within budget.
+
+251
+00:18:43,866 --> 00:18:48,530
+They should make thirty five cookies and
+twenty five brownies. It costs twenty
+
+252
+00:18:48,530 --> 00:18:53,253
+seven fifty, under the thirty dollar
+budget, for a profit of fifty seven fifty.
+
+253
+00:18:54,400 --> 00:18:59,936
+Watch out. Use equations for exact goals
+and inequalities for limits like a budget.
+
+254
+00:18:59,936 --> 00:19:05,271
+Solve the system first, then test the
+constraint. And remember profit is revenue
+
+255
+00:19:05,271 --> 00:19:06,005
+minus cost.
+
+256
+00:19:07,133 --> 00:19:11,872
+Your turn. Same prices, but sell fifty
+items for eighty dollars. How many of
+
+257
+00:19:11,872 --> 00:19:15,240
+each, and what's the cost? Pause the video
+and try it.
+
+258
+00:19:19,766 --> 00:19:25,529
+Subtracting gives b equals thirty, so c is
+twenty. The cost is five plus twenty two
+
+259
+00:19:25,529 --> 00:19:27,958
+fifty, which is twenty seven fifty.
+
+260
+00:19:29,100 --> 00:19:34,307
+That completes this unit. Next up: Algebra
+I, Unit 7: Exponents and Exponential
+
+261
+00:19:34,307 --> 00:19:39,251
+Functions. If this helped, subscribe to
+School STEM, Explained, and turn on
+
+262
+00:19:39,251 --> 00:19:41,558
+notifications so you don't miss it.
+
